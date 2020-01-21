@@ -23,9 +23,13 @@
   margin: 10px 0;
 }
 
+.toggle-button {
+  margin-top: 20px;
+}
 
 @media (min-width: 1200px) {
   .toggle-button {
+    margin-top: 0;
     position: absolute;
     right: 0;
     top: 4px;

@@ -20,7 +20,8 @@ npm start
 ě
 
 sadrzaj:
-- proveriti svuda gramatiku sa http://steen.free.fr/interslavic/spell_checker.html
+- proveriti gramatiku
+- proveriti najduže (kratiti, podeliti)
 - negde zameniti podvižnik sa asketa, duhovni borac?
 - ini u iny
 - proveriti najduže

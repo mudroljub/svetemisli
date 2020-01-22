@@ -20,9 +20,9 @@ npm start
 ě
 
 sadrzaj:
-- kratiti preduge razlike
 - proveriti svuda gramatiku sa http://steen.free.fr/interslavic/spell_checker.html
 - negde zameniti podvižnik sa asketa, duhovni borac?
+- ini u iny
 - proveriti najduže
 - proveriti bez izvora
 - uraditi masovno tagovanje, kao na znacima

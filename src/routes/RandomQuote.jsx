@@ -1,26 +1,17 @@
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import {useSelector} from 'react-redux'
 
 import ImageQuote from './../components/main/ImageQuote'
 import {useTranslate} from '../store/actions'
-import {API} from '../config/api'
 import {smoothscroll} from '../utils/helpers'
 
 const getRandom = filteredQuotes =>
   filteredQuotes[Math.floor(Math.random() * filteredQuotes.length)]
 
 const RandomQuote = () => {
-  const {filteredQuotes, lang} = useSelector(state => state)
+  const {filteredQuotes} = useSelector(state => state)
   const translate = useTranslate()
   const [quote, setQuote] = useState(getRandom(filteredQuotes))
-
-  useEffect(() => {
-    if (quote) return
-    fetch(`${API.randomLang}${lang}`)
-      .then(res => res.json())
-      .then(quote => setQuote(quote))
-      .catch(() => setQuote(getRandom(filteredQuotes)))
-  }, [filteredQuotes, lang, quote])
 
   const setRandom = () => {
     setQuote(getRandom(filteredQuotes))

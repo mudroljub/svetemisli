@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import {useDispatch} from 'react-redux'
+import {useDispatch, useSelector} from 'react-redux'
 
 import {LS} from '../config/localstorage'
 import {fetchQuotes, checkUser, checkCountry} from '../store/actions'
@@ -10,17 +10,18 @@ import Footer from './header/Footer'
 import './App.css'
 
 const App = () => {
+  const {devMode} = useSelector(state => state)
   const dispatch = useDispatch()
 
   useEffect(() => {
-    dispatch(fetchQuotes())
+    if (devMode) dispatch(fetchQuotes())
     if (!localStorage.getItem(LS.lang) && !localStorage.getItem(LS.script))
       dispatch(checkCountry())
     dispatch(checkUser())
 
     if ('serviceWorker' in navigator)
       navigator.serviceWorker.register('service-worker.js')
-  }, [dispatch])
+  }, [devMode, dispatch])
 
   return (
     <div className="App">

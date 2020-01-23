@@ -1,6 +1,5 @@
 import { useSelector } from 'react-redux'
 
-import quotes from '../data/quotes.json'
 import translations from '../data/translations'
 import {getName} from '../utils/helpers'
 import transliterate from '../utils/transliterate'
@@ -10,6 +9,7 @@ import {API, domain} from '../config/api'
 const fetchQuotesRequest = () => ({type: 'FETCH_QUOTES_REQUEST'})
 
 const fetchQuotesSuccess = quotes => ({type: 'FETCH_QUOTES_SUCCESS', quotes})
+const fetchQuotesFailure = () => ({type: 'FETCH_QUOTES_FAILURE'})
 
 export const init = () => ({type: 'INIT'})
 
@@ -67,10 +67,7 @@ export const logout = () => dispatch => {
   localStorage.setItem(LS.token, '')
 }
 
-export const fetchQuotes = () => async(dispatch, getState) => {
-  dispatch(fetchQuotesSuccess(quotes))
-  dispatch(init())
-  if (!getState().devMode) return
+export const fetchQuotes = () => async dispatch => {
   dispatch(fetchQuotesRequest(API.read))
   try {
     const response = await fetch(API.read)
@@ -78,6 +75,7 @@ export const fetchQuotes = () => async(dispatch, getState) => {
     dispatch(fetchQuotesSuccess(quotes))
     dispatch(init())
   } catch (error) {
+    dispatch(fetchQuotesFailure())
     console.log('nema interneta, prikazuje backup')
   }
 }

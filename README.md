@@ -19,6 +19,8 @@ npm start
 
 ě
 
+- mozda statican header izvan root-a, ukljuciti i linkove ako je moguce?
+
 sadrzaj:
 - proveriti gramatiku
 - proveriti najduže (kratiti, podeliti)

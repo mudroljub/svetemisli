@@ -1,17 +1,28 @@
+import quotes from '../data/quotes.json'
 import {LS} from '../config/localstorage'
 import {includes, getName, compare, isLang} from '../utils/helpers'
 
+const defaultLang = localStorage.getItem(LS.lang) || 'ms'
+const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))
+
+const allAuthors = new Set()
+quotes.forEach(q => allAuthors.add(q.author))
+
+const filteredQuotes = quotes.filter(q => isLang(q, defaultLang))
+const filteredAuthors = new Set()
+filteredQuotes.forEach(q => filteredAuthors.add(q.author))
+
 const initialState = {
-  allQuotes: [],
-  filteredQuotes: [],
-  allAuthors: new Set(),
-  filteredAuthors: [], // shown in sidebar
+  allQuotes: quotes.sort(() => 0.5 - Math.random()),
+  filteredQuotes,
+  allAuthors: new Set([...allAuthors].sort(sortAbc)),
+  filteredAuthors: [...filteredAuthors].sort(sortAbc), // shown in sidebar
   selectedAuthors: new Set(), // selected from sidebar
   admin: false,
   phrase: '',
   authorPhrase: '',
   isFetching: false,
-  lang: localStorage.getItem(LS.lang) || 'ms',
+  lang: defaultLang,
   script: localStorage.getItem(LS.script) || 'kir',
   token: localStorage.getItem(LS.token),
   devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
@@ -40,6 +51,11 @@ export const reducer = (state = initialState, action) => {
         allAuthors: new Set([...allAuthors].sort(sortAbc)),
       }
     }
+    case 'FETCH_QUOTES_FAILURE':
+      return {
+        ...state,
+        isFetching: false,
+      }
     case 'INIT': {
       const filteredQuotes = allQuotes.filter(filterQ)
       const filteredAuthors = new Set()

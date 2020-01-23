@@ -67,7 +67,10 @@ export const logout = () => dispatch => {
   localStorage.setItem(LS.token, '')
 }
 
-export const fetchQuotes = () => async dispatch => {
+export const fetchQuotes = () => async(dispatch, getState) => {
+  dispatch(fetchQuotesSuccess(quotes))
+  dispatch(init())
+  if (!getState().devMode) return
   dispatch(fetchQuotesRequest(API.read))
   try {
     const response = await fetch(API.read)
@@ -75,9 +78,7 @@ export const fetchQuotes = () => async dispatch => {
     dispatch(fetchQuotesSuccess(quotes))
     dispatch(init())
   } catch (error) {
-    console.log('nema interneta, ucitavam backup')
-    dispatch(fetchQuotesSuccess(quotes))
-    dispatch(init())
+    console.log('nema interneta, prikazuje backup')
   }
 }
 

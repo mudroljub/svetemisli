@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom'
 import {API} from '../config/api'
 import ImageQuote from './../components/main/ImageQuote'
 import {useTranslate} from '../store/actions'
-import preloader from '../assets/images/preloader.gif'
+import preloader from '../assets/images/preloader.svg'
 import './ShowQuote.css'
 
 const ShowQuote = ({match}) => {

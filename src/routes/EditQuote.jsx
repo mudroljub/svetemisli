@@ -3,7 +3,7 @@ import {useSelector} from 'react-redux'
 
 import {useTranslate} from '../store/actions'
 import EditForm from '../components/main/EditForm'
-import preloader from '../assets/images/preloader.gif'
+import preloader from '../assets/images/preloader.svg'
 import {API} from '../config/api'
 
 const EditQuote = ({ match }) => {

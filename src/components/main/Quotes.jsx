@@ -3,7 +3,7 @@ import {useSelector} from 'react-redux'
 
 import Quote from './Quote'
 import Pagionation from './Pagination'
-import preloader from '../../assets/images/preloader.gif'
+import preloader from '../../assets/images/preloader.svg'
 import {useTranslate, useTransliterate} from '../../store/actions'
 import {smoothscroll} from '../../utils/helpers'
 

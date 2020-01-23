@@ -3,25 +3,32 @@
   <head>
     <meta charset="utf-8">
     <title>Svete mysli</title>
-    <meta name="description" content="Svete misli, zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.">
+    <meta name="description" content="Svete mysli, sbirka duhovnyh citatov na medžuslovjanskom. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.">
     <meta name="keywords" content="duhovni citati, citaty, mudre izreke, izrěčenja, mudrost, medžuslovjansky" />
     <meta name="viewport" content="width=device-width">
     <meta property="og:image" content="%PUBLIC_URL%/icon-512x512.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <link rel="stylesheet" href="%PUBLIC_URL%/style.css">
     <style>
       @font-face {
         font-family: 'BukyVede';
-        src: local('BukyVede'), url('Bukyvede-updated.ttf');
+        src: local('BukyVede'), url('%PUBLIC_URL%/Bukyvede-updated.ttf');
         font-display: swap;
       }
     </style>
   </head>
   <body>
+    <div id="root">
+      <h1>Svete mysli</h1>
+      <h3>Sbirka duhovnyh citatov na medžuslovjanskom. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.</h3>
+      <img src="%PUBLIC_URL%/favicon.ico" alt="logo">
+      <h1>Svete misli</h1>
+      <h3>Zbirka duhovnih citata na međuslovenskom. Izreke osnivača velikih religija, mudraca i svetaca.</h3>
+    </div>
+
     <noscript>
       JavaScript jest potrěbny da počne ova aplikacija.
     </noscript>
-    <div id="root"></div>
-
   </body>
 </html>

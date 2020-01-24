@@ -24,7 +24,7 @@ npm start
 sadrzaj:
 - proveriti gramatiku
 - proveriti najduže (kratiti, podeliti)
-- negde zameniti podvižnik sa asketa, duhovni borac?
+- negde izbaciti, negde zameniti podvižnik sa asketa, duhovni borac?
 - ini u iny
 - proveriti najduže
 - proveriti bez izvora

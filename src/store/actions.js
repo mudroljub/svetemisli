@@ -76,7 +76,6 @@ export const fetchQuotes = () => async dispatch => {
     dispatch(init())
   } catch (error) {
     dispatch(fetchQuotesFailure())
-    console.log('nema interneta, prikazuje backup')
   }
 }
 

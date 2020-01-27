@@ -101,11 +101,11 @@ export const checkCountry = () => async dispatch => {
   const data = await res.json()
   if (data.geoplugin_countryName) setCountryLang(data.geoplugin_countryName)
 
-  if (!data.geoplugin_countryName) {
-    const res2 = await fetch('http://www.geoplugin.net/json.gp') // insecure, 120 requests per minute
-    const data2 = await res2.json()
-    if (data2.country_name) setCountryLang(data2.country_name)
-  }
+  // if (!data.geoplugin_countryName) {
+  //   const res2 = await fetch('http://www.geoplugin.net/json.gp') // insecure, 120 requests per minute
+  //   const data2 = await res2.json()
+  //   if (data2.country_name) setCountryLang(data2.country_name)
+  // }
 }
 
 export const checkUser = () => (dispatch, getState) => {

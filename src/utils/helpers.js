@@ -20,9 +20,10 @@ export const includes = (text, phrase) => {
 
 export function smoothscroll() {
   const y = document.documentElement.scrollTop || document.body.scrollTop
-  if (y > 0) {
+  const top = document.getElementById('header').scrollHeight
+  if (y > top) {
     window.requestAnimationFrame(smoothscroll)
-    window.scrollTo (0, y - (y / 5))
+    window.scrollTo (top, y - (y / 5))
   }
 }
 

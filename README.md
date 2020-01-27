@@ -19,7 +19,9 @@ npm start
 
 ě
 
-- mozda statican header izvan root-a, ukljuciti i linkove ako je moguce?
+- dodati opis na oba jezika:
+ Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
+ Izreke osnivača velikih religija, mudraca i svetaca.
 
 sadrzaj:
 - proveriti gramatiku

@@ -1,10 +1,26 @@
-header {
+header h2 {
+  margin: 0;
+  display: inline-block;
+}
+
+.site-info {
+  padding-bottom: 18px;
+}
+
+.header-main {
   display: flex;
   justify-content: space-between;
 }
 
-nav a,
-.choose-lang label {
+.logo {
+  vertical-align: text-bottom;
+}
+
+.info-text {
+  margin-bottom: 0;
+}
+
+nav a, .choose-lang label {
   display: block;
 }
 
@@ -17,8 +33,12 @@ nav .active {
 }
 
 @media(min-width: 800px) {
-  nav a,
-  .choose-lang label {
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  nav a, .choose-lang label {
     display: inline-block;
   }
   nav a {

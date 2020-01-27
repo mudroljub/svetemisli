@@ -36,11 +36,6 @@ nav .active {
 }
 
 @media(min-width: 800px) {
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-  }
   .site-info {
     padding-bottom: 0;
   }
@@ -55,5 +50,13 @@ nav .active {
   .choose-lang label {
     margin-left: 10px;
     padding: 2px;
+  }
+}
+
+@media(min-width: 1600px) {
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
   }
 }

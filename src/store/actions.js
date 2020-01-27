@@ -97,12 +97,12 @@ export const checkCountry = () => async dispatch => {
     dispatch(setScript('kir'))
   }
 
-  const res = await fetch('http://www.geoplugin.net/json.gp') // 120 requests per minute
+  const res = await fetch('https://ipapi.co/json/') // 1,000 requests per day
   const data = await res.json()
   if (data.geoplugin_countryName) setCountryLang(data.geoplugin_countryName)
 
   if (!data.geoplugin_countryName) {
-    const res2 = await fetch('https://ipapi.co/json/') // 1,000 requests per day
+    const res2 = await fetch('http://www.geoplugin.net/json.gp') // insecure, 120 requests per minute
     const data2 = await res2.json()
     if (data2.country_name) setCountryLang(data2.country_name)
   }

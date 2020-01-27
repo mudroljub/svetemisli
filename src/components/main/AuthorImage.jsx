@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react'
-import {useSelector} from 'react-redux'
 
 import {getImg, getSize} from '../../utils/helpers'
 
@@ -7,13 +6,12 @@ const mdMin = 800
 const chakra = 'chakra.svg'
 const imgWidth = window.innerWidth < mdMin ? window.innerWidth : 250
 
-const AuthorImage = ({author}) => {
-  const {useAuthorImage} = useSelector(state => state)
+const AuthorImage = ({author, showImage}) => {
   const [loaded, setLoaded] = useState(false)
-  const [src, setSrc] = useState(useAuthorImage ? null : chakra)
+  const [src, setSrc] = useState(showImage ? null : chakra)
 
   useEffect(() => {
-    if (!useAuthorImage) return
+    if (!showImage) return
 
     const nextSrc = getSize(getImg(author), imgWidth)
     if (nextSrc === src) return // same image, do nothing
@@ -38,13 +36,13 @@ const AuthorImage = ({author}) => {
         setSrc(chakra)
         setLoaded(true) // istu sliku ne ucitava opet, pa ostaje false
       })
-  }, [author, src, useAuthorImage])
+  }, [author, showImage, src])
 
   return (
     <img
       className="main-image"
       src={src}
-      style={{opacity: +loaded, transition: 'opacity .4s' }}
+      // style={{opacity: +loaded, transition: 'opacity .4s' }}
       onLoad={() => setLoaded(true)}
       alt={author}
       width={imgWidth + 'px'}

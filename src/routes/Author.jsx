@@ -23,7 +23,7 @@ const Author = ({match}) => {
       <h1>{getName(author)}</h1>
       <div className="author-info">
         <h3 className="hide-sm">{getName(author)}</h3>
-        <AuthorImage author={author} />
+        <AuthorImage author={author} showImage={true} />
         <AuthorInfo author={author} />
       </div>
       <Quotes quotes={filtered} />

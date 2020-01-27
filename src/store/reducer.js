@@ -26,7 +26,6 @@ const initialState = {
   script: localStorage.getItem(LS.script) || 'kir',
   token: localStorage.getItem(LS.token),
   devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
-  useAuthorImage: false,
 }
 
 export const reducer = (state = initialState, action) => {

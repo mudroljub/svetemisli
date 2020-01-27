@@ -8,10 +8,12 @@ import {smoothscroll} from '../utils/helpers'
 const getRandom = filteredQuotes =>
   filteredQuotes[Math.floor(Math.random() * filteredQuotes.length)]
 
+let cachedQuote = null
+
 const RandomQuote = () => {
   const {filteredQuotes} = useSelector(state => state)
   const translate = useTranslate()
-  const [quote, setQuote] = useState(getRandom(filteredQuotes))
+  const [quote, setQuote] = useState(cachedQuote || getRandom(filteredQuotes))
 
   const setRandom = () => {
     setQuote(getRandom(filteredQuotes))
@@ -19,6 +21,7 @@ const RandomQuote = () => {
   }
 
   if (!quote) return null
+  cachedQuote = quote
 
   return (
     <main>

@@ -19,7 +19,6 @@ npm start
 
 ě
 
-- kad je stranica autora prikazati sliku autora, inače cvet
 - https://www.blog.duomly.com/react-js-performance-tutorial/
 - prebaciti na grid i prikazati futer na mobilnim
 

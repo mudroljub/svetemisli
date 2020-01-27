@@ -19,8 +19,10 @@ npm start
 
 ě
 
-sadrzaj:
 - ukloniti font?
+- prebaciti na grid i prikazati futer na mobilnim
+
+sadrzaj:
 - proveriti gramatiku
 - proveriti najduže (kratiti, podeliti)
 - negde izbaciti, negde zameniti podvižnik sa asketa, duhovni borac?

@@ -40,7 +40,6 @@ const EditForm = ({ quote }) => {
       })
       .catch(err => {
         setResponse(translate('NETWORK_PROBLEM'))
-        console.log(err)
       })
   }
 

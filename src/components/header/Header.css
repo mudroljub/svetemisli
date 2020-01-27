@@ -4,7 +4,7 @@ header h3 {
 }
 
 .site-info {
-  padding-bottom: 18px;
+  padding-bottom: 8px;
 }
 
 .header-main {
@@ -26,7 +26,7 @@ nav a, .choose-lang label {
 }
 
 nav a {
-  padding: 4px;
+  padding: 8px;
 }
 
 nav .active {

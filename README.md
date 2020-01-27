@@ -19,10 +19,6 @@ npm start
 
 ě
 
-- dodati opis na oba jezika:
- Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
- Izreke osnivača velikih religija, mudraca i svetaca.
-
 sadrzaj:
 - proveriti gramatiku
 - proveriti najduže (kratiti, podeliti)

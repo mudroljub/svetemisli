@@ -10,6 +10,7 @@ header h2 {
 .header-main {
   display: flex;
   justify-content: space-between;
+  align-items: baseline;
 }
 
 .logo {
@@ -25,7 +26,7 @@ nav a, .choose-lang label {
 }
 
 nav a {
-  padding: 2px;
+  padding: 4px;
 }
 
 nav .active {
@@ -38,11 +39,14 @@ nav .active {
     justify-content: space-between;
     align-items: baseline;
   }
+  .site-info {
+    padding-bottom: 0;
+  }
   nav a, .choose-lang label {
     display: inline-block;
   }
   nav a {
-    margin-right: 20px;
+    padding: 20px;
   }
   .choose-lang label {
     margin-left: 10px;

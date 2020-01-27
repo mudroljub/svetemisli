@@ -19,7 +19,6 @@ npm start
 
 ě
 
-- https://www.blog.duomly.com/react-js-performance-tutorial/
 - prebaciti na grid i prikazati futer na mobilnim
 
 sadrzaj:

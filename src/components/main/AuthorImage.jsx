@@ -1,18 +1,21 @@
 import React, {useState, useEffect} from 'react'
+import {useSelector} from 'react-redux'
 
 import {getImg, getSize} from '../../utils/helpers'
-import chakra from '../../assets/images/chakra.svg'
 
 const mdMin = 800
+const chakra = 'chakra.svg'
 const imgWidth = window.innerWidth < mdMin ? window.innerWidth : 250
 
 const AuthorImage = ({author}) => {
+  const {useAuthorImage} = useSelector(state => state)
   const [loaded, setLoaded] = useState(false)
-  const [src, setSrc] = useState(null)
+  const [src, setSrc] = useState(useAuthorImage ? null : chakra)
 
   useEffect(() => {
-    const nextSrc = getSize(getImg(author), imgWidth)
+    if (!useAuthorImage) return
 
+    const nextSrc = getSize(getImg(author), imgWidth)
     if (nextSrc === src) return // same image, do nothing
 
     setLoaded(false)
@@ -20,7 +23,6 @@ const AuthorImage = ({author}) => {
       setSrc(nextSrc)
       return
     }
-
     // ask api for src
     fetch(`https://sh.wikipedia.org/w/api.php?action=query&titles=${author}&prop=pageimages&format=json&pithumbsize=${imgWidth}&origin=*`)
       .then(res => res.json())
@@ -36,7 +38,7 @@ const AuthorImage = ({author}) => {
         setSrc(chakra)
         setLoaded(true) // istu sliku ne ucitava opet, pa ostaje false
       })
-  }, [author, src])
+  }, [author, src, useAuthorImage])
 
   return (
     <img

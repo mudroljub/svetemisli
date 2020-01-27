@@ -17,7 +17,10 @@ export default function Quotes({quotes}) {
 
   if (isFetching) return <img src={preloader} alt="loading..." />
 
-  smoothscroll()
+  const setPageAndScroll = x => {
+    setPage(x)
+    smoothscroll()
+  }
 
   const totalPages = Math.ceil(quotes.length / quotesPerPage)
   const startPosition = page * quotesPerPage
@@ -31,7 +34,7 @@ export default function Quotes({quotes}) {
       {phrase && <small>{translate('SHOWING_RESULTS')} "{transliterate(phrase)}":</small>}
       {mappedQuotes}
       {totalPages > 1 && (
-        <Pagionation totalPages={totalPages} page={page} setPage={setPage} />
+        <Pagionation totalPages={totalPages} page={page} setPage={setPageAndScroll} />
       )}
     </div>
   )

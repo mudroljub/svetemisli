@@ -19,7 +19,6 @@ npm start
 
 ě
 
-- da ne ide scrol to top na svako slovo pretrage
 - mozda statican header izvan root-a, ukljuciti i linkove ako je moguce?
 
 sadrzaj:

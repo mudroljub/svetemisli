@@ -4,7 +4,7 @@
   display: flex;
   flex-wrap: wrap-reverse;
   margin: 20px 0;
-  padding: 25px;
+  padding: 0 25px 25px;
 }
 
 .quote-box img {
@@ -16,7 +16,6 @@
     flex-wrap: nowrap;
     padding: 40px 60px;
   }
-
   .quote-box img {
     object-fit: contain;
     margin-right: 40px;

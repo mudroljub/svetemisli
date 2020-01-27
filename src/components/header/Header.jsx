@@ -22,7 +22,7 @@ const Header = () => {
   return (
     <header id="header">
       <div className='site-info'>
-        <h3>{translate('APP_NAME')} <span role="img" aria-label="vatra">🔥</span></h3> <small className='info-text'>{translate('HEADER_TEXT')}</small>
+        <h3>{translate('APP_NAME')}</h3> <small className='info-text'>❁ {translate('HEADER_TEXT')}</small>
       </div>
       <div className="header-main">
         <nav>

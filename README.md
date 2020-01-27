@@ -20,6 +20,7 @@ npm start
 ě
 
 sadrzaj:
+- ukloniti font?
 - proveriti gramatiku
 - proveriti najduže (kratiti, podeliti)
 - negde izbaciti, negde zameniti podvižnik sa asketa, duhovni borac?

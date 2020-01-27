@@ -6,7 +6,6 @@ import {API} from '../config/api'
 import ImageQuote from './../components/main/ImageQuote'
 import {useTranslate} from '../store/actions'
 import preloader from '../assets/images/preloader.svg'
-import './ShowQuote.css'
 
 const ShowQuote = ({match}) => {
   const {id} = match.params

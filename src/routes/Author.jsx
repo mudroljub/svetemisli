@@ -6,7 +6,6 @@ import AuthorImage from '../components/main/AuthorImage'
 import AuthorInfo from '../components/main/AuthorInfo'
 import {useAuthorName} from '../store/actions'
 import {isLang, includes} from '../utils/helpers'
-import './Author.css'
 
 const Author = ({match}) => {
   const {allQuotes, lang, phrase, devMode} = useSelector(state => state)
@@ -22,7 +21,7 @@ const Author = ({match}) => {
   return (
     <main>
       <h1>{getName(author)}</h1>
-      <div className="thumbnail">
+      <div className="author-info">
         <h3 className="hide-sm">{getName(author)}</h3>
         <AuthorImage author={author} />
         <AuthorInfo author={author} />

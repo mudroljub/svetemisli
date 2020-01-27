@@ -9,7 +9,7 @@
     {
       "src": "chakra.svg",
       "sizes": "512x512"
-    },
+    }
   ],
   "display": "standalone",
   "theme_color": "#333333",

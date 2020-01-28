@@ -21,6 +21,8 @@ npm start
 
 - svg sliku koristiti kao html
 - vizuelno odvojiti footer
+- osvetliti rezultat pretrage?
+- razdvojiti dev mod i translation mode
 - prebaciti na css grid i prikazati futer na mobilnim
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 

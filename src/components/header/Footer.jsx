@@ -7,6 +7,7 @@ export default function Footer() {
 
   return (
     <footer>
+      <hr />
       <small>{translate('FOOTER_TEXT')} mudroljub(at)gmail.com</small>
     </footer>
   )

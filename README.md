@@ -21,8 +21,6 @@ npm start
 
 - broj citata u footer
 - da random uzima iz lang quotes a ne filtered quotes?
-- svg sliku koristiti kao html
-- vizuelno odvojiti footer
 - osvetliti rezultat pretrage?
 - razdvojiti dev mod i translation mode
 - prebaciti na css grid i prikazati futer na mobilnim

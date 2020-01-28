@@ -43,7 +43,7 @@ const AuthorImage = ({author, showImage}) => {
       src={src}
       style={{opacity: +loaded, transition: 'opacity .4s' }}
       onLoad={() => setLoaded(true)}
-      alt={author}
+      alt={showImage ? author : 'cvět'}
       width={imgWidth + 'px'}
     />
   )

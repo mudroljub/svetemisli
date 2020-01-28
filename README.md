@@ -20,6 +20,7 @@ npm start
 ě
 
 - broj citata u footer
+- nasumične slike api?
 - da random uzima iz lang quotes a ne filtered quotes?
 - osvetliti rezultat pretrage?
 - razdvojiti dev mod i translation mode

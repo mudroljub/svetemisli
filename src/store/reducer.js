@@ -1,10 +1,12 @@
 import quotes from '../data/quotes.json'
 import {LS} from '../config/localstorage'
-import {includes, getName, compare, isLang} from '../utils/helpers'
+import {includes, shuffle, getName, compare, isLang} from '../utils/helpers'
 
 const defaultLang = localStorage.getItem(LS.lang) || 'ms'
+
 const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))
 
+shuffle(quotes)
 const allAuthors = new Set()
 quotes.forEach(q => allAuthors.add(q.author))
 
@@ -13,7 +15,7 @@ const filteredAuthors = new Set()
 filteredQuotes.forEach(q => filteredAuthors.add(q.author))
 
 const initialState = {
-  allQuotes: quotes.sort(() => 0.5 - Math.random()),
+  allQuotes: quotes,
   filteredQuotes,
   allAuthors: new Set([...allAuthors].sort(sortAbc)),
   filteredAuthors: [...filteredAuthors].sort(sortAbc), // shown in sidebar
@@ -44,10 +46,11 @@ export const reducer = (state = initialState, action) => {
     case 'FETCH_QUOTES_SUCCESS': {
       const allAuthors = new Set()
       action.quotes.forEach(q => allAuthors.add(q.author))
+      shuffle(action.quotes)
       return {
         ...state,
         isFetching: false,
-        allQuotes: action.quotes.sort(() => 0.5 - Math.random()),
+        allQuotes: action.quotes,
         allAuthors: new Set([...allAuthors].sort(sortAbc)),
       }
     }

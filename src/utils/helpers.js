@@ -33,6 +33,13 @@ export function compare(a, b) {
   return 0
 }
 
+export function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]]
+  }
+}
+
 // get value from nested object
 export const get = (obj, lev1, lev2) => ((obj || {})[lev1] || {})[lev2]
 

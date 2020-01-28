@@ -19,6 +19,8 @@ npm start
 
 ě
 
+- broj citata u footer
+- da random uzima iz lang quotes a ne filtered quotes?
 - svg sliku koristiti kao html
 - vizuelno odvojiti footer
 - osvetliti rezultat pretrage?

@@ -40,7 +40,6 @@ const AuthorImage = ({author, showImage}) => {
 
   return (
     <img
-      className="main-image"
       src={src}
       style={{opacity: +loaded, transition: 'opacity .4s' }}
       onLoad={() => setLoaded(true)}

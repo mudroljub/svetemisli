@@ -17,6 +17,7 @@ footer {
 
 .quote-box img {
   flex: 0 0 auto;
+  user-select: none;
 }
 
 .author-info {

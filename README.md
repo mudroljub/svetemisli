@@ -19,7 +19,6 @@ npm start
 
 ě
 
-- pamtiti izvuceno, da se ne ponavlja random?
 - prebaciti na css grid i prikazati futer na mobilnim
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 

@@ -5,23 +5,19 @@ import ImageQuote from './../components/main/ImageQuote'
 import {useTranslate} from '../store/actions'
 import {smoothscroll} from '../utils/helpers'
 
-const getRandom = filteredQuotes =>
-  filteredQuotes[Math.floor(Math.random() * filteredQuotes.length)]
-
-let cachedQuote = null
+let i = 0
 
 const RandomQuote = () => {
   const {filteredQuotes} = useSelector(state => state)
   const translate = useTranslate()
-  const [quote, setQuote] = useState(cachedQuote || getRandom(filteredQuotes))
+  const [quote, setQuote] = useState(filteredQuotes[i])
 
   const setRandom = () => {
-    setQuote(getRandom(filteredQuotes))
+    setQuote(filteredQuotes[++i % filteredQuotes.length])
     smoothscroll()
   }
 
   if (!quote) return null
-  cachedQuote = quote
 
   return (
     <main>

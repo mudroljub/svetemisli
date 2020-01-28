@@ -1,9 +1,9 @@
 import React, {useState, useEffect} from 'react'
 
 import {getImg, getSize} from '../../utils/helpers'
+import chakra from '../../assets/images/chakra.svg'
 
 const mdMin = 800
-const chakra = 'chakra.svg'
 const imgWidth = window.innerWidth < mdMin ? window.innerWidth : 250
 
 const AuthorImage = ({author, showImage}) => {

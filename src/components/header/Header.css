@@ -21,6 +21,10 @@ header h3 {
   margin-bottom: 0;
 }
 
+.choose-lang label {
+  margin-top: 8px;
+}
+
 nav a,
 .choose-lang label {
   display: block;

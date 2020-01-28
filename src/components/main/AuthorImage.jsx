@@ -7,7 +7,7 @@ const chakra = 'chakra.svg'
 const imgWidth = window.innerWidth < mdMin ? window.innerWidth : 250
 
 const AuthorImage = ({author, showImage}) => {
-  const [loaded, setLoaded] = useState(false)
+  const [loaded, setLoaded] = useState(true)
   const [src, setSrc] = useState(showImage ? null : chakra)
 
   useEffect(() => {

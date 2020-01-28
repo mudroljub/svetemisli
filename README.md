@@ -19,6 +19,8 @@ npm start
 
 ě
 
+- svg sliku koristiti kao html
+- vizuelno odvojiti footer
 - prebaciti na css grid i prikazati futer na mobilnim
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 

@@ -2,9 +2,13 @@
 
 # Svete mysli ❁ Свете мысли ❁ Svete misli ❁ Свете мисли
 
-**Medžuslovjanski**: Sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca. Сбирка духовных цитатов. Изрѣченьа основательа великых религија, мудрца и светца.
+**Medžuslovjanski**: Sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca. Сбирка духовных цитатов.
 
-**Srpski**: Zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca. Збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
+**Меджусловјански**: Изрѣченьа основательа великых религија, мудрца и светца.
+
+**Srpski**: Zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
+
+**Српски**: Збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
 
 Vidi: [mudroljub.github.io/svetemisli](https://mudroljub.github.io/svetemisli)
 

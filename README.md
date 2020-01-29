@@ -1,12 +1,16 @@
 [![](screen.png)](https://mudroljub.github.io/svetemisli)
 
-# Svete mysli
+# Svete mysli ❁ Свете мысли ❁ Svete misli ❁ Свете мисли
 
-Zbirka citata osnivača velikih religija, mudraca i svetaca.
+Sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
 
-Svaki put su drugačije izreke na naslovnoj.
+Сбирка духовных цитатов. Изрѣченьа основательа великых религија, мудрца и светца.
 
-Vidi na: [mudroljub.github.io/svetemisli](https://mudroljub.github.io/svetemisli)
+Zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
+
+Збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
+
+Vidi: [mudroljub.github.io/svetemisli](https://mudroljub.github.io/svetemisli)
 
 ## Razvoj
 

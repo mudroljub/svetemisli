@@ -1,4 +1,4 @@
-[![](screen.png)](https://mudroljub.github.io/svetemisli)
+[![Svete misli](screen.png)](https://mudroljub.github.io/svetemisli)
 
 # Svete mysli ❁ Свете мысли ❁ Svete misli ❁ Свете мисли
 

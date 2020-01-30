@@ -27,16 +27,13 @@ npm start
 
 ě
 
-- broj citata u footer
-- nasumične slike api?
-- da random uzima iz lang quotes a ne filtered quotes?
 - osvetliti rezultat pretrage?
 - razdvojiti dev mod i translation mode
 - prebaciti na css grid i prikazati futer na mobilnim
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 
 sadrzaj:
-- proveriti najduže (kratiti, podeliti)
+- prevoditi
 - negde izbaciti, negde zameniti podvižnik sa asketa, duhovni borac?
 - ini u iny
 - Jevanđelje -> Evangelje

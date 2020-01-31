@@ -1,20 +1,18 @@
 [![Svete misli](screen.png)](https://mudroljub.github.io/svetemisli)
 
-# Svete mysli ❁ Свете мысли ❁ Svete misli ❁ Свете мисли
+# Svete mysli ❁
 
 **Medžuslovjanski / Меджусловјански**:
 
-Sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
+[Svete mysli](https://mudroljub.github.io/svetemisli/), sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
 
-Сбирка духовных цитатов. Изрѣченьа основательа великых религија, мудрца и светца.
+[Свете мысли](https://mudroljub.github.io/svetemisli/), сбирка духовных цитатов. Изрѣченьа основательа великых религија, мудрца и светца.
 
 **Srpski / Српски**:
 
-Zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
+[Svete misli](https://mudroljub.github.io/svetemisli/), zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
 
-Збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
-
-Vidi: [mudroljub.github.io/svetemisli](https://mudroljub.github.io/svetemisli)
+[Свете мисли](https://mudroljub.github.io/svetemisli/), збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
 
 ## Razvoj
 
@@ -27,14 +25,13 @@ npm start
 
 ě
 
-- srediti css na svim velicinama
-- osvetliti rezultat pretrage?
 - prebaciti na css grid i prikazati futer na mobilnim
+  - srediti navigaciju na svim velicinama
+- osvetliti rezultat pretrage?
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 
 sadrzaj:
 - prevoditi
-- negde izbaciti, negde zameniti podvižnik sa asketa, duhovni borac?
 - ini u iny
 - Jevanđelje -> Evangelje
 - proveriti bez izvora

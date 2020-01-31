@@ -10,18 +10,18 @@ import Footer from './header/Footer'
 import './App.css'
 
 const App = () => {
-  const {devMode} = useSelector(state => state)
+  const {translationMode, devMode} = useSelector(state => state)
   const dispatch = useDispatch()
 
   useEffect(() => {
-    if (devMode) dispatch(fetchQuotes())
+    if (translationMode || devMode) dispatch(fetchQuotes())
     if (!localStorage.getItem(LS.lang) && !localStorage.getItem(LS.script))
       dispatch(checkCountry())
     dispatch(checkUser())
 
     if ('serviceWorker' in navigator)
       navigator.serviceWorker.register('service-worker.js')
-  }, [devMode, dispatch])
+  }, [translationMode, devMode, dispatch])
 
   return (
     <div className="App">

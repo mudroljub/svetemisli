@@ -27,8 +27,8 @@ npm start
 
 ě
 
+- srediti css na svim velicinama
 - osvetliti rezultat pretrage?
-- razdvojiti dev mod i translation mode
 - prebaciti na css grid i prikazati futer na mobilnim
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 

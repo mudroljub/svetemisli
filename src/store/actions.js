@@ -23,9 +23,20 @@ export const setScript = script => {
   return { type: 'SET_SCRIPT', script }
 }
 
+export const setTranslationMode = translationMode => {
+  localStorage.setItem(LS.translationMode, translationMode)
+  return { type: 'SET_TRANSLATION_MODE', translationMode }
+}
+
 export const setDevMode = devMode => {
   localStorage.setItem(LS.devMode, devMode)
   return { type: 'SET_DEV_MODE', devMode }
+}
+
+export const toggleTranslationMode = () => (dispatch, getState) => {
+  const {translationMode} = getState()
+  dispatch(setTranslationMode(!translationMode))
+  dispatch(init())
 }
 
 export const toggleDevMode = () => (dispatch, getState) => {

@@ -27,7 +27,8 @@ const initialState = {
   lang: defaultLang,
   script: localStorage.getItem(LS.script) || 'kir',
   token: localStorage.getItem(LS.token),
-  translationMode: localStorage.getItem(LS.translationMode) === 'true', // to boolean
+  devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
+  translationMode: localStorage.getItem(LS.translationMode) === 'true',
 }
 
 export const reducer = (state = initialState, action) => {

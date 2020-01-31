@@ -26,7 +26,7 @@ npm start
 ě
 
 - prebaciti na css grid i prikazati futer na mobilnim
-  - srediti navigaciju na svim velicinama
+- odvojiti projekat na heroku
 - osvetliti rezultat pretrage?
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 

@@ -109,12 +109,12 @@ export const checkCountry = () => async dispatch => {
 
   const res = await fetch('https://ipapi.co/json/') // 1,000 requests per day
   const data = await res.json()
-  if (data.geoplugin_countryName) setCountryLang(data.geoplugin_countryName)
+  if (data.country_name) setCountryLang(data.country_name)
 
-  // if (!data.geoplugin_countryName) {
+  // if (!data.country_name) {
   //   const res2 = await fetch('http://www.geoplugin.net/json.gp') // insecure, 120 requests per minute
   //   const data2 = await res2.json()
-  //   if (data2.country_name) setCountryLang(data2.country_name)
+  //   if (data2.geoplugin_countryName) setCountryLang(data2.geoplugin_countryName)
   // }
 }
 

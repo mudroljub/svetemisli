@@ -31,10 +31,11 @@
 }
 
 .big-quote .quote-text {
-  margin-top: 0.83em;
-  margin-bottom: 0.83em;
+  display: flow-root;
   font-size: 1.2em;
   font-weight: bold;
+  margin-bottom: 0.83em;
+  margin-top: 0.83em;
   white-space: pre-line;
 }
 

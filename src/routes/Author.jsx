@@ -8,12 +8,12 @@ import {useAuthorName} from '../store/actions'
 import {isLang, includes} from '../utils/helpers'
 
 const Author = ({match}) => {
-  const {allQuotes, lang, phrase, devMode} = useSelector(state => state)
+  const {allQuotes, lang, phrase, translationMode} = useSelector(state => state)
   const getName = useAuthorName()
 
   const author = match.params.name.replace(/_/g, ' ')
   const filtered = allQuotes.filter(q =>
-    isLang(q, lang, devMode)
+    isLang(q, lang, translationMode)
     && q.author === author
     && (phrase ? includes(q[lang], phrase) : true)
   )

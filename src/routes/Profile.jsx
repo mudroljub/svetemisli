@@ -2,12 +2,12 @@ import React, {useState, useEffect} from 'react'
 import { useSelector, useDispatch} from 'react-redux'
 import { NavLink } from 'react-router-dom'
 
-import {setUser, logout, useTranslate, toggleDevMode} from '../store/actions'
+import {setUser, logout, useTranslate, toggleTranslationMode, toggleDevMode} from '../store/actions'
 import {LS} from '../config/localstorage'
 import {domain} from '../config/api'
 
 const Profile = () =>  {
-  const {token, admin, devMode} = useSelector(state => state)
+  const {token, admin, translationMode, devMode} = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
   const [memberSince, setMemberSince] = useState(null)
@@ -32,6 +32,10 @@ const Profile = () =>  {
   }
 
   const toggleTranslate = () => {
+    dispatch(toggleTranslationMode())
+  }
+
+  const toggleDev = () => {
     dispatch(toggleDevMode())
   }
 
@@ -51,7 +55,7 @@ const Profile = () =>  {
                 name="dev-mode"
                 value="off"
                 checked={!devMode}
-                onChange={toggleTranslate}
+                onChange={toggleDev}
               /> off
             </label>
             <label>
@@ -60,6 +64,26 @@ const Profile = () =>  {
                 name="dev-mode"
                 value="on"
                 checked={devMode}
+                onChange={toggleDev}
+              /> on
+            </label>
+          </p>
+          <p>translation mode:{' '}
+            <label>
+              <input
+                type="radio"
+                name="translation-mode"
+                value="off"
+                checked={!translationMode}
+                onChange={toggleTranslate}
+              /> off
+            </label>
+            <label>
+              <input
+                type="radio"
+                name="translation-mode"
+                value="on"
+                checked={translationMode}
                 onChange={toggleTranslate}
               /> on
             </label>

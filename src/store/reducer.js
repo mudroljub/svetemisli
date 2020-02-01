@@ -28,13 +28,14 @@ const initialState = {
   script: localStorage.getItem(LS.script) || 'kir',
   token: localStorage.getItem(LS.token),
   devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
+  translationMode: localStorage.getItem(LS.translationMode) === 'true',
 }
 
 export const reducer = (state = initialState, action) => {
-  const {allQuotes, allAuthors, selectedAuthors, lang, devMode, phrase, authorPhrase} = state
+  const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase} = state
   const {quote} = action
 
-  const ifLang = q => isLang(q, lang, devMode)
+  const ifLang = q => isLang(q, lang, translationMode)
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
   const filterQ = q => ifLang(q)
     && (phrase ? includes(q[lang], phrase) : true)
@@ -87,6 +88,8 @@ export const reducer = (state = initialState, action) => {
       return {...state, phrase: action.phrase }
     case 'SET_AUTHOR_PHRASE':
       return {...state, authorPhrase: action.authorPhrase }
+    case 'SET_TRANSLATION_MODE':
+      return {...state, translationMode: action.translationMode }
     case 'SET_DEV_MODE':
       return {...state, devMode: action.devMode }
     case 'ADD_QUOTE':

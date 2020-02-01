@@ -23,9 +23,20 @@ export const setScript = script => {
   return { type: 'SET_SCRIPT', script }
 }
 
+export const setTranslationMode = translationMode => {
+  localStorage.setItem(LS.translationMode, translationMode)
+  return { type: 'SET_TRANSLATION_MODE', translationMode }
+}
+
 export const setDevMode = devMode => {
   localStorage.setItem(LS.devMode, devMode)
   return { type: 'SET_DEV_MODE', devMode }
+}
+
+export const toggleTranslationMode = () => (dispatch, getState) => {
+  const {translationMode} = getState()
+  dispatch(setTranslationMode(!translationMode))
+  dispatch(init())
 }
 
 export const toggleDevMode = () => (dispatch, getState) => {
@@ -98,12 +109,12 @@ export const checkCountry = () => async dispatch => {
 
   const res = await fetch('https://ipapi.co/json/') // 1,000 requests per day
   const data = await res.json()
-  if (data.geoplugin_countryName) setCountryLang(data.geoplugin_countryName)
+  if (data.country_name) setCountryLang(data.country_name)
 
-  // if (!data.geoplugin_countryName) {
+  // if (!data.country_name) {
   //   const res2 = await fetch('http://www.geoplugin.net/json.gp') // insecure, 120 requests per minute
   //   const data2 = await res2.json()
-  //   if (data2.country_name) setCountryLang(data2.country_name)
+  //   if (data2.geoplugin_countryName) setCountryLang(data2.geoplugin_countryName)
   // }
 }
 

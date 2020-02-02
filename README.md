@@ -1,20 +1,22 @@
-[![Svete misli](screen.png)](https://mudroljub.github.io/svetemisli)
+[![Svete misli](icon-512x512.png)](https://svetemysli.github.io)
 
 # Svete mysli ❁
 
 **Medžuslovjanski / Меджусловјански**:
 
-[Svete mysli](https://mudroljub.github.io/svetemisli/), sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
+[Svete mysli](https://svetemysli.github.io), sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
 
-[Свете мысли](https://mudroljub.github.io/svetemisli/), сбирка духовных цитатов. Изрѣченьа основательа великых религија, мудрца и светца.
+[Свете мысли](https://svetemysli.github.io), сбирка духовных цитатов. Изрѣченьа основательа великых религија, мудрца и светца.
 
 **Srpski / Српски**:
 
-[Svete misli](https://mudroljub.github.io/svetemisli/), zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
+[Svete misli](https://svetemysli.github.io), zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
 
-[Свете мисли](https://mudroljub.github.io/svetemisli/), збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
+[Свете мисли](https://svetemysli.github.io), збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
 
 ## Razvoj
+
+Checkout to dev branch, then:
 
 ```
 npm install

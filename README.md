@@ -1,5 +1,3 @@
-[![Svete misli](icon-512x512.png)](https://svetemysli.github.io)
-
 # Svete mysli ❁
 
 **Medžuslovjanski / Меджусловјански**:

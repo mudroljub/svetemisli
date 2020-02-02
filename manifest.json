@@ -1,0 +1,20 @@
+{
+  "short_name": "Svete mysli",
+  "name": "Svete mysli",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "#333333",
+  "background_color": "#fffbf1",
+  "start_url": "./index.html"
+}

@@ -1,0 +1,2 @@
+# svetemisli
+Zbirka duhovnih citata

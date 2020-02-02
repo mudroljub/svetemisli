@@ -1,8 +1,8 @@
 {
-  "name": "svetemisli",
+  "name": "svetemysli",
   "version": "0.1.0",
-  "homepage": "https://mudroljub.github.io/svetemisli",
-  "repository": "https://github.com/mudroljub/svetemisli",
+  "homepage": "https://svetemysli.github.io",
+  "repository": "https://github.com/svetemysli/svetemysli.github.io",
   "license": "MIT",
   "scripts": {
     "save": "wget https://programming-quotes-api.herokuapp.com/svetemisli/ -O src/data/quotes.json",

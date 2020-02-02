@@ -1,4 +1,4 @@
-[![Svete misli](icon-512x512.png)](https://svetemysli.github.io)
+[![Svete misli](icon-192x192.png)](https://svetemysli.github.io)
 
 # Svete mysli ❁
 

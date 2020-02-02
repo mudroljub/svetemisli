@@ -10,7 +10,7 @@
     "dev": "REACT_APP_ENV=development react-scripts start",
     "start": "npm run save && REACT_APP_ENV=production react-scripts start",
     "build": "REACT_APP_ENV=production react-scripts build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "dependencies": {

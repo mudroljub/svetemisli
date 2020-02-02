@@ -32,6 +32,7 @@ npm start
 
 sadrzaj:
 - prevoditi
+- prevaciti v, vo u lokativ
 - ini u iny
 - Jevanđelje -> Evangelje
 - proveriti bez izvora

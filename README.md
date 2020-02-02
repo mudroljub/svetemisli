@@ -31,9 +31,6 @@ npm start
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 
 sadrzaj:
-- ini u iny
-- Jevanđelje -> Evangelje
-- proveriti bez izvora
 - uraditi masovno tagovanje, kao na znacima
 
 - node.js backend rendering

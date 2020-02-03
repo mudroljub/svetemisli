@@ -4,6 +4,7 @@
 
 footer {
   margin-top: 20px;
+  grid-area: f;
 }
 
 .quote-box {
@@ -60,11 +61,5 @@ footer {
   }
   .sidebar {
     grid-area: s;
-  }
-  footer {
-    grid-area: f;
-    display: block;
-    padding-top: 10px;
-    border-top: 1px solid #999;
   }
 }

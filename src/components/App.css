@@ -46,26 +46,25 @@ footer {
 
 @media (min-width: 1200px) {
   .App {
-    display: flex;
-    justify-content: space-between;
-    margin-left: 2%;
-    margin-right: 2%;
-    padding: 0;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 300px 1fr;
+    grid-template-rows: 1fr auto;
+    grid-template-areas:
+    "s m"
+    "s f";
+    padding-top: 0;
+    min-height: 100vh;
   }
   .main-section {
-    order: 2;
-    right: 0;
-    width: 74%;
-    /* grid to keep footer down */
-    min-height: 100vh;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-  }
-  footer {
-    display: block;
-    padding-top: 20px;
+    grid-area: m;
   }
   .sidebar {
-    width: 22%;
+    grid-area: s;
+  }
+  footer {
+    grid-area: f;
+    display: block;
+    padding-top: 20px;
   }
 }

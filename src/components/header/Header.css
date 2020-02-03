@@ -1,6 +1,6 @@
 header {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr 1fr;
   grid-template-areas:
   "i i"
   "n l";
@@ -19,7 +19,6 @@ nav {
 }
 
 header h3 {
-  margin: 0;
   display: inline-block;
 }
 

@@ -28,9 +28,9 @@ const App = () => {
       <section className="main-section">
         <Header />
         <Router />
-        <Footer />
       </section>
       <Sidebar/>
+      <Footer />
     </div>
   )
 }

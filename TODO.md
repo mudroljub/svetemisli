@@ -3,7 +3,6 @@
 ě
 
 - odvojiti projekat na heroku
-- osvetliti rezultat pretrage?
 - grid fotogaleriju za citate, sa veličinom slova obrnuto srazmernom dužini citata
 
 sadrzaj:

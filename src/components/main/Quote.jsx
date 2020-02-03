@@ -8,15 +8,19 @@ import {deleteQuote, useTranslate, useTransliterate, useAuthorName} from '../../
 import './Quote.css'
 
 const Quote = ({ quote, showSource, cssClass }) => {
-  const {token, lang, admin} = useSelector(state => state)
+  const {token, lang, admin, phrase} = useSelector(state => state)
   const dispatch = useDispatch()
   const translate = useTranslate()
   const transliterate = useTransliterate()
   const getName = useAuthorName()
-
   const [shouldDelete, setShouldDelete] = useState(false)
   const [response, setResponse] = useState('')
-  const text = quote[lang]
+
+  const translitTxt = transliterate(quote[lang])
+  const translitPhrase = transliterate(phrase)
+  const text = phrase
+    ? translitTxt.replace(translitPhrase, `<span class='red'>${translitPhrase}</span>`)
+    : translitTxt
 
   const {_id, author} = quote
   const authorLink = `/autor/${author.replace(/ /g, '_')}`
@@ -50,7 +54,7 @@ const Quote = ({ quote, showSource, cssClass }) => {
   return (
     <blockquote className={cssClass || 'small-quote'}>
       <p className="quote-text">
-        {text ? transliterate(text) : translate('NO_TRANSLATION')} &nbsp;
+        {text ? <span dangerouslySetInnerHTML={{__html: text}} /> : translate('NO_TRANSLATION')} &nbsp;
         <span className="icons">
           <Link to={`/citat/${_id}`} className="no-link">↠</Link>&nbsp;
           {admin &&

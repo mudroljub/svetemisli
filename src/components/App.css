@@ -1,9 +1,9 @@
 .App {
-  padding: 10px 20px 20px;
+  padding: 0 20px;
 }
 
 footer {
-  display: none;
+  margin-top: 20px;
 }
 
 .quote-box {
@@ -53,7 +53,6 @@ footer {
     grid-template-areas:
     "s m"
     "s f";
-    padding-top: 0;
     min-height: 100vh;
   }
   .main-section {
@@ -65,6 +64,7 @@ footer {
   footer {
     grid-area: f;
     display: block;
-    padding-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #999;
   }
 }

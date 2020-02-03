@@ -39,7 +39,7 @@
     "SUCCESSFULLY_LOGIN": "Uspešno ste prijavljeni.",
     "SUCCESSFULLY_LOGOUT": "Uspešno ste odjavljeni.",
     "HEADER_TEXT": "zbirka duhovnih citata",
-    "FOOTER_TEXT": "Svete misli. Izreke i prevode možete slati na",
+    "FOOTER_TEXT": "Izreke i prevode možete slati na",
     "TAGS": "Oznake"
   },
   "ms": {
@@ -82,7 +82,7 @@
     "SUCCESSFULLY_LOGIN": "Uspěšno jeste prijavjeni.",
     "SUCCESSFULLY_LOGOUT": "Uspěšno jeste odjavjeni.",
     "HEADER_TEXT": "sbirka duhovnyh citatov",
-    "FOOTER_TEXT": "Svete mysli. Izrěčenja i prěvody možete slati na",
+    "FOOTER_TEXT": "Izrěčenja i prěvody možete slati na",
     "TAGS": "Značke"
   }
 }

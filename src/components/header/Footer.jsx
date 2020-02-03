@@ -7,7 +7,7 @@ export default function Footer() {
 
   return (
     <footer>
-      <small>{translate('FOOTER_TEXT')} <code>mudroljub(at)gmail.com</code></small>
+      <small><code>{translate('FOOTER_TEXT')} mudroljub(at)gmail.com</code></small>
     </footer>
   )
 }

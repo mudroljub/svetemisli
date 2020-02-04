@@ -56,19 +56,22 @@ const Quote = ({ quote, showSource, cssClass }) => {
   const percent = (x - min) / (max - min)
 
   let gridClass = ''
+  if (percent > .7) gridClass = 'polozen'
+  if (percent > .8) gridClass = 'uspravan'
+  if (percent > .9) gridClass = 'velik'
 
-  if (percent > .65) gridClass = 'polozen'
-  if (percent > .75) gridClass = 'uspravan'
-  if (percent > .85) gridClass = 'velik'
-
-  // const fontSize = (2 - percent + 'em')
-  const className = cssClass || `small-quote ${gridClass}`
+  let fontSize = 'unset' // 2 - percent + 'em'
+  if (percent < .1) fontSize = '1.4em'
+  if (percent < .05) {
+    gridClass = 'polozen'
+    fontSize = '1.6em'
+  }
 
   return (
-    <blockquote className={className}>
+    <blockquote className={cssClass || `small-quote ${gridClass}`}>
       <p
         className="quote-text"
-        // style={{fontSize}}
+        style={{fontSize}}
         dangerouslySetInnerHTML={{__html: text || translate('NO_TRANSLATION')}}
       >
       </p>

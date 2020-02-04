@@ -8,7 +8,7 @@ import {useTranslate, useTransliterate} from '../../store/actions'
 import {smoothscroll} from '../../utils/helpers'
 import './quotes.css'
 
-const quotesPerPage = 15
+const quotesPerPage = 20
 
 export default function Quotes({quotes}) {
   const {isFetching, phrase} = useSelector(state => state)

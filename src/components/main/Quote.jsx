@@ -51,20 +51,36 @@ const Quote = ({ quote, showSource, cssClass }) => {
     setResponse('')
   }
 
+  // vrednosti su otprilike, procenat moze preci 0-1
+  const min = 20, max = 300, x = translitTxt.length
+  const percent = (x - min) / (max - min)
+
+  let gridClass = ''
+
+  if (percent > .65) gridClass = 'polozen'
+  if (percent > .75) gridClass = 'uspravan'
+  if (percent > .85) gridClass = 'velik'
+
+  // const fontSize = (2 - percent + 'em')
+  const className = cssClass || `small-quote ${gridClass}`
+
   return (
-    <blockquote className={cssClass || 'small-quote'}>
-      <p className="quote-text">
-        {text ? <span dangerouslySetInnerHTML={{__html: text}} /> : translate('NO_TRANSLATION')} &nbsp;
-        <span className="icons">
-          <Link to={`/citat/${_id}`} className="no-link">↠</Link>&nbsp;
-          {admin &&
-            <span>
-              <Link to={`/pravi-citat/${_id}`}><span className="edit-icon">&#9998;</span></Link>&nbsp;
-              <span onClick={tryDelete} className={deleteCss}>&#10005;</span>
-            </span>
-          }
-        </span>
+    <blockquote className={className}>
+      <p
+        className="quote-text"
+        // style={{fontSize}}
+        dangerouslySetInnerHTML={{__html: text || translate('NO_TRANSLATION')}}
+      >
       </p>
+      <span className="icons">
+        <Link to={`/citat/${_id}`} className="no-link">↠</Link>&nbsp;
+        {admin &&
+          <span>
+            <Link to={`/pravi-citat/${_id}`}><span className="edit-icon">&#9998;</span></Link>&nbsp;
+            <span onClick={tryDelete} className={deleteCss}>&#10005;</span>
+          </span>
+        }
+      </span>
       <span className="quote-author"> — <Link to={authorLink}>{getName(author)}</Link></span>
 
       {showSource && quote.source &&

@@ -1,3 +1,5 @@
+/* veliki citat sa slikom */
+
 .quote-box {
   background: #252525;
   color: #e5e5e5;
@@ -11,6 +13,7 @@
   flex: 0 0 auto;
   user-select: none;
 }
+
 
 .quote-author a {
   color: #888;
@@ -31,9 +34,15 @@
   font-style: italic;
 }
 
+.quote-text {
+  white-space: pre-line;
+}
+
 .small-quote .quote-text::first-letter {
-  font-size: 1.25em;
+  font-size: 1.4em;
   color: darkred;
+  margin-right: 2px;
+  vertical-align: sub;
 }
 
 .small-quote .quote-text {
@@ -45,12 +54,11 @@
 }
 
 .big-quote .quote-text {
-  display: flow-root;
+  /* display: flow-root; */
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 0;
   margin-top: 0;
-  white-space: pre-line;
 }
 
 .big-quote .quote-author {

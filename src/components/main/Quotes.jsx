@@ -6,8 +6,9 @@ import Pagionation from './Pagination'
 import preloader from '../../assets/images/preloader.svg'
 import {useTranslate, useTransliterate} from '../../store/actions'
 import {smoothscroll} from '../../utils/helpers'
+import './quotes.css'
 
-const quotesPerPage = 10
+const quotesPerPage = 15
 
 export default function Quotes({quotes}) {
   const {isFetching, phrase} = useSelector(state => state)
@@ -30,9 +31,11 @@ export default function Quotes({quotes}) {
     .map(q => <Quote key={q._id} quote={q} />)
 
   return (
-    <main className='citati'>
+    <main>
       {phrase && <small>{translate('SHOWING_RESULTS')} "{transliterate(phrase)}":</small>}
-      {mappedQuotes}
+      <div className='citati'>
+        {mappedQuotes}
+      </div>
       {totalPages > 1 && (
         <Pagionation totalPages={totalPages} page={page} setPage={setPageAndScroll} />
       )}

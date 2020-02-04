@@ -15,20 +15,6 @@ footer {
   grid-area: f;
 }
 
-.quote-box {
-  background: #252525;
-  color: #e5e5e5;
-  display: flex;
-  flex-wrap: wrap-reverse;
-  margin: 20px 0;
-  padding: 0 25px 25px;
-}
-
-.quote-box img {
-  flex: 0 0 auto;
-  user-select: none;
-}
-
 .author-info {
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);

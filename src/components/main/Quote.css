@@ -1,3 +1,17 @@
+.quote-box {
+  background: #252525;
+  color: #e5e5e5;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  margin: 20px 0;
+  padding: 0 25px 25px;
+}
+
+.quote-box img {
+  flex: 0 0 auto;
+  user-select: none;
+}
+
 .quote-author a {
   color: #888;
   text-decoration: none;

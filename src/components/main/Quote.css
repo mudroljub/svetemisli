@@ -34,21 +34,15 @@
   display: flow-root;
   font-size: 1.2em;
   font-weight: bold;
-  margin-bottom: 0.83em;
-  margin-top: 0.83em;
+  margin-bottom: 0;
+  margin-top: 0;
   white-space: pre-line;
-}
-
-@media (min-width: 800px) {
-  .big-quote .quote-text {
-    font-size: 1.5em;
-  }
 }
 
 .big-quote .quote-author {
   font-size: 1.17em;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
   font-weight: bold;
   display: block;
 }
@@ -66,4 +60,10 @@
 .edit-icon {
   display: inline-block;
   transform: rotateZ(90deg);
+}
+
+@media (min-width: 800px) {
+  .big-quote .quote-text {
+    font-size: 1.5em;
+  }
 }

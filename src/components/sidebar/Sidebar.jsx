@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux'
 import Filters from './Filters'
 import AuthorThumb from './AuthorThumb'
 import {getThumbnails, getImg} from '../../utils/helpers'
-import './Sidebar.css'
+import './sidebar.css'
 
 const Sidebar = () => {
   const {allAuthors, filteredAuthors} = useSelector(state => state)

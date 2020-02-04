@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import { NavLink } from 'react-router-dom'
 
 import {setLang, setScript, useTranslate, init} from '../../store/actions'
-import './Header.css'
+import './header.css'
 
 const Header = () => {
   const {lang, token, admin, script} = useSelector(state => state)

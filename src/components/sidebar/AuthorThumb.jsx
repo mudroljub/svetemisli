@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 
 import {useAuthorName, filterQuotes, toggleSelectedAuthors} from '../../store/actions'
 import unknownImage from '../../assets/images/unknown.jpg'
-import './AuthorThumb.css'
+import './author-thumb.css'
 
 const AuthorThumb = ({ author, image }) => {
   const dispatch = useDispatch()

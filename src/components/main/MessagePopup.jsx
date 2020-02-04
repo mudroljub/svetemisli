@@ -1,5 +1,5 @@
 import React from 'react'
-import './MessagePopup.css'
+import './message-popup.css'
 
 export default ({ message, closePopup }) => (
   <div>

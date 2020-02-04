@@ -17,10 +17,6 @@ h1, h2, h3 {
   color: darkred;
 }
 
-h1 {
-  margin-top: 8px;
-}
-
 h3 {
   margin: 8px 0;
 }
@@ -89,9 +85,6 @@ small {
   body {
     background-size: contain;
     line-height: 1.4;
-  }
-  h1 {
-    margin-top: 4px;
   }
   .hide-sm {
     display: block;

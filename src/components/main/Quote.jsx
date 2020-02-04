@@ -5,7 +5,7 @@ import {useDispatch, useSelector} from 'react-redux'
 import MessagePopup from './MessagePopup'
 import {API} from '../../config/api'
 import {deleteQuote, useTranslate, useTransliterate, useAuthorName} from '../../store/actions'
-import './Quote.css'
+import './quote.css'
 
 const Quote = ({ quote, showSource, cssClass }) => {
   const {token, lang, admin, phrase} = useSelector(state => state)

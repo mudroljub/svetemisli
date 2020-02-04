@@ -7,7 +7,7 @@ import Header from './header/Header'
 import Sidebar from './sidebar/Sidebar'
 import Router from './Router'
 import Footer from './header/Footer'
-import './App.css'
+import './app.css'
 
 const App = () => {
   const {translationMode, devMode} = useSelector(state => state)

@@ -1,5 +1,13 @@
 .App {
   padding: 0 20px;
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 100%;
+  grid-template-areas:
+  "m"
+  "s"
+  "f";
 }
 
 footer {
@@ -29,25 +37,8 @@ footer {
   text-align: center;
 }
 
-@media (min-width: 800px) {
-  .quote-box {
-    flex-wrap: nowrap;
-    padding: 40px 60px;
-  }
-  .quote-box img {
-    object-fit: contain;
-    margin-right: 40px;
-  }
-  .author-info {
-    float:right;
-    margin:0 15px;
-    width:350px;
-  }
-}
-
 @media (min-width: 1200px) {
   .App {
-    display: grid;
     grid-gap: 40px;
     grid-template-columns: 300px 1fr;
     grid-template-rows: 1fr auto;

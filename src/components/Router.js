@@ -27,7 +27,7 @@ const Router = () => (
     <Route path='/citati' component={waitFor(AllQuotes)} />
     <Route path='/prijava' component={waitFor(Login)} />
     <Route path='/citat/:id' component={waitFor(ShowQuote)} />
-    <Route path='/autor/:name' component={waitFor(Author)} />
+    <Route path='/avtor/:name' component={waitFor(Author)} />
     <Route path='/dodaj-citat' component={waitFor(AddQuote)} />
     <Route path='/neprevedeno' component={waitFor(Untranslated)} />
     <Route path='/pravi-citat/:id' component={waitFor(EditQuote)} />

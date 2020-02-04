@@ -10,7 +10,7 @@ const AuthorThumb = ({ author, image }) => {
   const dispatch = useDispatch()
   const authorName = useAuthorName()
   const {selectedAuthors} = useSelector(state => state)
-  const link = `/autor/${author.replace(/ /g, '_')}`
+  const link = `/avtor/${author.replace(/ /g, '_')}`
 
   const handleCheck = ({target}) => {
     const {checked, value} = target

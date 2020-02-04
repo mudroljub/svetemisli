@@ -23,7 +23,7 @@ const Quote = ({ quote, showSource, cssClass }) => {
     : translitTxt
 
   const {_id, author} = quote
-  const authorLink = `/autor/${author.replace(/ /g, '_')}`
+  const authorLink = `/avtor/${author.replace(/ /g, '_')}`
   const deleteCss = `pointer ${shouldDelete ? 'red' : ''}`
 
   const doDelete = () => {

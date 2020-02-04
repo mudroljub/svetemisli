@@ -56,11 +56,10 @@ const Quote = ({ quote, showSource, cssClass }) => {
   const percent = (x - min) / (max - min)
 
   let gridClass = ''
-  if (percent > .7) gridClass = 'polozen'
-  if (percent > .8) gridClass = 'polozen'
-  // if (percent > .9) gridClass = 'velik'
+  if (percent > .7) gridClass = Math.random() > .4 ? 'polozen' : 'uspravan'
 
-  let fontSize = 'unset' // 2 - percent + 'em'
+  let fontSize = 'unset'
+  if (percent < 0.3) fontSize = 1.4 - percent + 'em'
   if (percent < .06) {
     gridClass = 'polozen'
     fontSize = '1.6em'

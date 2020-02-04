@@ -57,12 +57,11 @@ const Quote = ({ quote, showSource, cssClass }) => {
 
   let gridClass = ''
   if (percent > .7) gridClass = 'polozen'
-  if (percent > .8) gridClass = 'uspravan'
-  if (percent > .9) gridClass = 'velik'
+  if (percent > .8) gridClass = 'polozen'
+  // if (percent > .9) gridClass = 'velik'
 
   let fontSize = 'unset' // 2 - percent + 'em'
-  if (percent < .1) fontSize = '1.4em'
-  if (percent < .05) {
+  if (percent < .06) {
     gridClass = 'polozen'
     fontSize = '1.6em'
   }

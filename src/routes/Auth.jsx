@@ -5,15 +5,19 @@ import {useDispatch} from 'react-redux'
 import {checkUser, useTranslate} from '../store/actions'
 import {LS} from '../config/localstorage'
 
+let checked = false
+
 const Auth = ({match}) => {
   const dispatch = useDispatch()
   const translate = useTranslate()
 
   useEffect(() => {
+    if (checked) return
     const {service, token} = match.params
     localStorage.setItem(LS.service, service)
     localStorage.setItem(LS.token, token)
     dispatch(checkUser())
+    checked = true
   }, [dispatch, match.params])
 
   return (

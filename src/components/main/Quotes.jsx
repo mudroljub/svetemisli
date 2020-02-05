@@ -31,7 +31,7 @@ export default function Quotes({quotes}) {
     .map(q => <Quote key={q._id} quote={q} />)
 
   return (
-    <main>
+    <div>
       {phrase && <small>{translate('SHOWING_RESULTS')} "{transliterate(phrase)}":</small>}
       <div className='citati'>
         {mappedQuotes}
@@ -39,6 +39,6 @@ export default function Quotes({quotes}) {
       {totalPages > 1 && (
         <Pagionation totalPages={totalPages} page={page} setPage={setPageAndScroll} />
       )}
-    </main>
+    </div>
   )
 }

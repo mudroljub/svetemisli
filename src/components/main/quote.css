@@ -45,6 +45,11 @@
   vertical-align: sub;
 }
 
+.velik .quote-text::first-line { 
+  font-weight: bold;
+  color: #353535;
+ }
+
 .small-quote .quote-text {
   margin: 0;
 }

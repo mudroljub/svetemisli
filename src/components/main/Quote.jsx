@@ -55,14 +55,16 @@ const Quote = ({ quote, showSource, cssClass }) => {
   const percent = (x - min) / (max - min) // raspon otprilike, procenat moze preci 0-1
 
   let gridClass = ''
-  if (percent > .7) gridClass = Math.random() > .4 ? 'polozen' : 'uspravan'
-  if (percent > 1.15) gridClass = 'velik'
+  let fontSize = undefined
 
-  let fontSize = 'unset'
-  if (percent < 0.15) fontSize = 1.4 - percent + 'em'
-  if (percent < .06) {
-    gridClass = 'polozen'
-    fontSize = '1.6em'
+  if (!cssClass) {
+    if (percent > .7) gridClass = Math.random() > .4 ? 'polozen' : 'uspravan'
+    if (percent > 1.15) gridClass = 'velik'
+    if (percent < 0.15) fontSize = 1.4 - percent + 'em'
+    if (percent < .06) {
+      gridClass = 'polozen'
+      fontSize = '1.6em'
+    }
   }
 
   return (

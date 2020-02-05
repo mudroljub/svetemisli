@@ -10,14 +10,20 @@ const prepareInfo = (author, info) => {
 export default function AuthorInfo({ author }) {
   const [info, setInfo] = useState('')
 
+  // https://stackoverflow.com/questions/56442582
   useEffect(() => {
+    let isCancelled = false
     setInfo('')
     fetch(`https://sh.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(author)}&prop=extracts&format=json&origin=*&redirects=1&exsentences=2&exintro=1`)
       .then(response => response.json())
       .then(obj => {
         const info = findValue(obj, 'extract')
-        setInfo(prepareInfo(author, info))
+        if (!isCancelled) setInfo(prepareInfo(author, info))
       })
+
+    return () => {
+      isCancelled = true
+    }
   }, [author])
 
   return (

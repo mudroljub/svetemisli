@@ -111,9 +111,9 @@ export default {
     src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/John_the_Baptist_%2815th_c.%2C_Rublev_museum%29_detail.jpg/38px-John_the_Baptist_%2815th_c.%2C_Rublev_museum%29_detail.jpg',
     ms: 'Johanan Krestitelj'
   },
-  'Jakov Pravedni': {
+  'Jakob Pravedni': {
     src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Saint_James_the_Just.jpg/35px-Saint_James_the_Just.jpg',
-    ms: 'Jakov Spravědlivy'
+    ms: 'Jakob Pravedny'
   },
   'Makarije Egipatski': {
     src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Saint_Mitrophan_of_Voronezh.jpg/39px-Saint_Mitrophan_of_Voronezh.jpg',
@@ -124,7 +124,8 @@ export default {
     ms: 'Maksim Izpovědnik'
   },
   Muhamed: {
-    src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Muhammad2.png/50px-Muhammad2.png'
+    src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Muhammad2.png/50px-Muhammad2.png',
+    ms: 'Muhamad'
   },
   'Pavle od Tarsa': {
     src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/File%22-Saint_Paul_Writing_His_Epistles%22_by_Valentin_de_Boulogne.jpg/50px-File%22-Saint_Paul_Writing_His_Epistles%22_by_Valentin_de_Boulogne.jpg',

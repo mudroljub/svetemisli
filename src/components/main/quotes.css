@@ -6,6 +6,12 @@
   grid-gap: 40px;
 }
 
+.citati img {
+  width: 100%;
+  height: 100%;
+  /* object-fit: cover; */
+}
+
 @media (min-width: 800px) {
   .uspravan {
     grid-row: span 2;

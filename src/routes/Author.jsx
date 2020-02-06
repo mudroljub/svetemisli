@@ -26,7 +26,7 @@ const Author = ({match}) => {
         <AuthorImage author={author} showImage={true} />
         <AuthorInfo author={author} />
       </div>
-      <Quotes quotes={filtered} />
+      <Quotes quotes={filtered} hideImage />
     </main>
   )
 }

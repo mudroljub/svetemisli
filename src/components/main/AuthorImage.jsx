@@ -44,7 +44,7 @@ const AuthorImage = ({author, showImage}) => {
       style={{opacity: +loaded, transition: 'opacity .4s' }}
       onLoad={() => setLoaded(true)}
       alt={showImage ? author : 'cvět'}
-      width={imgWidth + 'px'}
+      width={imgWidth}
     />
   )
 }

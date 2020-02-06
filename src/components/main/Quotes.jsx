@@ -21,9 +21,14 @@ export default function Quotes({quotes, hideImage}) {
 
   const image = <img
     src={chakra}
-    alt={'cvět'}
-    width={'250'}
+    alt="cvět"
+    key="cvět"
+    width="250"
   />
+
+  const addImgTo = arr => {
+    arr.splice(Math.floor(quotesPerPage / 2), 0, image)
+  }
 
   const setPageAndScroll = x => {
     setPage(x)
@@ -33,17 +38,17 @@ export default function Quotes({quotes, hideImage}) {
   const totalPages = Math.ceil(quotes.length / quotesPerPage)
   const startPosition = page * quotesPerPage
 
-  const mappedQuotes = quotes
+  const jsxQuotes = quotes
     .filter((q, i) => i >= startPosition && i < startPosition + quotesPerPage)
     .map(q => <Quote key={q._id} quote={q} />)
 
-  if (!hideImage) mappedQuotes.splice(Math.floor(quotesPerPage / 2), 0, image) // add img to array
+  if (!hideImage) addImgTo(jsxQuotes)
 
   return (
     <div>
       {phrase && <small>{translate('SHOWING_RESULTS')} "{transliterate(phrase)}":</small>}
       <div className='citati'>
-        {mappedQuotes}
+        {jsxQuotes}
       </div>
       {totalPages > 1 && (
         <Pagionation totalPages={totalPages} page={page} setPage={setPageAndScroll} />

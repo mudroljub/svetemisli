@@ -59,7 +59,7 @@ const Quote = ({ quote, showSource, cssClass }) => {
 
   if (!cssClass) {
     if (percent > .7) gridClass = Math.random() > .4 ? 'polozen' : 'uspravan'
-    if (percent > 1.15) gridClass = 'velik'
+    if (percent > 1.15) gridClass += ' first-line'
     if (percent < 0.15) fontSize = 1.4 - percent + 'em'
     if (percent < .06) {
       gridClass = 'polozen'

@@ -16,13 +16,13 @@
   .uspravan {
     grid-row: span 2;
   }
-  
+
   .polozen {
     grid-column: span 2;
   }
-  
+
   .velik {
     grid-row: span 2;
     grid-column: span 2;
-  }  
+  }
 }

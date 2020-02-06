@@ -57,6 +57,7 @@ blockquote {
 small {
   opacity: 0.9;
   display: inline-block;
+  font-size: 12px;
 }
 
 .no-link {

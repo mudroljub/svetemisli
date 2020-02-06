@@ -1,12 +1,12 @@
 // https://googlechrome.github.io/samples/service-worker/basic/
-const PRECACHE = 'precache-v6'
+const PRECACHE = 'precache-v7'
 const RUNTIME = 'runtime'
 
 // A list of local resources we always want to be cached.
 const PRECACHE_URLS = [
   '/', // Alias for index.html
   'index.html',
-  'Bukyvede-updated.ttf',
+  'https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6r2ZAbaqe-LGs.woff2',
 ]
 
 // The install handler takes care of precaching the resources we always need.

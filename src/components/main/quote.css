@@ -1,11 +1,11 @@
 /* veliki citat sa slikom */
-
 .quote-box {
   background: #252525;
   color: #e5e5e5;
   display: flex;
   flex-wrap: wrap-reverse;
   margin: 20px 0;
+  padding: 20px;
 }
 
 .quote-box img {

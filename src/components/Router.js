@@ -1,38 +1,29 @@
-import React, {Suspense} from 'react'
+import React from 'react'
 import {Switch, Route} from 'react-router-dom'
 
 import Profile from '../routes/Profile'
 import RandomQuote from '../routes/RandomQuote'
-
-const AllQuotes = React.lazy(() => import('../routes/AllQuotes'))
-const Author = React.lazy(() => import('../routes/Author'))
-const EditQuote = React.lazy(() => import('../routes/EditQuote'))
-const AddQuote = React.lazy(() => import('../routes/AddQuote'))
-const ShowQuote = React.lazy(() => import('../routes/ShowQuote'))
-const Login = React.lazy(() => import('../routes/Login'))
-const Auth = React.lazy(() => import('../routes/Auth'))
-const Untranslated = React.lazy(() => import('../routes/Untranslated'))
-
-function waitFor(Component) {
-  return props => (
-    <Suspense fallback={<div>Loading...</div>}>
-      <Component {...props} />
-    </Suspense>
-  )
-}
+import AllQuotes from '../routes/AllQuotes'
+import Author from '../routes/Author'
+import EditQuote from '../routes/EditQuote'
+import AddQuote from '../routes/AddQuote'
+import ShowQuote from '../routes/ShowQuote'
+import Login from '../routes/Login'
+import Auth from '../routes/Auth'
+import Untranslated from '../routes/Untranslated'
 
 const Router = () => (
   <Switch>
     <Route path='/' exact component={RandomQuote} />
-    <Route path='/citati' component={waitFor(AllQuotes)} />
-    <Route path='/prijava' component={waitFor(Login)} />
-    <Route path='/citat/:id' component={waitFor(ShowQuote)} />
-    <Route path='/avtor/:name' component={waitFor(Author)} />
-    <Route path='/dodaj-citat' component={waitFor(AddQuote)} />
-    <Route path='/neprevedeno' component={waitFor(Untranslated)} />
-    <Route path='/pravi-citat/:id' component={waitFor(EditQuote)} />
+    <Route path='/citati' component={AllQuotes} />
+    <Route path='/prijava' component={Login} />
+    <Route path='/citat/:id' component={ShowQuote} />
+    <Route path='/avtor/:name' component={Author} />
+    <Route path='/dodaj-citat' component={AddQuote} />
+    <Route path='/neprevedeno' component={Untranslated} />
+    <Route path='/pravi-citat/:id' component={EditQuote} />
     <Route path='/moj-profil' component={Profile} />
-    <Route path='/auth/:service/:token' component={waitFor(Auth)} />
+    <Route path='/auth/:service/:token' component={Auth} />
   </Switch>
 )
 

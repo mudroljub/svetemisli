@@ -2,7 +2,8 @@
 
 ě
 
-- koji -> iže
+- koji -> iže -> ktory
+- skloniti kontakt formu sa škole koda
 - uraditi masovno tagovanje, kao na znacima
 
 - node.js backend rendering?

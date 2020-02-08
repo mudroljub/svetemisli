@@ -1,5 +1,5 @@
 .quote-text {
-  white-space: pre; /* čuva prelom stihova */
+  white-space: pre-line; /* čuva prelom stihova */
 }
 
 .quote-author {

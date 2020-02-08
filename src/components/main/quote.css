@@ -1,3 +1,7 @@
+.quote-text {
+  white-space: pre; /* čuva prelom stihova */
+}
+
 .quote-author {
   margin-top: 8px;
   display: inline-block;

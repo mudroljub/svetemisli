@@ -1,4 +1,8 @@
 export default {
+  'Zhaozhou Congshen': {
+    common: 'Džošu',
+    src: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Zhaozhou_Congshen-Fozu_zhengzong_daoying37.jpg'
+  },
   'Friedrich Nietzsche': {
     src: 'https://upload.wikimedia.org/wikipedia/commons/2/23/Nietzsche1882.jpg',
     common: 'Niče'

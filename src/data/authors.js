@@ -1,4 +1,8 @@
 export default {
+  'Yunmen Wenyan': {
+    common: 'Umon',
+    src: 'https://upload.wikimedia.org/wikipedia/commons/4/4d/Ummon.png'
+  },
   'Zhaozhou Congshen': {
     common: 'Džošu',
     src: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Zhaozhou_Congshen-Fozu_zhengzong_daoying37.jpg'

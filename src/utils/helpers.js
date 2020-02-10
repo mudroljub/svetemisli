@@ -1,4 +1,4 @@
-import authors from '../data/authors'
+import authors from '../data/authors.json'
 
 export const isLang = (q, lang, translationMode = false) =>
   q[lang] && (translationMode ? !q.ms : true)

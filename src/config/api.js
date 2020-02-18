@@ -3,9 +3,9 @@ export const domain = process.env.REACT_APP_ENV === 'development'
   : 'https://svetemysli-api.herokuapp.com'
 
 export const API = {
-  create: `${domain}/svetemisli/`,
-  read: `${domain}/svetemisli/`,
-  update: `${domain}/svetemisli/`,
-  delete: `${domain}/svetemisli/`,
-  randomLang: `${domain}/svetemisli/random/lang/`, // + lang
+  create: `${domain}/api/`,
+  read: `${domain}/api/`,
+  update: `${domain}/api/`,
+  delete: `${domain}/api/`,
+  randomLang: `${domain}/api/random/lang/`, // + lang
 }

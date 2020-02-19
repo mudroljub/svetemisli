@@ -37,8 +37,7 @@ nav a, .header-lang label {
 }
 
 nav a {
-  padding: 8px 0;
-  /* margin: 4px; */
+  padding: 6px 0;
 }
 
 nav .active {

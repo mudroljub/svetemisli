@@ -1,9 +1,7 @@
 header {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-areas:
-  "i i"
-  "n l";
+  grid-template-areas: "i i" "n l";
 }
 
 .header-info {
@@ -34,8 +32,7 @@ header h3 {
   margin-top: 8px;
 }
 
-nav a,
-.header-lang label {
+nav a, .header-lang label {
   display: block;
 }
 
@@ -48,14 +45,15 @@ nav .active {
   font-weight: bold;
 }
 
+footer {
+  text-align: center;
+}
+
 @media(min-width: 800px) {
   header {
-    grid-template-areas:
-    "i l"
-    "n n";
+    grid-template-areas: "i l" "n n";
   }
-  nav a,
-  .header-lang label {
+  nav a, .header-lang label {
     display: inline-block;
   }
   .header-lang {
@@ -68,5 +66,8 @@ nav .active {
   nav a {
     padding: 10px;
     margin: 0 8px 0 0;
+  }
+  footer {
+    text-align: left;
   }
 }

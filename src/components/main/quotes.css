@@ -12,6 +12,15 @@
   /* object-fit: cover; */
 }
 
+.author-info {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  overflow: auto;
+  padding: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
 @media (min-width: 800px) {
   .uspravan {
     grid-row: span 2;

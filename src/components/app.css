@@ -1,13 +1,10 @@
 .App {
-  padding: 0 20px;
+  padding: 0 16px;
   min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns: 100%;
-  grid-template-areas:
-  "m"
-  "s"
-  "f";
+  grid-template-areas: "m" "s" "f";
 }
 
 footer {
@@ -15,12 +12,10 @@ footer {
   grid-area: f;
 }
 
-.author-info {
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  overflow: auto;
-  padding: 15px 15px 0;
-  text-align: center;
+@media (min-width: 800px) {
+  .App {
+    padding: 0 20px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -28,9 +23,7 @@ footer {
     grid-gap: 40px;
     grid-template-columns: 300px 1fr;
     grid-template-rows: 1fr auto;
-    grid-template-areas:
-    "s m"
-    "s f";
+    grid-template-areas: "s m" "s f";
     min-height: 100vh;
   }
   .main-section {

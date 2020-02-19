@@ -8,10 +8,12 @@ export default function Footer() {
 
   return (
     <footer>
-      <a style={{ marginRight: '8px' }} href="https://twitter.com/svetemysli" target="_blank" rel="noopener noreferrer">
-        <img src={twitter} alt="twitter" />
-      </a>
-      <small><code>{translate('FOOTER_TEXT')} mudroljub(at)gmail.com</code></small>
+      <small>
+        <a style={{ marginRight: '8px', verticalAlign: 'middle' }} href="https://twitter.com/svetemysli" target="_blank" rel="noopener noreferrer" title="Svete mysli Twitter">
+          <img src={twitter} alt="twitter" />
+        </a>
+        <code>{translate('FOOTER_TEXT')} mudroljub(at)gmail.com</code>
+      </small>
     </footer>
   )
 }

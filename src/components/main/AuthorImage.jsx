@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react'
 
 import {getImg, getSize} from '../../utils/helpers'
 import chakra from '../../assets/images/chakra.svg'
+import unknown from '../../assets/images/unknown.jpg'
 
 const mdMin = 800
 const imgWidth = window.innerWidth < mdMin ? window.innerWidth : 250
@@ -30,10 +31,10 @@ const AuthorImage = ({author, showImage}) => {
           const obj = res.query.pages[key]
           if (obj.thumbnail) return setSrc(obj.thumbnail.source)
         }
-        if (!src) setSrc(chakra)
+        if (!src) setSrc(unknown)
       })
       .catch(() => {
-        setSrc(chakra)
+        setSrc(unknown)
         setLoaded(true) // istu sliku ne ucitava opet, pa ostaje false
       })
   }, [author, showImage, src])

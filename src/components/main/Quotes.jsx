@@ -46,7 +46,7 @@ export default function Quotes({quotes, hideImage}) {
 
   return (
     <div>
-      {phrase && <small>{translate('SHOWING_RESULTS')} "{transliterate(phrase)}":</small>}
+      {phrase && <small style={{ display: 'block', marginBottom: '10px'}}>{translate('SHOWING_RESULTS')} "{transliterate(phrase)}":</small>}
       <div className='citati'>
         {jsxQuotes}
       </div>

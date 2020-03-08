@@ -20,7 +20,7 @@ const initialState = {
   allAuthors: new Set([...allAuthors].sort(sortAbc)),
   filteredAuthors: [...filteredAuthors].sort(sortAbc), // shown in sidebar
   selectedAuthors: new Set(), // selected from sidebar
-  admin: false,
+  admin: localStorage.getItem(LS.admin) === 'true',
   phrase: '',
   authorPhrase: '',
   sourcePhrase: '',

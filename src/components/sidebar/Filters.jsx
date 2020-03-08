@@ -31,7 +31,7 @@ const Filters = () => {
       <h3><label htmlFor="avtori">{translate('SEARCH_AUTHORS')}</label></h3>
       <input id="avtori" value={authorPhrase} onChange={changeAuthorPhrase} />
 
-      <h3><label htmlFor="izvori">{translate('SEARCH_SOURCES')}</label></h3>
+      <label style={{ display: 'block', marginTop: '4px' }} htmlFor="izvori">{translate('SEARCH_SOURCES')}</label>
       <input id="izvori" value={sourcePhrase} onChange={changeSourcePhrase} />
     </div>
   )}

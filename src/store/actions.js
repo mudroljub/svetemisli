@@ -55,7 +55,7 @@ export const updateQuote = quote => ({type: 'UPDATE_QUOTE', quote})
 
 export const deleteQuote = _id => ({type: 'DELETE_QUOTE', _id})
 
-export const filterAuthors = phrase => ({type: 'FILTER_AUTHORS', phrase})
+export const filterAuthors = () => ({type: 'FILTER_AUTHORS'})
 
 export const filterQuotes = () => ({type: 'FILTER_QUOTES'})
 
@@ -64,6 +64,8 @@ export const toggleSelectedAuthors = (shouldAdd, value) => ({type: 'TOGGLE_SELEC
 export const setPhrase = phrase => ({type: 'SET_PHRASE', phrase})
 
 export const setAuthorPhrase = authorPhrase => ({type: 'SET_AUTHOR_PHRASE', authorPhrase})
+
+export const setSourcePhrase = sourcePhrase => ({type: 'SET_SOURCE_PHRASE', sourcePhrase})
 
 /* THUNK */
 

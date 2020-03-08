@@ -1,10 +1,10 @@
 import React from 'react'
 import {useDispatch, useSelector} from 'react-redux'
 
-import {filterQuotes, filterAuthors, useTranslate, setPhrase, setAuthorPhrase} from '../../store/actions'
+import {filterQuotes, filterAuthors, useTranslate, setPhrase, setAuthorPhrase, setSourcePhrase} from '../../store/actions'
 
 const Filters = () => {
-  const {phrase, authorPhrase} = useSelector(state => state)
+  const {phrase, authorPhrase, sourcePhrase} = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
 
@@ -18,6 +18,11 @@ const Filters = () => {
     dispatch(filterAuthors())
   }
 
+  const changeSourcePhrase = e => {
+    dispatch(setSourcePhrase(e.target.value))
+    dispatch(filterQuotes())
+  }
+
   return (
     <div className="filters">
       <h3><label htmlFor="izreke">{translate('SEARCH_QUOTES')}</label></h3>
@@ -25,6 +30,9 @@ const Filters = () => {
 
       <h3><label htmlFor="avtori">{translate('SEARCH_AUTHORS')}</label></h3>
       <input id="avtori" value={authorPhrase} onChange={changeAuthorPhrase} />
+
+      <h3><label htmlFor="izvori">{translate('SEARCH_SOURCES')}</label></h3>
+      <input id="izvori" value={sourcePhrase} onChange={changeSourcePhrase} />
     </div>
   )}
 

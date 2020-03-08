@@ -23,6 +23,7 @@ const initialState = {
   admin: false,
   phrase: '',
   authorPhrase: '',
+  sourcePhrase: '',
   isFetching: false,
   lang: defaultLang,
   script: localStorage.getItem(LS.script) || 'kir',
@@ -32,13 +33,14 @@ const initialState = {
 }
 
 export const reducer = (state = initialState, action) => {
-  const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase} = state
+  const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase, sourcePhrase} = state
   const {quote} = action
 
   const ifLang = q => isLang(q, lang, translationMode)
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
   const filterQ = q => ifLang(q)
     && (phrase ? includes(q[lang], phrase) : true)
+    && (sourcePhrase ? includes(q.source, sourcePhrase) : true)
     && (selectedAuthors.size ? selectedAuthors.has(q.author) : true)
 
   switch (action.type) {
@@ -88,6 +90,8 @@ export const reducer = (state = initialState, action) => {
       return {...state, phrase: action.phrase }
     case 'SET_AUTHOR_PHRASE':
       return {...state, authorPhrase: action.authorPhrase }
+    case 'SET_SOURCE_PHRASE':
+      return {...state, sourcePhrase: action.sourcePhrase }
     case 'SET_TRANSLATION_MODE':
       return {...state, translationMode: action.translationMode }
     case 'SET_DEV_MODE':

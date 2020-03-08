@@ -25,4 +25,5 @@ npm start
 
 # TODO
 
+- napraviti cvet komponentu
 - node.js backend rendering i jezicke rute za svaki citat?

@@ -1,6 +1,6 @@
 import quotes from '../data/quotes.json'
 import {LS} from '../config/localstorage'
-import {includes, shuffle, getName, compare, isLang} from '../utils/helpers'
+import {includes, shuffle, getName, compare, isLang, isInText, isInSource} from '../utils/helpers'
 
 const defaultLang = localStorage.getItem(LS.lang) || 'ms'
 
@@ -36,11 +36,12 @@ export const reducer = (state = initialState, action) => {
   const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase, sourcePhrase} = state
   const {quote} = action
 
-  const ifLang = q => isLang(q, lang, translationMode)
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
-  const filterQ = q => ifLang(q)
-    && (phrase ? includes(q[lang], phrase) : true)
-    && (sourcePhrase ? includes(q.source, sourcePhrase) : true)
+
+  const filterQ = q =>
+    isLang(q, lang, translationMode)
+    && isInText(q[lang], phrase)
+    && isInSource(q.source, sourcePhrase)
     && (selectedAuthors.size ? selectedAuthors.has(q.author) : true)
 
   switch (action.type) {

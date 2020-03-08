@@ -3,7 +3,6 @@ import {Link} from 'react-router-dom'
 import {useDispatch} from 'react-redux'
 
 import {checkUser, useTranslate} from '../store/actions'
-import {LS} from '../config/localstorage'
 
 let checked = false
 
@@ -14,9 +13,7 @@ const Auth = ({match}) => {
   useEffect(() => {
     if (checked) return
     const {service, token} = match.params
-    localStorage.setItem(LS.service, service)
-    localStorage.setItem(LS.token, token)
-    dispatch(checkUser())
+    dispatch(checkUser(token, service))
     checked = true
   }, [dispatch, match.params])
 

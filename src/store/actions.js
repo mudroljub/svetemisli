@@ -55,7 +55,7 @@ export const updateQuote = quote => ({type: 'UPDATE_QUOTE', quote})
 
 export const deleteQuote = _id => ({type: 'DELETE_QUOTE', _id})
 
-export const filterAuthors = phrase => ({type: 'FILTER_AUTHORS', phrase})
+export const filterAuthors = () => ({type: 'FILTER_AUTHORS'})
 
 export const filterQuotes = () => ({type: 'FILTER_QUOTES'})
 
@@ -65,17 +65,22 @@ export const setPhrase = phrase => ({type: 'SET_PHRASE', phrase})
 
 export const setAuthorPhrase = authorPhrase => ({type: 'SET_AUTHOR_PHRASE', authorPhrase})
 
+export const setSourcePhrase = sourcePhrase => ({type: 'SET_SOURCE_PHRASE', sourcePhrase})
+
 /* THUNK */
 
 export const setUser = (token, admin = false) => dispatch => {
   dispatch(setToken(token))
   dispatch(setAdmin(admin))
+  localStorage.setItem(LS.token, token)
+  localStorage.setItem(LS.admin, admin)
 }
 
 export const logout = () => dispatch => {
   dispatch(setToken(''))
   dispatch(setAdmin(false))
   localStorage.setItem(LS.token, '')
+  localStorage.setItem(LS.admin, false)
 }
 
 export const fetchQuotes = () => async dispatch => {
@@ -118,10 +123,8 @@ export const checkCountry = () => async dispatch => {
   // }
 }
 
-export const checkUser = () => (dispatch, getState) => {
-  const {token} = getState()
+export const checkUser = (token, service) => dispatch => {
   if (!token) return
-  const service = localStorage.getItem(LS.service)
   fetch(`${domain}/auth/${service}/${token}`)
     .then(response => response.json())
     .then(response => {

@@ -18,6 +18,14 @@ export const includes = (text, phrase) => {
   return t.includes(p) || t.replace(/ě/g, 'e').replace(/y/g, 'i').includes(p)
 }
 
+export const isInText = (text, phrase) => phrase ? includes(text, phrase) : true
+
+export const isInSource = (source, phrase) => {
+  if (!phrase) return true
+  if (phrase === ' ') return !source
+  return includes(source, phrase)
+}
+
 export function smoothscroll() {
   const y = document.documentElement.scrollTop || document.body.scrollTop
   const top = document.getElementById('header').scrollHeight

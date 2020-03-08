@@ -1,6 +1,6 @@
 import quotes from '../data/quotes.json'
 import {LS} from '../config/localstorage'
-import {includes, shuffle, getName, compare, isLang} from '../utils/helpers'
+import {includes, shuffle, getName, compare, isLang, isInText, isInSource} from '../utils/helpers'
 
 const defaultLang = localStorage.getItem(LS.lang) || 'ms'
 
@@ -20,9 +20,10 @@ const initialState = {
   allAuthors: new Set([...allAuthors].sort(sortAbc)),
   filteredAuthors: [...filteredAuthors].sort(sortAbc), // shown in sidebar
   selectedAuthors: new Set(), // selected from sidebar
-  admin: false,
+  admin: localStorage.getItem(LS.admin) === 'true',
   phrase: '',
   authorPhrase: '',
+  sourcePhrase: '',
   isFetching: false,
   lang: defaultLang,
   script: localStorage.getItem(LS.script) || 'kir',
@@ -32,13 +33,15 @@ const initialState = {
 }
 
 export const reducer = (state = initialState, action) => {
-  const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase} = state
+  const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase, sourcePhrase} = state
   const {quote} = action
 
-  const ifLang = q => isLang(q, lang, translationMode)
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
-  const filterQ = q => ifLang(q)
-    && (phrase ? includes(q[lang], phrase) : true)
+
+  const filterQ = q =>
+    isLang(q, lang, translationMode)
+    && isInText(q[lang], phrase)
+    && isInSource(q.source, sourcePhrase)
     && (selectedAuthors.size ? selectedAuthors.has(q.author) : true)
 
   switch (action.type) {
@@ -88,6 +91,8 @@ export const reducer = (state = initialState, action) => {
       return {...state, phrase: action.phrase }
     case 'SET_AUTHOR_PHRASE':
       return {...state, authorPhrase: action.authorPhrase }
+    case 'SET_SOURCE_PHRASE':
+      return {...state, sourcePhrase: action.sourcePhrase }
     case 'SET_TRANSLATION_MODE':
       return {...state, translationMode: action.translationMode }
     case 'SET_DEV_MODE':

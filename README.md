@@ -26,8 +26,8 @@ npm start
 # TODO
 
 - napraviti cvet komponentu
-- Budi blagy k bezobzirnom, praščaj kto ti nepravdu čini, daj tomu kto tebe lišava i pomaži togo kto tebe ostavja.
 - da ne bude user selectable ↠ ✎ ✕
+- youtube u footer
 - dugme za prethodni citat
 - zbirka mističnih citata
 - node.js backend rendering i jezicke rute za svaki citat?

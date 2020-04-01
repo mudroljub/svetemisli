@@ -25,6 +25,8 @@ npm start
 
 # TODO
 
+- буг: извор урл прелива
+- заменити урл са бухаријевом збирком
 - napraviti cvet komponentu
 - da ne bude user selectable ↠ ✎ ✕
 - youtube u footer

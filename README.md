@@ -25,6 +25,8 @@ npm start
 
 # TODO
 
+- minimalna sirina sidebara
+- sakriti pretragu po izvoru
 - буг: извор урл прелива
 - заменити урл са бухаријевом збирком
 - napraviti cvet komponentu

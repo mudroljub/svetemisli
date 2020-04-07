@@ -1,11 +1,13 @@
 /* global cy */
 
-// localhost:3000
-// svetemysli.github.io
+const site = {
+  dev: 'localhost:3000',
+  prod: 'svetemysli.github.io'
+}
 
 describe('Testira Svete misli', () => {
   it('Otvara naslovnu', () => {
-    cy.visit('localhost:3000')
+    cy.visit(site.dev)
   })
 
   it('Provarava navigaciju', () => {
@@ -29,6 +31,22 @@ describe('Testira Svete misli', () => {
     cy.get('blockquote')
       .should('be.visible')
       .should('not.be.empty')
+  })
+
+  it('Menja citat', () => {
+    let quoteText
+
+    cy.get('.quote-text')
+      .then($quote => {
+        quoteText = $quote.text()
+      })
+
+    cy.contains('Још мудрости').click()
+
+    cy.get('.quote-text')
+      .then($quote => {
+        expect($quote.text()).not.to.equal(quoteText)
+      })
   })
 
 })

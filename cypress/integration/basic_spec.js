@@ -50,5 +50,6 @@ describe('Testira Svete misli', () => {
   })
 
   // TODO: menja jezik i pismo
+  // videti primere
 
 })

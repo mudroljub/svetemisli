@@ -24,10 +24,12 @@
 .source-value {
   color: #c5c5c5;
   font-style: italic;
+  overflow-wrap: break-word;
 }
 
 .icons {
   float: right;
+  user-select: none;
   white-space: nowrap;
 }
 

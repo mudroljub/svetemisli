@@ -25,7 +25,7 @@ const ShowQuote = ({match}) => {
   return (
     <main>
       <ImageQuote quote={quote} showSource={true} cssClass="big-quote" />
-      <button><Link to="/" className="no-link" replace>{translate('MORE_WISDOM')}</Link></button>
+      <Link to="/" replace>{translate('BACK')}</Link>
     </main>
   )
 }

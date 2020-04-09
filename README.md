@@ -27,7 +27,6 @@ npm start
 
 - azurirati izvor http://www.duhovnaizgradnja.net/stranice/tekstovi/duhovni_biseri/hadisi.htm
 - napraviti cvet komponentu
-- youtube u footer
 - dugme za prethodni citat
 - zbirka mističnih citata
 - node.js backend rendering i jezicke rute za svaki citat?

@@ -25,5 +25,5 @@ npm start
 
 # TODO
 
-- azurirati izvor http://www.duhovnaizgradnja.net/stranice/tekstovi/duhovni_biseri/hadisi.htm
-- node.js backend rendering i jezicke rute za svaki citat?
+- rute za jezik i pismo
+- node.js backend rendering

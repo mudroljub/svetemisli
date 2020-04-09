@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useState} from 'react'
 import {useDispatch, useSelector} from 'react-redux'
 
 import {filterQuotes, filterAuthors, useTranslate, setPhrase, setAuthorPhrase, setSourcePhrase} from '../../store/actions'
@@ -7,6 +7,7 @@ const Filters = () => {
   const {phrase, authorPhrase, sourcePhrase} = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
+  const [show, setShow] = useState(false)
 
   const changePhrase = e => {
     dispatch(setPhrase(e.target.value))
@@ -31,8 +32,13 @@ const Filters = () => {
       <h3><label htmlFor="avtori">{translate('SEARCH_AUTHORS')}</label></h3>
       <input id="avtori" value={authorPhrase} onChange={changeAuthorPhrase} />
 
-      <label style={{ display: 'block', marginTop: '4px' }} htmlFor="izvori">{translate('SEARCH_SOURCES')}</label>
-      <input id="izvori" value={sourcePhrase} onChange={changeSourcePhrase} />
+      <div style={{textAlign: 'right'}} >
+        <span onClick={() => setShow(!show)}>⚙</span>
+      </div>
+      {show && <div>
+        <h3><label htmlFor="izvori">{translate('SEARCH_SOURCES')}</label></h3>
+        <input id="izvori" value={sourcePhrase} onChange={changeSourcePhrase} />
+      </div>}
     </div>
   )}
 

@@ -2,6 +2,7 @@
   "sr": {
     "APP_NAME": "Svete misli",
     "ADD_QUOTE": "Dodaj citat",
+    "BACK": "Nazad",
     "UNTRANSLATED": "Neprevedeno",
     "NO_UNTRANSLATED": "Nema neprevednih citata za izabrani jezik",
     "ADMIN_REQUIRED": "Moraš biti administrator.",
@@ -46,6 +47,7 @@
   "ms": {
     "APP_NAME": "Svete mysli",
     "ADD_QUOTE": "Dodaj citat",
+    "BACK": "Nazad",
     "UNTRANSLATED": "Neprěvedeno",
     "NO_UNTRANSLATED": "Ne ima neprěvednyh citatov za izbrany jezyk",
     "ADMIN_REQUIRED": "Moraš byti administrator.",

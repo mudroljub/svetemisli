@@ -25,12 +25,8 @@ npm start
 
 # TODO
 
-- minimalna sirina sidebara
-- sakriti pretragu po izvoru
-- буг: извор урл прелива
-- заменити урл са бухаријевом збирком
+- azurirati izvor http://www.duhovnaizgradnja.net/stranice/tekstovi/duhovni_biseri/hadisi.htm
 - napraviti cvet komponentu
-- da ne bude user selectable ↠ ✎ ✕
 - youtube u footer
 - dugme za prethodni citat
 - zbirka mističnih citata

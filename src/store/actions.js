@@ -135,6 +135,24 @@ export const checkUser = (token, service) => dispatch => {
     })
 }
 
+export const sendQuote = obj => (dispatch, getState) => {
+  const {token} = getState()
+  const endpoint = obj._id ? API.update : API.create
+  const method = obj._id ? 'PUT' : 'POST'
+  return fetch(endpoint, {
+    method,
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ ...obj, token })
+  })
+    .then(res => res.json())
+    .then(res => {
+      if (res.message !== 'SUCCESS_SAVED') return
+      const action = obj._id ? updateQuote : addQuote
+      dispatch(action(res.quote))
+      return res.quote._id
+    })
+}
+
 /* SELECTORS */
 
 export const useTranslate = () => {

@@ -1,13 +1,11 @@
 import React, {useState} from 'react'
 import {Link, useHistory} from 'react-router-dom'
-import {useSelector, useDispatch} from 'react-redux'
+import {useDispatch} from 'react-redux'
 
-import {addQuote, updateQuote, useTranslate} from '../../store/actions'
+import {useTranslate, sendQuote} from '../../store/actions'
 import MessagePopup from './MessagePopup'
-import {API} from '../../config/api'
 
 const EditForm = ({ quote }) => {
-  const {token} = useSelector(state => state)
   const dispatch = useDispatch()
   const translate = useTranslate()
   const history = useHistory()
@@ -15,7 +13,7 @@ const EditForm = ({ quote }) => {
   const [validation, setValidation] = useState('')
   const [response, setResponse] = useState('')
 
-  const postQuote = e => {
+  const postQuote = async e => {
     e.preventDefault()
     setValidation('')
     const obj = Object.values(e.target.elements)
@@ -24,23 +22,12 @@ const EditForm = ({ quote }) => {
 
     if (!obj.author || !obj.sr) return setValidation(translate('REQUIRED_FIELDS'))
 
-    const endpoint = obj._id ? API.update : API.create
-    const method = obj._id ? 'PUT' : 'POST'
-    fetch(endpoint, {
-      method,
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ ...obj, token })
-    })
-      .then(res => res.json())
-      .then(res => {
-        if (res.message !== 'SUCCESS_SAVED') return
-        const action = obj._id ? updateQuote : addQuote
-        dispatch(action(res.quote))
-        history.push(`/citat/${res.quote._id}`)
-      })
-      .catch(err => {
-        setResponse(translate('NETWORK_PROBLEM'))
-      })
+    try {
+      const id = await dispatch(sendQuote(obj))
+      history.push(`/citat/${id}`)
+    } catch (error) {
+      setResponse(translate('NETWORK_PROBLEM'))
+    }
   }
 
   return (

@@ -145,7 +145,7 @@ export const sendQuote = obj => (dispatch, getState) => {
 
   if (offlineMode) {
     const oldArr = JSON.parse(localStorage.getItem(LS.updatedOffline))
-    // ako nema niza kreira niz
+    // ako nema niza kreira
     // ako niz sadrzi citat azurira, ako nema dodaje
     const newArr = !Array.isArray(oldArr)
       ? [obj]

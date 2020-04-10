@@ -6,4 +6,6 @@ export const LS = {
   script: 'sveteMisli.script',
   translationMode: 'sveteMisli.translationMode',
   devMode: 'sveteMisli.devMode',
+  offlineMode: 'sveteMisli.offlineMode',
+  updatedOffline: 'sveteMisli.updatedOffline',
 }

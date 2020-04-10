@@ -141,7 +141,21 @@ export const checkUser = (token, service) => dispatch => {
 }
 
 export const sendQuote = obj => (dispatch, getState) => {
-  const {token} = getState()
+  const {token, offlineMode} = getState()
+
+  if (offlineMode) {
+    const oldArr = JSON.parse(localStorage.getItem(LS.updatedOffline))
+    // ako nema niza kreira niz
+    // ako niz sadrzi citat azurira, ako nema dodaje
+    const newArr = !Array.isArray(oldArr)
+      ? [obj]
+      : oldArr.find(x => x._id === obj._id)
+        ? oldArr.map(x => x._id === obj._id ? obj : x)
+        : [...oldArr, obj]
+    localStorage.setItem(LS.updatedOffline, JSON.stringify(newArr))
+    return new Promise(resolve => resolve(obj._id))
+  }
+
   const endpoint = obj._id ? API.update : API.create
   const method = obj._id ? 'PUT' : 'POST'
   return fetch(endpoint, {

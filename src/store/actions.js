@@ -33,6 +33,11 @@ export const setDevMode = devMode => {
   return { type: 'SET_DEV_MODE', devMode }
 }
 
+export const setOfflineMode = offlineMode => {
+  localStorage.setItem(LS.offlineMode, offlineMode)
+  return { type: 'SET_OFFLINE_MODE', offlineMode }
+}
+
 export const toggleTranslationMode = () => (dispatch, getState) => {
   const {translationMode} = getState()
   dispatch(setTranslationMode(!translationMode))

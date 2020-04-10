@@ -1,12 +1,12 @@
 import React, {useState, useEffect} from 'react'
 import { useSelector, useDispatch} from 'react-redux'
 
-import {setUser, logout, useTranslate, toggleTranslationMode, toggleDevMode} from '../store/actions'
+import {setUser, logout, useTranslate, toggleTranslationMode, toggleDevMode, setOfflineMode} from '../store/actions'
 import {LS} from '../config/localstorage'
 import {domain} from '../config/api'
 
 const Profile = () =>  {
-  const {token, admin, translationMode, devMode} = useSelector(state => state)
+  const {token, admin, translationMode, devMode, offlineMode} = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
   const [memberSince, setMemberSince] = useState(null)
@@ -36,6 +36,10 @@ const Profile = () =>  {
 
   const toggleDev = () => {
     dispatch(toggleDevMode())
+  }
+
+  const toggleOffline = () => {
+    dispatch(setOfflineMode(!offlineMode))
   }
 
   return (
@@ -83,6 +87,26 @@ const Profile = () =>  {
                 value="on"
                 checked={translationMode}
                 onChange={toggleTranslate}
+              /> on
+            </label>
+          </p>
+          <p>offline mode:{' '}
+            <label>
+              <input
+                type="radio"
+                name="offline-mode"
+                value="off"
+                checked={!offlineMode}
+                onChange={toggleOffline}
+              /> off
+            </label>
+            <label>
+              <input
+                type="radio"
+                name="offline-mode"
+                value="on"
+                checked={offlineMode}
+                onChange={toggleOffline}
               /> on
             </label>
           </p>

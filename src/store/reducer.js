@@ -30,6 +30,7 @@ const initialState = {
   token: localStorage.getItem(LS.token),
   devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
   translationMode: localStorage.getItem(LS.translationMode) === 'true',
+  offlineMode: localStorage.getItem(LS.offlineMode) === 'true'
 }
 
 export const reducer = (state = initialState, action) => {
@@ -97,6 +98,8 @@ export const reducer = (state = initialState, action) => {
       return {...state, translationMode: action.translationMode }
     case 'SET_DEV_MODE':
       return {...state, devMode: action.devMode }
+    case 'SET_OFFLINE_MODE':
+      return {...state, offlineMode: action.offlineMode }
     case 'ADD_QUOTE':
       return {
         ...state,

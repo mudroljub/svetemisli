@@ -33,6 +33,11 @@ export const setDevMode = devMode => {
   return { type: 'SET_DEV_MODE', devMode }
 }
 
+export const setOfflineMode = offlineMode => {
+  localStorage.setItem(LS.offlineMode, offlineMode)
+  return { type: 'SET_OFFLINE_MODE', offlineMode }
+}
+
 export const toggleTranslationMode = () => (dispatch, getState) => {
   const {translationMode} = getState()
   dispatch(setTranslationMode(!translationMode))
@@ -132,6 +137,24 @@ export const checkUser = (token, service) => dispatch => {
         response.user ? token : '',
         response.user ? response.user.admin : false)
       )
+    })
+}
+
+export const sendQuote = obj => (dispatch, getState) => {
+  const {token} = getState()
+  const endpoint = obj._id ? API.update : API.create
+  const method = obj._id ? 'PUT' : 'POST'
+  return fetch(endpoint, {
+    method,
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ ...obj, token })
+  })
+    .then(res => res.json())
+    .then(res => {
+      if (res.message !== 'SUCCESS_SAVED') return
+      const action = obj._id ? updateQuote : addQuote
+      dispatch(action(res.quote))
+      return res.quote._id
     })
 }
 

@@ -10,7 +10,6 @@ import AddQuote from '../routes/AddQuote'
 import ShowQuote from '../routes/ShowQuote'
 import Login from '../routes/Login'
 import Auth from '../routes/Auth'
-import Untranslated from '../routes/Untranslated'
 
 const Router = () => (
   <Switch>
@@ -20,7 +19,6 @@ const Router = () => (
     <Route path='/citat/:id' component={ShowQuote} />
     <Route path='/avtor/:name' component={Author} />
     <Route path='/dodaj-citat' component={AddQuote} />
-    <Route path='/neprevedeno' component={Untranslated} />
     <Route path='/pravi-citat/:id' component={EditQuote} />
     <Route path='/moj-profil' component={Profile} />
     <Route path='/auth/:service/:token' component={Auth} />

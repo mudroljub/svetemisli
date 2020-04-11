@@ -1,13 +1,12 @@
-import React, {useState, useEffect} from 'react'
-import { useSelector, useDispatch} from 'react-redux'
-import { NavLink } from 'react-router-dom'
+import React, { useState, useEffect } from 'react'
+import { useSelector, useDispatch } from 'react-redux'
 
-import {setUser, logout, useTranslate, toggleTranslationMode, toggleDevMode} from '../store/actions'
-import {LS} from '../config/localstorage'
-import {domain} from '../config/api'
+import { setUser, logout, useTranslate, toggleTranslationMode, toggleDevMode, setOfflineMode, sendQuote } from '../store/actions'
+import { LS } from '../config/localstorage'
+import { domain } from '../config/api'
 
-const Profile = () =>  {
-  const {token, admin, translationMode, devMode} = useSelector(state => state)
+const Profile = () => {
+  const { token, admin, translationMode, devMode, offlineMode } = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
   const [memberSince, setMemberSince] = useState(null)
@@ -39,6 +38,25 @@ const Profile = () =>  {
     dispatch(toggleDevMode())
   }
 
+  const toggleOffline = () => {
+    dispatch(setOfflineMode(!offlineMode))
+  }
+
+  const sync = () => {
+    const quotes = JSON.parse(localStorage.getItem(LS.updatedOffline))
+    if (!quotes) return alert('Nema ništa na čekanju')
+
+    const promises = quotes.map(quote => dispatch(sendQuote(quote)))
+    Promise.all(promises)
+      .then(() => {
+        alert('Uspešno ažurirano')
+        localStorage.removeItem(LS.updatedOffline)
+      })
+      .catch(() => {
+        alert(translate('NETWORK_PROBLEM'))
+      })
+  }
+
   return (
     <main>
       <h1>{translate('PROFILE')}</h1>
@@ -47,7 +65,6 @@ const Profile = () =>  {
           <p>name: {name}</p>
           <p>member since: {new Date(memberSince).toISOString().slice(0, 10)}</p>
           <p>admin: {admin ? 'yes' : 'no'}</p>
-          <NavLink to="/neprevedeno" activeClassName="active">{translate('UNTRANSLATED').toLowerCase()}</NavLink>
           <p>dev mode:{' '}
             <label>
               <input
@@ -88,8 +105,28 @@ const Profile = () =>  {
               /> on
             </label>
           </p>
-
-          <p style={{ textAlign: 'center'}}><button onClick={exit}>{translate('LOGOUT')}</button></p>
+          <p>offline mode:{' '}
+            <label>
+              <input
+                type="radio"
+                name="offline-mode"
+                value="off"
+                checked={!offlineMode}
+                onChange={toggleOffline}
+              /> off
+            </label>
+            <label>
+              <input
+                type="radio"
+                name="offline-mode"
+                value="on"
+                checked={offlineMode}
+                onChange={toggleOffline}
+              /> on
+            </label>
+          </p>
+          <button onClick={sync}>sync ↻</button>
+          <p style={{ textAlign: 'center' }}><button onClick={exit}>{translate('LOGOUT')}</button></p>
         </div>
         : <p>{translate('SUCCESSFULLY_LOGOUT')}</p>
       }

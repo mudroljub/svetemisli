@@ -1,21 +1,33 @@
 import React, {useState} from 'react'
 import {Link, useHistory} from 'react-router-dom'
-import {useSelector, useDispatch} from 'react-redux'
+import {useDispatch, useSelector} from 'react-redux'
 
-import {addQuote, updateQuote, useTranslate} from '../../store/actions'
+import {useTranslate, sendQuote} from '../../store/actions'
+import {LS} from '../../config/localstorage'
 import MessagePopup from './MessagePopup'
-import {API} from '../../config/api'
 
 const EditForm = ({ quote }) => {
-  const {token} = useSelector(state => state)
   const dispatch = useDispatch()
   const translate = useTranslate()
   const history = useHistory()
+  const {offlineMode} = useSelector(state => state)
 
   const [validation, setValidation] = useState('')
-  const [response, setResponse] = useState('')
+  const [message, setMessage] = useState('')
 
-  const postQuote = e => {
+  const saveLocal = obj => {
+    const oldArr = JSON.parse(localStorage.getItem(LS.updatedOffline))
+    // ako nema niza kreira, ako sadrzi citat azurira, ako nema dodaje
+    const newArr = !Array.isArray(oldArr)
+      ? [obj]
+      : oldArr.find(x => x._id === obj._id)
+        ? oldArr.map(x => x._id === obj._id ? obj : x)
+        : [...oldArr, obj]
+    localStorage.setItem(LS.updatedOffline, JSON.stringify(newArr))
+    history.push(`/citat/${obj._id}`)
+  }
+
+  const postQuote = async e => {
     e.preventDefault()
     setValidation('')
     const obj = Object.values(e.target.elements)
@@ -24,23 +36,14 @@ const EditForm = ({ quote }) => {
 
     if (!obj.author || !obj.sr) return setValidation(translate('REQUIRED_FIELDS'))
 
-    const endpoint = obj._id ? API.update : API.create
-    const method = obj._id ? 'PUT' : 'POST'
-    fetch(endpoint, {
-      method,
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ ...obj, token })
-    })
-      .then(res => res.json())
-      .then(res => {
-        if (res.message !== 'SUCCESS_SAVED') return
-        const action = obj._id ? updateQuote : addQuote
-        dispatch(action(res.quote))
-        history.push(`/citat/${res.quote._id}`)
-      })
-      .catch(err => {
-        setResponse(translate('NETWORK_PROBLEM'))
-      })
+    if (offlineMode) return saveLocal(obj)
+
+    try {
+      const id = await dispatch(sendQuote(obj))
+      history.push(`/citat/${id}`)
+    } catch (error) {
+      setMessage(translate('NETWORK_PROBLEM'))
+    }
   }
 
   return (
@@ -80,7 +83,7 @@ const EditForm = ({ quote }) => {
         <button type="submit">{translate('POST')}</button>
       </form>
 
-      {response && <MessagePopup message={response} closePopup={() => setResponse('')} />}
+      {message && <MessagePopup message={message} closePopup={() => setMessage('')} />}
     </div>
   )
 }

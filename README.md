@@ -25,5 +25,6 @@ npm start
 
 # TODO
 
+- dugme koje inicira twiter bot
 - rute za jezik
 - node.js backend rendering

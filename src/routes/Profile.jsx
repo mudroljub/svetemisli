@@ -44,15 +44,17 @@ const Profile = () => {
 
   const sync = () => {
     const quotes = JSON.parse(localStorage.getItem(LS.updatedOffline))
+    if (!quotes) return alert('Nema ništa na čekanju')
 
-    try {
-      quotes.forEach(async obj => {
-        const res = await dispatch(sendQuote(obj))
-        console.log(res)
+    const promises = quotes.map(quote => dispatch(sendQuote(quote)))
+    Promise.all(promises)
+      .then(() => {
+        alert('Uspešno ažurirano')
+        localStorage.removeItem(LS.updatedOffline)
       })
-    } catch (error) {
-      console.log(translate('NETWORK_PROBLEM'))
-    }
+      .catch(() => {
+        alert(translate('NETWORK_PROBLEM'))
+      })
   }
 
   return (

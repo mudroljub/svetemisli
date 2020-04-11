@@ -1,17 +1,31 @@
 import React, {useState} from 'react'
 import {Link, useHistory} from 'react-router-dom'
-import {useDispatch} from 'react-redux'
+import {useDispatch, useSelector} from 'react-redux'
 
 import {useTranslate, sendQuote} from '../../store/actions'
+import {LS} from '../../config/localstorage'
 import MessagePopup from './MessagePopup'
 
 const EditForm = ({ quote }) => {
   const dispatch = useDispatch()
   const translate = useTranslate()
   const history = useHistory()
+  const {offlineMode} = useSelector(state => state)
 
   const [validation, setValidation] = useState('')
   const [response, setResponse] = useState('')
+
+  const saveLocal = obj => {
+    const oldArr = JSON.parse(localStorage.getItem(LS.updatedOffline))
+    // ako nema niza kreira, ako sadrzi citat azurira, ako nema dodaje
+    const newArr = !Array.isArray(oldArr)
+      ? [obj]
+      : oldArr.find(x => x._id === obj._id)
+        ? oldArr.map(x => x._id === obj._id ? obj : x)
+        : [...oldArr, obj]
+    localStorage.setItem(LS.updatedOffline, JSON.stringify(newArr))
+    history.push(`/citat/${obj._id}`)
+  }
 
   const postQuote = async e => {
     e.preventDefault()
@@ -21,6 +35,8 @@ const EditForm = ({ quote }) => {
       .reduce((acc, el) => ({...acc, [el.name]: el.value.trim()}), {})
 
     if (!obj.author || !obj.sr) return setValidation(translate('REQUIRED_FIELDS'))
+
+    if (offlineMode) return saveLocal(obj)
 
     try {
       const id = await dispatch(sendQuote(obj))

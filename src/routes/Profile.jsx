@@ -42,6 +42,11 @@ const Profile = () =>  {
     dispatch(setOfflineMode(!offlineMode))
   }
 
+  const sync = () => {
+    const quotes = JSON.parse(localStorage.getItem(LS.updatedOffline))
+    console.log(quotes)
+  }
+
   return (
     <main>
       <h1>{translate('PROFILE')}</h1>
@@ -110,7 +115,7 @@ const Profile = () =>  {
               /> on
             </label>
           </p>
-
+          <button onClick={sync}>sync ↻</button>
           <p style={{ textAlign: 'center'}}><button onClick={exit}>{translate('LOGOUT')}</button></p>
         </div>
         : <p>{translate('SUCCESSFULLY_LOGOUT')}</p>

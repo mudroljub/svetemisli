@@ -25,8 +25,5 @@ npm start
 
 # TODO
 
-- dodati sync funkcionalnost
-  - iterira LS.niz i poziva sendQuote funkciju
-  - čeka da stigne odgovor pre narednog poziva
-- rute za jezik i pismo
+- rute za jezik
 - node.js backend rendering

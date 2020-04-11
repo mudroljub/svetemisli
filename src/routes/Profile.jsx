@@ -1,12 +1,12 @@
-import React, {useState, useEffect} from 'react'
-import { useSelector, useDispatch} from 'react-redux'
+import React, { useState, useEffect } from 'react'
+import { useSelector, useDispatch } from 'react-redux'
 
-import {setUser, logout, useTranslate, toggleTranslationMode, toggleDevMode, setOfflineMode} from '../store/actions'
-import {LS} from '../config/localstorage'
-import {domain} from '../config/api'
+import { setUser, logout, useTranslate, toggleTranslationMode, toggleDevMode, setOfflineMode, sendQuote } from '../store/actions'
+import { LS } from '../config/localstorage'
+import { domain } from '../config/api'
 
-const Profile = () =>  {
-  const {token, admin, translationMode, devMode, offlineMode} = useSelector(state => state)
+const Profile = () => {
+  const { token, admin, translationMode, devMode, offlineMode } = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
   const [memberSince, setMemberSince] = useState(null)
@@ -44,7 +44,15 @@ const Profile = () =>  {
 
   const sync = () => {
     const quotes = JSON.parse(localStorage.getItem(LS.updatedOffline))
-    console.log(quotes)
+
+    try {
+      quotes.forEach(async obj => {
+        const res = await dispatch(sendQuote(obj))
+        console.log(res)
+      })
+    } catch (error) {
+      console.log(translate('NETWORK_PROBLEM'))
+    }
   }
 
   return (
@@ -116,7 +124,7 @@ const Profile = () =>  {
             </label>
           </p>
           <button onClick={sync}>sync ↻</button>
-          <p style={{ textAlign: 'center'}}><button onClick={exit}>{translate('LOGOUT')}</button></p>
+          <p style={{ textAlign: 'center' }}><button onClick={exit}>{translate('LOGOUT')}</button></p>
         </div>
         : <p>{translate('SUCCESSFULLY_LOGOUT')}</p>
       }

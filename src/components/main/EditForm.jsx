@@ -13,7 +13,7 @@ const EditForm = ({ quote }) => {
   const {offlineMode} = useSelector(state => state)
 
   const [validation, setValidation] = useState('')
-  const [response, setResponse] = useState('')
+  const [message, setMessage] = useState('')
 
   const saveLocal = obj => {
     const oldArr = JSON.parse(localStorage.getItem(LS.updatedOffline))
@@ -42,7 +42,7 @@ const EditForm = ({ quote }) => {
       const id = await dispatch(sendQuote(obj))
       history.push(`/citat/${id}`)
     } catch (error) {
-      setResponse(translate('NETWORK_PROBLEM'))
+      setMessage(translate('NETWORK_PROBLEM'))
     }
   }
 
@@ -83,7 +83,7 @@ const EditForm = ({ quote }) => {
         <button type="submit">{translate('POST')}</button>
       </form>
 
-      {response && <MessagePopup message={response} closePopup={() => setResponse('')} />}
+      {message && <MessagePopup message={message} closePopup={() => setMessage('')} />}
     </div>
   )
 }

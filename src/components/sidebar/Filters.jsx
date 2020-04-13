@@ -48,18 +48,18 @@ const Filters = () => {
       <h3><label htmlFor="avtori">{translate('SEARCH_AUTHORS')}</label></h3>
       <input id="avtori" value={authorPhrase} onChange={changeAuthorPhrase} />
 
-      <div style={{ textAlign: 'right' }} >
-        <span onClick={toggleMoreFilters}>⚙</span>
+      <div style={{textAlign: 'right'}} >
+        <span onClick={toggleMoreFilters} style={{cursor: 'pointer'}}>⚙</span>
       </div>
       {showFilters &&
         <div>
-          <h3><label htmlFor="izvori">{translate('SEARCH_SOURCES')}</label></h3>
+          <h3><label htmlFor="izvori">{translate('FILTER_BY_SOURCE')}</label></h3>
           <input id="izvori"
             value={sourcePhrase}
             onChange={changeSourcePhrase}
           />
 
-          <h3>Procedi po dužini</h3>
+          <h3>{translate('FILTER_BY_LENGTH')}</h3>
           <div>
             <label htmlFor="min">Min ({minLimit})</label>
             <input

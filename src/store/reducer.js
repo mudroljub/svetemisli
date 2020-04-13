@@ -6,21 +6,26 @@ const defaultLang = localStorage.getItem(LS.lang) || 'ms'
 
 const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))
 
+const getBasics = (quotes, lang) => {
+  const allAuthors = new Set()
+  let minLength = quotes[0][lang].length
+  let maxLength = quotes[0][lang].length
+  quotes.forEach(q => {
+    allAuthors.add(q.author)
+    const {length} = q[lang]
+    if (!length) return
+    if (length < minLength) minLength = length
+    if (length > maxLength) maxLength = length
+  })
+  return {minLength, maxLength, allAuthors}
+}
+
 shuffle(quotes)
 
-const allAuthors = new Set()
-quotes.forEach(q => allAuthors.add(q.author))
-
+const {minLength, maxLength, allAuthors} = getBasics(quotes, defaultLang)
 const filteredQuotes = quotes.filter(q => isLang(q, defaultLang))
 const filteredAuthors = new Set() // lang authors
-let min = quotes[0][defaultLang].length, max = quotes[0][defaultLang].length
-
-filteredQuotes.forEach(q => {
-  filteredAuthors.add(q.author)
-  const {length} = q[defaultLang]
-  if (length < min) min = length
-  if (length > max) max = length
-})
+filteredQuotes.forEach(q => filteredAuthors.add(q.author))
 
 const initialState = {
   allQuotes: quotes,
@@ -39,10 +44,10 @@ const initialState = {
   devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
   translationMode: localStorage.getItem(LS.translationMode) === 'true',
   offlineMode: localStorage.getItem(LS.offlineMode) === 'true',
-  minLength: min,
-  maxLength: max,
-  minLimit: min,
-  maxLimit: max,
+  minLength,
+  maxLength,
+  minLimit: minLength,
+  maxLimit: maxLength,
 }
 
 export const reducer = (state = initialState, action) => {
@@ -78,13 +83,16 @@ export const reducer = (state = initialState, action) => {
         isFetching: false,
       }
     case 'INIT': {
+      const {minLength, maxLength} = getBasics(allQuotes, lang)
       const filteredQuotes = allQuotes.filter(filterQ)
       const filteredAuthors = new Set()
       filteredQuotes.forEach(q => filteredAuthors.add(q.author))
       return {
         ...state,
         filteredQuotes,
-        filteredAuthors: [...filteredAuthors].sort(sortAbc)
+        filteredAuthors: [...filteredAuthors].sort(sortAbc),
+        minLength,
+        maxLength,
       }
     }
     case 'FILTER_QUOTES': {

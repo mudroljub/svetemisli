@@ -1,11 +1,11 @@
-import React, {useState} from 'react'
-import {useDispatch, useSelector} from 'react-redux'
+import React, { useState } from 'react'
+import { useDispatch, useSelector } from 'react-redux'
 
-import {filterQuotes, filterAuthors, useTranslate, setPhrase, setAuthorPhrase, setSourcePhrase} from '../../store/actions'
-import {LS} from '../../config/localstorage'
+import { filterQuotes, filterAuthors, useTranslate, setPhrase, setAuthorPhrase, setSourcePhrase, setMinLimit, setMaxLimit } from '../../store/actions'
+import { LS } from '../../config/localstorage'
 
 const Filters = () => {
-  const {phrase, authorPhrase, sourcePhrase} = useSelector(state => state)
+  const { phrase, authorPhrase, sourcePhrase, minLength, maxLength, minLimit, maxLimit } = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
   const [showFilters, setShowFilters] = useState(localStorage.getItem(LS.showFilters) === 'true')
@@ -25,9 +25,19 @@ const Filters = () => {
     dispatch(filterQuotes())
   }
 
-  const toggleFilters = () => {
+  const toggleMoreFilters = () => {
     localStorage.setItem(LS.showFilters, !showFilters)
     setShowFilters(!showFilters)
+  }
+
+  const changeMinLimit = e => {
+    dispatch(setMinLimit(e.target.value))
+    dispatch(filterQuotes())
+  }
+
+  const changeMaxLimit = e => {
+    dispatch(setMaxLimit(e.target.value))
+    dispatch(filterQuotes())
   }
 
   return (
@@ -38,26 +48,44 @@ const Filters = () => {
       <h3><label htmlFor="avtori">{translate('SEARCH_AUTHORS')}</label></h3>
       <input id="avtori" value={authorPhrase} onChange={changeAuthorPhrase} />
 
-      <div style={{textAlign: 'right'}} >
-        <span onClick={toggleFilters}>⚙</span>
+      <div style={{ textAlign: 'right' }} >
+        <span onClick={toggleMoreFilters}>⚙</span>
       </div>
       {showFilters &&
         <div>
           <h3><label htmlFor="izvori">{translate('SEARCH_SOURCES')}</label></h3>
-          <input id="izvori" value={sourcePhrase} onChange={changeSourcePhrase} />
+          <input id="izvori"
+            value={sourcePhrase}
+            onChange={changeSourcePhrase}
+          />
 
-          <h3>Dužina citata</h3>
+          <h3>Procedi po dužini</h3>
           <div>
-            <label htmlFor="min">Min</label>
-            <input id="min" type="range" min="1" max="500" value="1" />
+            <label htmlFor="min">Min ({minLimit})</label>
+            <input
+              id="min"
+              type="range"
+              min={minLength}
+              max={maxLength}
+              value={minLimit}
+              onChange={changeMinLimit}
+            />
           </div>
           <div>
-            <label htmlFor="max">Max</label>
-            <input id="max" type="range" min="1" max="500" value="500" />
+            <label htmlFor="max">Max ({maxLimit})</label>
+            <input
+              id="max"
+              type="range"
+              min={minLength}
+              max={maxLength}
+              value={maxLimit}
+              onChange={changeMaxLimit}
+            />
           </div>
         </div>
       }
     </div>
-  )}
+  )
+}
 
 export default Filters

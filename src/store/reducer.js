@@ -7,12 +7,20 @@ const defaultLang = localStorage.getItem(LS.lang) || 'ms'
 const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))
 
 shuffle(quotes)
+
 const allAuthors = new Set()
 quotes.forEach(q => allAuthors.add(q.author))
 
 const filteredQuotes = quotes.filter(q => isLang(q, defaultLang))
-const filteredAuthors = new Set()
-filteredQuotes.forEach(q => filteredAuthors.add(q.author))
+const filteredAuthors = new Set() // lang authors
+let min = quotes[0][defaultLang].length, max = quotes[0][defaultLang].length
+
+filteredQuotes.forEach(q => {
+  filteredAuthors.add(q.author)
+  const {length} = q[defaultLang]
+  if (length < min) min = length
+  if (length > max) max = length
+})
 
 const initialState = {
   allQuotes: quotes,
@@ -30,11 +38,15 @@ const initialState = {
   token: localStorage.getItem(LS.token),
   devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
   translationMode: localStorage.getItem(LS.translationMode) === 'true',
-  offlineMode: localStorage.getItem(LS.offlineMode) === 'true'
+  offlineMode: localStorage.getItem(LS.offlineMode) === 'true',
+  minLength: min,
+  maxLength: max,
+  minLimit: min,
+  maxLimit: max,
 }
 
 export const reducer = (state = initialState, action) => {
-  const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase, sourcePhrase} = state
+  const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase, sourcePhrase, minLimit, maxLimit} = state
   const {quote} = action
 
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
@@ -44,6 +56,7 @@ export const reducer = (state = initialState, action) => {
     && isInText(q[lang], phrase)
     && isInSource(q.source, sourcePhrase)
     && (selectedAuthors.size ? selectedAuthors.has(q.author) : true)
+    && q[lang].length >= minLimit && q[lang].length <= maxLimit
 
   switch (action.type) {
     case 'FETCH_QUOTES_REQUEST':
@@ -100,6 +113,10 @@ export const reducer = (state = initialState, action) => {
       return {...state, devMode: action.devMode }
     case 'SET_OFFLINE_MODE':
       return {...state, offlineMode: action.offlineMode }
+    case 'SET_MIN_LIMIT':
+      return {...state, minLimit: action.minLimit }
+    case 'SET_MAX_LIMIT':
+      return {...state, maxLimit: action.maxLimit }
     case 'ADD_QUOTE':
       return {
         ...state,

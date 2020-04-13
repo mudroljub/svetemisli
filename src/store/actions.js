@@ -72,6 +72,10 @@ export const setAuthorPhrase = authorPhrase => ({type: 'SET_AUTHOR_PHRASE', auth
 
 export const setSourcePhrase = sourcePhrase => ({type: 'SET_SOURCE_PHRASE', sourcePhrase})
 
+export const setMinLimit = minLimit => ({type: 'SET_MIN_LIMIT', minLimit})
+
+export const setMaxLimit = maxLimit => ({type: 'SET_MAX_LIMIT', maxLimit})
+
 /* THUNK */
 
 export const setUser = (token, admin = false) => dispatch => {

@@ -8,4 +8,5 @@ export const LS = {
   devMode: 'sveteMisli.devMode',
   offlineMode: 'sveteMisli.offlineMode',
   updatedOffline: 'sveteMisli.updatedOffline',
+  showFilters: 'sveteMisli.showFilters',
 }

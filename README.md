@@ -25,6 +25,8 @@ npm start
 
 # TODO
 
+- dodati filter po duzini (input range)
+- srediti prikaz citata
 - dugme koje inicira twiter bot
 - rute za jezik
 - node.js backend rendering

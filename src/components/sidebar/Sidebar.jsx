@@ -4,12 +4,13 @@ import { useSelector } from 'react-redux'
 import Filters from './Filters'
 import AuthorThumb from './AuthorThumb'
 import {getThumbnails, getImg} from '../../utils/helpers'
+import { LS } from '../../config/localstorage'
 import './sidebar.css'
 
 const Sidebar = () => {
   const {allAuthors, filteredAuthors} = useSelector(state => state)
   const [thumbnails, setThumbnails] = useState(new Map())
-  const [sidebarOpen, setSidebarOpen] = useState(false)
+  const [sidebarOpen, setSidebarOpen] = useState(localStorage.getItem(LS.showSidebar) === 'true')
 
   const getAuthorThumbs = allAuthors => {
     const withImg = [...allAuthors].filter(x => !getImg(x))
@@ -28,6 +29,7 @@ const Sidebar = () => {
   }, [allAuthors, sidebarOpen])
 
   const toggle = () => {
+    localStorage.setItem(LS.showSidebar, !sidebarOpen)
     setSidebarOpen(!sidebarOpen)
   }
 

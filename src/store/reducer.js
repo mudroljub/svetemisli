@@ -93,6 +93,8 @@ export const reducer = (state = initialState, action) => {
         filteredAuthors: [...filteredAuthors].sort(sortAbc),
         minLength,
         maxLength,
+        minLimit: minLimit >= minLength ? minLimit : minLength,
+        maxLimit: maxLimit <= maxLength ? maxLimit : maxLength,
       }
     }
     case 'FILTER_QUOTES': {

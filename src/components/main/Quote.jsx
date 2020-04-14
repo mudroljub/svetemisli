@@ -8,7 +8,7 @@ import {deleteQuote, useTranslate, useTransliterate, useAuthorName} from '../../
 import './quote.css'
 
 const Quote = ({ quote, showSource, cssClass }) => {
-  const {token, lang, admin, phrase} = useSelector(state => state)
+  const {token, lang, admin, phrase, minLength, maxLength} = useSelector(state => state)
   const dispatch = useDispatch()
   const translate = useTranslate()
   const transliterate = useTransliterate()
@@ -16,11 +16,11 @@ const Quote = ({ quote, showSource, cssClass }) => {
   const [shouldDelete, setShouldDelete] = useState(false)
   const [response, setResponse] = useState('')
 
-  const translitTxt = transliterate(quote[lang])
+  const quoteTxt = transliterate(quote[lang])
   const translitPhrase = transliterate(phrase)
   const text = phrase
-    ? translitTxt.replace(translitPhrase, `<span class='red'>${translitPhrase}</span>`)
-    : translitTxt
+    ? quoteTxt.replace(translitPhrase, `<span class='red'>${translitPhrase}</span>`)
+    : quoteTxt
 
   const {_id, author} = quote
   const authorLink = `/avtor/${author.replace(/ /g, '_')}`
@@ -51,20 +51,20 @@ const Quote = ({ quote, showSource, cssClass }) => {
     setResponse('')
   }
 
-  const min = 20, max = 300, x = translitTxt.length
-  const percent = (x - min) / (max - min) // raspon otprilike, procenat moze preci 0-1
+  const percent = (quoteTxt.length - minLength) / (maxLength - minLength)
 
   let gridClass = ''
   let fontSize = undefined
 
   if (!cssClass) {
-    if (percent > .7) gridClass = Math.random() > .4 ? 'polozen' : 'uspravan'
-    if (percent > 1.15) gridClass += ' first-line'
-    if (percent < 0.15) fontSize = 1.4 - percent + 'em'
-    if (percent < .06) {
-      gridClass = 'polozen'
-      fontSize = '1.6em'
-    }
+    if (percent > .6) gridClass = 'uspravan'
+    // if (percent > .7) gridClass = Math.random() > .4 ? 'polozen' : 'uspravan'
+    // if (percent > 1.15) gridClass += ' first-line'
+    if (percent < 0.1) fontSize = '1.4em'
+    // if (percent < .06) {
+    //   gridClass = 'polozen'
+    //   fontSize = '1.6em'
+    // }
   }
 
   return (

@@ -26,7 +26,10 @@ npm start
 # TODO
 
 - srediti prikaz citata
+- prikazati broj citata
 - vratiti neki default font
+- izvuci boje iz cveta za dizajn
+- dodati fb u footer
 - dugme koje inicira twiter bot
 - rute za jezik
 - node.js backend rendering

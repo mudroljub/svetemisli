@@ -52,10 +52,6 @@
   vertical-align: sub;
 }
 
-.first-line .quote-text::first-line {
-  color: darkred;
-}
-
 .small-quote .quote-author {
   font-size: smaller;
 }

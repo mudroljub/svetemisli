@@ -25,8 +25,6 @@ npm start
 
 # TODO
 
-- srediti prikaz citata
-- prikazati broj citata
 - vratiti neki default font
 - izvuci boje iz cveta za dizajn
 - dodati fb u footer

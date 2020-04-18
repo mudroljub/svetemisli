@@ -25,7 +25,6 @@ npm start
 
 # TODO
 
-- vratiti neki default font
 - izvuci boje iz cveta za dizajn
 - dodati fb u footer
 - dugme koje inicira twiter bot

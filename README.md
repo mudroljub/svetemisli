@@ -25,6 +25,5 @@ npm start
 
 # TODO
 
-- izvuci boje iz cveta za dizajn
 - dugme koje inicira twiter bot
 - rute za jezik

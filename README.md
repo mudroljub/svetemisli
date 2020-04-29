@@ -25,5 +25,6 @@ npm start
 
 # TODO
 
+- cediti po duzini na autor stranici
 - dugme koje inicira twiter bot
 - rute za jezik

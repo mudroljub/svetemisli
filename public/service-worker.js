@@ -6,7 +6,6 @@ const RUNTIME = 'runtime'
 const PRECACHE_URLS = [
   '/', // Alias for index.html
   'index.html',
-  'https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6r2ZAbaqe-LGs.woff2',
 ]
 
 // The install handler takes care of precaching the resources we always need.

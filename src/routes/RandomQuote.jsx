@@ -29,7 +29,7 @@ const RandomQuote = () => {
     <main>
       <h1>{translate('QUOTE_OF_THE_DAY')}</h1>
       <ImageQuote quote={quote} cssClass="big-quote" />
-      <button onClick={prev}>←</button>
+      {i > 0 && <button onClick={prev}>←</button>}
       <button onClick={next}>{translate('MORE_WISDOM')}</button>
     </main>
   )

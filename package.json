@@ -7,14 +7,14 @@
   "scripts": {
     "save": "wget https://svetemysli.herokuapp.com/api/ -O src/data/quotes.json",
     "predeploy": "npm run build",
-    "dev": "REACT_APP_ENV=development react-scripts start",
-    "run": "react-scripts start",
-    "start": "npm run save && REACT_APP_ENV=production react-scripts start",
-    "build": "REACT_APP_ENV=production react-scripts build",
+    "dev": "cross-env REACT_APP_ENV=development react-scripts start",
+    "start": "cross-env REACT_APP_ENV=production react-scripts start",
+    "build": "cross-env REACT_APP_ENV=production react-scripts build",
     "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "cross-env": "^7.0.2",
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",

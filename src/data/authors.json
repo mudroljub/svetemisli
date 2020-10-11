@@ -2,6 +2,47 @@
   "Mahatma Gandhi": {
     "common": "Gandi"
   },
+  "Toma Akvinski": {
+    "ms": "Tomas Akvinsky",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/St-thomas-aquinas.jpg"
+  },
+  "Huineng": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Huineng-tearing-sutras.svg"
+  },
+  "Budagoša": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Buddhaghosa_with_three_copies_of_Visuddhimagga.jpg"
+  },
+  "Bruce Lee": {
+    "common": "Brus Li",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg"
+  },
+  "Anaksagora": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Anaxagoras.png"
+  },
+  "Grigorije Nazijanski": {
+    "ms": "Grigory Naziansky",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sv_Gr_Bogoslov_Simonopetra_kr18v.jpg"
+  },
+  "Evagrije Pontski": {
+    "ms": "Evagry Pontsky",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Evagrius_1.jpg"
+  },
+  "Dorotej iz Gaze": {
+    "ms": "Dorotej iz Gazy",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Dorotheus_of_Gaza.jpg"
+  },
+  "Daisetz Suzuki": {
+    "common": "Dajsec Suzuki",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Daisetsu_Teitar%C5%8D_Suzuki_photographed_by_Shigeru_Tamura.jpg"
+  },
+  "Bijant iz Prijene": {
+    "common": "Biant",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bias_Pio-Clementino_Inv279.jpg"
+  },
+  "Alan Watts": {
+    "common": "Alan Vots",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Alan_Watts_painted_on_mural.jpg"
+  },
   "Evanđelje po Filipu": {
     "ms": "Psevdo-Filip",
     "sr": "Pseudo-Filip",
@@ -22,7 +63,8 @@
     "ms": "Grom: Sovršeny um"
   },
   "Yamamoto Tsunetomo": {
-    "common": "Jamamoto Cunetomo"
+    "common": "Jamamoto Cunetomo",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Yamamoto_Tsunetomo.jpg"
   },
   "Rabindranath Tagore": {
     "common": "Tagore"
@@ -136,7 +178,8 @@
     "common": "Nuri"
   },
   "Shunryū Suzuki": {
-    "common": "Šunrju Suzuki"
+    "common": "Šunrju Suzuki",
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/2f/Shunryu_Suzuki_by_Robert_Boni.jpg"
   },
   "Zhuang Zhou": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Trang_T%E1%BB%AD.jpeg/36px-Trang_T%E1%BB%AD.jpeg",

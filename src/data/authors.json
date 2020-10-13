@@ -2,6 +2,10 @@
   "Mahatma Gandhi": {
     "common": "Gandi"
   },
+  "Pseudo-Dionisije Areopagit": {
+    "common": "Pseudo-Dionisij",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hosios_Loukas_%28diakonikon%2C_arch%29_-_Dionysius_Areopagite.jpg"
+  },
   "Toma Akvinski": {
     "ms": "Tomas Akvinsky",
     "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/St-thomas-aquinas.jpg"
@@ -44,8 +48,7 @@
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Alan_Watts_painted_on_mural.jpg"
   },
   "Evanđelje po Filipu": {
-    "ms": "Psevdo-Filip",
-    "sr": "Pseudo-Filip",
+    "common": "Pseudo-Filip",
     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Icon_of_Apostle_Philip_%2810th_c%2C_St._Catherine_monastery%2C_Sinai%29.jpg"
   },
   "Silvanovo učenje": {

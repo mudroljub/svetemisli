@@ -25,6 +25,7 @@ npm start
 
 # TODO
 
+- statistike i vizuelizacija
 - procediti po duzini na autor stranici
 - dugme koje inicira twiter bot (i fb objavu)
 - napraviti alat za objavu statusa na fb

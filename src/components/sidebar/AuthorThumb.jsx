@@ -21,7 +21,7 @@ const AuthorThumb = ({ author, image }) => {
   return (
     <div className="author-wrap">
       <Link className="author" to={link}>
-        <img src={image || unknownImage} alt="author" />
+        <img src={image || unknownImage} alt="img" />
         {authorName(author)}
       </Link>
       <label>

@@ -54,25 +54,6 @@ export const createId = arr => {
   return largest + 1
 }
 
-export const getDerived = (quotes, lang, filterQ = q => q[lang]) => {
-  const allAuthors = new Set()
-  let minLength = quotes[0][lang].length
-  let maxLength = quotes[0][lang].length
-  quotes.forEach(q => {
-    allAuthors.add(q.author)
-    const {length} = q[lang]
-    if (!length) return
-    if (length < minLength) minLength = length
-    if (length > maxLength) maxLength = length
-  })
-
-  const filteredQuotes = quotes.filter(filterQ)
-  const filteredAuthors = new Set() // lang authors
-  filteredQuotes.forEach(q => filteredAuthors.add(q.author))
-
-  return {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors}
-}
-
 // get value from nested object
 export const get = (obj, lev1, lev2) => ((obj || {})[lev1] || {})[lev2]
 
@@ -99,4 +80,29 @@ export function getThumbnails(authors) {
       }
       return mapa
     })
+}
+
+export const getDerived = (quotes, lang, filterQ = q => q[lang]) => {
+  const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
+
+  const allAuthors = new Set()
+  let minLength = quotes[0][lang].length
+  let maxLength = quotes[0][lang].length
+  quotes.forEach(q => {
+    allAuthors.add(q.author)
+    const {length} = q[lang]
+    if (!length) return
+    if (length < minLength) minLength = length
+    if (length > maxLength) maxLength = length
+  })
+
+  const filteredQuotes = quotes.filter(filterQ)
+  const filteredAuthors = new Set() // lang authors
+  filteredQuotes.forEach(q => filteredAuthors.add(q.author))
+
+  return {
+    minLength, maxLength, filteredQuotes,
+    allAuthors: new Set([...allAuthors].sort(sortAbc)),
+    filteredAuthors: [...filteredAuthors].sort(sortAbc)
+  }
 }

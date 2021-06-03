@@ -1,11 +1,9 @@
-import {includes, getDerived, getName, compare, isInText, isInSource} from '../utils/helpers'
+import {includes, getDerived, getName, isInText, isInSource} from '../utils/helpers'
 import initialState from './initialState'
 
 export const reducer = (state = initialState, action) => {
   const {allQuotes, allAuthors, selectedAuthors, lang, phrase, authorPhrase, sourcePhrase, minLimit, maxLimit} = state
   const {quote} = action
-
-  const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
 
   const filterQ = q =>
     q[lang]
@@ -20,7 +18,7 @@ export const reducer = (state = initialState, action) => {
       return {
         ...state,
         filteredQuotes,
-        filteredAuthors: [...filteredAuthors].sort(sortAbc),
+        filteredAuthors,
         minLength,
         maxLength,
         minLimit: minLimit >= minLength ? minLimit : minLength,

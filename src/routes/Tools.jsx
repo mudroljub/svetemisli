@@ -10,6 +10,7 @@ const Tools = () => {
   }
 
   // TODO: delete LS
+  // TODO: shuffle(quotes)
 
   return (
     <main>

@@ -5,19 +5,15 @@ const storage = localStorage.getItem('sveteMisli')
   ? JSON.parse(localStorage.getItem('sveteMisli'))
   : {}
 
-const defaultLang = storage.lang || 'ms'
+const allQuotes = storage.allQuotes || shuffle(quotes)
+const lang = storage.lang || 'ms'
 
-const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))
+const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
 
-shuffle(quotes)
-
-const {minLength, maxLength, allAuthors} = getDerived(quotes, defaultLang)
-const filteredQuotes = quotes.filter(q => q[defaultLang])
-const filteredAuthors = new Set() // lang authors
-filteredQuotes.forEach(q => filteredAuthors.add(q.author))
+const {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors} = getDerived(allQuotes, lang)
 
 export default {
-  allQuotes: quotes,
+  allQuotes,
   filteredQuotes,
   allAuthors: new Set([...allAuthors].sort(sortAbc)),
   filteredAuthors: [...filteredAuthors].sort(sortAbc), // shown in sidebar
@@ -25,7 +21,7 @@ export default {
   phrase: '',
   authorPhrase: '',
   sourcePhrase: '',
-  lang: defaultLang,
+  lang,
   script: storage.script || 'kir',
   minLength,
   maxLength,

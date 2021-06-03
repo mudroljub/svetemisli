@@ -16,10 +16,7 @@ export const reducer = (state = initialState, action) => {
 
   switch (action.type) {
     case 'INIT': {
-      const {minLength, maxLength} = getDerived(allQuotes, lang)
-      const filteredQuotes = allQuotes.filter(filterQ)
-      const filteredAuthors = new Set()
-      filteredQuotes.forEach(q => filteredAuthors.add(q.author))
+      const {minLength, maxLength, filteredQuotes, filteredAuthors} = getDerived(allQuotes, lang, filterQ)
       return {
         ...state,
         filteredQuotes,

@@ -54,7 +54,7 @@ export const createId = arr => {
   return largest + 1
 }
 
-export const getDerived = (quotes, lang) => {
+export const getDerived = (quotes, lang, filterQ = q => q[lang]) => {
   const allAuthors = new Set()
   let minLength = quotes[0][lang].length
   let maxLength = quotes[0][lang].length
@@ -65,7 +65,12 @@ export const getDerived = (quotes, lang) => {
     if (length < minLength) minLength = length
     if (length > maxLength) maxLength = length
   })
-  return {minLength, maxLength, allAuthors}
+
+  const filteredQuotes = quotes.filter(filterQ)
+  const filteredAuthors = new Set() // lang authors
+  filteredQuotes.forEach(q => filteredAuthors.add(q.author))
+
+  return {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors}
 }
 
 // get value from nested object

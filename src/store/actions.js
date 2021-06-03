@@ -1,7 +1,7 @@
 import { useSelector } from 'react-redux'
 
 import translations from '../data/translations'
-import {getName} from '../utils/helpers'
+import {getName, createId} from '../utils/helpers'
 import transliterate from '../utils/transliterate'
 import {LS} from '../config/localstorage'
 
@@ -39,10 +39,11 @@ export const setMinLimit = minLimit => ({type: 'SET_MIN_LIMIT', minLimit})
 
 export const setMaxLimit = maxLimit => ({type: 'SET_MAX_LIMIT', maxLimit})
 
-export const saveQuote = obj => dispatch => {
+export const saveQuote = obj => (dispatch, getState) => {
   const action = obj._id ? updateQuote : addQuote
+  if (!obj._id) obj._id = createId(getState().allQuotes)
   dispatch(action(obj))
-  return obj._id  || null // TODO: dodeljivati id
+  return obj._id
 }
 
 /* SELECTORS */

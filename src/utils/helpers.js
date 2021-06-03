@@ -45,6 +45,15 @@ export function shuffle(array) {
   }
 }
 
+export const createId = arr => {
+  let largest = arr[0]._id
+  for(let i = 1; i < arr.length; i++)
+    if(largest < arr[i]._id)
+      largest = arr[i]._id
+
+  return largest + 1
+}
+
 // get value from nested object
 export const get = (obj, lev1, lev2) => ((obj || {})[lev1] || {})[lev2]
 

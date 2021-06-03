@@ -7,7 +7,7 @@ const Profile = () => {
   const name = 'Gost'
 
   const sync = () => {
-    // TODO: implement save as
+    // TODO: implement save fajl
   }
 
   return (

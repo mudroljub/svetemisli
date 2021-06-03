@@ -93,27 +93,29 @@ export const reducer = (state = initialState, action) => {
       return {...state, minLimit: action.minLimit }
     case 'SET_MAX_LIMIT':
       return {...state, maxLimit: action.maxLimit }
-    case 'ADD_QUOTE':
+    case 'ADD_QUOTE': {
+      const updatedQuotes = [...allQuotes, quote]
       return {
         ...state,
-        allQuotes: [...allQuotes, quote],
-        filteredQuotes: allQuotes.filter(filterQ),
+        allQuotes: updatedQuotes,
+        filteredQuotes: updatedQuotes.filter(filterQ),
         allAuthors: allAuthors.add(quote.author)
       }
+    }
     case 'UPDATE_QUOTE': {
-      const newQuotes = allQuotes.map(q => q._id === quote._id ? quote : q)
+      const updatedQuotes = allQuotes.map(q => q._id === quote._id ? quote : q)
       return {
         ...state,
-        allQuotes: newQuotes,
-        filteredQuotes: newQuotes.filter(filterQ)
+        allQuotes: updatedQuotes,
+        filteredQuotes: updatedQuotes.filter(filterQ)
       }
     }
     case 'DELETE_QUOTE': {
-      const newQuotes = allQuotes.filter(q => q._id !== action._id)
+      const updatedQuotes = allQuotes.filter(q => q._id !== action._id)
       return {
         ...state,
-        allQuotes: newQuotes,
-        filteredQuotes: newQuotes.filter(filterQ)
+        allQuotes: updatedQuotes,
+        filteredQuotes: updatedQuotes.filter(filterQ)
       }
     }
     case 'FILTER_AUTHORS': {

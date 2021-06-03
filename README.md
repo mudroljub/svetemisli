@@ -25,8 +25,8 @@ npm start
 
 # TODO
 
-- preraditi API metode da rade lokalno
-- proveriti TODO komente
+- implementirati save fajl
+- cuvati svaku promenu stanja sve u ls
 
 - statistike i vizuelizacija
 - procediti po duzini na autor stranici

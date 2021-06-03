@@ -82,23 +82,26 @@ export function getThumbnails(authors) {
     })
 }
 
-export const getDerived = (quotes, lang, filterQ = q => q[lang]) => {
+export const getDerived = (quotes, lang, filter = q => q[lang]) => {
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
 
   const allAuthors = new Set()
+  const filteredQuotes = []
+  const filteredAuthors = new Set()
   let minLength = quotes[0][lang].length
   let maxLength = quotes[0][lang].length
+
   quotes.forEach(q => {
     allAuthors.add(q.author)
     const {length} = q[lang]
     if (!length) return
     if (length < minLength) minLength = length
     if (length > maxLength) maxLength = length
+    if (filter(q)) {
+      filteredQuotes.push(q)
+      filteredAuthors.add(q.author)
+    }
   })
-
-  const filteredQuotes = quotes.filter(filterQ)
-  const filteredAuthors = new Set() // lang authors
-  filteredQuotes.forEach(q => filteredAuthors.add(q.author))
 
   return {
     minLength, maxLength, filteredQuotes,

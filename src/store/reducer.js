@@ -1,51 +1,5 @@
-import quotes from '../data/quotes.json'
-import {includes, shuffle, getName, compare, isInText, isInSource} from '../utils/helpers'
-
-const storage = localStorage.getItem('sveteMisli')
-  ? JSON.parse(localStorage.getItem('sveteMisli'))
-  : {}
-
-const defaultLang = storage.lang || 'ms'
-
-const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))
-
-const getBasics = (quotes, lang) => {
-  const allAuthors = new Set()
-  let minLength = quotes[0][lang].length
-  let maxLength = quotes[0][lang].length
-  quotes.forEach(q => {
-    allAuthors.add(q.author)
-    const {length} = q[lang]
-    if (!length) return
-    if (length < minLength) minLength = length
-    if (length > maxLength) maxLength = length
-  })
-  return {minLength, maxLength, allAuthors}
-}
-
-shuffle(quotes)
-
-const {minLength, maxLength, allAuthors} = getBasics(quotes, defaultLang)
-const filteredQuotes = quotes.filter(q => q[defaultLang])
-const filteredAuthors = new Set() // lang authors
-filteredQuotes.forEach(q => filteredAuthors.add(q.author))
-
-const initialState = {
-  allQuotes: quotes,
-  filteredQuotes,
-  allAuthors: new Set([...allAuthors].sort(sortAbc)),
-  filteredAuthors: [...filteredAuthors].sort(sortAbc), // shown in sidebar
-  selectedAuthors: new Set(), // selected from sidebar
-  phrase: '',
-  authorPhrase: '',
-  sourcePhrase: '',
-  lang: defaultLang,
-  script: storage.script || 'kir',
-  minLength,
-  maxLength,
-  minLimit: minLength,
-  maxLimit: maxLength,
-}
+import {includes, getDerived, getName, compare, isInText, isInSource} from '../utils/helpers'
+import initialState from './initialState'
 
 export const reducer = (state = initialState, action) => {
   const {allQuotes, allAuthors, selectedAuthors, lang, phrase, authorPhrase, sourcePhrase, minLimit, maxLimit} = state
@@ -62,7 +16,7 @@ export const reducer = (state = initialState, action) => {
 
   switch (action.type) {
     case 'INIT': {
-      const {minLength, maxLength} = getBasics(allQuotes, lang)
+      const {minLength, maxLength} = getDerived(allQuotes, lang)
       const filteredQuotes = allQuotes.filter(filterQ)
       const filteredAuthors = new Set()
       filteredQuotes.forEach(q => filteredAuthors.add(q.author))

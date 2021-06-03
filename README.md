@@ -26,14 +26,6 @@ npm start
 # TODO
 
 - preraditi API metode da rade lokalno
-- srediti lokalno čuvanje citata
-- offlineMode
-- saveLocal
-- translationMode
-- devMode
-- checkCountry
-- auth
-- prijava
 - AddQuote ukinuti
 
 - statistike i vizuelizacija

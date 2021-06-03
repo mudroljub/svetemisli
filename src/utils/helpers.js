@@ -1,8 +1,4 @@
 import authors from '../data/authors.json'
-import {LS} from '../config/localstorage'
-
-export const isLang = (q, lang, translationMode = false) =>
-  q[lang] && (translationMode ? !q.ms : true)
 
 export function findValue(object, searchKey) {
   let value
@@ -75,11 +71,4 @@ export function getThumbnails(authors) {
       }
       return mapa
     })
-}
-
-export const getSavedQuote = id => {
-  const quotes = JSON.parse(localStorage.getItem(LS.updatedOffline))
-  return (Array.isArray(quotes))
-    ? quotes.find(x => x._id === id)
-    : null
 }

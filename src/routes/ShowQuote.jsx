@@ -5,21 +5,18 @@ import {Link} from 'react-router-dom'
 import ImageQuote from './../components/main/ImageQuote'
 import {useTranslate} from '../store/actions'
 import preloader from '../assets/images/preloader.svg'
-import {getSavedQuote} from '../utils/helpers'
 
 const ShowQuote = ({match}) => {
   const {id} = match.params
-  const {allQuotes, offlineMode} = useSelector(state => state)
+  const {allQuotes} = useSelector(state => state)
   const quote = allQuotes.find(q => q._id === id)
   const translate = useTranslate()
-
-  const savedQuote = offlineMode ? getSavedQuote(id) : null
 
   if (!quote) return <img src={preloader} alt="loading..." />
 
   return (
     <main>
-      <ImageQuote quote={savedQuote || quote} showSource={true} cssClass="big-quote" />
+      <ImageQuote quote={quote} showSource={true} cssClass="big-quote" />
       <Link to="/" replace>{translate('BACK')}</Link>
     </main>
   )

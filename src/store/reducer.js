@@ -1,6 +1,6 @@
 import quotes from '../data/quotes.json'
 import {LS} from '../config/localstorage'
-import {includes, shuffle, getName, compare, isLang, isInText, isInSource} from '../utils/helpers'
+import {includes, shuffle, getName, compare, isInText, isInSource} from '../utils/helpers'
 
 const defaultLang = localStorage.getItem(LS.lang) || 'ms'
 
@@ -23,7 +23,7 @@ const getBasics = (quotes, lang) => {
 shuffle(quotes)
 
 const {minLength, maxLength, allAuthors} = getBasics(quotes, defaultLang)
-const filteredQuotes = quotes.filter(q => isLang(q, defaultLang))
+const filteredQuotes = quotes.filter(q => q[defaultLang])
 const filteredAuthors = new Set() // lang authors
 filteredQuotes.forEach(q => filteredAuthors.add(q.author))
 
@@ -39,9 +39,6 @@ const initialState = {
   isFetching: false,
   lang: defaultLang,
   script: localStorage.getItem(LS.script) || 'kir',
-  devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
-  translationMode: localStorage.getItem(LS.translationMode) === 'true',
-  offlineMode: localStorage.getItem(LS.offlineMode) === 'true',
   minLength,
   maxLength,
   minLimit: minLength,
@@ -49,13 +46,13 @@ const initialState = {
 }
 
 export const reducer = (state = initialState, action) => {
-  const {allQuotes, allAuthors, selectedAuthors, lang, translationMode, phrase, authorPhrase, sourcePhrase, minLimit, maxLimit} = state
+  const {allQuotes, allAuthors, selectedAuthors, lang, phrase, authorPhrase, sourcePhrase, minLimit, maxLimit} = state
   const {quote} = action
 
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
 
   const filterQ = q =>
-    isLang(q, lang, translationMode)
+    q[lang]
     && isInText(q[lang], phrase)
     && isInSource(q.source, sourcePhrase)
     && (selectedAuthors.size ? selectedAuthors.has(q.author) : true)
@@ -93,12 +90,6 @@ export const reducer = (state = initialState, action) => {
       return {...state, authorPhrase: action.authorPhrase }
     case 'SET_SOURCE_PHRASE':
       return {...state, sourcePhrase: action.sourcePhrase }
-    case 'SET_TRANSLATION_MODE':
-      return {...state, translationMode: action.translationMode }
-    case 'SET_DEV_MODE':
-      return {...state, devMode: action.devMode }
-    case 'SET_OFFLINE_MODE':
-      return {...state, offlineMode: action.offlineMode }
     case 'SET_MIN_LIMIT':
       return {...state, minLimit: action.minLimit }
     case 'SET_MAX_LIMIT':

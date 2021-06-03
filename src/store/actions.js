@@ -17,33 +17,6 @@ export const setScript = script => {
   return { type: 'SET_SCRIPT', script }
 }
 
-export const setTranslationMode = translationMode => {
-  localStorage.setItem(LS.translationMode, translationMode)
-  return { type: 'SET_TRANSLATION_MODE', translationMode }
-}
-
-export const setDevMode = devMode => {
-  localStorage.setItem(LS.devMode, devMode)
-  return { type: 'SET_DEV_MODE', devMode }
-}
-
-export const setOfflineMode = offlineMode => {
-  localStorage.setItem(LS.offlineMode, offlineMode)
-  return { type: 'SET_OFFLINE_MODE', offlineMode }
-}
-
-export const toggleTranslationMode = () => (dispatch, getState) => {
-  const {translationMode} = getState()
-  dispatch(setTranslationMode(!translationMode))
-  dispatch(init())
-}
-
-export const toggleDevMode = () => (dispatch, getState) => {
-  const {devMode} = getState()
-  dispatch(setDevMode(!devMode))
-  dispatch(init())
-}
-
 export const addQuote = quote => ({type: 'ADD_QUOTE', quote})
 
 export const updateQuote = quote => ({type: 'UPDATE_QUOTE', quote})

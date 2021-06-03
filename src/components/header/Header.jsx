@@ -29,7 +29,7 @@ const Header = () => {
         <NavLink to="/" replace={true} activeClassName="active" exact>{translate('QUOTE_OF_THE_DAY')}</NavLink>
         <NavLink to="/citati" activeClassName="active">{translate('ALL_QUOTES')}</NavLink>
         <NavLink to="/dodaj-citat" activeClassName="active">{translate('ADD_QUOTE')}</NavLink>
-        <NavLink to="/moj-profil" activeClassName="active">{translate('PROFILE')}</NavLink>
+        <NavLink to="/moj-profil" activeClassName="active">{translate('TOOLS')}</NavLink>
       </nav>
 
       <div className="header-lang">

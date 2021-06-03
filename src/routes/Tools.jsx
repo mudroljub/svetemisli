@@ -2,9 +2,8 @@ import React from 'react'
 
 import { useTranslate } from '../store/actions'
 
-const Profile = () => {
+const Tools = () => {
   const translate = useTranslate()
-  const name = 'Gost'
 
   const sync = () => {
     // TODO: implement save fajl
@@ -12,13 +11,12 @@ const Profile = () => {
 
   return (
     <main>
-      <h1>{translate('PROFILE')}</h1>
+      <h1>{translate('TOOLS')}</h1>
       <div>
-        <p>name: {name}</p>
         <button onClick={sync}>sync ↻</button>
       </div>
     </main>
   )
 }
 
-export default Profile
+export default Tools

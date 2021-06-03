@@ -52,10 +52,6 @@ const EditForm = ({ quote }) => {
           <input name='source' id='source' defaultValue={quote && quote.source} />
         </p>
         <p>
-          <label htmlFor="tags">{translate('TAGS')} </label><br/>
-          <input name='tags' id='tags' defaultValue={quote && quote.tags} />
-        </p>
-        <p>
           <label htmlFor="wiki">Wiki </label><br/>
           <input name='wiki' id='wiki' defaultValue={quote && quote.wiki} />
         </p>

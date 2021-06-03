@@ -1,7 +1,7 @@
 import React from 'react'
 import {Switch, Route} from 'react-router-dom'
 
-import Profile from '../routes/Profile'
+import Tools from '../routes/Tools'
 import RandomQuote from '../routes/RandomQuote'
 import AllQuotes from '../routes/AllQuotes'
 import Author from '../routes/Author'
@@ -17,7 +17,7 @@ const Router = () => (
     <Route path='/avtor/:name' component={Author} />
     <Route path='/dodaj-citat' component={AddQuote} />
     <Route path='/pravi-citat/:id' component={EditQuote} />
-    <Route path='/moj-profil' component={Profile} />
+    <Route path='/moj-profil' component={Tools} />
   </Switch>
 )
 

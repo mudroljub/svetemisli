@@ -25,6 +25,17 @@ npm start
 
 # TODO
 
+- preraditi API metode da rade lokalno
+- srediti lokalno čuvanje citata
+- offlineMode
+- saveLocal
+- translationMode
+- devMode
+- checkCountry
+- auth
+- prijava
+- AddQuote ukinuti
+
 - statistike i vizuelizacija
 - procediti po duzini na autor stranici
 - dugme koje inicira twiter bot (i fb objavu)

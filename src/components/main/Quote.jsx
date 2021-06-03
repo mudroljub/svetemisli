@@ -3,12 +3,11 @@ import {Link} from 'react-router-dom'
 import {useDispatch, useSelector} from 'react-redux'
 
 import MessagePopup from './MessagePopup'
-import {API} from '../../config/api'
 import {deleteQuote, useTranslate, useTransliterate, useAuthorName} from '../../store/actions'
 import './quote.css'
 
 const Quote = ({ quote, showSource, cssClass }) => {
-  const {token, lang, admin, phrase, minLength, maxLength} = useSelector(state => state)
+  const {lang, phrase, minLength, maxLength} = useSelector(state => state)
   const dispatch = useDispatch()
   const translate = useTranslate()
   const transliterate = useTransliterate()
@@ -27,19 +26,8 @@ const Quote = ({ quote, showSource, cssClass }) => {
   const deleteCss = `pointer ${shouldDelete ? 'red' : ''}`
 
   const doDelete = () => {
-    fetch(API.delete, {
-      method: 'delete',
-      headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({_id, token })
-    })
-      .then(response => response.text())
-      .then(response => {
-        setResponse(translate(response))
-        if (response === 'QUOTE_DELETED') {
-          dispatch(deleteQuote(_id))
-          setShouldDelete(false)
-        }
-      })
+    dispatch(deleteQuote(_id))
+    setShouldDelete(false)
   }
 
   const tryDelete = () => {
@@ -71,12 +59,10 @@ const Quote = ({ quote, showSource, cssClass }) => {
       </p>
       <span className="icons">
         <Link to={`/citat/${_id}`} className="no-link">↠</Link>&nbsp;
-        {admin &&
-          <span>
-            <Link to={`/pravi-citat/${_id}`}><span className="edit-icon">&#9998;</span></Link>&nbsp;
-            <span onClick={tryDelete} className={deleteCss}>&#10005;</span>
-          </span>
-        }
+        <span>
+          <Link to={`/pravi-citat/${_id}`}><span className="edit-icon">&#9998;</span></Link>&nbsp;
+          <span onClick={tryDelete} className={deleteCss}>&#10005;</span>
+        </span>
       </span>
       <span className="quote-author"> — <Link to={authorLink}>{getName(author)}</Link></span>
 

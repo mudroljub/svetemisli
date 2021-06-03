@@ -33,14 +33,12 @@ const initialState = {
   allAuthors: new Set([...allAuthors].sort(sortAbc)),
   filteredAuthors: [...filteredAuthors].sort(sortAbc), // shown in sidebar
   selectedAuthors: new Set(), // selected from sidebar
-  admin: localStorage.getItem(LS.admin) === 'true',
   phrase: '',
   authorPhrase: '',
   sourcePhrase: '',
   isFetching: false,
   lang: defaultLang,
   script: localStorage.getItem(LS.script) || 'kir',
-  token: localStorage.getItem(LS.token),
   devMode: localStorage.getItem(LS.devMode) === 'true', // to boolean
   translationMode: localStorage.getItem(LS.translationMode) === 'true',
   offlineMode: localStorage.getItem(LS.offlineMode) === 'true',
@@ -64,24 +62,6 @@ export const reducer = (state = initialState, action) => {
     && q[lang].length >= minLimit && q[lang].length <= maxLimit
 
   switch (action.type) {
-    case 'FETCH_QUOTES_REQUEST':
-      return {...state, isFetching: true }
-    case 'FETCH_QUOTES_SUCCESS': {
-      const allAuthors = new Set()
-      action.quotes.forEach(q => allAuthors.add(q.author))
-      shuffle(action.quotes)
-      return {
-        ...state,
-        isFetching: false,
-        allQuotes: action.quotes,
-        allAuthors: new Set([...allAuthors].sort(sortAbc)),
-      }
-    }
-    case 'FETCH_QUOTES_FAILURE':
-      return {
-        ...state,
-        isFetching: false,
-      }
     case 'INIT': {
       const {minLength, maxLength} = getBasics(allQuotes, lang)
       const filteredQuotes = allQuotes.filter(filterQ)
@@ -107,10 +87,6 @@ export const reducer = (state = initialState, action) => {
       return {...state, lang: action.lang}
     case 'SET_SCRIPT':
       return {...state, script: action.script }
-    case 'SET_TOKEN':
-      return {...state, token: action.token }
-    case 'SET_ADMIN':
-      return {...state, admin: action.admin }
     case 'SET_PHRASE':
       return {...state, phrase: action.phrase }
     case 'SET_AUTHOR_PHRASE':

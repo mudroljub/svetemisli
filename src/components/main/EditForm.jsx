@@ -38,12 +38,8 @@ const EditForm = ({ quote }) => {
 
     if (offlineMode) return saveLocal(obj)
 
-    try {
-      const id = await dispatch(sendQuote(obj))
-      history.push(`/citat/${id}`)
-    } catch (error) {
-      setMessage(translate('NETWORK_PROBLEM'))
-    }
+    const id = dispatch(sendQuote(obj))
+    history.push(`/citat/${id}`)
   }
 
   return (

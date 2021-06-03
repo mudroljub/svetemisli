@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {Link, useHistory} from 'react-router-dom'
 import {useDispatch} from 'react-redux'
 
-import {useTranslate, sendQuote} from '../../store/actions'
+import {useTranslate, saveQuote} from '../../store/actions'
 import MessagePopup from './MessagePopup'
 
 const EditForm = ({ quote }) => {
@@ -22,7 +22,7 @@ const EditForm = ({ quote }) => {
 
     if (!obj.author || !obj.sr) return setValidation(translate('REQUIRED_FIELDS'))
 
-    const id = dispatch(sendQuote(obj))
+    const id = dispatch(saveQuote(obj))
     history.push(`/citat/${id}`)
   }
 

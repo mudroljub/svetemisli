@@ -2,6 +2,7 @@ import quotes from '../data/quotes.json'
 import {LS} from '../config/localstorage'
 import {includes, shuffle, getName, compare, isInText, isInSource} from '../utils/helpers'
 
+window.quotes = quotes
 const defaultLang = localStorage.getItem(LS.lang) || 'ms'
 
 const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))
@@ -74,12 +75,11 @@ export const reducer = (state = initialState, action) => {
         maxLimit: maxLimit <= maxLength ? maxLimit : maxLength,
       }
     }
-    case 'FILTER_QUOTES': {
+    case 'FILTER_QUOTES':
       return {
         ...state,
         filteredQuotes: allQuotes.filter(filterQ)
       }
-    }
     case 'SET_LANGUAGE':
       return {...state, lang: action.lang}
     case 'SET_SCRIPT':

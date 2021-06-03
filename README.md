@@ -26,7 +26,9 @@ npm start
 # TODO
 
 - preraditi API metode da rade lokalno
-- AddQuote ukinuti
+- kad se kreira da dodaje datum
+  new Date(parseInt("5d971035aa30bb9ae3d6bbc7".substring(0, 8), 16) * 1000).toISOString()
+- proveriti TODO
 
 - statistike i vizuelizacija
 - procediti po duzini na autor stranici

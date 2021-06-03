@@ -39,10 +39,10 @@ export const setMinLimit = minLimit => ({type: 'SET_MIN_LIMIT', minLimit})
 
 export const setMaxLimit = maxLimit => ({type: 'SET_MAX_LIMIT', maxLimit})
 
-export const sendQuote = obj => dispatch => {
+export const saveQuote = obj => dispatch => {
   const action = obj._id ? updateQuote : addQuote
   dispatch(action(obj))
-  return obj._id  || null // dodeljivati id
+  return obj._id  || null // TODO: dodeljivati id
 }
 
 /* SELECTORS */

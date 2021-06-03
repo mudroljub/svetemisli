@@ -1,8 +1,11 @@
 import quotes from '../data/quotes.json'
-import {LS} from '../config/localstorage'
 import {includes, shuffle, getName, compare, isInText, isInSource} from '../utils/helpers'
 
-const defaultLang = localStorage.getItem(LS.lang) || 'ms'
+const storage = localStorage.getItem('sveteMisli')
+  ? JSON.parse(localStorage.getItem('sveteMisli'))
+  : {}
+
+const defaultLang = storage.lang || 'ms'
 
 const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))
 
@@ -36,9 +39,8 @@ const initialState = {
   phrase: '',
   authorPhrase: '',
   sourcePhrase: '',
-  isFetching: false,
   lang: defaultLang,
-  script: localStorage.getItem(LS.script) || 'kir',
+  script: storage.script || 'kir',
   minLength,
   maxLength,
   minLimit: minLength,

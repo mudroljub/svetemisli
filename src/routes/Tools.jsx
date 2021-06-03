@@ -9,6 +9,8 @@ const Tools = () => {
     // TODO: implement
   }
 
+  // TODO: delete LS
+
   return (
     <main>
       <h1>{translate('TOOLS')}</h1>

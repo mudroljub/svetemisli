@@ -2,7 +2,6 @@ import quotes from '../data/quotes.json'
 import {LS} from '../config/localstorage'
 import {includes, shuffle, getName, compare, isInText, isInSource} from '../utils/helpers'
 
-window.quotes = quotes
 const defaultLang = localStorage.getItem(LS.lang) || 'ms'
 
 const sortAbc = (a, b) => compare(getName(a, defaultLang), getName(b, defaultLang))

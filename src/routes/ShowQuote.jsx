@@ -9,7 +9,7 @@ import preloader from '../assets/images/preloader.svg'
 const ShowQuote = ({match}) => {
   const {id} = match.params
   const {allQuotes} = useSelector(state => state)
-  const quote = allQuotes.find(q => q._id === id)
+  const quote = allQuotes.find(q => q._id === Number(id))
   const translate = useTranslate()
 
   if (!quote) return <img src={preloader} alt="loading..." />

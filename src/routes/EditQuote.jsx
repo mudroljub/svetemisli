@@ -7,7 +7,7 @@ const EditQuote = ({ match }) => {
   const { id } = match.params
   const {allQuotes} = useSelector(state => state)
 
-  const quote = allQuotes.find(q => q._id === id)
+  const quote = allQuotes.find(q => q._id === Number(id))
 
   return <EditForm quote={quote} />
 }

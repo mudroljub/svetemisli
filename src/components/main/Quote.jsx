@@ -27,6 +27,7 @@ const Quote = ({ quote, showSource, cssClass }) => {
 
   const doDelete = () => {
     dispatch(deleteQuote(_id))
+    // TODO: QUOTE_DELETED
     setShouldDelete(false)
   }
 

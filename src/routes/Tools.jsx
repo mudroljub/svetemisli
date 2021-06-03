@@ -5,15 +5,15 @@ import { useTranslate } from '../store/actions'
 const Tools = () => {
   const translate = useTranslate()
 
-  const sync = () => {
-    // TODO: implement save fajl
+  const saveFile = () => {
+    // TODO: implement
   }
 
   return (
     <main>
       <h1>{translate('TOOLS')}</h1>
       <div>
-        <button onClick={sync}>sync ↻</button>
+        <button onClick={saveFile}>{translate('SAVE_FILE')}</button>
       </div>
     </main>
   )

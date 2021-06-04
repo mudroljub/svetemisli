@@ -8,6 +8,7 @@ const Filters = () => {
   const { phrase, authorPhrase, sourcePhrase, minLength, maxLength, minLimit, maxLimit } = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
+  // TODO: u store
   const [showFilters, setShowFilters] = useState(localStorage.getItem(LS.showFilters) === 'true')
 
   const changePhrase = e => {

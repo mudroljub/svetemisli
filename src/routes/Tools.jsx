@@ -9,15 +9,21 @@ const Tools = () => {
     // TODO: implement
   }
 
-  // TODO: delete LS
+  const deleteStorage = () => {
+    localStorage.clear()
+  }
+
   // TODO: shuffle(quotes)
 
   return (
     <main>
       <h1>{translate('TOOLS')}</h1>
-      <div>
+      <p>
         <button onClick={saveFile}>{translate('SAVE_FILE')}</button>
-      </div>
+      </p>
+      <p>
+        <button onClick={deleteStorage}>Delete user data</button>
+      </p>
     </main>
   )
 }

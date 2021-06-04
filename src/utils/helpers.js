@@ -38,11 +38,12 @@ export function compare(a, b) {
   return 0
 }
 
-export function shuffle(array) {
-  for (let i = array.length - 1; i > 0; i--) {
+export function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]]
+    [arr[i], arr[j]] = [arr[j], arr[i]]
   }
+  return arr
 }
 
 export const createId = arr => {
@@ -64,7 +65,7 @@ export const getSize = (src = '', size) => src.replace(/\d+px/, `${size}px`)
 export const getImg = author => get(authors, author, 'src')
 
 /**
-@param authors: array
+@param authors: arr
 @return Map(author name: image src)
 */
 export function getThumbnails(authors) {
@@ -104,7 +105,9 @@ export const getDerived = (quotes, lang, filter = q => q[lang]) => {
   })
 
   return {
-    minLength, maxLength, filteredQuotes,
+    minLength,
+    maxLength,
+    filteredQuotes,
     allAuthors: new Set([...allAuthors].sort(sortAbc)),
     filteredAuthors: [...filteredAuthors].sort(sortAbc)
   }

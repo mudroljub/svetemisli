@@ -3,19 +3,12 @@ import { useSelector } from 'react-redux'
 import translations from '../data/translations'
 import {getName, createId} from '../utils/helpers'
 import transliterate from '../utils/transliterate'
-import {LS} from '../config/localstorage'
 
 export const init = () => ({type: 'INIT'})
 
-export const setLang = lang => {
-  localStorage.setItem(LS.lang, lang)
-  return { type: 'SET_LANGUAGE', lang }
-}
+export const setLang = lang => ({ type: 'SET_LANGUAGE', lang })
 
-export const setScript = script => {
-  localStorage.setItem(LS.script, script)
-  return { type: 'SET_SCRIPT', script }
-}
+export const setScript = script => ({ type: 'SET_SCRIPT', script })
 
 export const addQuote = quote => ({type: 'ADD_QUOTE', quote})
 

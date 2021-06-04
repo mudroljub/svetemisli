@@ -2,7 +2,6 @@ import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
 import {useDispatch, useSelector} from 'react-redux'
 
-import MessagePopup from './MessagePopup'
 import {deleteQuote, useTranslate, useTransliterate, useAuthorName} from '../../store/actions'
 import './quote.css'
 
@@ -13,7 +12,6 @@ const Quote = ({ quote, showSource, cssClass }) => {
   const transliterate = useTransliterate()
   const getName = useAuthorName()
   const [shouldDelete, setShouldDelete] = useState(false)
-  const [response, setResponse] = useState('')
 
   const quoteTxt = transliterate(quote[lang])
   const translitPhrase = transliterate(phrase)
@@ -27,17 +25,12 @@ const Quote = ({ quote, showSource, cssClass }) => {
 
   const doDelete = () => {
     dispatch(deleteQuote(_id))
-    // TODO: QUOTE_DELETED
     setShouldDelete(false)
   }
 
   const tryDelete = () => {
     if (shouldDelete) doDelete()
     setShouldDelete(true)
-  }
-
-  const closePopup = () => {
-    setResponse('')
   }
 
   const percent = (quoteTxt.length - minLength) / (maxLength - minLength)
@@ -75,8 +68,6 @@ const Quote = ({ quote, showSource, cssClass }) => {
           }
         </p>
       }
-
-      {response && <MessagePopup message={response} closePopup={closePopup} />}
     </blockquote>
   )
 }

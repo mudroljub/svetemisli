@@ -25,11 +25,6 @@ npm start
 
 # TODO
 
-- implementirati save fajl
-- proveriti TODO komentare
-
 - statistike i vizuelizacija
 - procediti po duzini na autor stranici
-- dugme koje inicira twiter bot (i fb objavu)
-- napraviti alat za objavu statusa na fb
 - rute za jezik

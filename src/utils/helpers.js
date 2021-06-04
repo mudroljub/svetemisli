@@ -104,7 +104,6 @@ export const getDerived = (quotes, lang, filter = q => q[lang]) => {
       filteredAuthors.add(q.author)
     }
   })
-
   return {
     minLength,
     maxLength,

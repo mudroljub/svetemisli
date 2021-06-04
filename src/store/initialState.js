@@ -14,7 +14,7 @@ export default {
   allQuotes,
   allAuthors,
   filteredQuotes,
-  filteredAuthors, // shown in sidebar
+  filteredAuthors,
   minLength,
   maxLength,
   lang,
@@ -23,7 +23,7 @@ export default {
   showSidebar: storage.showSidebar,
   minLimit: minLength,
   maxLimit: maxLength,
-  selectedAuthors: new Set(), // selected from sidebar
+  selectedAuthors: new Set(),
   phrase: '',
   authorPhrase: '',
   sourcePhrase: '',

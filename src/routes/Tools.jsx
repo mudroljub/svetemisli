@@ -14,15 +14,16 @@ const Tools = () => {
   }
 
   // TODO: shuffle(quotes)
+  // {translate('SAVE_FILE')}
 
   return (
     <main>
       <h1>{translate('TOOLS')}</h1>
       <p>
-        <button onClick={saveFile}>{translate('SAVE_FILE')}</button>
+        <button onClick={saveFile}>Export quotes</button>
       </p>
       <p>
-        <button onClick={deleteStorage}>Delete user data</button>
+        <button onClick={deleteStorage}>Delete local storage</button>
       </p>
     </main>
   )

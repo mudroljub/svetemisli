@@ -36,12 +36,11 @@ export const setShowFilters = showFilters => ({type: 'SET_SHOW_FILTERS', showFil
 
 export const setShowSidebar = showSidebar => ({type: 'SET_SHOW_SIDEBAR', showSidebar})
 
-export const saveQuote = obj => (dispatch, getState) => {
-  const action = obj._id ? updateQuote : addQuote
-  if (!obj._id) obj._id = createId(getState().allQuotes)
-  dispatch(action(obj))
-  // TODO: SUCCESS_SAVED
-  return obj._id
+export const saveQuote = quote => (dispatch, getState) => {
+  const action = quote._id ? updateQuote : addQuote
+  if (!quote._id) quote._id = createId(getState().allQuotes)
+  dispatch(action(quote))
+  return quote._id
 }
 
 /* SELECTORS */

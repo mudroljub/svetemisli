@@ -16,13 +16,14 @@ const EditForm = ({ quote }) => {
   const postQuote = async e => {
     e.preventDefault()
     setValidation('')
-    const obj = Object.values(e.target.elements)
+    const data = Object.values(e.target.elements)
       .filter(el => el.name)
       .reduce((acc, el) => ({...acc, [el.name]: el.value.trim()}), {})
 
-    if (!obj.author || !obj.sr) return setValidation(translate('REQUIRED_FIELDS'))
+    if (!data.author || !data.sr) return setValidation(translate('REQUIRED_FIELDS'))
 
-    const id = dispatch(saveQuote(obj))
+    if (data._id) data._id = Number(data._id)
+    const id = dispatch(saveQuote(data))
     history.push(`/citat/${id}`)
   }
 

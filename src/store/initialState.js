@@ -5,8 +5,7 @@ const storage = localStorage.getItem('sveteMisli')
   ? JSON.parse(localStorage.getItem('sveteMisli'))
   : {}
 
-console.log(storage.allQuotes) // undefined??
-const allQuotes = storage.allQuotes || shuffle(quotes)
+const allQuotes = shuffle(storage.allQuotes || quotes)
 const lang = storage.lang || 'ms'
 
 const {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors} = getDerived(allQuotes, lang)

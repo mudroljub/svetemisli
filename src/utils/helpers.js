@@ -39,11 +39,12 @@ export function compare(a, b) {
 }
 
 export function shuffle(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
+  const copy = [...arr]
+  for (let i = copy.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]]
+    [copy[i], copy[j]] = [copy[j], copy[i]]
   }
-  return arr
+  return copy
 }
 
 export const createId = arr => {

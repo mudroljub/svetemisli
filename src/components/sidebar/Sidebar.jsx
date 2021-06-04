@@ -1,16 +1,17 @@
 import React, {useState, useEffect} from 'react'
-import { useSelector } from 'react-redux'
+import { useSelector, useDispatch } from 'react-redux'
 
 import Filters from './Filters'
 import AuthorThumb from './AuthorThumb'
 import {getThumbnails, getImg} from '../../utils/helpers'
-import { LS } from '../../config/localstorage'
+import { setShowSidebar } from '../../store/actions'
+
 import './sidebar.css'
 
 const Sidebar = () => {
-  const {allAuthors, filteredAuthors} = useSelector(state => state)
+  const {allAuthors, filteredAuthors, showSidebar} = useSelector(state => state)
   const [thumbnails, setThumbnails] = useState(new Map())
-  const [sidebarOpen, setSidebarOpen] = useState(localStorage.getItem(LS.showSidebar) === 'true')
+  const dispatch = useDispatch()
 
   const getAuthorThumbs = allAuthors => {
     const withImg = [...allAuthors].filter(x => !getImg(x))
@@ -25,12 +26,11 @@ const Sidebar = () => {
   }
 
   useEffect(() => {
-    if (sidebarOpen && allAuthors.size) getAuthorThumbs(allAuthors)
-  }, [allAuthors, sidebarOpen])
+    if (showSidebar && allAuthors.size) getAuthorThumbs(allAuthors)
+  }, [allAuthors, showSidebar])
 
   const toggle = () => {
-    localStorage.setItem(LS.showSidebar, !sidebarOpen)
-    setSidebarOpen(!sidebarOpen)
+    dispatch(setShowSidebar(!showSidebar))
   }
 
   const authorThumbs = filteredAuthors.map(author =>
@@ -46,7 +46,7 @@ const Sidebar = () => {
       <button onClick={toggle} className="no-button toggle-button">
         <span role="img" aria-label="search" className="search-icon">&#x1F50D;</span>
       </button>
-      {sidebarOpen &&
+      {showSidebar &&
         <div className="sidebar-inner">
           <Filters/>
           <div className="authors">

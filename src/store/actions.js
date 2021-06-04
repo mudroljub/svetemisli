@@ -32,6 +32,10 @@ export const setMinLimit = minLimit => ({type: 'SET_MIN_LIMIT', minLimit})
 
 export const setMaxLimit = maxLimit => ({type: 'SET_MAX_LIMIT', maxLimit})
 
+export const setShowFilters = showFilters => ({type: 'SET_SHOW_FILTERS', showFilters})
+
+export const setShowSidebar = showSidebar => ({type: 'SET_SHOW_SIDEBAR', showSidebar})
+
 export const saveQuote = obj => (dispatch, getState) => {
   const action = obj._id ? updateQuote : addQuote
   if (!obj._id) obj._id = createId(getState().allQuotes)

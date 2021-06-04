@@ -5,6 +5,8 @@ const storage = localStorage.getItem('sveteMisli')
   ? JSON.parse(localStorage.getItem('sveteMisli'))
   : {}
 
+console.log(storage)
+
 const allQuotes = storage.allQuotes || shuffle(quotes)
 const lang = storage.lang || 'ms'
 
@@ -19,6 +21,8 @@ export default {
   maxLength,
   lang,
   script: storage.script || 'kir',
+  showFilters: storage.showFilters === 'true',
+  showSidebar: storage.showSidebar === 'true',
   minLimit: minLength,
   maxLimit: maxLength,
   selectedAuthors: new Set(), // selected from sidebar

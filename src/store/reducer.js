@@ -44,6 +44,10 @@ export const reducer = (state = initialState, action) => {
       return {...state, minLimit: action.minLimit }
     case 'SET_MAX_LIMIT':
       return {...state, maxLimit: action.maxLimit }
+    case 'SET_SHOW_SIDEBAR':
+      return {...state, showSidebar: action.showSidebar }
+    case 'SET_SHOW_FILTERS':
+      return {...state, showFilters: action.showFilters }
     case 'ADD_QUOTE': {
       const updatedQuotes = [...allQuotes, quote]
       return {

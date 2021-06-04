@@ -1,15 +1,12 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 
-import { filterQuotes, filterAuthors, useTranslate, setPhrase, setAuthorPhrase, setSourcePhrase, setMinLimit, setMaxLimit } from '../../store/actions'
-import { LS } from '../../config/localstorage'
+import { filterQuotes, filterAuthors, useTranslate, setPhrase, setAuthorPhrase, setSourcePhrase, setMinLimit, setMaxLimit, setShowFilters } from '../../store/actions'
 
 const Filters = () => {
-  const { phrase, authorPhrase, sourcePhrase, minLength, maxLength, minLimit, maxLimit } = useSelector(state => state)
+  const { phrase, authorPhrase, sourcePhrase, minLength, maxLength, minLimit, maxLimit, showFilters } = useSelector(state => state)
   const translate = useTranslate()
   const dispatch = useDispatch()
-  // TODO: u store
-  const [showFilters, setShowFilters] = useState(localStorage.getItem(LS.showFilters) === 'true')
 
   const changePhrase = e => {
     dispatch(setPhrase(e.target.value))
@@ -27,8 +24,7 @@ const Filters = () => {
   }
 
   const toggleMoreFilters = () => {
-    localStorage.setItem(LS.showFilters, !showFilters)
-    setShowFilters(!showFilters)
+    dispatch(setShowFilters(!showFilters))
   }
 
   const changeMinLimit = e => {

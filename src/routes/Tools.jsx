@@ -1,20 +1,20 @@
 import React from 'react'
+import {useSelector} from 'react-redux'
 
-import { useTranslate } from '../store/actions'
+import {useTranslate} from '../store/actions'
+import {download} from '../utils/helpers'
 
 const Tools = () => {
   const translate = useTranslate()
+  const {allQuotes} = useSelector(state => state)
 
   const saveFile = () => {
-    // TODO: implement
+    download(JSON.stringify(allQuotes), 'citati.json', 'text/plain')
   }
 
   const deleteStorage = () => {
     localStorage.clear()
   }
-
-  // TODO: shuffle(quotes)
-  // {translate('SAVE_FILE')}
 
   return (
     <main>

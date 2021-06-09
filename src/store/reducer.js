@@ -1,17 +1,11 @@
-import {includes, getDerived, getName, isInText, isInSource} from '../utils/helpers'
+import {includes, getDerived, getName, filterQuotes} from '../utils/helpers'
 import initialState from './initialState'
 
 export const reducer = (state = initialState, action) => {
-  const {allQuotes, allAuthors, selectedAuthors, lang, phrase, authorPhrase, sourcePhrase, minLimit, maxLimit} = state
+  const {allQuotes, allAuthors, selectedAuthors, lang, authorPhrase, minLimit, maxLimit} = state
   const {quote} = action
 
-  // TODO: reuse method
-  const filterQ = q =>
-    q[lang]
-    && isInText(q[lang], phrase)
-    && isInSource(q.source, sourcePhrase)
-    && (selectedAuthors.length ? selectedAuthors.includes(q.author) : true)
-    && q[lang].length >= minLimit && q[lang].length <= maxLimit
+  const filterQ = q => filterQuotes(q, state)
 
   switch (action.type) {
     case 'INIT': {

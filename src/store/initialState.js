@@ -4,7 +4,7 @@ import {shuffle, getDerived} from '../utils/helpers'
 const storage = localStorage.getItem('sveteMisli')
   ? JSON.parse(localStorage.getItem('sveteMisli'))
   : {}
-// needed default storage values
+// need for getDerived
 storage.lang = storage.lang || 'ms'
 storage.allQuotes = shuffle(storage.allQuotes || quotes)
 

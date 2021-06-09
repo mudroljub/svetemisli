@@ -26,7 +26,7 @@ const Sidebar = () => {
   }
 
   useEffect(() => {
-    if (showSidebar && allAuthors.size) getAuthorThumbs(allAuthors)
+    if (showSidebar && allAuthors.length) getAuthorThumbs(allAuthors)
   }, [allAuthors, showSidebar])
 
   const toggle = () => {

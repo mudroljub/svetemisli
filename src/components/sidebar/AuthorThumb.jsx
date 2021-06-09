@@ -28,7 +28,7 @@ const AuthorThumb = ({ author, image }) => {
         <input
           type="checkbox"
           value={author}
-          checked={selectedAuthors.has(author)}
+          checked={selectedAuthors.includes(author)}
           onChange={handleCheck}
         />
       </label>

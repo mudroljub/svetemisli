@@ -84,32 +84,32 @@ export function getThumbnails(authors) {
     })
 }
 
-export const getDerived = (quotes, lang, filter = q => q[lang]) => {
+export const getDerived = (quotes, lang, filter = q => q[lang], authorPhrase = '') => {
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
+  const shouldShow = author => includes(author, authorPhrase) || includes(getName(author, lang), authorPhrase)
 
-  const allAuthors = new Set()
+  const allAuthors = []
+  const filteredAuthors = []
   const filteredQuotes = []
-  const filteredAuthors = new Set()
   let minLength = quotes[0][lang].length
   let maxLength = quotes[0][lang].length
 
   quotes.forEach(q => {
-    allAuthors.add(q.author)
+    if (!allAuthors.includes(q.author)) allAuthors.push(q.author)
     const {length} = q[lang]
     if (!length) return
     if (length < minLength) minLength = length
     if (length > maxLength) maxLength = length
-    if (filter(q)) {
-      filteredQuotes.push(q)
-      filteredAuthors.add(q.author)
-    }
+    if (filter(q)) filteredQuotes.push(q)
+    if (shouldShow(q.author) && !filteredAuthors.includes(q.author))
+      filteredAuthors.push(q.author)
   })
   return {
     minLength,
     maxLength,
     filteredQuotes,
-    allAuthors: new Set([...allAuthors].sort(sortAbc)),
-    filteredAuthors: [...filteredAuthors].sort(sortAbc)
+    allAuthors: allAuthors.sort(sortAbc),
+    filteredAuthors: filteredAuthors.sort(sortAbc)
   }
 }
 

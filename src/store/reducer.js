@@ -5,11 +5,12 @@ export const reducer = (state = initialState, action) => {
   const {allQuotes, allAuthors, selectedAuthors, lang, phrase, authorPhrase, sourcePhrase, minLimit, maxLimit} = state
   const {quote} = action
 
+  // TODO: reuse method
   const filterQ = q =>
     q[lang]
     && isInText(q[lang], phrase)
     && isInSource(q.source, sourcePhrase)
-    && (selectedAuthors.size ? selectedAuthors.has(q.author) : true)
+    && (selectedAuthors.length ? selectedAuthors.includes(q.author) : true)
     && q[lang].length >= minLimit && q[lang].length <= maxLimit
 
   switch (action.type) {
@@ -54,7 +55,7 @@ export const reducer = (state = initialState, action) => {
         ...state,
         allQuotes: updatedQuotes,
         filteredQuotes: updatedQuotes.filter(filterQ),
-        allAuthors: allAuthors.add(quote.author)
+        allAuthors: !allAuthors.includes(quote.author) ? [...allAuthors, quote.author] : allAuthors
       }
     }
     case 'UPDATE_QUOTE': {
@@ -74,6 +75,7 @@ export const reducer = (state = initialState, action) => {
       }
     }
     case 'FILTER_AUTHORS': {
+      // TODO: reuse method
       const filteredAuthors = [...allAuthors]
         .filter(name => includes(name, authorPhrase) || includes(getName(name, lang), authorPhrase))
       return {
@@ -83,12 +85,9 @@ export const reducer = (state = initialState, action) => {
     }
     case 'TOGGLE_SELECTED_AUTHORS': {
       const {shouldAdd, value} = action
-      const authors = new Set([...selectedAuthors])
-      if (shouldAdd) authors.add(value)
-      else authors.delete(value)
       return {
         ...state,
-        selectedAuthors: authors
+        selectedAuthors: shouldAdd ? [...selectedAuthors, value] : selectedAuthors.filter(a => a !== value)
       }
     }
     default:

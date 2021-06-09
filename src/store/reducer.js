@@ -15,7 +15,7 @@ export const reducer = (state = initialState, action) => {
 
   switch (action.type) {
     case 'INIT': {
-      const {minLength, maxLength, filteredQuotes, filteredAuthors} = getDerived(allQuotes, lang, filterQ)
+      const {minLength, maxLength, filteredQuotes, filteredAuthors} = getDerived(state)
       return {
         ...state,
         filteredQuotes,

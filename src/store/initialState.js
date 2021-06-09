@@ -4,17 +4,14 @@ import {shuffle, getDerived} from '../utils/helpers'
 const storage = localStorage.getItem('sveteMisli')
   ? JSON.parse(localStorage.getItem('sveteMisli'))
   : {}
+// needed default storage values
+storage.lang = storage.lang || 'ms'
+storage.allQuotes = shuffle(storage.allQuotes || quotes)
 
-const {script, minLimit, maxLimit, showFilters, showSidebar, phrase, sourcePhrase, authorPhrase, selectedAuthors} = storage
-const allQuotes = shuffle(storage.allQuotes || quotes)
-const lang = storage.lang || 'ms'
+const {lang, script, minLimit, maxLimit, showFilters, showSidebar, phrase, sourcePhrase, authorPhrase, selectedAuthors, allQuotes} = storage
+const {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors} = getDerived(storage)
 
-// TODO: fix logic?
-const derived = getDerived(storage)
-
-const {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors} = derived
-
-export default {
+const initialState = {
   allQuotes,
   allAuthors,
   filteredQuotes,
@@ -32,3 +29,5 @@ export default {
   authorPhrase: authorPhrase || '',
   sourcePhrase: sourcePhrase || '',
 }
+
+export default initialState

@@ -9,7 +9,7 @@ export function findValue(object, searchKey) {
   return value
 }
 
-export const includes = (text, phrase) => {
+export const includes = (text, phrase = '') => {
   if (!text) return false
   const t = text.toLowerCase(), p = phrase.toLowerCase()
   return t.includes(p) || t.replace(/ě/g, 'e').replace(/y/g, 'i').includes(p)
@@ -85,18 +85,20 @@ export function getThumbnails(authors) {
 }
 
 export const filterQuotes = (q, store) => {
-  const {lang, phrase, sourcePhrase, selectedAuthors, minLimit, maxLimit} = store
+  const {lang, phrase, sourcePhrase, selectedAuthors, minLimit = 0, maxLimit = Infinity} = store
   return q[lang]
   && isInText(q[lang], phrase)
   && isInSource(q.source, sourcePhrase)
-  && (selectedAuthors.length ? selectedAuthors.includes(q.author) : true)
+  && (selectedAuthors && selectedAuthors.length ? selectedAuthors.includes(q.author) : true)
   && q[lang].length >= minLimit && q[lang].length <= maxLimit
 }
+
+export const showAuthor = (name, lang, authorPhrase) =>
+  includes(name, authorPhrase) || includes(getName(name, lang), authorPhrase)
 
 export const getDerived = store => {
   const {allQuotes, lang, authorPhrase} = store
   const sortAbc = (a, b) => compare(getName(a, lang), getName(b, lang))
-  const shouldShow = author => includes(author, authorPhrase) || includes(getName(author, lang), authorPhrase)
 
   const allAuthors = []
   const filteredAuthors = []
@@ -111,7 +113,7 @@ export const getDerived = store => {
     if (length < minLength) minLength = length
     if (length > maxLength) maxLength = length
     if (filterQuotes(q, store)) filteredQuotes.push(q)
-    if (shouldShow(q.author) && !filteredAuthors.includes(q.author))
+    if (showAuthor(q.author, lang, authorPhrase) && !filteredAuthors.includes(q.author))
       filteredAuthors.push(q.author)
   })
   return {

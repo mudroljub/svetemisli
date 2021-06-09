@@ -1,8 +1,8 @@
-import {includes, getDerived, getName, filterQuotes} from '../utils/helpers'
+import {getDerived, filterQuotes, showAuthor} from '../utils/helpers'
 import initialState from './initialState'
 
 export const reducer = (state = initialState, action) => {
-  const {allQuotes, allAuthors, selectedAuthors, lang, authorPhrase, minLimit, maxLimit} = state
+  const {allQuotes, allAuthors, selectedAuthors, lang, authorPhrase} = state
   const {quote} = action
 
   const filterQ = q => filterQuotes(q, state)
@@ -16,8 +16,6 @@ export const reducer = (state = initialState, action) => {
         filteredAuthors,
         minLength,
         maxLength,
-        minLimit: minLimit >= minLength ? minLimit : minLength,
-        maxLimit: maxLimit <= maxLength ? maxLimit : maxLength,
       }
     }
     case 'FILTER_QUOTES':
@@ -69,9 +67,7 @@ export const reducer = (state = initialState, action) => {
       }
     }
     case 'FILTER_AUTHORS': {
-      // TODO: reuse method
-      const filteredAuthors = [...allAuthors]
-        .filter(name => includes(name, authorPhrase) || includes(getName(name, lang), authorPhrase))
+      const filteredAuthors = allAuthors.filter(name => showAuthor(name, lang, authorPhrase))
       return {
         ...state,
         filteredAuthors

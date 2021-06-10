@@ -5,20 +5,15 @@ import Quotes from '../components/main/Quotes'
 import AuthorImage from '../components/main/AuthorImage'
 import AuthorInfo from '../components/main/AuthorInfo'
 import {useAuthorName} from '../store/actions'
-import {isInText, isInSource} from '../utils/helpers'
+import {filterQuotes} from '../utils/helpers'
 
 const Author = ({match}) => {
-  const {allQuotes, lang, phrase, sourcePhrase} = useSelector(state => state)
+  const state = useSelector(state => state)
   const getName = useAuthorName()
 
   const author = match.params.name.replace(/_/g, ' ')
 
-  const filtered = allQuotes.filter(q =>
-    q[lang]
-    && isInText(q[lang], phrase)
-    && isInSource(q.source, sourcePhrase)
-    && q.author === author
-  )
+  const filtered = state.allQuotes.filter(q => filterQuotes(q, {...state, selectedAuthors: [author]}))
 
   return (
     <main>

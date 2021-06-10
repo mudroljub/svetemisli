@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/accessible-emoji */
 import React from 'react'
 import {useSelector} from 'react-redux'
 
@@ -19,11 +20,13 @@ const Tools = () => {
   return (
     <main>
       <h1>{translate('TOOLS')}</h1>
+      <button onClick={saveFile}>💾 Export quotes</button>
       <p>
-        <button onClick={saveFile}>Export quotes</button>
+        Export all quotes, together with your edits, as a json file.
       </p>
+      <button onClick={deleteStorage}>❌ Delete local storage</button>
       <p>
-        <button onClick={deleteStorage}>Delete local storage</button>
+        Delete all your user setting, together with modified quotes.
       </p>
     </main>
   )

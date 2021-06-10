@@ -5,15 +5,14 @@ import Quotes from '../components/main/Quotes'
 import AuthorImage from '../components/main/AuthorImage'
 import AuthorInfo from '../components/main/AuthorInfo'
 import {useAuthorName} from '../store/actions'
-import {filterQuotes} from '../utils/helpers'
+import {getDerived} from '../utils/helpers'
 
 const Author = ({match}) => {
   const state = useSelector(state => state)
   const getName = useAuthorName()
 
   const author = match.params.name.replace(/_/g, ' ')
-
-  const filtered = state.allQuotes.filter(q => filterQuotes(q, {...state, selectedAuthors: [author]}))
+  const {filteredQuotes} = getDerived({...state, selectedAuthors: [author]})
 
   return (
     <main>
@@ -23,7 +22,7 @@ const Author = ({match}) => {
         <AuthorImage author={author} showImage={true} />
         <AuthorInfo author={author} />
       </div>
-      <Quotes quotes={filtered} hideImage />
+      <Quotes quotes={filteredQuotes} hideImage />
     </main>
   )
 }

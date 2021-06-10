@@ -26,5 +26,7 @@ npm start
 # TODO
 
 - dodati favorite
+- proveriti prevode: to što, ono što, onaj ko, je... Rabota poševšego nasytiti děti, Plotin, Zaratustra, krišnamurti, Upanišade,
+- neprevedeno
 - statistike i vizuelizacija
 - rute za jezik

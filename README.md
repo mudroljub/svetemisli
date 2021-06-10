@@ -25,5 +25,6 @@ npm start
 
 # TODO
 
+- dodati favorite
 - statistike i vizuelizacija
 - rute za jezik

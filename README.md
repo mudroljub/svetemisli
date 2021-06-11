@@ -25,7 +25,7 @@ npm start
 
 # TODO
 
-- prečešljati: Rabota poševšego nasytiti děti, Plotin, Zaratustra, krišnamurti, Upanišade,
+- prečešljati: U, u, srpski postoji -> ms jest (umesto obstaj*)
 - dodati favorite
 - neprevedeno
 - statistike i vizuelizacija

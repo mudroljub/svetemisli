@@ -6,7 +6,7 @@ const storage = localStorage.getItem('sveteMisli')
   : {}
 // need for getDerived
 storage.lang = storage.lang || 'ms'
-storage.allQuotes = shuffle(storage.allQuotes || quotes)
+storage.allQuotes = storage.allQuotes || shuffle(quotes)
 
 const {lang, script, minLimit, maxLimit, showFilters, showSidebar, phrase, sourcePhrase, authorPhrase, selectedAuthors, allQuotes} = storage
 const {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors} = getDerived(storage)

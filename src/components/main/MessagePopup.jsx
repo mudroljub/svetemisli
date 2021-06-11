@@ -1,7 +1,7 @@
 import React from 'react'
 import './message-popup.css'
 
-export default ({ message, closePopup }) => (
+const MessagePopup = ({ message, closePopup }) => (
   <div>
     <div className="white_content">
       <h3>{message}</h3>
@@ -10,3 +10,5 @@ export default ({ message, closePopup }) => (
     <div  className="black_overlay" onClick={closePopup} ></div>
   </div>
 )
+
+export default MessagePopup

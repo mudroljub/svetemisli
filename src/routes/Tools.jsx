@@ -10,7 +10,8 @@ const Tools = () => {
   const {allQuotes} = useSelector(state => state)
 
   const saveFile = () => {
-    download(JSON.stringify(allQuotes, null, 2), 'citati.json', 'text/plain')
+    const sorted = [...allQuotes].sort((a, b) => a._id - b._id)
+    download(JSON.stringify(sorted, null, 2), 'citati.json', 'text/plain')
   }
 
   const deleteStorage = () => {

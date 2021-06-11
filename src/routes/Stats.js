@@ -7,26 +7,34 @@ import {Chart} from 'react-google-charts'
 const ShowQuote = () => {
   const {allQuotes} = useSelector(state => state)
   // const translate = useTranslate()
-  console.log(allQuotes)
+
+  const dict = allQuotes.reduce((acc, q) => ({
+    ...acc,
+    [q.author]: acc[q.author] ? acc[q.author] + 1 : 1
+  }), {})
+
+  const data = []
+  for (const [key, value] of Object.entries(dict))
+    data.push([key, value])
+
+  data.sort((a, b) => b[1] - a[1])
+  console.log(data)
 
   return (
     <main>
       <h1>Statistika</h1>
       <Chart
-        width={'500px'}
-        height={'300px'}
+        width={'800px'}
+        height={'500px'}
         chartType="PieChart"
-        loader={<div>Loading Chart</div>}
+        loader={<div>Loading...</div>}
         data={[
-          ['Task', 'Hours per Day'],
-          ['Work', 11],
-          ['Eat', 2],
-          ['Commute', 2],
-          ['Watch TV', 2],
-          ['Sleep', 7],
+          ['Avtor', 'broj citata'],
+          ...data,
         ]}
         options={{
-          title: 'My Daily Activities',
+          title: 'Avtori',
+          backgroundColor: 'transparent'
         }}
         rootProps={{ 'data-testid': '1' }}
       />

@@ -8,7 +8,7 @@ const storage = localStorage.getItem('sveteMisli')
 storage.lang = storage.lang || 'ms'
 storage.allQuotes = storage.allQuotes || shuffle(quotes)
 
-const {lang, script, minLimit, maxLimit, showFilters, showSidebar, phrase, sourcePhrase, authorPhrase, selectedAuthors, allQuotes} = storage
+const {lang, script, minLimit, maxLimit, showFilters, showSidebar, phrase, sourcePhrase, authorPhrase, selectedAuthors, allQuotes, page} = storage
 const {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors} = getDerived(storage)
 
 const initialState = {
@@ -28,6 +28,7 @@ const initialState = {
   phrase: phrase || '',
   authorPhrase: authorPhrase || '',
   sourcePhrase: sourcePhrase || '',
+  page: page || 0,
 }
 
 export default initialState

@@ -36,6 +36,8 @@ export const setShowFilters = showFilters => ({type: 'SET_SHOW_FILTERS', showFil
 
 export const setShowSidebar = showSidebar => ({type: 'SET_SHOW_SIDEBAR', showSidebar})
 
+export const setPage = page => ({type: 'SET_PAGE', page})
+
 export const saveQuote = quote => (dispatch, getState) => {
   const action = quote._id ? updateQuote : addQuote
   if (!quote._id) quote._id = createId(getState().allQuotes)

@@ -41,6 +41,8 @@ export const reducer = (state = initialState, action) => {
       return {...state, showSidebar: action.showSidebar }
     case 'SET_SHOW_FILTERS':
       return {...state, showFilters: action.showFilters }
+    case 'SET_PAGE':
+      return {...state, page: action.page }
     case 'ADD_QUOTE': {
       const updatedQuotes = [...allQuotes, quote]
       return {

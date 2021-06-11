@@ -1,9 +1,9 @@
-import React, {useState} from 'react'
-import {useSelector} from 'react-redux'
+import React from 'react'
+import {useSelector, useDispatch} from 'react-redux'
 
 import Quote from './Quote'
 import Pagionation from './Pagination'
-import {useTranslate, useTransliterate} from '../../store/actions'
+import {useTranslate, useTransliterate, setPage} from '../../store/actions'
 import {smoothscroll} from '../../utils/helpers'
 import chakra from '../../assets/images/chakra.svg'
 import './quotes.css'
@@ -11,10 +11,10 @@ import './quotes.css'
 const quotesPerPage = 15
 
 export default function Quotes({quotes, hideImage}) {
-  const {phrase} = useSelector(state => state)
+  const {phrase, page} = useSelector(state => state)
   const translate = useTranslate()
   const transliterate = useTransliterate()
-  const [page, setPage] = useState(0)
+  const dispatch = useDispatch()
 
   const image = <img
     src={chakra}
@@ -28,7 +28,7 @@ export default function Quotes({quotes, hideImage}) {
   }
 
   const setPageAndScroll = x => {
-    setPage(x)
+    dispatch(setPage(x))
     smoothscroll()
   }
 

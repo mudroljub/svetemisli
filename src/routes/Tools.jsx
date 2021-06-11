@@ -10,7 +10,7 @@ const Tools = () => {
   const {allQuotes} = useSelector(state => state)
 
   const saveFile = () => {
-    download(JSON.stringify(allQuotes), 'citati.json', 'text/plain')
+    download(JSON.stringify(allQuotes, null, 2), 'citati.json', 'text/plain')
   }
 
   const deleteStorage = () => {

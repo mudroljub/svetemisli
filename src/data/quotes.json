@@ -277,8 +277,8 @@
   },
   {
     "author": "Demokrit",
-    "sr": "Potrebe tela lako zadovolje se. To što ište muku i trud ne želi telo no um.",
-    "ms": "Potrěby těla legko zadovolet se. To čto išče muku i trud ne želaje tělo no um.",
+    "sr": "Potrebe tela lako zadovolje se. Što ište muku i trud želi um.",
+    "ms": "Potrěby těla legko zadovolet se. Čto išče muku i trud želaje um.",
     "source": "Herman Diels, Predsokratovci II (str. 178), Zagreb 1983.",
     "_id": 1579
   },
@@ -328,7 +328,7 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Znanje je riznica, a pitanje ključ. Zato pitajte, jer se time koriste četiri osobe: ko pita, ko odgovara, ko sluša i onaj ko ih voli.",
+    "sr": "Znanje je riznica, a pitanje ključ. Zato pitajte, jer se time koriste četiri osobe: ko pita, ko odgovara, ko sluša i ko ih voli.",
     "ms": "Znanje jest skarbnica, a pytanje ključ. Zato pytajte, jer tym koriste se četyri osoby: kto pyta, kto odgovori, kto slyši i kto ljubi jih.",
     "source": "Buharijeva zbirka hadisa, Sarajevo 2008.",
     "_id": 425
@@ -517,7 +517,7 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Osramoćen zbog istine bolji je no uvažen zbog laži.",
+    "sr": "Osramoćen zbog istine bolji no uvažen zbog laži.",
     "ms": "Osramjeny vslěd istiny bolji no uvažany vslěd lži.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 638
@@ -623,9 +623,9 @@
     "_id": 227
   },
   {
-    "sr": "Kada um čežnjom ljubavi uznosi se Bogu, on ne oseća sebe, ni išta postojeće. Obasjan beskrajnom božanskom svetlošću, bezosećajan je za sve stvoreno, kao oko prema zvezdama kada rodi se sunce.",
+    "sr": "Kada um čežnjom ljubavi uznosi se Bogu, ne oseća sebe, ni išta postojeće. Obasjan beskrajnom božanskom svetlošću, bezosećajan je za sve stvoreno, kao oko prema zvezdama kada rodi se sunce.",
     "author": "Maksim Ispovednik",
-    "ms": "Kogda um žedny ljubvi voznosi se bogu, on ne čuje sebe, ni čto-libo byvajuče. Blěskany bezkonečnym božskym světlom, bezčutny jest za vse sozdano, kak oko prěmy zvězdam kogda rodi se solnce.",
+    "ms": "Kogda um žedny ljubvi voznosi se bogu, ne čuje sebe, ni čto-libo byvajuče. Blěskany bezkonečnym božskym světlom, bezčutny jest za vse sozdano, kak oko prěmy zvězdam kogda rodi se solnce.",
     "source": "Stoslovi o ljubavi I-10",
     "_id": 363
   },
@@ -638,8 +638,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Ko je ponizan bog ga uzvisi. On sebi izgleda malen a ljudima velik. Ko je ohol bog ga ponizi. On sebi izgleda velik a ljudima ništavan.",
-    "ms": "Kto skromny bog go vozvysi. On sobě izdava se malenjky a ljudam veliky. Kto nadmeny bog go ponizi. On sobě izdava se veliky a ljudam ničtovny.",
+    "sr": "Poniznoga bog uzvisi. On sebi izgleda malen a ljudima velik. Ohologa bog ponizi. On sebi izgleda velik a ljudima ništavan.",
+    "ms": "Skromnogo bog vozvysi. On sobě izdava se malenjky a ljudam veliky. Nadmenogo bog ponizi. On sobě izdava se veliky a ljudam ničtovny.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 430
   },
@@ -703,7 +703,7 @@
   {
     "author": "Gautama Buddha",
     "sr": "Meso možeš jesti samo ako ne vidiš, ne čuješ i ne sumnjaš da je živo biće ubijeno tebe radi.",
-    "ms": "Meso možeš jesti samo ako ne vidiš, ne slyšiš i ne sumněvaš da živo bytje ubito tebe radi.",
+    "ms": "Meso možeš jesti samo ako ne vidiš, ne slyšiš i ne sumněvaš že živo bytje ubito tebe radi.",
     "source": "Mađđhima nikaya 55: Đivaka sutta",
     "_id": 100
   },
@@ -773,7 +773,7 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Nesigurna je i nepoznata dužina života. Život je težak i kratak, bremenit patnjom. Nema načina da rođeni izbegnu smrt.",
+    "sr": "Nesigurna je i nepoznata dužina života. Život težak i kratak, bremenit patnjom. Nema načina da rođeni izbegnu smrt.",
     "ms": "Dolžina života neizvěstna i neznana. Život težky i kratky, brěmenny stradanjem. Ne imaje puta rodženomu izběgti smrt.",
     "source": "khuddaka/snp3-8",
     "_id": 453
@@ -831,7 +831,7 @@
   },
   {
     "author": "Isak Sirin",
-    "sr": "Što je so za jelo, pokoj je za svako delo. Da ga dostigne, čovek mora mneti o sebi krotko, sa omalovaženjem i bolnom samoosudom. Ako ga steknemo, učini nas sinovima božijim.",
+    "sr": "Što sol za jelo, pokoj je za svako delo. Da ga dostigne, čovek mora mneti o sebi krotko, sa omalovaženjem i bolnom samoosudom. Ako ga steknemo, učini nas sinovima božijim.",
     "ms": "Čto sol za jelo, pokoj za vsako dělo. Da go dostigne, člověk mora mněti o sobě krotko, so omalovaženjem i boljnym samoosudom. Ako go dostignemo, učini nas synam božjim.",
     "source": "Dobrotoljublje",
     "_id": 514
@@ -1320,7 +1320,7 @@
   },
   {
     "author": "Isus",
-    "sr": "Ko ima, daće mu se. Ko nema, uzeće mu se i ono što ima.",
+    "sr": "Ko ima, daće mu se. Ko nema, uzeće mu se i to što ima.",
     "ms": "Kto imaje, bude mu dano. Kto ne imaje, bude mu vzeno i to čto imaje.",
     "source": "Matej 13:12, Matej 25:29, Marko 4:25, Luka 8:18, Luka 19:26, Toma 41",
     "wiki": "https://sh.wikipedia.org/wiki/Ko_ima_da%C4%87e_mu_se",
@@ -1449,7 +1449,7 @@
   {
     "author": "Isus",
     "sr": "Bogatom čoveku rodi njiva. I mišljaše: šta činiti, jer nemam gde sabrati letinu? I pomisli: Srušiću žitnice, sazidati veće i tu sabrati žito. A onda ću odmarati, jesti, piti i uživati. A bog mu reče: bezumni, noćas uzimam dušu od tebe, čije je to što si pripremio?",
-    "ms": "Člověku bogatu rodi niva. I mysliše: čto tvoriti, ibo ne imaju kde sobrati plody? I rěče: budu razoriti žitnicy moja, i boljša sozdaju, i sberu tu vsa žita i blaga; i poslě počivaju, jedaju, piju, veselju se. Rěče že jemu bog: bezumny, v su noč dušu tvoju vozmu od tebe, a iže ugotovi, komu bude?",
+    "ms": "Člověku bogatu rodi niva. I mysliše: čto tvoriti, ibo ne imaju kde sobrati plody? I rěče: budu razoriti žitnicy moja, i boljša sozdaju, i sberu tu vsa žita i blaga; i poslě počivaju, jedaju, piju, veselju se. Rěče že jemu bog: bezumny, v su noč dušu vozmu od tebe, a iže ugotovi, komu bude?",
     "source": "Evangelje po Luki, 12:16-20",
     "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_bogatoj_budali",
     "_id": 840
@@ -2953,8 +2953,8 @@
   },
   {
     "author": "Zhuang Zhou",
-    "sr": "Ljudi se drže svog položaja kao bogom dani, uvereni da ih vodi ka uspehu. Dan za danom, gase se kao jesen i sahnu. Tonu u ono što rade, postaju mračni, kao zapečaćeni. Takvi su ishodi njihovih poznih leta.",
-    "ms": "Ljudi se držet položenja kak bogom dany, uvěrjeny že vodi jih k uspěhu. Den za dnem, gasnut kak jesenj i sohnut. Tonu v ono čto dělajut, stavajut mračny, kak zapečetany. Takovi sut izhodi jih pozdnyh lět.",
+    "sr": "Ljudi se drže svog položaja kao bogom dani, uvereni da ih vodi ka uspehu. Dan za danom, gase se kao jesen i sahnu. Tonu u to što rade, postaju mračni, kao zapečaćeni. Takvi su ishodi njihovih poznih leta.",
+    "ms": "Ljudi se držet položenja kak bogom dany, uvěrjeny že vodi jih k uspěhu. Den za dnem, gasnut kak jesenj i sohnut. Tonu v to čto dělajut, stavajut mračny, kak zapečetany. Takovi sut izhodi jih pozdnyh lět.",
     "source": "",
     "_id": 1266
   },
@@ -3716,8 +3716,8 @@
   },
   {
     "author": "Isus",
-    "sr": "Čuvajte ono što vas može slediti, tražite i nađite, i govorite iz toga. A kada nađete, sve će biti u skladu sa vama. Jer, živi bog je u vama i vi u njemu.",
-    "ms": "Čuvajte čto vas može slěditi, gledite i najdite, i govorite iz togo. A kogda najdete, vse bude soglasno so vami. Ibo, živi bog jest v vas i vy v jego.",
+    "sr": "Čuvajte to što vas može slediti, tražite i nađite, i govorite iz toga. A kada nađete, sve će biti u skladu sa vama. Jer, živi bog je u vama i vi u njemu.",
+    "ms": "Čuvajte to čto vas može slěditi, gledite i najdite, i govorite iz togo. A kogda najdete, vse bude soglasno so vami. Ibo, živi bog jest v vas i vy v jego.",
     "source": "Dijalog Spasitelja, 138",
     "_id": 516
   },
@@ -3787,8 +3787,8 @@
   },
   {
     "author": "Isus",
-    "sr": "Kada odbacite to što vas ne može slijediti, tada ćete naći mir.",
-    "ms": "Kogda odmetate to čto vas ne može slěditi, togda najdete mir.",
+    "sr": "Kada odbacite što vas ne može slijediti, tada ćete naći mir.",
+    "ms": "Kogda odmetate čto vas ne može slěditi, togda najdete mir.",
     "source": "Dijalog Spasitelja, 141-142",
     "_id": 496
   },
@@ -4840,8 +4840,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Najgori čovjek na sudnjem danu biće onaj koji intimni odnos sa ženom drugima otkriva.",
-    "ms": "Najgorši člověk na sudnom dnju bude ktory tajno občenje s ženoju drugym odkryva.",
+    "sr": "Najgori čovjek na sudnjem danu biće ko intimni odnos sa ženom drugima otkriva.",
+    "ms": "Najgorši člověk na sudnom dnju bude kto intimno občenje s ženoju drugym odkryva.",
     "source": "Buharijeva zbirka hadisa, Sarajevo 2008.",
     "_id": 115
   },
@@ -5596,8 +5596,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Onaj koji ogovara i koji sluša drugovi su u grijehu.",
-    "ms": "Ogovarjajuči i slušajuči prijatelji sut v grěhu.",
+    "sr": "Ko ogovara i ko sluša drugovi su u grijehu.",
+    "ms": "Ogovarjajuči i slušajuči prijatelji v grěhu.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 147
   },
@@ -6325,7 +6325,7 @@
   },
   {
     "author": "Sengcan",
-    "sr": "Kada mišljenje o predmetima nestane, onaj koji misli takođe nestaje. A kada um nestane, nestaju i predmeti.",
+    "sr": "Kada mišljenje o predmetima nestane, misleći takođe nestaje. A kada um nestane, nestaju i predmeti.",
     "ms": "Kogda mysljenje o prědmetam izčezne, mysleči takože izčeza. A kogda um izčezne, izčeznut i prědmety.",
     "source": "Biseri kineskog zen budizma, Beograd 2003.",
     "_id": 916
@@ -7573,7 +7573,7 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Želi ljudima ono što želiš sebi.",
+    "sr": "Želi ljudima što želiš sebi.",
     "ms": "Želaj ljudami čto želaješ sobě.",
     "source": "Buharijeva zbirka hadisa, Sarajevo 2008.",
     "wiki": "https://sh.wikipedia.org/wiki/Zlatno_pravilo",
@@ -10360,8 +10360,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Djela se cijene prema namjeri i svakom čovjeku pripada to što naumi.",
-    "ms": "Děla cěnet se prěmy naměru i vsakomu člověku naleži to čto zamysli.",
+    "sr": "Djela se cijene prema namjeri i svakom čovjeku pripada što naumi.",
+    "ms": "Děla cěnet se prěmy naměru i vsakomu člověku naleži čto zamysli.",
     "source": "Buharijina zbirka hadisa, Sarajevo 2004.",
     "_id": 1378
   },

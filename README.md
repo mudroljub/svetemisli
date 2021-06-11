@@ -25,8 +25,8 @@ npm start
 
 # TODO
 
+- prečešljati: Rabota poševšego nasytiti děti, Plotin, Zaratustra, krišnamurti, Upanišade,
 - dodati favorite
-- proveriti prevode: to što, ono što, onaj ko, je... Rabota poševšego nasytiti děti, Plotin, Zaratustra, krišnamurti, Upanišade,
 - neprevedeno
 - statistike i vizuelizacija
 - rute za jezik

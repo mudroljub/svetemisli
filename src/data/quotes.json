@@ -374,11 +374,12 @@
     "_id": 52
   },
   {
+    "_id": 53,
     "author": "Zhuang Zhou",
-    "sr": "Oba učenja, svet je stvoren i svet je nestvoren, ne nadilaze svet stvari, i zato su oba pogrešna. Pretpostavka o tvorcu ili njegovom odsustvu ostaje u ravni sveta stvari, i nema ništa s beskonačnošću.",
-    "ms": "Oba učenja, svět stvoreny i svět nestvoreny, ne prěhodet svět stvary, i zato oba pogrěšna. Prědpoloženje o tvorcu ili jego odsučstvu ostava v ravni světa stvary, i ne imaje ničto so bezkonečnostju.",
+    "sr": "Učenje o tvorcu ili njegovom odsustvu ostaje u ravni sveta stvari, i nema ništa s beskonačnošću.",
+    "ms": "Učenje o tvorcu ili jego odsučstvu ostava v ravni světa stvary, i ne imaje ničto so bezkonečnostju.",
     "source": "",
-    "_id": 53
+    "wiki": ""
   },
   {
     "author": "Gautama Buddha",
@@ -659,13 +660,6 @@
     "ms": "Put možny izraziti ne věčny put. \nIme možno imenovati ne věčno ime. \nBezimeno izvor neba i zemje. \nImenovano mati vsih prědmetov.",
     "source": "Knjiga o putu, izreka 1",
     "_id": 92
-  },
-  {
-    "author": "Zhuang Zhou",
-    "sr": "Pušteni na miru, ljudi ne prljaju svoju narav i ne odbacuju vrlinu. Ako ne iskvare narav i ne odbace vrlinu, ima li potrebe za upravljanjem?",
-    "ms": "Puščeny na miru, ljudi ne obmazyvajut svoju nrav i ne odmetajut čestnost. Ako ne obmažut nrav i ne odmetnut čestnost, imaje li potrěby za upravjanjem?",
-    "source": "",
-    "_id": 93
   },
   {
     "author": "Isus",
@@ -2886,8 +2880,8 @@
   {
     "_id": 408,
     "author": "Zhuang Zhou",
-    "sr": "Čun možete sakriti u zaliv a mrežu u jezero. No, neko može doći i odneti ih. Bez obzira kako skrivali predmete, svagda ih možemo izgubiti. No ako svemir sklonite u svemir, nema gde izgubiti se. Stoga mudrac ište neizgubivo i ostaje s tim.",
-    "ms": "Čoln možete skryti v zaliv a mrěžu v jezero. No, někto može dojdti i odnesti jih. Bez obzira kak skryvali prědmetov, vsegda jih možno izgubiti. No ako vsemir skryjemo v vsemir, ne imaje kde izgubiti se. Stoga mudrec išče negubivo i ostava s tym.",
+    "sr": "Čun možete sakriti u zaliv a mrežu u jezero. No, neko može doći i odneti ih. No ako svemir sklonite u svemir, nema gde izgubiti se. Stoga mudrac ište neizgubivo i ostaje s tim.",
+    "ms": "Čoln možete skryti v zaliv a mrěžu v jezero. No, někto može dojdti i odnesti jih. No ako vsemir skryjemo v vsemir, ne imaje kde izgubiti se. Stoga mudrec išče negubivo i ostava s tym.",
     "source": "",
     "wiki": ""
   },
@@ -3262,11 +3256,12 @@
     "_id": 460
   },
   {
+    "_id": 461,
     "author": "Zhuang Zhou",
-    "sr": "Budale misle budni su i kneževi su ili seljani. U stvarnosti, vi i ja smo san. I govoreći vam kako snite jeste san. Veliki mudrac sposoban proniknuti u tu tajnu teško će se pojaviti u svetu i za deset tisuća godina.",
-    "ms": "Budale myslet budny i knezi ili seljani sut. V istinnosti, vy i ja jesmo son. I govoreči vam že snite jest son. Veliky mudrec sposobny proniknuti v tu tajnu težko se bude pojaviti v světu i za deset tiseč godov.",
+    "sr": "Budale misle budni su i kneževi su ili seljani. U stvarnosti, vi i ja smo san.",
+    "ms": "Budale myslet budny i knezi ili seljani sut. V istinnosti, vy i ja jesmo son.",
     "source": "",
-    "_id": 461
+    "wiki": ""
   },
   {
     "author": "Muhamed",
@@ -3319,13 +3314,6 @@
     "ms": "Ako jezyky člověčski i angelski govorju, ljubve že ne imaju, jesm zvon zvoneči ili gong zvečeči. I ako imaju proročstvo, i věm tajny i vědy, i imaju věru gory prěměščati, ljubve že ne imaju, ničto jesm. I ako razdam iměnje svoje, i prědam tělo moje sožegti se, ljubve že ne imaju, ničto mi ne pomože.",
     "source": "Prva poslanica Korinćanima 13:1-3",
     "wiki": "https://pl.wikipedia.org/wiki/Hymn_o_mi%C5%82o%C5%9Bci"
-  },
-  {
-    "author": "Zhuang Zhou",
-    "sr": "Ako je nekada bilo ništa, mora biti vreme pre ništa. Dakle, ništa je nekad nastalo. Može li se reći pripada li ono biću ili nebiću? Čak ni reči koje izgovorih ne znam znače li što ili ne.",
-    "ms": "Ako někogda bylo ničto, mora byti vrěme prědže ničto. Dakle, ničto někogda nastalo. Može li se rěkti pripada li ono bytju ili nebytju? Čak ni slova koja izgovorih ne znam znače li čto ili ne.",
-    "source": "",
-    "_id": 469
   },
   {
     "sr": "Ko na velikom putu života ne nađe boljeg ili sebi ravnog, neka bezbrižno putuje sam.",
@@ -3386,25 +3374,11 @@
     "_id": 477
   },
   {
-    "author": "Zhuang Zhou",
-    "sr": "Različita gledišta o dobroti i pravednosti, koje rađa razum, veštačka su i bolesna. Poput raka rastućem u telu, ali protivnim njegovoj prirodi. To su proizvodi lovaca na slavu.",
-    "ms": "Različna gledišča ob dobrotě i spravědlivosti, čto rodi razum, umětna sut i bolezna. Podobno raku rastučem iz těla, no protivnym jego prirody. To sut iztvori lovitelja slavy.",
-    "source": "",
-    "_id": 478
-  },
-  {
     "sr": "Videh gospoda okom srca. Upitah ga: Ko si ti? On mi odgovori: ti.",
     "author": "Mansur al-Haladž",
     "ms": "Viděh gospoda okom srdca. Sprašah go: Kto jesi ty? On mi odgovori: ty.",
     "source": "",
     "_id": 479
-  },
-  {
-    "author": "Zhuang Zhou",
-    "sr": "Zamislite sebe u snu pticom. Vi zaista letite u nebo. Zamislite sebe u snu ribom. Vi zaista ronite u dubinu. Niko ne može odrediti jesmo li mi govoreći o tome budni ili prosto snimo.",
-    "ms": "Voobražajte v snu jeste ptica. Vy istinno letite v nebo. Voobražajte v snu jeste ryba. Vy istinno nyrjate v glubinu. Nikto ne može oprěděliti jesmo li my glagoljuči o tom budni ili prosto snimo.",
-    "source": "",
-    "_id": 480
   },
   {
     "sr": "Nema konca ni početka dobroti božjoj: kao što je svojstvo svetlosti osvetljavati, svojstvo je božje dobrote stvarati.",
@@ -4295,11 +4269,12 @@
     "_id": 604
   },
   {
+    "_id": 605,
     "author": "Zhuang Zhou",
-    "sr": "Svemir je jednost svih stvari. Ako postignemo jednost, tada su udovi našeg tela samo prah i blato, a život i smrt, konac i početak, samo mena dana i noći. Koliko ćemo se manje uzbuđivati usled zemaljskog gubitka i dobitka, dobre i zle sudbe.",
-    "ms": "Vsemir jednost vsih tvari jest. Ako postignemo jednost, togda členi našego těla samo sut prah i blato, a život i smrt, konec i početok, samo měna dnja i noči. Koliko se budemo menje vozbudžati vslěd zemnog gubitka i dobyti, dobre i zle sudbe.",
+    "sr": "Ako postignemo jednost, tada život i smrt, konac i početak, samo mena dana i noći.",
+    "ms": "Ako postignemo jednost, togda život i smrt, konec i početok, samo měna dnja i noči.",
     "source": "",
-    "_id": 605
+    "wiki": ""
   },
   {
     "author": "Muhamed",
@@ -4672,13 +4647,6 @@
     "_id": 657
   },
   {
-    "author": "Zhuang Zhou",
-    "sr": "Sve stvari su jedno, no ima li prostora za govor? Jedno i govor su dva. Dva i jedno su tri. Ovim putem, ni najveštiji računar ne može doći do kraja! Ako od ničega možemo dosegnuti tri, koliko više ćemo dosegnuti od nečega? Ne idimo dalje. Zaustavimo se tu.",
-    "ms": "Vse tvari sut jedno, no imaje li prostora dlja govora? Jedno i govor sut dva. Dva i jedno sut tri. Tudy, ni najlučši čislitelj ne može dojdti do konca! Ako od ničego možemo dosegnuti tri, koliko vyše budemo dosegnuti od něčego? Ne idimo dalje. Zaustavimo se tu.",
-    "source": "",
-    "_id": 658
-  },
-  {
     "sr": "Ne brinite se za sutra, \njer se sutra brine za sebe; \ndosta je svakom danu zla njegovog.",
     "author": "Isus",
     "ms": "Ne opekajte se za zautra, \nzautra bo opeka se za sebe; \ndovoljno vsakom dni zla jego.",
@@ -4965,11 +4933,12 @@
     "_id": 698
   },
   {
+    "_id": 699,
     "author": "Zhuang Zhou",
-    "sr": "Život je ograničen, znanje ne. Ako ograničeno koristiš da dosegneš bezgranično, u nevolji si. Još gore ako to razumeš i dalje težiš znanju.",
-    "ms": "Žitje ograničeno, znanje ne. Ako ograničeno koristiš za dosegnuti neograničeno, ty v nevolji. Ješče gorše ako to pojmaš i daljše siliš se znanju.",
+    "sr": "Život je ograničen, znanje ne. Ako ograničeno koristiš da dosegneš bezgranično, u nevolji si.",
+    "ms": "Žitje ograničeno, znanje ne. Ako ograničeno koristiš za dosegnuti neograničeno, ty v nevolji.",
     "source": "",
-    "_id": 699
+    "wiki": ""
   },
   {
     "sr": "Uzdižući se, duša ne teži postati što nije, no se vraća sebi.",
@@ -8930,11 +8899,12 @@
     "_id": 1249
   },
   {
+    "_id": 1250,
     "author": "Zhuang Zhou",
-    "sr": "Najveći čovek koristi srce kao zrcalo. On zrca stvari, ali ne zadržava njihovu sliku. Zato može savladati svet a ne biti ranjen.",
-    "ms": "Najboljši člověk koristi srdce kak zrcalo. On zrca prědmetov, ale ne zadrživa jih prědstavu. Zato može sovladnuti svět a ne biti ranjeny.",
+    "sr": "Mudrac koristi srce kao zrcalo. On zrca stvari, ali ne zadržava njihovu sliku. Zato može savladati svet a ne biti ranjen.",
+    "ms": "Mudrec koristi srdce kak zrcalo. On zrca prědmetov, ale ne zadrživa jih prědstavu. Zato može sovladnuti svět a ne biti ranjeny.",
     "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
-    "_id": 1250
+    "wiki": ""
   },
   {
     "author": "Vivekananda",
@@ -9042,13 +9012,6 @@
     "ms": "Glina tvori posudu, \nale koristimo prazdninu.\nStěny tvoret dom, \nale koristimo prazdny prostor.\nPolno jest vidimo, prazdno koristno.",
     "source": "Knjiga o putu, izreka 11",
     "_id": 1265
-  },
-  {
-    "author": "Zhuang Zhou",
-    "sr": "Ljudi se drže svog položaja kao bogom dani, uvereni da ih vodi ka uspehu. Dan za danom, gase se kao jesen i sahnu. Tonu u to što rade, postaju mračni, kao zapečaćeni. Takvi su ishodi njihovih poznih leta.",
-    "ms": "Ljudi se držet položenja kak bogom dany, uvěrjeny že vodi jih k uspěhu. Den za dnem, gasnut kak jesenj i sohnut. Tonu v to čto dělajut, stavajut mračny, kak zapečetany. Takovi sut izhodi jih pozdnyh lět.",
-    "source": "",
-    "_id": 1266
   },
   {
     "author": "Pitagora",

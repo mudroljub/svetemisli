@@ -25,10 +25,7 @@ npm start
 
 # TODO
 
-- prečešljati: Zhuang Zhou, Sve stvari su jedno, no ima li prostora za govor?
-- proveriti ažuriranje i brisanje citata, izgleda da nekad omane
-- pamtiti paginaciju
+- statistike i vizuelizacija
 - dodati favorite
 - neprevedeno
-- statistike i vizuelizacija
 - rute za jezik

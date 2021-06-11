@@ -25,7 +25,7 @@ npm start
 
 # TODO
 
-- prečešljati: U, u, srpski postoji -> ms jest (umesto obstaj*)
+- prečešljati: Zhuang Zhou
 - dodati favorite
 - neprevedeno
 - statistike i vizuelizacija

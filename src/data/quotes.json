@@ -535,7 +535,7 @@
   {
     "author": "Nil Sinajski",
     "sr": "Mogu ti doći na um dela zbog kojih izgleda opravdano razgneviti se na bližnjeg. Budi oprezan! Ne postoji opravdan gnev na bližnjeg.",
-    "ms": "Mogut ti dojdti na um děla vslěd kojih izdava se opravdano razgněvati se na bližnjego. Budi ostražny! Ne obstaja opravdany gněv na bližnjego.",
+    "ms": "Mogut ti dojdti na um děla vslěd kojih izdava se opravdano razgněvati se na bližnjego. Budi ostražny! Ne istnuje opravdany gněv na bližnjego.",
     "source": "Dobrotoljublje",
     "_id": 1150
   },
@@ -570,7 +570,7 @@
   },
   {
     "author": "Isus",
-    "sr": "Mirjam upita: Postoji li takvo mjesto gdje nedostaje istina?\nJešua reče: Tamo gdje ja nisam.",
+    "sr": "Mirjam upita: Ima li takvoga mjesta gdje nedostaje istina?\nJešua reče: Tamo gdje ja nisam.",
     "ms": "Mirjam zapyta: Imaje li takovogo města kde nedostava istina?\nJešua rěče: Tam kde ja ne jesm.",
     "source": "Dijalog Spasitelja, 140-141",
     "_id": 24
@@ -3283,7 +3283,7 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Sve pobedih, sve prozreh, ničim što postoji nisam ukaljan. Sve ostavih, okončanjem žeđi se oslobodih, sam se uzdigoh do spoznaje. Na koga da se ugledam?",
+    "sr": "Sve pobedih, sve prozreh, ničim što biva nisam ukaljan. Sve ostavih, okončanjem žeđi se oslobodih, sam se uzdigoh do spoznaje. Na koga da se ugledam?",
     "ms": "Vse pobědih, vse prozrěh, ničim čto byva nesm obmazany. Vse ostavih, skončenjem žedže se osvobodih, sam se vozdvignuh do věděnja. Na kogo da se vgledam?",
     "source": "Dhammapada",
     "_id": 331
@@ -3620,8 +3620,8 @@
   },
   {
     "author": "Jiddu Krishnamurti",
-    "sr": "Ja postoji dokle misao postoji.",
-    "ms": "Ja obstaja dokolě myslj obstaja.",
+    "sr": "Ja jesam dokle misao jest.",
+    "ms": "Ja jesm dokolě myslj jest.",
     "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
     "_id": 1322
   },
@@ -3692,8 +3692,8 @@
   },
   {
     "author": "Zaratustra",
-    "sr": "Postoji samo jedan put, put ispravnosti. Sve ostalo su stranputice.",
-    "ms": "Obstaja samo jedin put, put spravědlivosti. Vse ino zabludžanja sut.",
+    "sr": "Jest samo jedan put, put ispravnosti. Sve ostalo su stranputice.",
+    "ms": "Jest samo jedin put, put spravědlivosti. Vse ino zabludžanja sut.",
     "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004.",
     "_id": 1074
   },
@@ -4174,8 +4174,8 @@
   },
   {
     "author": "Sengcan",
-    "sr": "Kada misli razlikovanja više ne javljuju se, um prestaje postojati na stary način.",
-    "ms": "Kogda mysli različenja vyše ne javjajut se, um prěstaje obstajati na stari sposob.",
+    "sr": "Kada misli razlikovanja više ne javljuju se, um prestaje biti na stary način.",
+    "ms": "Kogda mysli različenja vyše ne javjajut se, um prěstaje byti na stari sposob.",
     "source": "Biseri kineskog zen budizma, Beograd 2003.",
     "_id": 915
   },
@@ -5856,7 +5856,7 @@
   {
     "author": "Lao Tzu",
     "sr": "Postoji savršeno, \nrođeno pre neba i zemlje,\nmirno, prazno, \nvečno menjajući se, uvek isto.\nOno je majka svega.\nNe znam mu ime i zovem ga put.",
-    "ms": "Obstaja sovršeno, \nrodženo prědže neba i zemje,\nmirno, prazdno, \nvěčno měnjajuči se, vsegda jednako.\nOno mati vsego.\nNe znaju mu ime i zovu go put.",
+    "ms": "Istnuje sovršeno, \nrodženo prědže neba i zemje,\nmirno, prazdno, \nvěčno měnjajuči se, vsegda jednako.\nOno mati vsego.\nNe znaju mu ime i zovu go put.",
     "source": "Knjiga o putu, izreka 25",
     "_id": 1401
   },
@@ -6469,8 +6469,8 @@
   },
   {
     "author": "Sengcan",
-    "sr": "Postoji samo jedna istina, darma, ne više njih.",
-    "ms": "Istnuje samo jedna istina, darma, ne vyše jih.",
+    "sr": "Jeste samo jedna istina, darma, ne više njih.",
+    "ms": "Jest samo jedna istina, darma, ne vyše jih.",
     "source": "Biseri kineskog zen budizma, Beograd 2003.",
     "_id": 920
   },
@@ -7262,8 +7262,8 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Postoji nerođeno, nerastuće i neuslovljeno. Kad ne bi bilo nerođenog, nerastućeg i neuslovljenog, tada ne bi bilo izlaza za rođeno, rastuće i uslovljeno.",
-    "ms": "Istnuje nerodženo, nerastuče i bezuslovno. Ako ne by bylo nerodženogo, nerastučego i bezuslovnogo, togda ne by bylo izhoda dlja rodženo, rastuče i uslovno.",
+    "sr": "Jeste nerođeno, nerastuće i neuslovljeno. Kad ne bi bilo nerođenog, nerastućeg i neuslovljenog, tada ne bi bilo izlaza za rođeno, rastuće i uslovljeno.",
+    "ms": "Jest nerodženo, nerastuče i bezuslovno. Ako ne by bylo nerodženogo, nerastučego i bezuslovnogo, togda ne by bylo izhoda dlja rodženo, rastuče i uslovno.",
     "source": "https://srednjiput.rs/tumacenja/walpola-rahula/treca-plemenita-istina/",
     "_id": 79
   },
@@ -8174,7 +8174,7 @@
   {
     "author": "Huineng",
     "sr": "Dvoje monaha sporili su.\nJedan monah reče: Pomera se vetar.\nDrugi reče: Pomera se zastava.\nMimo njih prođe Huineng i reče:\nNi zastava, ni vetar, pomera se um.",
-    "ms": "Dvoje monahov sporili sut.\nJedin monah skazal: Dvigaje se větr.\nDrugy skazal: Dvigaje se stěg.\nMimo šel Huineng. On obstanovil se i rěkl:\nNi stěg, ni větr, dvigaje se um.",
+    "ms": "Dvoje monahov sporili sut.\nJedin monah skazal: Dvigaje se větr.\nDrugy skazal: Dvigaje se stěg.\nMimo šel Huineng i rěkl:\nNi stěg, ni větr, dvigaje se um.",
     "source": "Mumonkan, zbirka zen koana, Beograd 1980.",
     "_id": 1313
   },
@@ -10844,8 +10844,8 @@
   },
   {
     "author": "Huangbo Xiyun",
-    "sr": "Sve te planine, reke, ceo svet, sunce, mesec i zvezde, ništa ne postoji izvan uma. Zelena brda koja vidiš i plavo nebo ne postoje van pojmova koje si stvorio.",
-    "ms": "Vse te gory, rěky, cěly svět, solnce, měsec i zvězdy, ničto ne obstaja izvně uma. Zeleny holmy koje vidiš i plavo nebo ne obstajajut von prědstavy koje ty stvoril.",
+    "sr": "Sve te planine, reke, ceo svet, sunce, mesec i zvezde, ništa nije izvan uma. Zelena brda koja vidiš i plavo nebo nisu van pojmova koje si stvorio.",
+    "ms": "Vse te gory, rěky, cěly svět, solnce, měsec i zvězdy, ničto ne jeste izvně uma. Zeleny holmy koje vidiš i plavo nebo ne sut von prědstavy koje ty stvoril.",
     "source": "Huang Po, Učenje o prenošenju duha, Beograd, 1986.",
     "_id": 1109
   },

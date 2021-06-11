@@ -8,6 +8,7 @@ import Author from '../routes/Author'
 import EditQuote from '../routes/EditQuote'
 import AddQuote from '../routes/AddQuote'
 import ShowQuote from '../routes/ShowQuote'
+import Stats from '../routes/Stats'
 
 const Router = () => (
   <Switch>
@@ -17,7 +18,8 @@ const Router = () => (
     <Route path='/avtor/:name' component={Author} />
     <Route path='/dodaj-citat' component={AddQuote} />
     <Route path='/pravi-citat/:id' component={EditQuote} />
-    <Route path='/moj-profil' component={Tools} />
+    <Route path='/orudja' component={Tools} />
+    <Route path='/statistika' component={Stats} />
   </Switch>
 )
 

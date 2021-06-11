@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/accessible-emoji */
 import React from 'react'
 import {useSelector} from 'react-redux'
+import { Link } from 'react-router-dom'
 
 import {useTranslate} from '../store/actions'
 import {download} from '../utils/helpers'
@@ -21,6 +22,9 @@ const Tools = () => {
   return (
     <main>
       <h1>{translate('TOOLS')}</h1>
+      <p>
+        <Link to={'/statistika'}>Statistika</Link>&nbsp;
+      </p>
       <button onClick={saveFile}>💾 Export quotes</button>
       <p>
         Export all quotes, together with your edits, as a json file.

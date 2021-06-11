@@ -18,7 +18,9 @@ const ShowQuote = () => {
     data.push([key, value])
 
   data.sort((a, b) => b[1] - a[1])
-  console.log(data)
+
+  const singles = data.filter(arr => arr[1] === 1).map(arr => arr[0])
+  console.log(singles)
 
   return (
     <main>

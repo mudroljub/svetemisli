@@ -926,11 +926,12 @@
     "_id": 131
   },
   {
-    "sr": "Bestrašće je mirno stanje duše, u kome duša postaje teško pomična na zlo.",
+    "_id": 132,
     "author": "Maksim Ispovednik",
-    "ms": "Bezstrastje mirny stan duše, v kom duša stava težko pomična na zlo.",
+    "sr": "Bestrašće je mirno stanje duše, u kome duša postaje teško pomična na zlo.",
+    "ms": "Bezstrastje mirno stanje duše, v kom duša stava težko pomična na zlo.",
     "source": "Stoslovi o ljubavi I-36",
-    "_id": 132
+    "wiki": ""
   },
   {
     "_id": 133,
@@ -3308,6 +3309,14 @@
     "_id": 467
   },
   {
+    "_id": 468,
+    "author": "Pavle od Tarsa",
+    "sr": "Ako jezike čovječje i angelske govorim a ljubavi nemam, zvono sam koje zvoni ili gong koji zveči. I ako imam proroštvo i znam tajne i znanja, i imam vjeru gore premještati, a ljubavi nemam, ništa sam. I ako razdam imanje svoje, i predam tijelo moje sažeći se, a ljubavi nemam, ništa mi ne pomaže.",
+    "ms": "Ako jezyky člověčski i angelski govorju, ljubve že ne imaju, jesm zvon zvoneči ili gong zvečeči. I ako imaju proročstvo, i věm tajny i vědy, i imaju věru gory prěměščati, ljubve že ne imaju, ničto jesm. I ako razdam iměnje svoje, i prědam tělo moje sožegti se, ljubve že ne imaju, ničto mi ne pomože.",
+    "source": "Prva poslanica Korinćanima 13:1-3",
+    "wiki": "https://pl.wikipedia.org/wiki/Hymn_o_mi%C5%82o%C5%9Bci"
+  },
+  {
     "sr": "Ko na velikom putu života ne nađe boljeg ili sebi ravnog, neka bezbrižno putuje sam.",
     "author": "Gautama Buddha",
     "ms": "Kto na velikom putu života ne najde lučšego ili sobě ravnogo, nehaj spokojno putuje sam.",
@@ -3364,13 +3373,6 @@
     "source": "Dhammapada",
     "wiki": "https://sh.wikipedia.org/wiki/Prolaznost",
     "_id": 477
-  },
-  {
-    "sr": "Videh gospoda okom srca. Upitah ga: Ko si ti? On mi odgovori: ti.",
-    "author": "Mansur al-Haladž",
-    "ms": "Viděh gospoda okom srdca. Sprašah go: Kto jesi ty? On mi odgovori: ty.",
-    "source": "",
-    "_id": 479
   },
   {
     "sr": "Nema konca ni početka dobroti božjoj: kao što je svojstvo svetlosti osvetljavati, svojstvo je božje dobrote stvarati.",
@@ -7068,11 +7070,12 @@
     "_id": 990
   },
   {
+    "_id": 991,
     "author": "Mansur al-Haladž",
-    "sr": "Sledbenik sve svoje napore usmjeruje boravištu uzvišenoga, i dok u njega ne stigne ne dopušta sebi odmora.",
-    "ms": "Poslědovatelj vse svoje napore obrača žilišču vozvyšenogo, i dokolě tu ne stigne ne dopušča sobě oddyha.",
+    "sr": "Vernik sve svoje napore usmjeruje boravištu uzvišenoga, i dok u njega ne stigne ne dopušta sebi odmora.",
+    "ms": "Věrnik vse svoje napore obrača žilišču vozvyšenogo, i dokolě tu ne stigne ne dopušča sobě oddyha.",
     "source": "Antologija sufijskih tekstova, Zagreb, 1988.",
-    "_id": 991
+    "wiki": ""
   },
   {
     "author": "Zun-Nun Egipatski",
@@ -7096,11 +7099,12 @@
     "_id": 994
   },
   {
+    "_id": 995,
     "author": "Ađan Ča",
-    "sr": "Ako je tvoj dom poplavljen ili spaljen ili mu preti kakva druga nesreća, neka bude samo dom. Ako bude poplava, neka ne poplavi tvoj um.",
-    "ms": "Ako tvoj dom poplavjeny ili spaljeny ili mu grozi kaka druga nevolja, nehaj bude samo dom. Ako bude poplava, nehaj ne poplavi tvoj um.",
+    "sr": "Ako je tvoj dom poplavljen ili spaljen ili mu preti kakva druga nesreća, neka bude samo dom. Neka ne poplavi tvoj um.",
+    "ms": "Ako tvoj dom poplavjeny ili spaljeny ili mu grozi kaka druga nevolja, nehaj bude samo dom. Nehaj ne poplavi tvoj um.",
     "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "_id": 995
+    "wiki": ""
   },
   {
     "_id": 996,
@@ -7111,11 +7115,19 @@
     "wiki": ""
   },
   {
-    "author": "Ađan Ča",
-    "sr": "Ako prestaneš vezivati se za malo stvari u životu, dobićeš malo mira. Ako prestaneš vezivati se za mnogo stvari, dobićeš mnogo mira. Ako potpuno prestaneš vezivati se, dobićeš potpuni mir. Tada je borba sa svetom okončana.",
-    "ms": "Ako prěstaš svezyvati se za malo věči v životu, dobudeš malo mira. Ako prěstaš svezyvati se za mnogo věči, dobudeš mnogo mira. Ako popolno prěstaš svezyvati se, dobudeš popolny mir. Togda borba sa světom skončena.",
+    "author": "Sogjal Rinpoće",
+    "sr": "Um u meditaciji kao mutna voda. Što duže miruje, više nečistote pada na dno, omoguću­jući prirodnu čistotu.",
+    "ms": "Um v meditaciji kak mutna voda. Čto dolžeje odpočiva, vyše nečistoty pada na dno, umožnjajuči prirodnu čistotu.",
     "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "_id": 998
+    "_id": 997
+  },
+  {
+    "_id": 998,
+    "author": "Ađan Ča",
+    "sr": "Ako prestaneš vezivati se za malo stvari, dobićeš malo mira. Ako prestaneš vezivati se za mnogo stvari, dobićeš mnogo mira. Ako potpuno prestaneš vezivati se, dobićeš potpuni mir. Tada je borba sa svetom okončana.",
+    "ms": "Ako prěstaš svezyvati se za malo věči, dobudeš malo mira. Ako prěstaš svezyvati se za mnogo věči, dobudeš mnogo mira. Ako popolno prěstaš svezyvati se, dobudeš popolny mir. Togda borba sa světom skončena.",
+    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
+    "wiki": ""
   },
   {
     "author": "Daisetz Suzuki",
@@ -7154,11 +7166,12 @@
     "_id": 1003
   },
   {
+    "_id": 1004,
     "author": "Dōgen",
     "sr": "Tisuće i tisuće učenika praktikovali su meditaciju i došli do ploda. Ne sumnjaj u njenu moć usled prostog metoda.",
-    "ms": "Tyseč i tyseč učenikov praktikovali sut meditaciju i došli do ploda. Ne sumněvaj v jej moč vslěd prostogo metoda.",
+    "ms": "Tyseč i tyseč učenikov praktikovali meditaciju i došli do ploda. Ne sumněvaj v jej moč vslěd prostogo metoda.",
     "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "_id": 1004
+    "wiki": ""
   },
   {
     "author": "Gautama Buddha",
@@ -7190,18 +7203,12 @@
     "_id": 1008
   },
   {
+    "_id": 1009,
     "author": "Nagasena",
     "sr": "Poznat sam pod imenom Nagasena. Iako roditelji daju imena Nagasena, Surasena ili Virasena, to je samo prigodna oznaka. Jer ne postoji nikakav ja.",
-    "ms": "Znany jesm pod imenem Nagasena. I ako roditelji dadut imena Nagasena, Surasena ili Virasena, to samo prigodna oznaka. Ibo ne obstaja nikaky ja.",
+    "ms": "Znany jesm pod imenem Nagasena. I ako roditelji dadut imena Nagasena, Surasena ili Virasena, to samo prigodna oznaka. Ibo ne jest nikaky ja.",
     "source": "Milindapanha",
-    "_id": 1009
-  },
-  {
-    "author": "Nagasena",
-    "sr": "Kralj Milinda upita: Može li biti preporađanja, ako nema seobe duše?\nNagasena odgovori: Da, može. Kao što možemo upaliti lampu koristeći drugu već upaljenu, a da ništa ne prelazi sa jedne na drugu.",
-    "ms": "Kralj Milinda zapyta: Može li byti vozrodženja, ako ne imaje prěseljenja duše?\nNagasena odgovori: Da, može. Kak možemo zapaliti lampu koristeči drugu uže zapaljanu, a ničto ne prěhodi sa jedne na drugu.",
-    "source": "Milindapanha",
-    "_id": 1010
+    "wiki": ""
   },
   {
     "author": "Gautama Buddha",
@@ -7211,11 +7218,12 @@
     "_id": 1011
   },
   {
+    "_id": 1012,
     "author": "Ađan Ča",
     "sr": "Mir je u nama, na istom mestu gde nemir i stradanje.",
-    "ms": "Mir v nami, na samom městu kde nemir i stradanje.",
+    "ms": "Mir v nami jest, na samom městu kde nemir i stradanje.",
     "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "_id": 1012
+    "wiki": ""
   },
   {
     "author": "Nagarđuna",
@@ -7546,7 +7554,7 @@
     "_id": 1059,
     "author": "Seneka",
     "sr": "Ako čovjek ne zna prema kojem pristaništu plovi, nijedan vjetar nije povoljan.",
-    "ms": "Ako člověk ne zna prěmy kojem pristanišču plava, nijedin větr ne bude dobry.",
+    "ms": "Ako člověk ne zna prěmy kojem pristanišču plava, nijedin větr ne dobry.",
     "source": "",
     "wiki": ""
   },
@@ -7873,11 +7881,12 @@
     "_id": 1105
   },
   {
+    "_id": 1106,
     "author": "Dōgen",
     "sr": "Ako ne možeš naći istinu ovde i sada, gde drugde očekuješ ju naći?",
-    "ms": "Ako ne možeš najdti istinu sej i segda, kde inamo očekyvaješ ju najdti?",
+    "ms": "Ako ne možeš najdti istinu sej i segda, kde inamo očekyvaš ju najdti?",
     "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "_id": 1106
+    "wiki": ""
   },
   {
     "author": "Huangbo Xiyun",
@@ -8148,11 +8157,12 @@
     "_id": 1144
   },
   {
+    "_id": 1145,
     "author": "Evagrije Pontski",
     "sr": "Molitva je stanje bez opsedajućih misli u kojem sila ljubavi uzdiže duh u sferu čiste umnosti.",
-    "ms": "Molitva jest stan bez obsědajučih mysli v kojem sila ljubve vozdviga duh v sferu čiste umnosti.",
+    "ms": "Molitva jest stanje bez obsědajučih mysli v kojem sila ljubve vozdviga duh v sferu čiste umnosti.",
     "source": "Knjiga mističkih poglavlja, Zagreb, 2005.",
-    "_id": 1145
+    "wiki": ""
   },
   {
     "author": "Nil Sinajski",
@@ -8364,13 +8374,6 @@
     "ms": "Svetitelji běgali od gradov znajuči že občenje so razvratnymi opasněje no zaraza.",
     "source": "Dobrotoljublje",
     "_id": 1175
-  },
-  {
-    "author": "Nil Sinajski",
-    "sr": "Kako ne možemo očistiti mutnu vodu, ne učinivši ju mirnom, tako ne možemo poznati svoje unutrašnje stanje bez tihovanja.",
-    "ms": "Kak nemožno očistiti mutnu vodu, ne učinivši ju mirnom, tak nemožno poznati svoj vnutrišnji stan bez tihovanja.",
-    "source": "Dobrotoljublje",
-    "_id": 1176
   },
   {
     "author": "Nil Sinajski",
@@ -8696,6 +8699,13 @@
     "_id": 1222
   },
   {
+    "author": "Diadoh od Fotike",
+    "sr": "Nema ničeg tužnijeg od čoveka koji govori o bogu, a boga nema.",
+    "ms": "Ne imaje ničego žalostněje od člověka ktory govori o bogu, a boga ne imaje.",
+    "source": "Knjiga mističkih poglavlja, Zagreb, 2005.",
+    "_id": 1223
+  },
+  {
     "author": "Makarije Egipatski",
     "sr": "Tko nađe u sebi nebesku riznici duha može držati sve zapovijedi i tvoriti sve vrline bez greške, jer tada sve postaje ispravno i lako.",
     "ms": "Kto najde v sobě nebesku skarbnicu duha može držati vse zapovědi i tvoriti vse čestnosti bez grěšky, ibo togda vse stava pravo i legko.",
@@ -8722,13 +8732,6 @@
     "ms": "Zaisto jesmo ščestni ako ne nenavidimo tyh ktori nas nenavidet. Medžu ljudami ktori nas nenavidet, mi prěbyvamo svobodny od nenavisti.",
     "source": "S. Jesudian, Joga i Zdravlje, Beograd 1982.",
     "_id": 1227
-  },
-  {
-    "author": "Ramana Maharši",
-    "sr": "Učenik: Šta je zabluda?\nMaharši: Ko je u zabludi? Otkrijte to i nestaće zablude.",
-    "ms": "Učenik: Čto zabluda jest?\nMaharši: Kto v zabludě? Odkryite to i zabluda izčezne.",
-    "source": "S. Jesudian, Joga i Zdravlje, Beograd 1982.",
-    "_id": 1228
   },
   {
     "author": "Heraklit",
@@ -8907,6 +8910,13 @@
     "_id": 1253
   },
   {
+    "author": "Mahabharata",
+    "sr": "Ko ne obraća pažnju na zle reči drugih, pobeđuje.",
+    "ms": "Kto ne obrača pozornost na zle rěči drugyh, pobědžaje.",
+    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
+    "_id": 1254
+  },
+  {
     "author": "Vivekananda",
     "sr": "Slobodan znači slobodan od zabluda.",
     "ms": "Svobodny znači svobodny od zabludy.",
@@ -8921,11 +8931,12 @@
     "_id": 1256
   },
   {
+    "_id": 1257,
     "author": "Ramana Maharši",
     "sr": "Samoća je stanje uma. Osoba savladana željama ne može nigde naći samoću. Osoba slobodna od želja svuda nalazi svoju samoću i mir.",
-    "ms": "Samota jest stan uma. Osoba sovladnena želanjami ne može nikde najdti samotu. Osoba svobodna od želanja vsekde nahodi svoju samotu i mir.",
+    "ms": "Samota stanje uma. Osoba sovladnena želanjami ne može nikde najdti samotu. Osoba svobodna od želanja vsekde nahodi svoju samotu i mir.",
     "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
-    "_id": 1257
+    "wiki": ""
   },
   {
     "author": "Gautama Buddha",
@@ -9287,18 +9298,18 @@
     "_id": 1309
   },
   {
+    "author": "Budagoša",
+    "sr": "Postoji patnja, ne postoji patnik,\npostoje djela, ne postoji djelatnik,\npostoji oslobođenje, ne postoji oslobođeni,\npostoji put, ne postoji putnik.",
+    "ms": "Istnuje stradanje, ne istnuje stradatelj,\nistnujut děla, ne istnuje dělatelj,\nistnuje osvobodženje, ne istnuje osvobodženy,\nistnuje put, ne istnuje putnik.",
+    "source": "https://srednjiput.rs/tumacenja/cedomil-veljacic/veljacic-budizam/pitaja-o-nosiocu-tereta/",
+    "_id": 1310
+  },
+  {
     "author": "Zhaozhou Congshen",
     "sr": "Džošu upita Nansena: Šta je put?\nNansen odgovori: Svakodnevni život je put.\nDžošu upita: Kako se može dospeti na njega?\nNansen odgovori: Što ga više tražiš, sve je dalji.",
     "ms": "Džošu zapyta Nansena: Čto jest put?\nNansen odgovori: Povsednji život jest put.\nDžošu upita: Kako možno prihoditi na jego?\nNansen odgovori: Čto vyše iščeš go, on vse dalje.",
     "source": "Mumonkan, zbirka zen koana, Beograd 1980.",
     "_id": 1311
-  },
-  {
-    "author": "Huineng",
-    "sr": "Kada ne misliš na dobro ni zlo, \nkako izgleda tvoje prvobitno lice \nkoje si imao pre rođenja?",
-    "ms": "Kogda ne mysliš na dobro ni zlo, \nkako izgleda tvoje prvotno lice \nkoje jesi imal pre rodženja?",
-    "source": "Mumonkan, zbirka zen koana, Beograd 1980.",
-    "_id": 1312
   },
   {
     "author": "Huineng",
@@ -10100,18 +10111,18 @@
     "_id": 1427
   },
   {
+    "author": "Krišna",
+    "sr": "Ko misli da neko može ubiti, ili biti ubijen, ne zna istinu.",
+    "ms": "Kto mysli že někto može ubiti, ili byti ubity, ne znaje istinu.",
+    "source": "Bhagavad Gita",
+    "_id": 1428
+  },
+  {
     "author": "Muhamed",
     "sr": "Velikodušni je blizu boga, blizu ljudi, blizu raja, daleko od pakla.",
     "ms": "Velikodušny blizko boga, blizko ljudij, blizko raja, daleko od pekla.",
     "source": "Sufizam, Beograd 1981.",
     "_id": 1429
-  },
-  {
-    "author": "Meister Eckhart",
-    "sr": "Ako želiš stići do jezgra, moraš slomiti ljusku.",
-    "ms": "Ako želaš segnuti do jedra, moraš slomiti luščinu.",
-    "source": "Sufizam, Beograd 1981.",
-    "_id": 1430
   },
   {
     "author": "Isus",
@@ -10355,13 +10366,6 @@
   },
   {
     "author": "Yamamoto Tsunetomo",
-    "sr": "Nije teško izbeći sramotu - dovoljno je umreti.",
-    "ms": "Ne težko izběgti sramotu - dovoljno umreti.",
-    "source": "Hagakure",
-    "_id": 1465
-  },
-  {
-    "author": "Yamamoto Tsunetomo",
     "sr": "Pravedan život ostvaruje se u prisustvu smrti. To znači odabiranje smrti ako je izbor život ili smrt.",
     "ms": "Pravedny život sovrša se v prisučstvu smrti. To znači izbiranje smrti ako izbor život ili smrt.",
     "source": "Hagakure",
@@ -10495,11 +10499,12 @@
     "_id": 1484
   },
   {
+    "_id": 1485,
     "author": "Evanđelje po Filipu",
-    "sr": "Oni koji govore da će prvo umreti pa vaskrsnuti, varaju se. Jer ako ne prime vaskrsenje za života, neće primiti ništa kada umru.",
-    "ms": "Oni ktori govoret da prvo budu umreti pa vozkresnuti, obmanyvajut se. Ibo ako ne prijmut vozkrešenje za života, ne budu prijeti ničto kogda umrut.",
+    "sr": "Koji govore da će prvo umreti pa vaskrsnuti, varaju se. Jer ako ne prime vaskrsenje za života, neće primiti ništa kada umru.",
+    "ms": "Ktori govoret že prvo budu umreti pa vozkresnuti, obmanyvajut se. Ibo ako ne prijmut vozkrešenje za života, ne budu prijeti ničto kogda umrut.",
     "source": "Evanđelje po Filipu",
-    "_id": 1485
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -10563,13 +10568,6 @@
     "ms": "Jesm vlast i bezvlastna.\nJesm jedna i razděljana.\nJesm trajna i minujuča.",
     "source": "Grom: Savršeni um",
     "_id": 1494
-  },
-  {
-    "author": "Silvanovo učenje",
-    "sr": "Kucaj u sebe kao u dveri, \nidi u sebe kao ravnim pu­tem. \nJer ideš li tim putem, ne možeš zabludeti.",
-    "ms": "Stukaj v sobě kak v dveri,\nidi v sobě kak ravnym putom.\nIbo ideš li tym putom, ne možeš zabluditi.",
-    "source": "Silvanovo učenje 106",
-    "_id": 1495
   },
   {
     "author": "Silvanovo učenje",
@@ -10684,18 +10682,20 @@
     "_id": 1511
   },
   {
+    "_id": 1512,
     "author": "Trimorfna protenoja",
-    "sr": "Ja sam nevidljiva u misli o nevidljivome. \nOt­krivam se u neizmjernom, neizrecivom. \nJa sam nepojmljiva i jesam u nepojmljivom. \nU svakome stvorenju ja se krećem.",
-    "ms": "Ja jesm nevidima v mysli o nevidimom. \nOdkryvam se v neizměrimom, neizrěkajemom. \nJa jesm nepojmajema i jesm v nepojmajemom. \nU vsekom stvoru ja dvigam se.",
+    "sr": "U svakome stvorenju ja se krećem.",
+    "ms": "U vsekom stvoru ja dvigam se.",
     "source": "Trimorfna protenoja",
-    "_id": 1512
+    "wiki": ""
   },
   {
+    "_id": 1513,
     "author": "Trimorfna protenoja",
-    "sr": "Ja sam poimanje i zna­nje. \nJa sam istinski glas u svakom.",
-    "ms": "Jesm pojmanje i věda. \nJesm istinny glas v vsekom.",
+    "sr": "Ja sam istinski glas u svakom.",
+    "ms": "Jesm istinny glas v vsekom.",
     "source": "Trimorfna protenoja",
-    "_id": 1513
+    "wiki": ""
   },
   {
     "author": "Trimorfna protenoja",
@@ -10712,11 +10712,12 @@
     "_id": 1515
   },
   {
+    "_id": 1516,
     "author": "Evanđelje po Filipu",
     "sr": "Blagosloven ko nikome ne nanosi bol.",
-    "ms": "Blagoslovny kto nikomu ne nanosi bolj.",
+    "ms": "Blagoslovjeny kto nikomu ne nanosi bolj.",
     "source": "Evanđelje po Filipu",
-    "_id": 1516
+    "wiki": ""
   },
   {
     "author": "Plotin",
@@ -10738,13 +10739,6 @@
     "ms": "Člověk trěba svoj imutok držati občim za vse, da go bez kolěbanja može dati potrěbujučim.",
     "source": "",
     "_id": 1519
-  },
-  {
-    "author": "Toma Akvinski",
-    "sr": "Greh je sve što je protiv savesti.",
-    "ms": "Grěh vse čto protiv svědomosti.",
-    "source": "",
-    "_id": 1520
   },
   {
     "author": "Mahatma Gandhi",
@@ -10803,6 +10797,13 @@
     "_id": 1528
   },
   {
+    "author": "Empedokle",
+    "sr": "Već bejah dečak i devojka i grm i ptica i riba što iz mora skače.",
+    "ms": "Uže běh mladec i děvka i rastlina i ptica i ryba čto iz morja skaka.",
+    "source": "Miloš N. Đurić, Istorija helenske etike (str. 29), Beograd 1987.",
+    "_id": 1529
+  },
+  {
     "author": "Tales",
     "sr": "Teško je upoznati sebe.",
     "ms": "Težko poznati sebe.",
@@ -10824,11 +10825,12 @@
     "_id": 1532
   },
   {
+    "_id": 1533,
     "author": "Ksenofan",
-    "sr": "Ne rođeno jest, rođeno ne jest.",
-    "ms": "Ne rodženo jest, rodženo ne jest.",
+    "sr": "Nerođeno jest, rođeno ne jest.",
+    "ms": "Nerodženo jest, rodženo ne jest.",
     "source": "Herman Diels, Predsokratovci I, Zagreb 1983.",
-    "_id": 1533
+    "wiki": ""
   },
   {
     "_id": 1534,
@@ -10887,6 +10889,13 @@
     "ms": "Ne trěba gleděti čutja no um.",
     "source": "Herman Diels, Predsokratovci I, Zagreb 1983.",
     "_id": 1541
+  },
+  {
+    "author": "Melis sa Samosa",
+    "sr": "Što ima početak i konac nije večno. \nŠto ne ima početak i konac jest.",
+    "ms": "Čto imaje početok i konec ne věčno. \nČto ne imaje početok i konec jest.",
+    "source": "Herman Diels, Predsokratovci I, Zagreb 1983.",
+    "_id": 1542
   },
   {
     "author": "Pitagora",
@@ -11197,6 +11206,13 @@
     "ms": "Načetok spasenju svoja svěst.",
     "source": "",
     "_id": 1586
+  },
+  {
+    "author": "Pseudo-Dionisije Areopagit",
+    "sr": "Bog je početak i kraj svih stvari. Početak kao njihov uzrok, kraj kao njihova poslednja svrha.",
+    "ms": "",
+    "source": "Frederik Koplston, Srednjovekovna filozofija (str. 100), Beograd, 1989.",
+    "_id": 1587
   },
   {
     "author": "Zhaozhou Congshen",

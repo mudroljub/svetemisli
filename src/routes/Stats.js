@@ -20,14 +20,14 @@ const ShowQuote = () => {
 
   data.sort((a, b) => b[1] - a[1])
 
-  const singles = data.filter(arr => arr[1] === 4).map(arr => arr[0])
+  const singles = data.filter(arr => arr[1] === 1).map(arr => arr[0])
   console.log(singles)
 
   return (
     <main>
       <h1>Statistika</h1>
       <Chart
-        width={'800px'}
+        width={'700px'}
         height={'500px'}
         chartType="PieChart"
         loader={<div>Loading...</div>}
@@ -37,7 +37,9 @@ const ShowQuote = () => {
         ]}
         options={{
           title: 'Avtori po broju citatov',
-          backgroundColor: 'transparent'
+          backgroundColor: 'transparent',
+          chartArea:{left:20, top:0, width:'100%', height:'100%'},
+          is3D: true,
         }}
         rootProps={{ 'data-testid': '1' }}
       />

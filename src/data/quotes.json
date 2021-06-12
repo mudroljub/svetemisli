@@ -3308,14 +3308,6 @@
     "_id": 467
   },
   {
-    "_id": 468,
-    "author": "Pavle od Tarsa",
-    "sr": "Ako jezike čovječje i angelske govorim a ljubavi nemam, zvono sam koje zvoni ili gong koji zveči. I ako imam proroštvo i znam tajne i znanja, i imam vjeru gore premještati, a ljubavi nemam, ništa sam. I ako razdam imanje svoje, i predam tijelo moje sažeći se, a ljubavi nemam, ništa mi ne pomaže.",
-    "ms": "Ako jezyky člověčski i angelski govorju, ljubve že ne imaju, jesm zvon zvoneči ili gong zvečeči. I ako imaju proročstvo, i věm tajny i vědy, i imaju věru gory prěměščati, ljubve že ne imaju, ničto jesm. I ako razdam iměnje svoje, i prědam tělo moje sožegti se, ljubve že ne imaju, ničto mi ne pomože.",
-    "source": "Prva poslanica Korinćanima 13:1-3",
-    "wiki": "https://pl.wikipedia.org/wiki/Hymn_o_mi%C5%82o%C5%9Bci"
-  },
-  {
     "sr": "Ko na velikom putu života ne nađe boljeg ili sebi ravnog, neka bezbrižno putuje sam.",
     "author": "Gautama Buddha",
     "ms": "Kto na velikom putu života ne najde lučšego ili sobě ravnogo, nehaj spokojno putuje sam.",
@@ -7119,13 +7111,6 @@
     "wiki": ""
   },
   {
-    "author": "Sogjal Rinpoće",
-    "sr": "Um u meditaciji kao mutna voda. Što duže miruje, više nečistote pada na dno, omoguću­jući prirodnu čistotu.",
-    "ms": "Um v meditaciji kak mutna voda. Čto dolžeje odpočiva, vyše nečistoty pada na dno, umožnjajuči prirodnu čistotu.",
-    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "_id": 997
-  },
-  {
     "author": "Ađan Ča",
     "sr": "Ako prestaneš vezivati se za malo stvari u životu, dobićeš malo mira. Ako prestaneš vezivati se za mnogo stvari, dobićeš mnogo mira. Ako potpuno prestaneš vezivati se, dobićeš potpuni mir. Tada je borba sa svetom okončana.",
     "ms": "Ako prěstaš svezyvati se za malo věči v životu, dobudeš malo mira. Ako prěstaš svezyvati se za mnogo věči, dobudeš mnogo mira. Ako popolno prěstaš svezyvati se, dobudeš popolny mir. Togda borba sa světom skončena.",
@@ -7558,11 +7543,12 @@
     "_id": 1058
   },
   {
+    "_id": 1059,
     "author": "Seneka",
     "sr": "Ako čovjek ne zna prema kojem pristaništu plovi, nijedan vjetar nije povoljan.",
-    "ms": "Ako člověk ne zna prěmy kojem pristanišču plava, nijedin větr ne bude ščestlivy.",
+    "ms": "Ako člověk ne zna prěmy kojem pristanišču plava, nijedin větr ne bude dobry.",
     "source": "",
-    "_id": 1059
+    "wiki": ""
   },
   {
     "author": "Zaratustra",
@@ -8710,13 +8696,6 @@
     "_id": 1222
   },
   {
-    "author": "Diadoh od Fotike",
-    "sr": "Nema ničeg tužnijeg od čoveka koji govori o bogu, a boga nema.",
-    "ms": "Ne imaje ničego žalostněje od člověka ktory govori o bogu, a boga ne imaje.",
-    "source": "Knjiga mističkih poglavlja, Zagreb, 2005.",
-    "_id": 1223
-  },
-  {
     "author": "Makarije Egipatski",
     "sr": "Tko nađe u sebi nebesku riznici duha može držati sve zapovijedi i tvoriti sve vrline bez greške, jer tada sve postaje ispravno i lako.",
     "ms": "Kto najde v sobě nebesku skarbnicu duha može držati vse zapovědi i tvoriti vse čestnosti bez grěšky, ibo togda vse stava pravo i legko.",
@@ -8926,13 +8905,6 @@
     "ms": "Tvoja sobstvena volja jedina odgovarja na tvoje molitvy. Ale ljudami projavja se v obliku raznyh věrskyh prědstavy.",
     "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
     "_id": 1253
-  },
-  {
-    "author": "Mahabharata",
-    "sr": "Ko ne obraća pažnju na zle reči drugih, pobeđuje.",
-    "ms": "Kto ne obrača pozornost na zle rěči drugyh, pobědžaje.",
-    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
-    "_id": 1254
   },
   {
     "author": "Vivekananda",
@@ -9313,13 +9285,6 @@
     "ms": "Věra čisto osobna jest. \nAko ju ustrojite, stava mrtva, kristalizovana. \nIstinu ne možete spustiti dole, \nno vsekto mora učiniti napor dostignuti ju.",
     "source": "",
     "_id": 1309
-  },
-  {
-    "author": "Budagoša",
-    "sr": "Postoji patnja, ne postoji patnik,\npostoje djela, ne postoji djelatnik,\npostoji oslobođenje, ne postoji oslobođeni,\npostoji put, ne postoji putnik.",
-    "ms": "Istnuje stradanje, ne istnuje stradatelj,\nistnujut děla, ne istnuje dělatelj,\nistnuje osvobodženje, ne istnuje osvobodženy,\nistnuje put, ne istnuje putnik.",
-    "source": "https://srednjiput.rs/tumacenja/cedomil-veljacic/veljacic-budizam/pitaja-o-nosiocu-tereta/",
-    "_id": 1310
   },
   {
     "author": "Zhaozhou Congshen",
@@ -10135,13 +10100,6 @@
     "_id": 1427
   },
   {
-    "author": "Krišna",
-    "sr": "Ko misli da neko može ubiti, ili biti ubijen, ne zna istinu.",
-    "ms": "Kto mysli že někto može ubiti, ili byti ubity, ne znaje istinu.",
-    "source": "Bhagavad Gita",
-    "_id": 1428
-  },
-  {
     "author": "Muhamed",
     "sr": "Velikodušni je blizu boga, blizu ljudi, blizu raja, daleko od pakla.",
     "ms": "Velikodušny blizko boga, blizko ljudij, blizko raja, daleko od pekla.",
@@ -10522,11 +10480,12 @@
     "_id": 1482
   },
   {
+    "_id": 1483,
     "author": "Monoim",
-    "sr": "Napusti traganje za bogom, kosmosom i inim. Umesto toga, otkrij ko u tebi prisvaja sve govoreći moj duh, moje srce, moja misao. Pronađi izvore ljubavi, radosti, mržnje i žudnje. Ako pažljivo ispitaš, naći ćeš to u sebi.",
-    "ms": "Napusti iskanje za bogom, kosmosom i inym. Vměsto togo, odkryj kto v tobě prisvaja vse govoreči moj duh, moje srdce, moja myslj. Najdi izvore ljubvi, radosti, nenavisti i žednosti. Ako dobro razsmotriš, najdeš to v sobě.",
+    "sr": "Napusti traganje za bogom, kosmosom i inim. Umesto toga, otkrij ko u tebi prisvaja sve govoreći moj duh, moje srce, moja misao.",
+    "ms": "Napusti iskanje za bogom, kosmosom i inym. Vměsto togo, odkryj kto v tobě prisvaja vse govoreči moj duh, moje srdce, moja myslj.",
     "source": "Hippolytus, Refutation of All Heresis",
-    "_id": 1483
+    "wiki": ""
   },
   {
     "author": "Evanđelje po Filipu",
@@ -10844,13 +10803,6 @@
     "_id": 1528
   },
   {
-    "author": "Empedokle",
-    "sr": "Već bejah dečak i devojka i grm i ptica i riba što iz mora skače.",
-    "ms": "Uže běh mladec i děvka i rastlina i ptica i ryba čto iz morja skaka.",
-    "source": "Miloš N. Đurić, Istorija helenske etike (str. 29), Beograd 1987.",
-    "_id": 1529
-  },
-  {
     "author": "Tales",
     "sr": "Teško je upoznati sebe.",
     "ms": "Težko poznati sebe.",
@@ -10935,13 +10887,6 @@
     "ms": "Ne trěba gleděti čutja no um.",
     "source": "Herman Diels, Predsokratovci I, Zagreb 1983.",
     "_id": 1541
-  },
-  {
-    "author": "Melis sa Samosa",
-    "sr": "Što ima početak i konac nije večno. \nŠto ne ima početak i konac jest.",
-    "ms": "Čto imaje početok i konec ne věčno. \nČto ne imaje početok i konec jest.",
-    "source": "Herman Diels, Predsokratovci I, Zagreb 1983.",
-    "_id": 1542
   },
   {
     "author": "Pitagora",
@@ -11252,13 +11197,6 @@
     "ms": "Načetok spasenju svoja svěst.",
     "source": "",
     "_id": 1586
-  },
-  {
-    "author": "Pseudo-Dionisije Areopagit",
-    "sr": "Bog je početak i kraj svih stvari. Početak kao njihov uzrok, kraj kao njihova poslednja svrha.",
-    "ms": "",
-    "source": "Frederik Koplston, Srednjovekovna filozofija (str. 100), Beograd, 1989.",
-    "_id": 1587
   },
   {
     "author": "Zhaozhou Congshen",

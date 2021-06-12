@@ -2,10 +2,11 @@ import React from 'react'
 import {useSelector} from 'react-redux'
 import {Chart} from 'react-google-charts'
 
-// import {useTranslate} from '../store/actions'
+import {useAuthorName} from '../store/actions' // useTranslate
 
 const ShowQuote = () => {
   const {allQuotes} = useSelector(state => state)
+  const getName = useAuthorName()
   // const translate = useTranslate()
 
   const dict = allQuotes.reduce((acc, q) => ({
@@ -15,11 +16,11 @@ const ShowQuote = () => {
 
   const data = []
   for (const [key, value] of Object.entries(dict))
-    data.push([key, value])
+    data.push([getName(key), value])
 
   data.sort((a, b) => b[1] - a[1])
 
-  const singles = data.filter(arr => arr[1] === 1).map(arr => arr[0])
+  const singles = data.filter(arr => arr[1] === 4).map(arr => arr[0])
   console.log(singles)
 
   return (
@@ -31,11 +32,11 @@ const ShowQuote = () => {
         chartType="PieChart"
         loader={<div>Loading...</div>}
         data={[
-          ['Avtor', 'broj citata'],
+          ['Avtor', 'broj citatov'],
           ...data,
         ]}
         options={{
-          title: 'Avtori',
+          title: 'Avtori po broju citatov',
           backgroundColor: 'transparent'
         }}
         rootProps={{ 'data-testid': '1' }}

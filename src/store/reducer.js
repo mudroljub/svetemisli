@@ -2,7 +2,7 @@ import {getDerived, filterQuotes, showAuthor} from '../utils/helpers'
 import initialState from './initialState'
 
 export const reducer = (state = initialState, action) => {
-  const {allQuotes, allAuthors, selectedAuthors, lang, authorPhrase} = state
+  const {allQuotes, allAuthors, selectedAuthors, lang, authorPhrase, favorites} = state
   const {quote} = action
 
   const filterQ = q => filterQuotes(q, state)
@@ -80,6 +80,13 @@ export const reducer = (state = initialState, action) => {
       return {
         ...state,
         selectedAuthors: shouldAdd ? [...selectedAuthors, value] : selectedAuthors.filter(a => a !== value)
+      }
+    }
+    case 'ADD_FAVORITE': {
+      const updated = !favorites.includes(action._id) ? [...favorites, action._id] : favorites
+      return {
+        ...state,
+        favorites: updated,
       }
     }
     default:

@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
 import {useDispatch, useSelector} from 'react-redux'
 
-import {deleteQuote, useTranslate, useTransliterate, useAuthorName} from '../../store/actions'
+import {deleteQuote, useTranslate, useTransliterate, useAuthorName, addFavorite} from '../../store/actions'
 import './quote.css'
 
 const Quote = ({ quote, showSource, cssClass }) => {
@@ -33,6 +33,10 @@ const Quote = ({ quote, showSource, cssClass }) => {
     setShouldDelete(true)
   }
 
+  const addFav = () => {
+    dispatch(addFavorite(_id))
+  }
+
   const percent = (quoteTxt.length - minLength) / (maxLength - minLength)
 
   let gridClass = ''
@@ -45,6 +49,7 @@ const Quote = ({ quote, showSource, cssClass }) => {
 
   return (
     <blockquote className={cssClass || `small-quote ${gridClass}`}>
+      <span style={{float: 'right', marginLeft: '4px'}} onClick={addFav} className="pointer">☆</span>
       <p
         className="quote-text"
         style={{fontSize}}

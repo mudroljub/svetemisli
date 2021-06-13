@@ -4,11 +4,12 @@ import {shuffle, getDerived} from '../utils/helpers'
 const storage = localStorage.getItem('sveteMisli')
   ? JSON.parse(localStorage.getItem('sveteMisli'))
   : {}
-// need for getDerived
+// required storage props for derived
 storage.lang = storage.lang || 'ms'
 storage.allQuotes = storage.allQuotes || shuffle(quotes)
 
-const {lang, script, minLimit, maxLimit, showFilters, showSidebar, phrase, sourcePhrase, authorPhrase, selectedAuthors, allQuotes, page} = storage
+const {lang, script = 'kir', minLimit, maxLimit, showFilters = false, showSidebar = false, phrase = '', sourcePhrase = '', authorPhrase = '', selectedAuthors = [], allQuotes, page = 0, favorites = []} = storage
+
 const {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors} = getDerived(storage)
 
 const initialState = {
@@ -19,16 +20,17 @@ const initialState = {
   minLength,
   maxLength,
   lang,
-  script: script || 'kir',
-  showFilters: showFilters || false,
-  showSidebar: showSidebar || false,
+  script,
+  selectedAuthors,
+  phrase,
+  authorPhrase,
+  sourcePhrase,
+  page,
+  favorites,
+  showFilters,
+  showSidebar,
   minLimit: minLimit || minLength,
   maxLimit: maxLimit || maxLength,
-  selectedAuthors: selectedAuthors || [],
-  phrase: phrase || '',
-  authorPhrase: authorPhrase || '',
-  sourcePhrase: sourcePhrase || '',
-  page: page || 0,
 }
 
 export default initialState

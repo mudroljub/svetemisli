@@ -17,6 +17,7 @@ const Tools = () => {
 
   const deleteStorage = () => {
     localStorage.clear()
+    caches.keys().then(keys => keys.forEach(c => caches.delete(c)))
   }
 
   return (

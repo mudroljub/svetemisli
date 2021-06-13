@@ -26,6 +26,9 @@ const Tools = () => {
       <p>
         <Link to={'/statistika'}>Statistika</Link>&nbsp;
       </p>
+      <p>
+        <Link to={'/favorites'}>Favorites</Link>&nbsp;
+      </p>
       <button onClick={saveFile}>💾 Export quotes</button>
       <p>
         Export all quotes, together with your edits, as a json file.

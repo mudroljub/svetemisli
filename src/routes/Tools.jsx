@@ -8,11 +8,15 @@ import {download} from '../utils/helpers'
 
 const Tools = () => {
   const translate = useTranslate()
-  const {allQuotes} = useSelector(state => state)
+  const {allQuotes, favorites} = useSelector(state => state)
 
   const saveFile = () => {
     const sorted = [...allQuotes].sort((a, b) => a._id - b._id)
-    download(JSON.stringify(sorted, null, 2), 'citati.json', 'text/plain')
+    download(JSON.stringify(sorted, null, 2), 'quotes.json', 'text/plain')
+  }
+
+  const saveFavorites = () => {
+    download(JSON.stringify(favorites), 'settings.json', 'text/plain')
   }
 
   const deleteStorage = () => {
@@ -32,6 +36,10 @@ const Tools = () => {
       <button onClick={saveFile}>💾 Export quotes</button>
       <p>
         Export all quotes, together with your edits, as a json file.
+      </p>
+      <button onClick={saveFavorites}>⭐ Export favorites</button>
+      <p>
+        Export your favorite quotes.
       </p>
       <button onClick={deleteStorage}>❌ Delete local storage</button>
       <p>

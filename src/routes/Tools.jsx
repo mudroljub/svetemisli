@@ -16,7 +16,7 @@ const Tools = () => {
   }
 
   const saveFavorites = () => {
-    download(JSON.stringify(favorites), 'settings.json', 'text/plain')
+    download(JSON.stringify(favorites), 'favorites.json', 'text/plain')
   }
 
   const deleteStorage = () => {

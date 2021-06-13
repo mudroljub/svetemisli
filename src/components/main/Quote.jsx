@@ -6,7 +6,7 @@ import {deleteQuote, useTranslate, useTransliterate, useAuthorName, addFavorite}
 import './quote.css'
 
 const Quote = ({ quote, showSource, cssClass }) => {
-  const {lang, phrase, minLength, maxLength} = useSelector(state => state)
+  const {lang, phrase, minLength, maxLength, favorites} = useSelector(state => state)
   const dispatch = useDispatch()
   const translate = useTranslate()
   const transliterate = useTransliterate()
@@ -37,6 +37,8 @@ const Quote = ({ quote, showSource, cssClass }) => {
     dispatch(addFavorite(_id))
   }
 
+  const favIcon = favorites.includes(_id) ? '★' : '☆'
+
   const percent = (quoteTxt.length - minLength) / (maxLength - minLength)
 
   let gridClass = ''
@@ -49,7 +51,7 @@ const Quote = ({ quote, showSource, cssClass }) => {
 
   return (
     <blockquote className={cssClass || `small-quote ${gridClass}`}>
-      <span style={{float: 'right', marginLeft: '4px'}} onClick={addFav} className="pointer">☆</span>
+      <span style={{float: 'right', marginLeft: '4px'}} onClick={addFav} className="pointer">{favIcon}</span>
       <p
         className="quote-text"
         style={{fontSize}}

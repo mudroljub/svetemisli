@@ -89,6 +89,11 @@ export const reducer = (state = initialState, action) => {
         favorites: updated,
       }
     }
+    case 'REMOVE_FAVORITE':
+      return {
+        ...state,
+        favorites: favorites.filter(id => id !== action._id),
+      }
     default:
       return state
   }

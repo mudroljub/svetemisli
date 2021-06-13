@@ -47,6 +47,8 @@ export const saveQuote = quote => (dispatch, getState) => {
 
 export const addFavorite = _id => ({type: 'ADD_FAVORITE', _id})
 
+export const removeFavorite = _id => ({type: 'REMOVE_FAVORITE', _id})
+
 /* SELECTORS */
 
 export const useTranslate = () => {

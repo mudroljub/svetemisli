@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
 import {useDispatch, useSelector} from 'react-redux'
 
-import {deleteQuote, useTranslate, useTransliterate, useAuthorName, addFavorite} from '../../store/actions'
+import {deleteQuote, useTranslate, useTransliterate, useAuthorName, addFavorite, removeFavorite} from '../../store/actions'
 import './quote.css'
 
 const Quote = ({ quote, showSource, cssClass }) => {
@@ -34,7 +34,8 @@ const Quote = ({ quote, showSource, cssClass }) => {
   }
 
   const addFav = () => {
-    dispatch(addFavorite(_id))
+    const action = favorites.includes(_id) ? removeFavorite : addFavorite
+    dispatch(action(_id))
   }
 
   const favIcon = favorites.includes(_id) ? '★' : '☆'

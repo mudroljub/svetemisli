@@ -27,4 +27,5 @@ npm start
 
 - dodati favorite
 - neprevedeno
+- ćirilični input
 - rute za jezik

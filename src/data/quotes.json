@@ -165,11 +165,12 @@
     "_id": 23
   },
   {
+    "_id": 24,
     "author": "Isus",
     "sr": "Mirjam upita: Postoji li takvo mjesto gdje nedostaje istina?\nJešua reče: Tamo gdje ja nisam.",
-    "ms": "Mirjam zapyta: Imaje li takovogo města kde nedostava istina?\nJešua rěče: Tam kde ja ne jesm.",
+    "ms": "Mirjam zapyta: Imaje li takovogo města kde nedostava istina?\nJešua rěče: Tam kde ja nesm.",
     "source": "Dijalog Spasitelja, 140-141",
-    "_id": 24
+    "wiki": ""
   },
   {
     "author": "Muhamed",
@@ -216,12 +217,12 @@
     "_id": 30
   },
   {
+    "_id": 31,
     "author": "Isus",
-    "sr": "Sve što hoćete da tvore vam ljudi, \ntako vi tvorite im. \nTo je sav zakon i proroci.",
+    "sr": "Sve što hoćete da tvore vam ljudi, \ntako vi tvorite njima. \nTo je sav zakon i proroci.",
     "ms": "Vse čto hočete da tvoret vam ljudi, \ntako vy tvorite jim. \nTo jest ves zakon i proroki.",
     "source": "Evangelje po Mateju, glava 7:12",
-    "wiki": "https://sh.wikipedia.org/wiki/Zlatno_pravilo",
-    "_id": 31
+    "wiki": "https://sh.wikipedia.org/wiki/Zlatno_pravilo"
   },
   {
     "author": "Gautama Buddha",
@@ -553,12 +554,12 @@
     "_id": 77
   },
   {
+    "_id": 78,
     "author": "Isus",
     "sr": "Dok sam na svetu, ja sam svetlost sveta.",
-    "ms": "Dokolě jesm v světu, ja jesm světlo světu.",
+    "ms": "Dokolě jesm v světu, jesm světlo světu.",
     "source": "Evangelje po Jovanu, glava 9:5",
-    "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta",
-    "_id": 78
+    "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta"
   },
   {
     "author": "Gautama Buddha",
@@ -662,12 +663,12 @@
     "_id": 92
   },
   {
+    "_id": 94,
     "author": "Isus",
-    "sr": "Moleći se ne glagolite lišno kao jezičnici: \nmniju mnogoglagolanjem svojim budu uslišeni. \nJer zna otac vaš šta vam treba \npre prošenja vašega.",
-    "ms": "Moleči se ne glagolite lišno kak jezyčniki: \nmnet mnogoglagolanjem svojim uslyšani budut. \nVěst bo otec vaš čto trěbujete, \nprědže prošenja vašego.",
+    "sr": "Moleći se ne glagolite lišno kao jezičnici: mniju mnogoglagolanjem svojim budu uslišeni. Jer zna otac šta vam treba pre prošenja vašega.",
+    "ms": "Moleči se ne glagolite lišno kak jezyčniki: mnet mnogoglagolanjem svojim uslyšani budut. Věst bo otec čto trěbujete, prědže prošenja vašego.",
     "source": "Evangelje po Mateju, glava 6:7-8",
-    "wiki": "https://sh.wikipedia.org/wiki/Molite_se_u_tajnosti",
-    "_id": 94
+    "wiki": "https://sh.wikipedia.org/wiki/Molite_se_u_tajnosti"
   },
   {
     "author": "Muhamed",
@@ -806,12 +807,12 @@
     "_id": 113
   },
   {
+    "_id": 114,
     "author": "Isus",
-    "sr": "Ne sabirajte blago na zemlji, \ngde moljac i rđa uništavaju \ni lopovi potkopavaju i kradu. \nSabirajte blago na nebu, \ngde ni moljac ni rđa ne uništavaju, \nni lopovi ne potkopavaju ni kradu. \nGde je blago vaše, tu će vam biti i srce.",
-    "ms": "Ne skryvajte sobě sokrovišče na zemji, \nkde črv i tlě tlit, \ni kradeci podkopyvajut i kradut. \nSkryvajte sobě sokrovišče na nebesi, \nkde ni črv ni tlě tlit, \nni kradci podkopyvajut ni kradut. \nKde jest sokrovišče vaše, tu i srdce vaše bude.",
+    "sr": "Ne skrivajte sebi skrovište na zemlji, \ngde moljac i rđa uništavaju \ni lopovi potkopavaju i kradu. \nSkrivajte sebi skrovište na nebu, \ngde ni moljac ni rđa ne uništavaju, \nni lopovi ne potkopavaju ni kradu. \nJer gde je skrovište vaše, tu i srce vaše bude.",
+    "ms": "Ne skryvajte sobě sokrovišče na zemji, \nkde črv i tlě tlit, \ni kradeci podkopyvajut i kradut. \nSkryvajte sobě sokrovišče na nebesi, \nkde ni črv ni tlě tlit, \nni kradci podkopyvajut ni kradut. \nIbo kde jest sokrovišče vaše, tu i srdce vaše bude.",
     "source": "Evangelje po Mateju 6:19-21; Evangelje po Luki 12:33-34",
-    "wiki": "https://sh.wikipedia.org/wiki/Gde_ti_je_blago_onde_ti_je_srce",
-    "_id": 114
+    "wiki": "https://sh.wikipedia.org/wiki/Gde_ti_je_blago_onde_ti_je_srce"
   },
   {
     "author": "Muhamed",
@@ -877,11 +878,12 @@
     "_id": 124
   },
   {
+    "_id": 125,
     "author": "Isus",
     "sr": "Čuli ste kako je kazano starima: Ne čini preljube. A ja vam kažem da svaki koji pogleda na ženu sa željom, već je učinio preljubu u srcu svom.",
-    "ms": "Slyšaste kak rěčeno drěvnym: Ne tvori prěljube. Ja iže glagolju vam, da vsaky koj uzri ženu želajuči ju, uže ljubodějstvova s jej v srdcu svojem.",
+    "ms": "Slyšaste kak rěčeno drěvnym: Ne tvori prěljube. Ja že glagolju vam, da vsaky koj uzri ženu želajuči ju, uže ljubodějstvova s jej v srdcu svojem.",
     "source": "Evangelje po Mateju, glava 5:27-28",
-    "_id": 125
+    "wiki": ""
   },
   {
     "sr": "Ako gubitak novca, dece ili inog smatrate nevoljom, znajte treba biti zadovoljan bogom danim, i dano blagodarno vratiti.",
@@ -1572,11 +1574,12 @@
     "_id": 223
   },
   {
+    "_id": 224,
     "author": "Isus",
-    "sr": "Kažem vam, ko ima moć neka se odrekne nje i pokaje.",
-    "ms": "Kažu vam, imajuči moč nehaj odrěče se jej i pokaja.",
+    "sr": "Ko ima moć neka se odrekne i pokaje.",
+    "ms": "Imajuči moč nehaj odrěče se i pokaja.",
     "source": "Dijalog Spasitelja",
-    "_id": 224
+    "wiki": ""
   },
   {
     "author": "Isak Sirin",
@@ -1737,12 +1740,12 @@
     "_id": 246
   },
   {
+    "_id": 247,
     "author": "Isus",
-    "sr": "Zašto vidiš trun u oku brata, a brvna u svom oku ne osećaš? Kako rečeš bratu: pusti da ti izvadim trun, imajući brvno u oku? Licemere, izvadi najpre brvno iz oka, i tada možeš pomoći bratu.",
-    "ms": "Čto že vidiš trn vo očah brata, brvna že vo očah tvojih ne čuješ? Kako rěčeš bratu: pusti da izojmu ti trn, imajuči brvno vo oku? Liceměre, izojmi prvo brvno iz oka, i togda uzriš pomoči bratu.",
+    "sr": "Što vidiš trun u oku brata, a brvna u svom oku ne osećaš? Kako rečeš bratu: pusti da ti izvadim trun, imajući brvno u oku? Licemere, izvadi najpre brvno iz oka, i tada možeš pomoći bratu.",
+    "ms": "Čto vidiš trn vo očah brata, brvna že vo očah tvojih ne čuješ? Kako rěčeš bratu: pusti da izojmu ti trn, imajuči brvno vo oku? Liceměre, izojmi prvo brvno iz oka, i togda uzriš pomoči bratu.",
     "source": "Evangelje po Luki, glava 6:41-42; Evangelje po Mateju, glava 7:3-5",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_trunu_i_brvnu",
-    "_id": 247
+    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_trunu_i_brvnu"
   },
   {
     "sr": "Kako ogromnu stenu vetar pomeriti ne može, tako mudraca ne kolebaju pohvale ni pokude.",
@@ -1826,12 +1829,12 @@
     "_id": 258
   },
   {
+    "_id": 259,
     "author": "Isus",
     "sr": "Videše ga da izlazi iz doma razvratnice i neko reče:\nO Ješua, šta radiš sa tom ženom?\nOn odgovori:\nNe trebaju zdravi lekara no bolesni.",
-    "ms": "Viděhu go že izhodi iz doma razvratnice i někoj rěče:\nO Ješua, čto dělaš so tom ženom?\nOn odgovori:\nNe trěbujut zdravy vrača, no boljny.",
+    "ms": "Viděhu go že izhodi iz doma razvratnice i někoj rěče:\nO Ješua, čto dělaš so tom ženoju?\nOn odgovori:\nNe trěbujut zdravy vrača, no boljny.",
     "source": "James Robson, Christ in Islam (A. 104.); Evangelje po Mateju, 9:9-13; Evangelje po Marku, 2:14-17; Evangelje po Luki, 5:29-32",
-    "wiki": "https://sh.wikipedia.org/wiki/Bolesnima_treba_lekar",
-    "_id": 259
+    "wiki": "https://sh.wikipedia.org/wiki/Bolesnima_treba_lekar"
   },
   {
     "sr": "Ako vas kunu, unižuju i zlostavljaju, ne treba osećati gnev, gorčinu i očaj. Ako vas slave, uvažuju i obožavaju, ne treba osećati ushićenje, radost i uznesenost.",
@@ -1907,8 +1910,8 @@
   {
     "_id": 271,
     "author": "Gautama Buddha",
-    "sr": "Pretpostavimo da čovek vidi mehure na reci i ispituje ih pozorno. On vidi da su prazni i bez suštine. Tako, mudrac ispituje oblike, draži, čuvstva, tvorevine i svest, dok ne prozre da su prazni i bez suštine.",
-    "ms": "Prědpoložimo že člověk vidi měhuroky na rěky i izpytyva jih pozorno. On vidi že sut prazdny i bez sučnosti. Tak, mudrec izpytyva obliky, draži, čuvstva, tvorenja i svědomost, dokolě ne prozri že sut prazdny i bez sučnosti.",
+    "sr": "Ako čovek pozorno ispituje mehur na reci Gang, vidi prazan jest i bez suštine. Tako mudrac ispituje oblike, draži, čuvstva, tvorevine i svest, dok ne prozre prazni su i bez suštine.",
+    "ms": "Ako člověk pozorno izpytyva měhurok na rěky Gang, vidi prazdny jest i bez sučnosti. Tak mudrec izpytyva obliky, draži, čuvstva, tvorenja i svědomost, dokolě ne prozri prazdny sut i bez sučnosti.",
     "source": "samyutta/sn22-095",
     "wiki": "https://sh.wikipedia.org/wiki/Nesopstvo"
   },
@@ -2226,11 +2229,12 @@
     "_id": 314
   },
   {
+    "_id": 315,
     "author": "Isus",
-    "sr": "Budite dakle milosrdni, \nkako otac vaš milosrdan je.",
-    "ms": "Budite ubo milosrdny, \nkako otec vaš milosrdny jest.",
+    "sr": "Budite milosrdni, \nkako otac vaš milosrdan je.",
+    "ms": "Budite milosrdny, \nkako otec vaš milosrdny jest.",
     "source": "Evangelje po Luki, glava 6:36",
-    "_id": 315
+    "wiki": ""
   },
   {
     "author": "Muhamed",
@@ -2455,12 +2459,12 @@
     "_id": 346
   },
   {
+    "_id": 347,
     "author": "Isus",
     "sr": "Ne sudite da ne budete suđeni. \nJer, kakvim sudom sudite, sudiće vam. \nI kojom mjerom mjerite mjerit će vam se. \nI priložiće se vama koji slušate.",
-    "ms": "Ne sudite, da ne sudimy budete. \nIbo, kakym sudom sudite, sudet vam. \nI v koju měru měrite, vozměriti se vam. \nI bude priložiti se vam slyšečim.",
+    "ms": "Ne sudite, da ne sudimy budete. \nIbo, kakym sudom sudite, sudet vam. \nI v koju měru měrite, vozměri se vam. \nI priloži se vam slyšečim.",
     "source": "Evangelje po Mateju, glava 7:1-2; Evangelje po Marku, glava 4:24; Evangelje po Luki, glava 6:37",
-    "wiki": "https://sh.wikipedia.org/wiki/Ne_sudite",
-    "_id": 347
+    "wiki": "https://sh.wikipedia.org/wiki/Ne_sudite"
   },
   {
     "sr": "Misao je vreme. Misao je rođena iz iskustva i znanja, neodvojivih od vremena i prošlosti.",
@@ -2713,11 +2717,12 @@
     "_id": 382
   },
   {
+    "_id": 383,
     "author": "Isus",
     "sr": "Kada dođoh, otvorih put i poučih putovanju njih, izabrane i samotne, koji znaju oca i imaju vere u istinu.",
-    "ms": "Kogda prijehah, odkryh put i naučih putovanju jih, izbrane i samotne, ktory znajut otca i imajut věry v istinu.",
+    "ms": "Kogda dojdeh, odkryh put i naučih putovanju jih, izbrane i samotne, ktory znajut otca i imajut věry v istinu.",
     "source": "Dijalog Spasitelja, 121",
-    "_id": 383
+    "wiki": ""
   },
   {
     "_id": 384,
@@ -2937,11 +2942,12 @@
     "_id": 415
   },
   {
+    "_id": 416,
     "author": "Isus",
-    "sr": "I ocem ne zovite nikoga na zemlji; \njer jedan je otac vaš na nebesima.",
-    "ms": "I otcem ne zovite nikogo na zemji; \njedin bo otec vaš, iže na nebesah.",
+    "sr": "Ocem ne zovite nikoga na zemlji; \njer jedan je otac vaš na nebesima.",
+    "ms": "Otcem ne zovite nikogo na zemji; \njedin bo otec vaš, iže na nebesah.",
     "source": "Evangelje po Mateju, glava 23:9",
-    "_id": 416
+    "wiki": ""
   },
   {
     "author": "Muhamed",
@@ -3346,11 +3352,12 @@
     "_id": 474
   },
   {
+    "_id": 475,
     "author": "Isus",
     "sr": "Ko ne zna kako nasta telo, s njim propada. \nKo ne zna koren stvari, one su mu skrite. \nKo ne zna koren zla, ono mu nije strano. \nKo ne zna kako je došao, ne zna kako otići, \ni nije mu stran svet koji bude ponižen.",
-    "ms": "Kto ne zna kak nastaše tělo, s jim propada. \nKto ne zna korenj stvari, one jemu skryte. \nKto ne zna korenj zla, ono ne mu stranno. \nKto ne zna kak doševši, ne zna kak odidti, \ni ne mu stranny svět koj bude poniženy.",
+    "ms": "Kto ne zna kak nasta tělo, s jim propada. \nKto ne zna korenj stvari, one mu skryte. \nKto ne zna korenj zla, ono ne mu stranno. \nKto ne zna kak šel, ne zna kak odidti, \ni ne mu stranny svět koj bude poniženy.",
     "source": "Dijalog Spasitelja, 134-135",
-    "_id": 475
+    "wiki": ""
   },
   {
     "author": "Muhamed",
@@ -3614,11 +3621,12 @@
     "wiki": ""
   },
   {
+    "_id": 516,
     "author": "Isus",
-    "sr": "Čuvajte to što vas može slediti, tražite i nađite, i govorite iz toga. A kada nađete, sve će biti u skladu sa vama. Jer, živi bog je u vama i vi u njemu.",
-    "ms": "Čuvajte to čto vas može slěditi, gledite i najdite, i govorite iz togo. A kogda najdete, vse bude soglasno so vami. Ibo, živi bog jest v vas i vy v jego.",
+    "sr": "Čuvajte što vas može slediti, tražite i nađite, i govorite iz toga. A kada nađete, sve će biti u skladu sa vama. Jer, živi bog je u vama i vi u njemu.",
+    "ms": "Čuvajte čto vas može slěditi, gledite i najdite, i govorite iz togo. A kogda najdete, vse bude soglasno so vami. Ibo, živi bog jest v vas i vy v jego.",
     "source": "Dijalog Spasitelja, 138",
-    "_id": 516
+    "wiki": ""
   },
   {
     "author": "Muhamed",
@@ -3713,11 +3721,12 @@
     "_id": 529
   },
   {
+    "_id": 530,
     "author": "Isus",
     "sr": "Ljubav i dobrota su početak puta.",
-    "ms": "Ljubov i dobrota početok puta.",
+    "ms": "Ljubov i dobrota sut početok puta.",
     "source": "Dijalog Spasitelja, 142-143",
-    "_id": 530
+    "wiki": ""
   },
   {
     "author": "Muhamed",
@@ -3851,12 +3860,12 @@
     "wiki": "https://sh.wikipedia.org/wiki/Molite_se_u_tajnosti"
   },
   {
+    "_id": 549,
     "author": "Isus",
-    "sr": "Ljubi gospoda boga tvoga svim srcem tvojim, \ni svom dušom tvojom i svom mišlju tvojom. \nI ljubi bližnjega tvoga kao samog sebe.",
-    "ms": "Vozljubi gospoda boga tvojego vsem srdcem tvojim, \ni vseju dušeju tvojeju i vseju myslju tvojeju. \nI vozljubi iskrennago tvojego kako sam sebe.",
+    "sr": "Ljubi gospoda boga tvoga svim srcem tvojim, i svom dušom tvojom i svom mišlju tvojom. \nI ljubi bližnjega tvoga kao sebe.",
+    "ms": "Vozljubi gospoda boga tvojego vsem srdcem tvojim, i vseju dušeju tvojeju i vseju myslju tvojeju. \nI vozljubi iskrennago tvojego kak sebe.",
     "source": "Evangelje po Mateju, 22:35-40; Evangelje po Luki, glava 10:27",
-    "wiki": "https://sh.wikipedia.org/wiki/Ljubi_bli%C5%BEnjeg_svog",
-    "_id": 549
+    "wiki": "https://sh.wikipedia.org/wiki/Ljubi_bli%C5%BEnjeg_svog"
   },
   {
     "author": "Muhamed",
@@ -4906,12 +4915,12 @@
     "_id": 696
   },
   {
+    "_id": 697,
     "author": "Isus",
-    "sr": "Svetlost priđe u svet, a ljudi zavoleše tamu više nego svetlo, jer dela njihova behu zla. Svaki delajući zlo, mrzi svetlo i ne ide na svetlo, da se ne obelodane njegova dela. A tvoreći istinu ide na svetlost, da se jave njegova dela, jer su u bogu učinjena.",
-    "ms": "Světlo dojde v svět, a vozljubihu ljudi bolje tmu, než světlo, běhu bo jih děla zla. Vsaky bo dělajuči zla nenavidi světla i ne prihodi k světlu, da ne izobličet se děla jego, ibo lukava sut. Tvoreči že istinu hodi k světlu, da javet se děla jego, ibo o bogu sut sodělana.",
+    "sr": "Svetlost priđe u svet, a ljudi zavoleše tamu više nego svetlo, jer dela njihova behu zla. Svaki delajući zlo, mrzi svetlo i ne prilazi mu, da ne obelodane se dela njegova. A tvoreći istinu ide na svetlost, da jave se dela njegova, jer su u bogu učinjena.",
+    "ms": "Světlo dojde v svět, a vozljubihu ljudi bolje tmu, než světlo, běhu bo jih děla zla. Vsaky dělajuči zla nenavidi světla i ne prihodi mu, da ne izobličet se děla jego. Tvoreči že istinu hodi k světlu, da javet se děla jego, ibo o bogu sut sdělana.",
     "source": "Evangelje po Jovanu, glava 3:20-21",
-    "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta",
-    "_id": 697
+    "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta"
   },
   {
     "author": "Lao Tzu",
@@ -5120,12 +5129,12 @@
     "_id": 725
   },
   {
-    "sr": "Ne dajte da vas obmanu govoreći: gledaj tu ili gledaj tamo! Jer, sin čovečji je u vama. Sledite ga! Ko traži, naći će ga.",
+    "_id": 726,
     "author": "Isus",
+    "sr": "Ne dajte da vas obmanu govoreći: gledaj tu ili gledaj tamo! Jer, čedo čovečje je u vama. Sledite ga! Ko traži, naći će ga.",
+    "ms": "Ne dajte da obmanut vas govoreči: smotri tu ili smotri tam! Ibo, čedo člověčje vo vas jest. Slědite go! Kto išče, bude najdti go.",
     "source": "Evangelje po Mariji",
-    "ms": "Ne dajte da obmanut vas govoreči: smotri tu ili smotri tam! Ibo, syn člověčji vo vas jest. Slědite go! Kto išče, bude najdti jego.",
-    "wiki": "https://sh.wikipedia.org/wiki/Carstvo_Bo%C5%BEje_je_u_vama",
-    "_id": 726
+    "wiki": "https://sh.wikipedia.org/wiki/Carstvo_Bo%C5%BEje_je_u_vama"
   },
   {
     "sr": "Fariseji i pisari uzeše ključeve znanja. \nSami ne ulaze, a hotećima ući zabraniše.",
@@ -5146,8 +5155,8 @@
   {
     "_id": 729,
     "author": "Isus",
-    "sr": "Starac će bez kolebanja pitati dijete od sedam dana o mjestu života, i on će živjeti. Jer mnogi prvi će biti posljednji, i svi će postati jedno.",
-    "ms": "Starec bez kolěbanja bude pytati děte od sedm dni ob městu života, i on bude žiti. Ibo mnogi prvi budut poslědnji, i vsi stanut jedno.",
+    "sr": "Starac će bez kolebanja pitati čedo od sedam dana o mjestu života, i on će živjeti.",
+    "ms": "Starec bez kolěbanja bude pytati čedo od sedm dni ob městu života, i on bude žiti.",
     "source": "Evangelje po Tomi, izreka 4",
     "wiki": ""
   },
@@ -5209,11 +5218,12 @@
     "_id": 737
   },
   {
-    "sr": "Dati ću vam što oko ne vidjelo, \nuho ne slušalo, ruka ne taknula, \ni što nije niklo u srcu čovečjem.",
+    "_id": 738,
     "author": "Isus",
+    "sr": "Ja dam vam što oko ne vidjelo, \nuho ne slušalo, ruka ne taknula, \ni što nije niklo u srcu čovečjem.",
+    "ms": "Ja dam vam čto oko ne vidělo, \nuho ne slyšalo, ruka ne tknula, \ni čto ne vozniknulo v srdcu člověčjem.",
     "source": "Evangelje po Tomi, izreka 17",
-    "ms": "Ja budu dati vam čto oko ne vidělo, \nuho ne slyšalo, ruka ne tknula, \ni čto ne vozniknulo v srdcu člověčjem.",
-    "_id": 738
+    "wiki": ""
   },
   {
     "sr": "Učenici rekoše Ješui: Reci nam, kakav će biti naš kraj?\nJešua odgovori: Otkriste li već početak, da sada tražite kraj? Jer gde je početak, tu će biti kraj. Blaženi koji stojite na početku. Vi ćete poznati kraj i nećete okusiti smrt.",
@@ -5253,8 +5263,8 @@
   {
     "_id": 744,
     "author": "Isus",
-    "sr": "Stojah u svijetu i pokazah se u tijelu. Nađoh ih sve pijane, nikog žednog. Duša me boli za decu ljudsku. Slijepi su i ne vide, da prazni dođoše na svijet i prazni će ga napustiti.",
-    "ms": "Stojah v světu i pokazah se v tělu. Najdeh jih vse pijane, nikogo žednogo. Duša moja boli dlja dětij ljudskyh. Slěpi sut i ne videt, že prazdni prijdehu na svět i prazdni go budu ostaviti.",
+    "sr": "Stojah u svijetu i javih se u tijelu. Nađoh ih sve pijane, nikog žednog. Slijepi su i ne vide, da prazni dođoše na svijet i prazni će ga napustiti.",
+    "ms": "Stojah v světu i javih se v tělu. Najdeh jih vse pijane, nikogo žednogo. Slěpi sut i ne videt, že prazdni prijdehu na svět i prazdni go budu ostaviti.",
     "source": "Evangelje po Tomi, izreka 28",
     "wiki": ""
   },
@@ -5274,12 +5284,12 @@
     "_id": 746
   },
   {
-    "sr": "Njegovi učenici rekoše: \nPokaži nam mjesto gdje jesi. Moramo te slijediti. \nJešua odgovori: \nTko ima uši, nek sluša. U čovjeku svjetlosti je svjetlo. On svijetli cijelom svijetu. Kada ne svijetli, tama je.",
+    "_id": 747,
     "author": "Isus",
+    "sr": "Njegovi učenici rekoše: \nPokaži nam mjesto gdje jesi. Moramo te slijediti. \nJešua odgovori: \nTko ima uši, da sluša. U čovjeku svjetlosti je svjetlo. On svijetli cijelom svijetu. Kada ne svijetli, tama je.",
+    "ms": "Jego učeniki rěčehu: \nUkaži nam město kde jesi. Moramo slěditi te.\nJešua odgovori: \nKto imaje uši, da slyši. V člověku světlosti světlo jest. On světli cělom světu. Kogda ne světli, tma jest.",
     "source": "Evangelje po Tomi, izreka 24",
-    "ms": "Jego učeniki rěčehu: \nUkaži nam město kde jesi. Moramo slěditi te.\nJešua odgovori: \nKto imaje uši, nehaj slyši. V člověku světlosti světlo jest. On světli cělom světu. Kogda ne světli, tma jest.",
-    "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta",
-    "_id": 747
+    "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta"
   },
   {
     "sr": "Ja ću vas izabrati, jednoga od tisuću i dvoje od deset tisuća. I bićete kao jedan jedini.",
@@ -5353,11 +5363,12 @@
     "_id": 757
   },
   {
-    "sr": "Učenici ga pitaše:\nJe li obrezanje korisno ili ne?\nJešua odgovori:\nAko bi bilo korisno, otac bi tvorio decu već obrezane iz matere. No, istinsko obrezanje u duhu je sasvim korisno.",
+    "_id": 758,
     "author": "Isus",
+    "sr": "Učenici ga pitaše:\nJe li obrezanje korisno ili ne?\nJešua odgovori:\nAko bi bilo korisno, otac bi tvorio decu već obrezane iz matere.",
+    "ms": "Učeniki pytahu jego:\nJest li obrězanje koristno ili ne?\nJešua odgovori:\nAko by bilo koristno, otec by tvoril děti uže obrězane iz matere.",
     "source": "Evangelje po Tomi, izreka 53",
-    "ms": "Učeniki pytahu jego:\nJest li obrězanje koristno ili ne?\nJešua odgovori:\nAko by bilo koristno, otec by tvoril děti uže obrězane iz matere. No, istinno obrězanje v duhu jest sovsěm koristno.",
-    "_id": 758
+    "wiki": ""
   },
   {
     "sr": "Tko ne mrzi svoga oca i svoju majku, ne može biti mojim učenikom. A tko ne mrzi svoju braću i sestre, i ne uzme na sebe križ kao ja, nije mene dostojan.",
@@ -5382,11 +5393,12 @@
     "_id": 761
   },
   {
-    "sr": "Ješua vide čoveka da nosi jagnje i reče učenicima:\nDokle jagnje živi, neće ga pojesti, no kada ga ubije i postane leš.\nOni odgovoriše:\nDrugačije ne može učiniti.\nOn produži:\nTako i vi. Tražite mesto mira, da ne postanete leš i budete pojedeni.",
+    "_id": 762,
     "author": "Isus",
+    "sr": "Ješua vide čoveka da nosi jagnje i reče učenicima:\nDokle jagnje živi, neće ga pojesti, no kada ga ubije i postane leš.\nOni odgovoriše:\nDrugačije ne može učiniti.\nOn produži:\nTako i vi. Tražite mesto mira, da ne postanete leš i budete pojedeni.",
+    "ms": "Ješua vidě člověka nosečego jagne i rěče učenikam:\nDokolě jagne živi, ne bude sjedeno, no samo kogda bude ubito i stane trup.\nOni odpovědahu:\nRazlično ne možno sdělati.\nOn prodolži:\nTako i vy. Iščite město mira, da ne stanete trup i budete sjedeni.",
     "source": "Evangelje po Tomi, izreka 60",
-    "ms": "Ješua vidě člověka nosečego jagne i rěče učenikam:\nDokolě jagne živi, ne bude sjedeno, no sam kogda bude ubito i stane trup.\nOni odpovědahu:\nRazlično ne možno sdělati.\nOn prodolži:\nTako i vy. Iščite město mira, da ne stanete trup i budete sjedeni.",
-    "_id": 762
+    "wiki": ""
   },
   {
     "sr": "Dvoje na jednoj postelji leže, \njedno će umrijeti, drugo živjeti.",
@@ -5396,19 +5408,20 @@
     "_id": 763
   },
   {
-    "sr": "Ja dolazim iz onog koji je celi. \nDane su mi stvari moga oca. \nI kažem, \nko je celi, biće ispunjen svetlom, \nno ko je podeljen, biće pun tame.",
+    "_id": 764,
     "author": "Isus",
+    "sr": "Ja dolazim iz njega koji je celi. \nDane su mi stvari moga oca. \nI kažem, \nko je celi, biće ispunjen svetlom, \nko je podeljen, biće pun tame.",
+    "ms": "Ja prihodžu iz jego iže cěly. \nMně dane věči mojego otca. \nI kažu, \nkto cěly, bude izpolneny světlom, \nkto razděljany, bude polny tmě.",
     "source": "Evangelje po Tomi, izreka 61",
-    "ms": "Ja prihodžu iz jego iže cěly. \nMně dane věči mojego otca. \nI kažu, \nkto cěly, bude izpolneny světlom, \nno kto razděljany, bude polny tmě.",
-    "_id": 764
+    "wiki": ""
   },
   {
-    "sr": "Šaloma: Dokle će smrt vladati?\nJešua: Dokle žene rađaju.\nŠaloma: Dakle, dobro učinih ne rodivši?\nJešua: Svaku biljku jedi, ali onu punu gorčine ne jedi.",
+    "_id": 765,
     "author": "Isus",
+    "sr": "Šaloma: Dokle će smrt vladati?\nJešua: Dokle žene rađaju.\nŠaloma: Dakle, dobro učinih ne rodivši?\nJešua: Svaku biljku jedi, ali tu punu gorčine ne jedi.",
+    "ms": "Šaloma: Dokolě smrt bude vladati?\nJešua: Dokolě žene radžajut.\nŠaloma: Dakle dobro učinih ne rodivši?\nJešua: Vsaku rastlinu jedaj, ale tu polnu gorkosti ne jedaj.",
     "source": "Grčko evangelje po Egipćanima",
-    "ms": "Šaloma: Dokolě smrt bude vladati?\nJešua: Dokolě žene radžajut.\nŠaloma: Dakle dobro učinih ne rodivši?\nJešua: Vsaku rastlinu jedaj, ale onu polnu gorkosti ne jedaj.",
-    "wiki": "https://sh.wikipedia.org/wiki/Saloma_(u%C4%8Denica)",
-    "_id": 765
+    "wiki": "https://sh.wikipedia.org/wiki/Saloma_(u%C4%8Denica)"
   },
   {
     "sr": "Saloma upita:\nKada će to što te pitamo biti nam znano?\nJešua rěče:\nKada zgazite odeću stida, i kada dva postanu jedno, a muško i žensko ni muško ni žensko.",
@@ -5585,18 +5598,18 @@
     "_id": 789
   },
   {
-    "sr": "Carstvo oca je poput žene koja uzme malo kvasca, stavi ga u testo, i zamesi velike vekne hleba. Ko ima uši neka sluša.",
+    "_id": 790,
     "author": "Isus",
+    "sr": "Carstvo oca je poput žene koja uzme malo kvasca, stavi ga u testo, i zamesi velike hlebove. Ko ima uši neka sluša.",
+    "ms": "Carstvo otca podobno ženi koja vozme malo kvasa, stavi go v těsto, i vměsi velike hlěbov. Kto imaje uši nehaj slyši.",
     "source": "Evangelje po Tomi, izreka 96",
-    "ms": "Carstvo otca podobno ženi koja vozme malo kvasa, stavi go v těsto, i vměsi velike bohanky hlěba. Kto imaje uši nehaj slyši.",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_kvascu",
-    "_id": 790
+    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_kvascu"
   },
   {
     "_id": 791,
     "author": "Isus",
-    "sr": "Carstvo oca je poput žene koja nosi posudu punu brašna. Dok je hodila dalekim putem, drška posude slomi se i brašno poče curiti. Ona nije primetila to. Koda je došla doma, položi vrč i nađe ga praznim.",
-    "ms": "Carstvo otca podobaje ženi koja nosi posudu polnu brašna. Dokolě hodila dalekym putom, držka posudy slomi se i brašno počne razlivati se. Ona ne primětila to. Kogda došla doma, položi vrč i najde go prazdnym.",
+    "sr": "Carstvo oca je poput žene koja nosi posudu punu brašna. Dok je hodila dalekim putem, drška posude slomi se i brašno poče curiti. Ona ne primeti to. Koda je došla doma, položi vrč i nađe ga praznim.",
+    "ms": "Carstvo otca podobaje ženi koja nosi posudu polnu brašna. Dokolě hodila dalekym putom, držka posudy slomi se i brašno počne razlivati se. Ona ne priměti to. Kogda došla doma, položi vrč i najde go prazdnym.",
     "source": "Evangelje po Tomi, izreka 97",
     "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_praznom_vr%C4%8Du"
   },
@@ -5609,12 +5622,12 @@
     "_id": 792
   },
   {
-    "sr": "Pitaše Ješuu: Carevi ljudi ištu danak od nas. Da damo im ili ne damo?\nJešua reče: Pokažite mi novčić. Čiji ima lik i nadpis?\nOni odgovoriše: Carev.\nOn im reče: Dajte carevo caru i božje bogu. A što je moje, dajte meni.",
+    "_id": 793,
     "author": "Isus",
+    "sr": "Pitaše ga: Carevi ljudi ištu danak od nas. Da damo im ili ne damo?\nJešua reče: Pokažite mi novčić. Čiji ima lik i nadpis?\nOni odgovoriše: Carev.\nOn im reče: Dajte carevo caru i božje bogu. A što je moje, ostavite meni.",
+    "ms": "Pytahu go: Carevi ljudi išču danok od nas. Da damo jim ili ne damo?\nJešua rěče: Pokažite mi pěnez. Čij imaje obraz i nadpis?\nOni odpovědahu: Carev.\nOn že rěče: Dajte carevo caru i božje bogu. A čto moje, ostavite mně.",
     "source": "Evangelje po Tomi, izreka 100; Evangelje po Mateju, 22:15-22; Evangelje po Marku, 12:13-17; Evangelje po Luki, 20:20-26",
-    "ms": "Pytahu Ješuu: Carevi ljudi išču danok od nas. Da damo jim ili ne damo?\nJešua rěče: Pokažite mi pěnez. Čij imaje obraz i nadpis?\nOni odpovědahu: Carev.\nOn že rěče: Dajte carevo caru i božje bogu. A čto moje, dajte mně.",
-    "wiki": "https://sh.wikipedia.org/wiki/Dajte_caru_carevo",
-    "_id": 793
+    "wiki": "https://sh.wikipedia.org/wiki/Dajte_caru_carevo"
   },
   {
     "_id": 794,
@@ -5633,11 +5646,12 @@
     "_id": 795
   },
   {
-    "sr": "Njegovi učeniki rekoše:\nDođi danas da molimo i postimo.\nJešua reče:\nKoji greh počinih ili šta skrivih? Kada mladoženja napusti svadbenu odaju, tada neka ljudi mole i poste.",
+    "_id": 796,
     "author": "Isus",
+    "sr": "Njegovi učeniki rekoše:\nDođi da molimo i postimo.\nJešua reče:\nKoji greh počinih ili šta skrivih? Kada mladoženja napusti svadbenu odaju, tada neka ljudi mole i poste.",
+    "ms": "Jego učeniki rěčehu:\nDojdi da molimo i postimo.\nJešua rěče:\nKoj grěh učinih ili čto skrivih? Kogda mladoženih ostavi svatbenu izbu, togda nehaj ljudi molet i postet.",
     "source": "Evangelje po Tomi, izreka 104",
-    "ms": "Jego učeniki rěčehu:\nDojdi dnes da molimo i postimo.\nJešua rěče:\nKoj grěh učinih ili čto skrivih? Kogda mladoženih ostavi svatbenu izbu, togda nehaj ljudi molet i postet.",
-    "_id": 796
+    "wiki": ""
   },
   {
     "sr": "Kada dvoje učinite jednim, \nbićete deca ljudska. \nI kada kažete gori pomeri se, \nona će se pomeriti.",
@@ -5654,12 +5668,12 @@
     "_id": 798
   },
   {
-    "sr": "Carstvo je nalik čoveku koji imaše blago skriveno u njivi, ne znajuči. On ostavi njivu sinu. Sin proda njivu, a kupac poče orati i nađe blago.",
+    "_id": 799,
     "author": "Isus",
+    "sr": "Carstvo je nalik čoveku koji imaše blago skriveno u njivi, ne znajuči. On ostavi njivu sinu. Sin proda njivu, a kupac poče orati i nađe blago.",
+    "ms": "Carstvo podobno člověku imavšem blago skryto v nivě, ne znavši. On ostavi nivu synu. Syn proda nivu, a kupec počne orati i najde blago.",
     "source": "Evangelje po Tomi, izreka 109",
-    "ms": "Carstvo jest podobno člověku imavšem blago skryto v nivě, ne znavši. On ostavi nivu synu. Syn proda nivu, a kupec počne orati i najde blago.",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_skrivenom_blagu",
-    "_id": 799
+    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_skrivenom_blagu"
   },
   {
     "sr": "Tko nađe sebe, svijet ga nije dostojan.",
@@ -5676,17 +5690,18 @@
     "_id": 801
   },
   {
-    "sr": "Učenici ga pitaše: \nKada će nastupiti carstvo?\nJešua odgovori: \nNeće nastupiti jer ga čekate. Niko neće obznaniti: \"Gle, tu je\" ili \"Gle, tamo je\". Jer, carstvo oca rasprostire se po zemlji ali ljudi ga ne vide.",
+    "_id": 802,
     "author": "Isus",
+    "sr": "Učenici ga pitaše: \nKada će nastupiti carstvo?\nJešua odgovori: \nNeće nastupiti jer ga čekate. Niko neće obznaniti: Gle, tu je, ili gle, tamo je. Jer, carstvo oca rasprostire se po zemlji ali ljudi ga ne vide.",
+    "ms": "Učeniki go pytahu:\nKogda bude nastupiti carstvo?\nJešua odgovori:\nNe bude nastupiti ibo čekajete go. Nikto ne bude oznaniti: Uzri, tu jest, ili uzri, tam jest. Ibo, carstvo otca razprostranja se po zemji ale ljudi ne videt go.",
     "source": "Evangelje po Tomi, izreka 113",
-    "ms": "Učeniki go pytahu:\nKogda bude nastupiti carstvo?\nJešua odgovori:\nNe bude nastupiti ibo čekajete go. Nikto ne bude oznaniti: \"Uzri, tu jest\" ili \"Uzri, tam jest\". Ibo, carstvo otca razprostranja se po zemji ale ljudi ne videt go.",
-    "_id": 802
+    "wiki": ""
   },
   {
     "_id": 803,
     "author": "Isus",
-    "sr": "Kada od dva načinite jedno, da unutarnje bude kao vanjsko i vanjsko kao unutarnje i gornje kao donje, i načinite od muškog i ženskog jedno, da muško nije muško a žensko nije žensko, i načinite oko umjesto oka, ruku umjesto ruke, stopalo umjesto stopala, sliku umjesto slike, tada ćete ući u carstvo.",
-    "ms": "Kogda od dva sotvorite jedno, da vnutrišnje bude kak vněšnje i vněšnje kak vnutrišnje i gorno kak dolno, i sotvorite od mužskogo i ženskogo jedno, da mužsko ne mužsko a žensko ne žensko, i sotvorite oko vměsto oka, ruku vměsto ruky, nogu vměsto nogy, obraz vměsto obraza, togda vojdete v carstvo.",
+    "sr": "Kada od dva načinite jedno, da unutarnje bude kao vanjsko i vanjsko kao unutarnje i gornje kao donje, i načinite od muškog i ženskog jedno, da muško nije muško, a žensko nije žensko, i načinite oko umjesto oka, ruku umjesto ruke, stopalo umjesto stopala, sliku umjesto slike, tada ćete ući u carstvo.",
+    "ms": "Kogda od dva sotvorite jedno, da vnutrišnje bude kak vněšnje i vněšnje kak vnutrišnje i gorno kak dolno, i sotvorite od mužskogo i ženskogo jedno, da mužsko ne mužsko, a žensko ne žensko, i sotvorite oko vměsto oka, ruku vměsto ruky, nogu vměsto nogy, obraz vměsto obraza, togda vojdete v carstvo.",
     "source": "Evangelje po Tomi, izreka 22",
     "wiki": "https://sh.wikipedia.org/wiki/Budite_poput_dece"
   },
@@ -5707,11 +5722,12 @@
     "_id": 805
   },
   {
+    "_id": 806,
     "author": "Isus",
     "sr": "Breme koje nosiš nije tvoje.",
-    "ms": "Brěme koje nosiš nest tvoje.",
+    "ms": "Brěme koje nosiš ne tvoje.",
     "source": "Tumačenje znanja",
-    "_id": 806
+    "wiki": ""
   },
   {
     "author": "Gautama Buddha",
@@ -5730,12 +5746,12 @@
     "_id": 808
   },
   {
+    "_id": 809,
     "author": "Isus",
-    "sr": "Dovedoše ženu i rekoše mu:\nOna je uhvaćena u preljubi. Mojsije nam je naredio takve kamenovati. Šta ti kažeš?\nJešua reče:\nKo je bez greha, neka prvi baci kamen na nju.",
-    "ms": "Privedoše ženu i rěčehu jemu:\nOna jata v preljubodějanju. Mojsej nam povele takovu kamenjem pobyvati. Ty čto glagoljaš?\nJešua rěče:\nKto jest bez grěha, da prvy vrgne kamenj na ju.",
+    "sr": "Dovedoše ženu i rekoše mu:\nOna je uhvaćena u preljubi. Moše nam je naredio takve kamenovati. Šta ti kažeš?\nJešua reče:\nKo je bez greha, neka prvi baci kamen na nju.",
+    "ms": "Privedoše ženu i rěčehu mu:\nOna jata v preljubodějanju. Moše nam povele takovu kamenjem pobyvati. Ty čto glagoljaš?\nJešua rěče:\nKto bez grěha, da prvy vrgne kamenj na ju.",
     "source": "Evangelje po Jovanu, 8:3-7",
-    "wiki": "https://sh.wikipedia.org/wiki/Isus_i_preljubnica",
-    "_id": 809
+    "wiki": "https://sh.wikipedia.org/wiki/Isus_i_preljubnica"
   },
   {
     "author": "Isus",
@@ -5785,26 +5801,26 @@
   {
     "_id": 816,
     "author": "Isus",
-    "sr": "Ako zrno pšenično padnuvši na zemlju ne umre, ostaje jedno; ako li umre, plod mnogi stvori. Ljubeći svoj život, izgubiće ga, a mrzeći svoj život na ovome svijetu, sačuvaće ga za život vječni.",
-    "ms": "Ako zrno pšenično padši na zemju ne umre, ostava jedino; ako že umre, mnogy plod sotvori. Ljubeči dušu, svoju pogubi ju, i nenavideči dušu svoju v sej světu, za život věčny sohrani ju.",
+    "sr": "Ako zrno pšenično pavši na zemlju ne umre, ostaje jedno, ako umre, plod mnogi stvori. Ljubeći svoj život, izgubi ga, a mrzeći svoj život na ovome svijetu, sačuva ga za život vječni.",
+    "ms": "Ako zrno pšenično padši na zemju ne umre, ostava jedno, ako umre, mnogy plod sotvori. Ljubeči dušu svoju, pogubi ju, i nenavideči dušu svoju v sej světu, za život věčny sohrani ju.",
     "source": "Evangelje po Jovanu, 12:24-25",
     "wiki": "https://sh.wikipedia.org/wiki/Ko_%C4%8Duva_%C5%BEivot_izgubi%C4%87e_ga"
   },
   {
+    "_id": 817,
     "author": "Isus",
-    "sr": "Ne bojte se onih koji ubijaju telo, \ni više ništa ne mogu učiniti. \nNo bojte se tog koji ima vlast \ni dušu i telo pogubiti u paklu.",
-    "ms": "Ne bojte se od ubivajučih tělo \ni potom ne mogučih liše čto sotvoriti. \nNo bojte se imajučego vlast \ni dušu i tělo pogubiti v peklu.",
+    "sr": "Ne bojte se onih koji ubijaju telo, \ni više ništa ne mogu učiniti. \nBojte se tog koji ima vlast \ni dušu i telo pogubiti u paklu.",
+    "ms": "Ne bojte se od ubivajučih tělo \ni potom ne mogučih liše čto sotvoriti. \nBojte se imajučego vlast \ni dušu i tělo pogubiti v peklu.",
     "source": "Evangelje po Mateju, 10:28; Evangelje po Luki, 12:4-5",
-    "wiki": "https://sh.wikipedia.org/wiki/%D0%9D%D0%B5_%D0%B1%D0%BE%D1%98%D1%82%D0%B5_%D1%81%D0%B5_%D0%BE%D0%B4_%D0%BE%D0%BD%D0%B8%D1%85_%D0%BA%D0%BE%D1%98%D0%B8_%D1%83%D0%B1%D0%B8%D1%98%D0%B0%D1%98%D1%83_%D1%82%D0%B5%D0%BB%D0%BE",
-    "_id": 817
+    "wiki": "https://sh.wikipedia.org/wiki/%D0%9D%D0%B5_%D0%B1%D0%BE%D1%98%D1%82%D0%B5_%D1%81%D0%B5_%D0%BE%D0%B4_%D0%BE%D0%BD%D0%B8%D1%85_%D0%BA%D0%BE%D1%98%D0%B8_%D1%83%D0%B1%D0%B8%D1%98%D0%B0%D1%98%D1%83_%D1%82%D0%B5%D0%BB%D0%BE"
   },
   {
+    "_id": 818,
     "author": "Isus",
-    "sr": "I za odeću što se brinete? Pogledajte ljiljane kako rastu; ne trude se niti predu, a ni Solomon u svoj slavi svojoj ne obuče se kao jedan od njih. Ako seno poljsko, koje danas jeste a sutra u peć mećemo, bog tako odeva, neće li mnogo više vas maloverni?",
-    "ms": "I o oděži čto pečete se? Smotrite cvěty poljnyh kako rastut: ne trudet se, ni tkajut, a ni Šalomon vo vsej slavě svojej ne oblěče se kak jedin od jih. Ako že sěno poljne, dnes suče i utre v peč metamo, bog tako oděva, ne mnogo li bolje vas, malověrny?",
+    "sr": "Za odeću što se brinete? Pogledajte ljiljane kako rastu; ne trude se niti predu, a ni Solomon u svoj slavi ne obuče se kao jedan od njih. Ako seno poljsko, koje danas jeste a sutra u peć mećemo, bog tako odeva, neće li mnogo više vas maloverni?",
+    "ms": "O oděži čto pečete se? Smotrite cvěty poljnyh kako rastut: ne trudet se, ni tkajut, a ni Šalomon vo vsej slavě ne oblěče se kak jedin od jih. Ako že sěno poljne, dnes suče i utre v peč metamo, bog tako oděva, ne mnogo li bolje vas, malověrny?",
     "source": "Evangelje po Mateju, glava 6:25-34; Evangelje po Tomi, izreka 36",
-    "wiki": "https://sh.wikipedia.org/wiki/Ne_brinite_se_za_%C5%BEivot",
-    "_id": 818
+    "wiki": "https://sh.wikipedia.org/wiki/Ne_brinite_se_za_%C5%BEivot"
   },
   {
     "author": "Isus",
@@ -5895,12 +5911,12 @@
     "_id": 829
   },
   {
+    "_id": 830,
     "author": "Isus",
-    "sr": "Čemu čistite izvana čašu, a iznutra ste puni grabeži i zlobe? Nije li isti stvorio unutrašnje i vanjsko? Očisti najpre čašu iznutra da i izvana bude čista.",
-    "ms": "Čemu očiščajete vněšnje steklěnicy, vnutri že jeste polni grabjenja i lukavstva? Ne iže li sotvori vněšnje i vnutrišnje sotvoril jest? Očisti predže vnutri steklěnicy da bude i vněšnje čisto.",
+    "sr": "Čemu čistite izvana čašu, a iznutra ste puni grabeži i zlobe? Nije li isti stvorio unutrašnje i vanjsko? Očisti najpre iznutra da i izvana bude čisto.",
+    "ms": "Čemu očiščajete vněšnje steklěnicy, vnutri že jeste polni grabjenja i lukavstva? Ne iže li sotvori vněšnje i vnutrišnje sotvoril jest? Očisti predže vnutri da bude i vněšnje čisto.",
     "source": "Evangelje po Mateju 23:25-26; Evangelje po Tomi, izreka 89; Evangelje po Luki 11:39-41",
-    "wiki": "https://sh.wikipedia.org/wiki/Te%C5%A1ko_vama_licemeri",
-    "_id": 830
+    "wiki": "https://sh.wikipedia.org/wiki/Te%C5%A1ko_vama_licemeri"
   },
   {
     "author": "Isus",
@@ -5911,12 +5927,12 @@
     "_id": 831
   },
   {
+    "_id": 832,
     "author": "Isus",
-    "sr": "Čuvajte se licemera koji idu u dugačkim haljinama, traže začelje na gozbama, prva mesta po saborima, da im se ljudi klanjaju po ulicama i da ih zovu: učitelju!",
-    "ms": "Čuvajte se od liceměra, hodečih vo dolgyh odeždah i ljubečih prědnja sědališča na večerah, prědsědanja na sborah, cělovanja na ulicah, i zvati se od ljudi: učitelju!",
+    "sr": "Čuvajte se licemera hodećih u dugim odeždama i ljubećih čelna mesta na gozbama, predsedanja na saborima, celovanja na ulicama i da ih ljudi zovu: učitelju!",
+    "ms": "Čuvajte se od liceměra, hodečih vo dolgyh odeždah i ljubečih čelna sědališča na večerah, prědsědanja na sborah, cělovanja na ulicah, i zvati se od ljudi: učitelju!",
     "source": "Evangelje po Mateju 23:5-7; Evangelje po Marku 12:38-40; Evangelje po Luki 20:46-47",
-    "wiki": "https://sh.wikipedia.org/wiki/Te%C5%A1ko_vama_licemeri",
-    "_id": 832
+    "wiki": "https://sh.wikipedia.org/wiki/Te%C5%A1ko_vama_licemeri"
   },
   {
     "author": "Isus",
@@ -5942,12 +5958,12 @@
     "_id": 836
   },
   {
+    "_id": 837,
     "author": "Isus",
-    "sr": "Ko će od vas svom detetu, kada zatraži hleba, dati kamen? Ili kada zatraži ribu, dati zmiju? Ako dakle vi, budući zli, znate dobre stvari darovati deci, koliko će više otac vaš nebeski dati dobra onima koji ga mole.",
-    "ms": "Kto jest od vas člověk, jegože ako poprosi syn jego hlěba, da kamenj poda jemu? Ili ako ryby prosi, da zmiju poda jemu? Ako ubo vy, lukavi jeste, umějete davanja blaga davati čadom vašim, koliko vyše otec vaš nebesny da blaga prosečim u jego.",
+    "sr": "Ko od vas čovek, ako zaprosi dete hleba, kamen da njemu? Ili ako ribu prosi, zmiju da njemu? Ako vi, lukavi jeste, umete davanja blaga davati deci vašoj, koliko više otac nebeski da prosećima.",
+    "ms": "Kto od vas člověk, ako poprosi čedo hlěba, kamenj poda jemu? Ili ako ryby prosi, zmiju poda jemu? Ako vy, lukavi jeste, umějete davanja blaga davati čadom vašim, koliko vyše otec nebesny da prosečim.",
     "source": "Evangelje po Mateju, glava 7:9-11",
-    "wiki": "https://sh.wikipedia.org/wiki/Tra%C5%BEi_i_kucaj",
-    "_id": 837
+    "wiki": "https://sh.wikipedia.org/wiki/Tra%C5%BEi_i_kucaj"
   },
   {
     "author": "Isus",
@@ -5958,20 +5974,20 @@
     "_id": 838
   },
   {
+    "_id": 839,
     "author": "Isus",
     "sr": "Čuvajte se svakog lakomstva, jer život nije u obilju imanja.",
-    "ms": "Čuvajte se od vsakogo lakomstva, ibo ne v obilju iměnja život jest.",
+    "ms": "Čuvajte se vsakogo lakomstva, ibo ne v obilju iměnja život jest.",
     "source": "Evangelje po Luki, 12:15",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_bogatoj_budali",
-    "_id": 839
+    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_bogatoj_budali"
   },
   {
+    "_id": 840,
     "author": "Isus",
-    "sr": "Bogatom čoveku rodi njiva. I mišljaše: šta činiti, jer nemam gde sabrati letinu? I pomisli: Srušiću žitnice, sazidati veće i tu sabrati žito. A onda ću odmarati, jesti, piti i uživati. A bog mu reče: bezumni, noćas uzimam dušu od tebe, čije je to što si pripremio?",
-    "ms": "Člověku bogatu rodi niva. I mysliše: čto tvoriti, ibo ne imaju kde sobrati plody? I rěče: budu razoriti žitnicy moja, i boljša sozdaju, i sberu tu vsa žita i blaga; i poslě počivaju, jedaju, piju, veselju se. Rěče že jemu bog: bezumny, v su noč dušu vozmu od tebe, a iže ugotovi, komu bude?",
+    "sr": "Bogatom čoveku rodi njiva. I mišljaše: šta da činim, jer nemam gde sabrati letinu? I pomisli: Srušiću žitnice, sazidati veće i tu sabrati žito. A onda ću odmarati, jesti, piti i uživati. A bog mu reče: bezumni, noćas uzimam dušu od tebe, čije je to što si pripremio?",
+    "ms": "Člověku bogatu rodi niva. I mysliše: čto tvorju, ibo ne imaju kde sobrati plody? I rěče: budu razoriti žitnicy moja, i boljša sozdaju, i sberu tu vsa žita i blaga; i poslě počivaju, jedaju, piju, veselju se. Rěče že jemu bog: bezumny, v su noč dušu vozmu od tebe, a iže ugotovi, komu bude?",
     "source": "Evangelje po Luki, 12:16-20",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_bogatoj_budali",
-    "_id": 840
+    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_bogatoj_budali"
   },
   {
     "author": "Isus",
@@ -5990,12 +6006,12 @@
     "_id": 842
   },
   {
+    "_id": 843,
     "author": "Isus",
-    "sr": "Jedan čovek reče sinovima: Idite raditi u vinogradu! Prvi odgovori da neće, a posle se pokaja i otide. Drugi odgovori da hoće, i ne otide. Koji od njih dvojice ispuni očevu volju?",
-    "ms": "Člověk někoj imaše dva syna, i prvomu rěče: idi dělaj v vinograde. On otvěšča: ne hoču; poslě razkaja se i odide. I drugomu rěče takože. On otvěšča: da, gospodi, i ne odide. Koj od oboju sotvori volju otca?",
+    "sr": "Neki čovek imaše dva sina i reče im: Idite raditi u vinogradu. Prvi odgovori: neću, a posle se pokaja i otide. Drugi odgovori: da gospodaru, i ne otide. Koji od njih dvojice ispuni očevu volju?",
+    "ms": "Člověk někoj imaše dva syna, i rěče jim: Idite dělajte v vinograde. Prvy otvěšča: ne hoču; poslě razkaja se i odide. Drugi otvěšča: da, gospodi, i ne odide. Koj od oboju sotvori volju otca?",
     "source": "Evangelje po Mateju, 21:28–32",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_dva_sina",
-    "_id": 843
+    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_dva_sina"
   },
   {
     "_id": 844,
@@ -6054,12 +6070,12 @@
     "_id": 850
   },
   {
+    "_id": 851,
     "author": "Isus",
     "sr": "Carstvo božje je kao čovek metnuvši seme u zemlju. I spi i ustaje, i seme niče i raste, da on ne zna. Jer zemlja od sebe rodi travu, pa klas, pa pšenicu u klasu. A kad sazri rod, on posla srp i nasta žetva.",
-    "ms": "Tako jest carstvo božje, kak člověk vmetavši sěme v zemju. I spi, i vstavaje i sěme prozabaje i raste, da ne věst on. Od sebe bo zemja plodi prědže travu, potom klas, potom izpolnjaje pšenicu v klase. Kogda že sozrěje plod, on posla srp i nasta žetva.",
+    "ms": "Tak carstvo božje, kak člověk vmetavši sěme v zemju. I spi, i vstavaje i sěme prozabaje i raste, da ne věst on. Od sebe bo zemja plodi prědže travu, potom klas, potom izpolnjaje pšenicu v klase. Kogda že sozrěje plod, on posla srp i nasta žetva.",
     "source": "Evangelje po Marku, 4:26-29",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_rastu_semena",
-    "_id": 851
+    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_rastu_semena"
   },
   {
     "author": "Isus",
@@ -6163,11 +6179,12 @@
     "_id": 864
   },
   {
+    "_id": 865,
     "author": "Isus",
-    "sr": "Blažen ko jeste pre nego postade. \nJer on jeste, beše i bude.",
-    "ms": "Blaženy koj jest prědže no stavaše. \nIbo iže jest, bě i bude.",
+    "sr": "Blažen ko jest prije no postade. \nJer on jest, beše i bude.",
+    "ms": "Blaženy kto jest prědže no stavaše. \nIbo iže jest, bě i bude.",
     "source": "Evangelje po Filipu",
-    "_id": 865
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6184,12 +6201,12 @@
     "_id": 867
   },
   {
+    "_id": 868,
     "author": "Isus",
-    "sr": "Ovi maleni koje doje su poput onih koji ulaze u kraljevstvo.",
-    "ms": "Ova dojena dětinča podobna sut vhodečim v kraljevstvo.",
+    "sr": "Ova dojenčad sliči ulazećim u kraljevstvo.",
+    "ms": "Ti dojeni podobajut vhodečim v kraljevstvo.",
     "source": "Evangelje po Tomi, izreka 22",
-    "wiki": "https://sh.wikipedia.org/wiki/Budite_poput_dece",
-    "_id": 868
+    "wiki": "https://sh.wikipedia.org/wiki/Budite_poput_dece"
   },
   {
     "author": "Isus",
@@ -6207,12 +6224,12 @@
     "_id": 870
   },
   {
+    "_id": 871,
     "author": "Isus",
-    "sr": "Govorim vam ovo da biste sebe poznali. Carstvo nebesko je poput klasja u polju. Kada sazri, raspe sjeme okolo, i čini da zemlja rodi i dogodine. Tako i vi, požurite u sebi požnjeti klas života, da se ispunite carstvom!",
-    "ms": "Govorim vam ovo da by sebe poznali. Carstvo nebesno podobaje klasju v polju. Kogda dozrě, razsypa sěme okolo, i čini da zemja rodi i slědny god. Tako i vy, spěšite v sobě požeti klas života, da izpolnite se carstvom!",
+    "sr": "Govorim vam ovo da biste sebe poznali. Carstvo nebesko je poput klasja u polju. Kada sazri, raspe sjeme okolo, da zemlja rodi i dogodine. Tako i vi, požurite u sebi požnjeti klas života, da se ispunite carstvom!",
+    "ms": "Govorim vam ovo da by sebe poznali. Carstvo nebesno podobaje klasju v polju. Kogda dozrě, razsypa sěme okolo, da zemja rodi i slědny god. Tako i vy, spěšite v sobě požeti klas života, da izpolnite se carstvom!",
     "source": "Tajna knjiga Jakovljeva",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_%C5%BEitnom_klasu",
-    "_id": 871
+    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_%C5%BEitnom_klasu"
   },
   {
     "author": "Isus",
@@ -6400,18 +6417,20 @@
     "_id": 896
   },
   {
+    "_id": 897,
     "author": "Isus",
-    "sr": "Dobro tvoriti dobrotvorećim tebi nije vrlina. \nTo je vraćanje usluge. \nDobro tvoriti zlotvorećim tebi vrlina jest.",
-    "ms": "Dobro tvoriti dobrotvorečim tobě ne čestnost. \nTo vračanje uslugy. \nDobro tvoriti zlotvorečim tobě čestnost jest.",
+    "sr": "Dobro tvoriti dobrotvorećim tebi nije vrlina. To je vraćanje usluge. Dobro tvoriti zlotvorećim tebi vrlina jest.",
+    "ms": "Dobro tvoriti dobrotvorečim tobě ne čestnost. To vračanje uslugy. Dobro tvoriti zlotvorečim tobě čestnost jest.",
     "source": "Hamza Yusuf, Walk on Water: The Wisdom of Jesus from Traditional Arabic Sources",
-    "_id": 897
+    "wiki": ""
   },
   {
+    "_id": 898,
     "author": "Isus",
-    "sr": "Kada postite, ne budite kao licemeri: pomračuju lica svoja, da jave se ljudima posteći. Kažem vam, primiše nagradu svoju. Ti kada postiš namaži glavu i lice umij, da ne javiš se ljudima posteći no ocu tvojemu. I otac tvoj, videći tajno, daće tebi javno.",
-    "ms": "Kogda postite, ne budite kak liceměri: pomračet lica svoja, da javet se člověkom posteči. Glagolju vam, že prijehu mzdu svoju. Ty kogda postiš pomaži glavu i lice umyj, da ne javiš se člověkom posteči no otcu tvojemu. I otec tvoj, viděvši v tajne, vozda tebe javě.",
+    "sr": "Kada postite, ne budite kao licemeri: pomračuju lica svoja, da jave se ljudima posteći. Kažem vam, primiše nagradu svoju. Ti kada postiš namaži glavu i lice umij, da ne javiš se ljudima no ocu tvojemu. I otac tvoj, videći tajno, daće tebi javno.",
+    "ms": "Kogda postite, ne budite kak liceměri: pomračet lica svoja, da javet se člověkom posteči. Glagolju vam, prijehu mzdu svoju. Ty kogda postiš pomaži glavu i lice umyj, da ne javiš se člověkom no otcu tvojemu. I otec tvoj, viděvši v tajne, vozda tebe javě.",
     "source": "Evangelje po Mateju 6:16-18",
-    "_id": 898
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6428,18 +6447,20 @@
     "_id": 900
   },
   {
+    "_id": 901,
     "author": "Isus",
     "sr": "Blažen je ko razapne svet i ne dozvoli svetu da ga razapne.",
-    "ms": "Blaženy kto razpne svět i ne dozvoli světu razpeti go.",
+    "ms": "Blaženy kto razpne svět i ne dozvoli světu razpeti jego.",
     "source": "The First Book of Ieou",
-    "_id": 901
+    "wiki": ""
   },
   {
+    "_id": 902,
     "author": "Isus",
-    "sr": "Šimon Stena im reče: Neka Marjam ode od nas, žene nedostojne života su.\nJešua reče: Ja učinim nju muškim, da može biti živi duh kao vi. Jer svaka žena postavši muškim uđe u carstvo nebesko.",
-    "ms": "Šimon Kamenj rěče jim: Nehaj Marjam odide od nas, žene nedostojne života sut.\nJešua rěče: Ja učinim ju mužskym, da može byti živy duh kak vy. Vsaka bo žena stavavši mužskym vojdte v carstvo nebesno.",
+    "sr": "Šimon Stena im reče: Neka Marjam ode od nas, žene nedostojne života su.\nJešua reče: Ja učinih nju muškim, da bude živi duh kao vi. Jer svaka žena postavši muškim uđe u carstvo nebesko.",
+    "ms": "Šimon Kamenj rěče jim: Nehaj Marjam odide od nas, žene nedostojne života sut.\nJešua rěče: Ja učinih ju mužskym, da bude živy duh kak vy. Vsaka bo žena stavavši mužskym vojde v carstvo nebesno.",
     "source": "Evangelje po Tomi, izreka 114",
-    "_id": 902
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6604,12 +6625,12 @@
     "_id": 925
   },
   {
+    "_id": 926,
     "author": "Isus",
-    "sr": "Učenjaci licemeri nalik su steni paloj u ušće reke. Ne pije vodu, ni dopušta da voda teče u polje.",
-    "ms": "Učeni liceměri podobni sut kamenju padšem v ustje rěky. Ne pije vodu, ni dopušča da voda teče v polje.",
+    "sr": "Učeni licemeri nalik su steni paloj u ušće reke. Ne pije vodu, ni dopušta vodi teći u polje.",
+    "ms": "Učeni liceměri podobni kamenju padšem v ustje rěky. Ne pije vodu, ni dopušča vodě tekti v polje.",
     "source": "James Robson, Christ in Islam (A. 5, M. 10.)",
-    "wiki": "https://sh.wikipedia.org/wiki/Te%C5%A1ko_vama_licemeri",
-    "_id": 926
+    "wiki": "https://sh.wikipedia.org/wiki/Te%C5%A1ko_vama_licemeri"
   },
   {
     "author": "Makarije Egipatski",
@@ -6648,11 +6669,12 @@
     "_id": 931
   },
   {
+    "_id": 932,
     "author": "Isus",
     "sr": "Ješua reče učenicima: Što biste učinili da vidite usnulog brata kome vetar oduva plašt?\nOni rekoše: Pokrili bismo ga.\nOn reče: Ne, vi biste razotkrili njegovu golotinju.\nOni rekoše: Ne daj bože! Ko bi to učinio?\nOn reče: Neki od vas čuvši nešto o bratu, dodaju i šire dalje.",
-    "ms": "Ješua rěče učenikam: Čto byste sdělali da vidite usnuvšego brata kom větr razduva plašč?\nOni rěčehu: Pokryli byhmo jego.\nOn rěče: Ne, vy byste razkryli golotu jego.\nOni rěčehu: Ne daj bog! Kto by to sdělal?\nOn rěče: Někoji od vas uslyšavši něčto o bratu, dodavajut i širet.",
+    "ms": "Ješua rěče učenikam: Čto byste učinili da vidite usnuvšego brata kom větr razduva plašč?\nOni rěčehu: Pokryli byhmo jego.\nOn rěče: Ne, vy byste razkryli golotu jego.\nOni rěčehu: Ne daj bog! Kto by to učinil?\nOn rěče: Někoji od vas uslyšavši něčto o bratu, dodavajut i širet.",
     "source": "James Robson, Christ in Islam (A. 16, M. 17.)",
-    "_id": 932
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6691,11 +6713,12 @@
     "_id": 937
   },
   {
+    "_id": 938,
     "author": "Isus",
-    "sr": "Koja korist slepcu nositi svetiljku, dok drugi dobijaju svetlo? Šta koristi lampa na krovu, ako je u domu mrkli mrak? Šta koristi znanje u ustima, bez dela saglasno s njim?",
-    "ms": "Koja korist slěpcu nesti světilku, dokolě drugi dobyvajut světlo? Čto koristi lampa na strěhy, ako v dome mrkneny mrak? Čto koristi znanje v ustah, bez děla soglasno s jim?",
+    "sr": "Koja korist slepcu nositi svetiljku, kada drugi dobijaju svetlo? Šta koristi lampa na krovu, ako je u domu mrkli mrak? Šta koristi znanje u ustima, bez dela saglasno s njim?",
+    "ms": "Koja korist slěpcu nesti světilku, kogda drugi dobyvajut světlo? Čto koristi lampa na strěhy, ako v domu mrkneny mrak? Čto koristi znanje v ustah, bez děla soglasno s jim?",
     "source": "James Robson, Christ in Islam (A. 144, 216, 53, M. 54.)",
-    "_id": 938
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6712,11 +6735,12 @@
     "_id": 940
   },
   {
+    "_id": 941,
     "author": "Isus",
-    "sr": "Ko ima blago na svetu boji se nezgoda, ali ko ima božje blago ne boji se nastupajućih nezgoda.",
-    "ms": "Kto ima blago na světu boji se nesgoda, ale kto ima božje blago ne boji se nastupajučih nesgoda.",
+    "sr": "Imajući blago na svetu boji se nezgoda, ali imajući blago na nebu ne boji se nastupajućih nezgoda.",
+    "ms": "Imajuči blago na světu boji se nesgoda, ale imajuči blago na nebesi ne boji se nastupajučih nesgoda.",
     "source": "James Robson, Christ in Islam (A. 34, M. 35.)",
-    "_id": 941
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6726,11 +6750,12 @@
     "_id": 942
   },
   {
+    "_id": 943,
     "author": "Isus",
     "sr": "Prevrnuh ovaj svet naglavačke, zato ne dižite ga za mnom.",
-    "ms": "Provrgnuh sej svět naglavce, zato ne vozdvigajte go za mnoju.",
+    "ms": "Provrgnuh sej svět naopak, ubo ne vozdvigajte go za mnoju.",
     "source": "James Robson, Christ in Islam (A. 34, M. 36.)",
-    "_id": 943
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6740,25 +6765,28 @@
     "_id": 944
   },
   {
+    "_id": 945,
     "author": "Isus",
-    "sr": "Ljubav za svet i za carstvo božje ne mogu ostati u istom srcu, \nkao što voda i oganj ne mogu ostati u istoj posudi.",
-    "ms": "Ljubov za svět i za carstvo božje ne mogu ostati v samom srdcu, \npodobno kak voda i ogonj ne mogu ostati v samoj posudě.",
+    "sr": "Ljubav za svet i za carstvo božje ne mogu ostati u istom srcu, kao što voda i oganj ne mogu ostati u istoj posudi.",
+    "ms": "Ljubov za svět i za carstvo božje ne mogu ostati v samom srdcu, podobno kak voda i ogonj ne mogu ostati v samoj posudě.",
     "source": "James Robson, Christ in Islam (A. 35, M. 39.)",
-    "_id": 945
+    "wiki": ""
   },
   {
+    "_id": 946,
     "author": "Isus",
-    "sr": "Krpe tih što živeše pre nas su nam dovoljne.",
-    "ms": "Platna tyh ktori žihu prědže nas nami dostatočna.",
+    "sr": "Krpe živećih pre nas nama dovoljne.",
+    "ms": "Platna živučih prědže nas nami dostatočna.",
     "source": "James Robson, Christ in Islam (A. 36, M. 40.)",
-    "_id": 946
+    "wiki": ""
   },
   {
+    "_id": 947,
     "author": "Isus",
-    "sr": "Teško posedniku na svetu! Jer on će umreti i ostaviti svet i sve u njemu. On položi nadu u svet, i bi obmanut i oduze mu se.",
-    "ms": "Težko posědniku na světu! Ibo on bude umreti i ostaviti svět i vse v jego. On položi naděju v svět, i by obmaneny i odojme se jemu.",
+    "sr": "Teško posedniku na svetu! Jer će umreti i ostaviti svet i sve u njemu. On položi nadu u svet i bi obmanut.",
+    "ms": "Težko posědniku na světu! Ibo bude umreti i ostaviti svět i vse v jego. On položi naděju v svět i by obmaneny.",
     "source": "James Robson, Christ in Islam (A. 38, M. 42.)",
-    "_id": 947
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6776,11 +6804,12 @@
     "wiki": ""
   },
   {
+    "_id": 950,
     "author": "Isus",
-    "sr": "Mrzite svet i bog će vas ljubiti.",
-    "ms": "Nenavidite svět i bog vas bude ljubiti.",
+    "sr": "Omrzite svet i bog će vas ljubiti.",
+    "ms": "Omrzite svět i bog vas bude ljubiti.",
     "source": "James Robson, Christ in Islam (A. 41, M. 44.)",
-    "_id": 950
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6790,11 +6819,12 @@
     "_id": 951
   },
   {
+    "_id": 952,
     "author": "Isus",
     "sr": "Kako bolestan gleda jelo i ne uživa u njemu usled bolesti, tako ljubitelj sveta ne uživa u molitvi i ne otkriva njenu slatkoću.",
-    "ms": "Kako boljny gledi jedivo i ne uživa v jego vslěd bolesti, tako ljubitelj světa ne uživa v molitvy i ne odkryva jej sladkost.",
+    "ms": "Kako boljny gledi jedivo i ne uživa v jego vslěd bolesti, tako světoljubec ne uživa v molitvy i ne odkryva jej sladkost.",
     "source": "James Robson, Christ in Islam (A. 47, M. 49.)",
-    "_id": 952
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6811,11 +6841,12 @@
     "_id": 954
   },
   {
+    "_id": 955,
     "author": "Isus",
     "sr": "Ješua prođe usnulog uvijenog u ogrtač, razbudi ga i reče: O spavaču, ustaj slaviti boga!\nČovek reče: Šta hoćeš od mene? Zaista sam ostavio svijet njegovim ljudima.\nJešua reče: Spavaj, onda, prijatelju.",
-    "ms": "Ješua projde usnučego ovinenogo v plašč, razbudi go i rěče: O spavcu, vstaj slaviti boga!\nČlověk rěče: Čto hočeš od mene? Zaisto jesm ostavil svět jego ljudami.\nJešua rěče: Spi, onogda, prijatelju.",
+    "ms": "Ješua projde usnučego ovinenogo v plašč, razbudi go i rěče: O spavcu, vstaj slaviti boga!\nČlověk rěče: Čto hočeš od mene? Zaisto jesm ostavil svět jego ljudam.\nJešua rěče: Spi, togda, prijatelju.",
     "source": "James Robson, Christ in Islam (A. 71, M. 62.)",
-    "_id": 955
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6832,18 +6863,20 @@
     "_id": 957
   },
   {
+    "_id": 958,
     "author": "Isus",
-    "sr": "Ne gledaj na bogatstvo ljudi sveta, jer raskoš bogatstva oduzima svetlo vere.",
-    "ms": "Ne gledi na bogatstvo ljudi světa, ibo razkoš bogatstva udalja světlo věrě.",
+    "sr": "Ne gledaj na bogatstvo sveta, jer raskoš bogatstva oduzima svetlo vere.",
+    "ms": "Ne gledi na bogatstvo světa, ibo razkoš bogatstva udalja světlo věrě.",
     "source": "James Robson, Christ in Islam (A. 74, M. 63.)",
-    "_id": 958
+    "wiki": ""
   },
   {
+    "_id": 959,
     "author": "Isus",
-    "sr": "Čudno je kako delate za ovaj svet, a primate snabdevanje u njemu bez dela. I kako ne delate za naredni svet, a dobijate snabdevanje u njemu jedino delima.",
-    "ms": "Čudno kak dělate za sej svět, a prijmate snabděvanje v jego bez děla. I kak ne dělate za nastupny svět, a prijmate snabděvanje v jego jedino dělami.",
+    "sr": "Čudno kako delate za ovaj svet, a primate snabdevanje u njemu bez dela. I kako ne delate za sledeći svet, a primate snabdevanje u njemu jedino delima.",
+    "ms": "Čudno kak dělate za sej svět, a prijmate snabděvanje v jego bez děla. I kak ne dělate za slědujuči svět, a prijmate snabděvanje v jego jedino dělami.",
     "source": "James Robson, Christ in Islam (A. 113.)",
-    "_id": 959
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -6860,11 +6893,12 @@
     "_id": 961
   },
   {
+    "_id": 962,
     "author": "Isus",
-    "sr": "Bližeći se istoku, udaljavate se od zapada.\nPodobno, bližeći se svetu, udaljavate se od boga.",
-    "ms": "Bližeči se iztoku, oddaljate se od zapada.\nPodobno, bližeči se světu, oddaljate se od boga.",
+    "sr": "Bližeći se istoku, udaljavate se od zapada. Tako, bližeći se svetu, udaljavate se od boga.",
+    "ms": "Bližeči se iztoku, oddaljate se od zapada. Tak, bližeči se světu, oddaljate se od boga.",
     "source": "James Robson, Christ in Islam (A. 193.)",
-    "_id": 962
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -8986,11 +9020,12 @@
     "_id": 1268
   },
   {
+    "_id": 1269,
     "author": "Isus",
     "sr": "Fina odeća je ispraznost srca.",
-    "ms": "Grivna oděž naprazdnost srdca.",
+    "ms": "Grivna oděž naprazdnost srdca jest.",
     "source": "James Robson, Christ in Islam (A., 125, A. 60, M. 57.)",
-    "_id": 1269
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -10094,11 +10129,12 @@
     "wiki": ""
   },
   {
+    "_id": 1432,
     "author": "Isus",
-    "sr": "Ako vas svijet omrzne, znajte i mene je omrznuo prije vas.",
-    "ms": "Ako vas svět omrzi, znajte i mene je omrzil prědže vas.",
+    "sr": "Ako vas svijet omrzne, znajte i mene omrznuše prije vas.",
+    "ms": "Ako vas svět omrzi, znajte i mene omrziše prědže vas.",
     "source": "Evangelje po Jovanu, 16:18",
-    "_id": 1432
+    "wiki": ""
   },
   {
     "author": "Zun-Nun Egipatski",
@@ -10313,11 +10349,12 @@
     "_id": 1463
   },
   {
+    "_id": 1464,
     "author": "Isus",
-    "sr": "Sin nije poslan suditi svetu, \nno spasti svet. \nVerujući u njega ne bude osuđen, \na ne verujući već osuđen je.",
-    "ms": "Syn ne poslany suditi světu, \nno spasti svět. \nVěreči v jego ne bude osudženy, \na ne věreči uže osudženy jest.",
+    "sr": "Sin nije poslan suditi svetu, \nno spasti svet. \nVerujući u njega ne bude osuđen, \na neverujući već osuđen je.",
+    "ms": "Syn ne poslany suditi světu, \nno spasti svět. \nVěreči v jego ne bude osudženy, \na nevěreči uže osudženy jest.",
     "source": "Evangelje po Jovanu, glava 3:17-18",
-    "_id": 1464
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -10327,11 +10364,12 @@
     "_id": 1467
   },
   {
+    "_id": 1468,
     "author": "Isus",
-    "sr": "Moljahu ga učenici: učitelju jedi.\nJešua reče: ja imam jesti, ali vi ne znate.\nOni mišljahu: možda ko prinese mu jesti?\nJešua reče: moje jelo jeste tvoriti volju poslavšeg me i svršiti njegovo delo.",
-    "ms": "Molihu go učeniki: učitelju jedaj.\nJešua rěče: ja imam jesti, ale vy ne věte.\nOni myslihu: eda kto prinese jemu jesti?\nJešua rěče: moje jelo jest da stvorju volju poslavšego me i sovršu dělo jego.",
+    "sr": "Moljahu ga učenici: Učitelju jedi.\nJešua reče: Ja imam jesti, ali vi ne znate.\nOni mišljahu: Možda ko prinese mu jesti?\nJešua reče: Moje jelo jeste tvoriti volju poslavšeg me i svršiti njegovo delo.",
+    "ms": "Molihu go učeniki: Učitelju jedaj.\nJešua rěče: Ja imam jesti, ale vy ne věte.\nOni myslihu: Eda kto prinese jemu jesti?\nJešua rěče: Moje jelo jest da stvorju volju poslavšego me i sovršu dělo jego.",
     "source": "Evangelje po Jovanu, glava 4:31-34",
-    "_id": 1468
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -10376,11 +10414,12 @@
     "_id": 1474
   },
   {
+    "_id": 1475,
     "author": "Isus",
-    "sr": "Ko mudru osobu pita o istini priprema krila da pobegne od želje koja sažeže duh.",
-    "ms": "Kto mudru osobu pyta o istiny pripravja krila da poběži od želanja koje sožže duh.",
+    "sr": "Ko mudru osobu pita o istini priprema krila pobeći od želje koja sažeže duh.",
+    "ms": "Kto mudru osobu pyta o istiny pripravja krila poběgti od želanja koje sožže duh.",
     "source": "Knjiga Tomina",
-    "_id": 1475
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -10390,18 +10429,20 @@
     "_id": 1476
   },
   {
+    "_id": 1477,
     "author": "Isus",
-    "sr": "Teško vama bezbožnima koji nemate nadu, \nkoji držite se toga što će nestati!",
-    "ms": "Težko vam bezbožnym ne imějuči naděju, \nktori držite se togo čto bude izčeznuti!",
+    "sr": "Teško vama bezbožnima koji nemate nadu, koji držite se toga što će nestati!",
+    "ms": "Težko vam bezbožnym ne imějuči naděju, ktori držite se togo čto bude izčeznuti!",
     "source": "Knjiga Tomina",
-    "_id": 1477
+    "wiki": ""
   },
   {
+    "_id": 1478,
     "author": "Isus",
-    "sr": "Teško vama u vatri što gori unutar vas, jer ona je nezasita!",
-    "ms": "Težko vam v ognju čto gori vnutri vas, ibo on nenasytny!",
+    "sr": "Teško vama u ognju gorećem unutar vas, jer on je nezasit!",
+    "ms": "Težko vam v ognju gorečem vnutri vas, ibo on nenasytny!",
     "source": "Knjiga Tomina",
-    "_id": 1478
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -10425,11 +10466,12 @@
     "_id": 1481
   },
   {
+    "_id": 1482,
     "author": "Isus",
-    "sr": "Tko ne pozna sebe, ništa nije poznao. \nAli tko pozna sebe, poznaje dubine svemira.",
-    "ms": "Kto ne pozna sebe, ničto ne poznaše. \nAle kto pozna sebe, poznava glubiny vsemira.",
+    "sr": "Tko ne pozna sebe, ništa ne poznaje. \nTko pozna sebe, poznaje dubine svemira.",
+    "ms": "Kto ne pozna sebe, ničto ne poznaše. \nKto pozna sebe, poznava glubiny vsemira.",
     "source": "Knjiga Tomina",
-    "_id": 1482
+    "wiki": ""
   },
   {
     "_id": 1483,

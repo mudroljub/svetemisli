@@ -28,10 +28,10 @@ const Tools = () => {
     <main>
       <h1>{translate('TOOLS')}</h1>
       <p>
-        <Link to={'/statistika'}>Statistika</Link>&nbsp;
+        <Link to={'/statistika'}>{translate('STATISTICS')}</Link>&nbsp;
       </p>
       <p>
-        <Link to={'/favorites'}>Favorites</Link>&nbsp;
+        <Link to={'/favorites'}>{translate('FAVORITES')}</Link>&nbsp;
       </p>
       <button onClick={saveFile}>💾 Export quotes</button>
       <p>

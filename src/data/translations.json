@@ -7,6 +7,7 @@
     "AUTHOR_TIP": "ime sa sh.wikipedije",
     "BACK": "Nazad",
     "EDIT_QUOTE": "Uredi citat",
+    "FAVORITES": "Omiljeno",
     "FILTER_BY_LENGTH": "Procedi po dužini",
     "FILTER_BY_SOURCE": "Procedi po izvoru",
     "FOOTER_TEXT": "Izreke i prevode možete slati na",
@@ -28,6 +29,7 @@
     "SERBOCROATIAN": "srpskohrvatski",
     "SHOWING_RESULTS": "Prikazuje citate koji uključuju izraz",
     "SOURCE": "Izvor",
+    "STATISTICS": "Statistika",
     "TOOLS": "Oruđa"
   },
   "ms": {
@@ -38,6 +40,7 @@
     "AUTHOR_TIP": "ime od sh.wikipedije",
     "BACK": "Nazad",
     "EDIT_QUOTE": "Pravi citat",
+    "FAVORITES": "Omiljeno",
     "FILTER_BY_LENGTH": "Procědi po dolžině",
     "FILTER_BY_SOURCE": "Procědi po izvoru",
     "FOOTER_TEXT": "Izrěčenja i prěvody možete slati na",
@@ -59,6 +62,7 @@
     "SERBOCROATIAN": "srbskohrvatsky",
     "SHOWING_RESULTS": "Pokazyva citate koji vključajut izraz",
     "SOURCE": "Izvor",
+    "STATISTICS": "Statistika",
     "TOOLS": "Orudja"
   }
 }

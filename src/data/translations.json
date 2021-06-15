@@ -18,6 +18,7 @@
     "MORE_WISDOM": "Još mudrosti!",
     "NO_TRANSLATION": "Nema prevoda za ovaj citat.",
     "OPTIONAL": "opciono",
+    "NO_UNTRANSLATED": "Nema neprevednih citata za izabrani jezik",
     "POST": "Pošalji",
     "QUOTE_DELETED": "Citat je obrisan.",
     "QUOTE_OF_THE_DAY": "Mudrost dana",
@@ -30,7 +31,8 @@
     "SHOWING_RESULTS": "Prikazuje citate koji uključuju izraz",
     "SOURCE": "Izvor",
     "STATISTICS": "Statistika",
-    "TOOLS": "Oruđa"
+    "TOOLS": "Oruđa",
+    "UNTRANSLATED": "Neprevedeno"
   },
   "ms": {
     "ADD_QUOTE": "Dodaj citat",
@@ -50,6 +52,7 @@
     "LANGUAGE": "Jezyk",
     "MORE_WISDOM": "Ješče mudrosti!",
     "NO_TRANSLATION": "Ne ima prěklada za citat.",
+    "NO_UNTRANSLATED": "Ne ima neprěvednyh citatov za izbrany jezyk",
     "OPTIONAL": "opcionalno",
     "POST": "Poslj",
     "QUOTE_DELETED": "Citat odstraneny.",
@@ -63,6 +66,7 @@
     "SHOWING_RESULTS": "Pokazyva citate koji vključajut izraz",
     "SOURCE": "Izvor",
     "STATISTICS": "Statistika",
-    "TOOLS": "Orudja"
+    "TOOLS": "Orudja",
+    "UNTRANSLATED": "Neprěvedeno"
   }
 }

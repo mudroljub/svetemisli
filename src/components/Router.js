@@ -10,6 +10,7 @@ import AddQuote from '../routes/AddQuote'
 import ShowQuote from '../routes/ShowQuote'
 import Stats from '../routes/Stats'
 import Favorites from '../routes/Favorites'
+import Untranslated from '../routes/Untranslated'
 
 const Router = () => (
   <Switch>
@@ -22,6 +23,7 @@ const Router = () => (
     <Route path='/orudja' component={Tools} />
     <Route path='/statistika' component={Stats} />
     <Route path='/favorites' component={Favorites} />
+    <Route path='/neprevedeno' component={Untranslated} />
   </Switch>
 )
 

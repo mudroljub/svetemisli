@@ -1,6 +1,6 @@
 import React from 'react'
 import {useDispatch, useSelector} from 'react-redux'
-import {Link} from 'react-router-dom'
+import {NavLink} from 'react-router-dom'
 
 import {useAuthorName, filterQuotes, toggleSelectedAuthors} from '../../store/actions'
 import unknownImage from '../../assets/images/unknown.jpg'
@@ -20,10 +20,10 @@ const AuthorThumb = ({ author, image }) => {
 
   return (
     <div className="author-wrap">
-      <Link className="author" to={link}>
+      <NavLink className="author" to={link} activeClassName="active">
         <img src={image || unknownImage} alt="img" />
         {authorName(author)}
-      </Link>
+      </NavLink>
       <label>
         <input
           type="checkbox"

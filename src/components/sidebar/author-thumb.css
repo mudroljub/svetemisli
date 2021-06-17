@@ -22,6 +22,10 @@
   text-decoration: none;
 }
 
+.author.active {
+  font-weight: bold;
+}
+
 .author img {
   margin-right: 8px;
   width: 30px;

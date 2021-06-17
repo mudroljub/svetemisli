@@ -37,15 +37,15 @@ const EditForm = ({ quote }) => {
       <form onSubmit={postQuote}>
         <input type="hidden" name="_id" defaultValue={quote && quote._id} />
         <p>
-          <label htmlFor="author" title={translate('AUTHOR_TIP')}>{translate('AUTHOR')} *</label><br/>
-          <input name="author" id="author" defaultValue={quote && quote.author} autoFocus />
+          <label htmlFor="author">{translate('AUTHOR')} *</label><br/>
+          <input name="author" id="author" placeholder={translate('AUTHOR_TIP')} defaultValue={quote && quote.author} autoFocus />
         </p>
         <p>
-          <label htmlFor="sr" >Tekst ({translate('SERBOCROATIAN')}) *</label><br />
+          <label htmlFor="sr" >{translate('TEXT')} ({translate('SERBOCROATIAN')}) *</label><br />
           <textarea name="sr" id="sr" defaultValue={quote && quote.sr} cols="60" rows="5"></textarea>
         </p>
         <p>
-          <label htmlFor="ms" >Tekst ({translate('INTERSLAVIC')}) </label><br />
+          <label htmlFor="ms" >{translate('TEXT')} ({translate('INTERSLAVIC')}) </label><br />
           <textarea name="ms" id="ms" defaultValue={quote && quote.ms} cols="60" rows="5"></textarea>
         </p>
         <p>

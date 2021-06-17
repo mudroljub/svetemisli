@@ -4,7 +4,7 @@
     "ALL_QUOTES": "Svi citati",
     "APP_NAME": "Svete misli",
     "AUTHOR": "Autor",
-    "AUTHOR_TIP": "ime sa sh.wikipedije",
+    "AUTHOR_TIP": "Ime sa sh Vikipedije",
     "BACK": "Nazad",
     "EDIT_QUOTE": "Uredi citat",
     "FAVORITES": "Omiljeno",
@@ -31,6 +31,7 @@
     "SHOWING_RESULTS": "Prikazuje citate koji uključuju izraz",
     "SOURCE": "Izvor",
     "STATISTICS": "Statistika",
+    "TEXT": "Tekst",
     "TOOLS": "Oruđa",
     "UNTRANSLATED": "Neprevedeno"
   },
@@ -39,7 +40,7 @@
     "ALL_QUOTES": "Vsi citati",
     "APP_NAME": "Svete mysli",
     "AUTHOR": "Avtor",
-    "AUTHOR_TIP": "ime od sh.wikipedije",
+    "AUTHOR_TIP": "Ime iz sh Vikipedije",
     "BACK": "Nazad",
     "EDIT_QUOTE": "Pravi citat",
     "FAVORITES": "Omiljeno",
@@ -66,6 +67,7 @@
     "SHOWING_RESULTS": "Pokazyva citate koji vključajut izraz",
     "SOURCE": "Izvor",
     "STATISTICS": "Statistika",
+    "TEXT": "Tekst",
     "TOOLS": "Orudja",
     "UNTRANSLATED": "Neprěvedeno"
   }

@@ -6684,11 +6684,12 @@
     "_id": 933
   },
   {
+    "_id": 934,
     "author": "Isus",
     "sr": "Ješua reče: Ištite veliku količinu toga što oganj ne može sažeći.\nNeko upita: Šta je to?\nOn reče: Dobrota.",
-    "ms": "Ješua rěče: Iščite veliku kolikost togo čto ogonj ne može sožegti.\nNěkoj upita: Čto jest to?\nOn rěče: Dobrota.",
+    "ms": "Ješua rěče: Iščite veliku kolikost togo čto ogonj ne može sožegti.\nNěkoj spraša: Čto jest to?\nOn rěče: Dobrota.",
     "source": "James Robson, Christ in Islam (A. 51, M. 53.)",
-    "_id": 934
+    "wiki": ""
   },
   {
     "author": "Isus",
@@ -9308,11 +9309,12 @@
     "_id": 1309
   },
   {
+    "_id": 1311,
     "author": "Zhaozhou Congshen",
     "sr": "Džošu upita Nansena: Šta je put?\nNansen odgovori: Svakodnevni život je put.\nDžošu upita: Kako se može dospeti na njega?\nNansen odgovori: Što ga više tražiš, sve je dalji.",
-    "ms": "Džošu zapyta Nansena: Čto jest put?\nNansen odgovori: Povsednji život jest put.\nDžošu upita: Kako možno prihoditi na jego?\nNansen odgovori: Čto vyše iščeš go, on vse dalje.",
+    "ms": "Džošu zapyta Nansena: Čto jest put?\nNansen odgovori: Povsednji život jest put.\nDžošu spraša: Kako možno prihoditi na jego?\nNansen odgovori: Čto vyše iščeš go, on vse dalje.",
     "source": "Mumonkan, zbirka zen koana, Beograd 1980.",
-    "_id": 1311
+    "wiki": ""
   },
   {
     "author": "Huineng",
@@ -10833,11 +10835,12 @@
     "wiki": ""
   },
   {
+    "_id": 1537,
     "author": "Parmenid",
     "sr": "Svet propada.",
-    "ms": "",
+    "ms": "Svět propada.",
     "source": "Herman Diels, Predsokratovci I, Zagreb 1983.",
-    "_id": 1537
+    "wiki": ""
   },
   {
     "author": "Parmenid",
@@ -11178,417 +11181,268 @@
     "_id": 1586
   },
   {
+    "_id": 1588,
     "author": "Zhaozhou Congshen",
     "sr": "Nek drugi imaju sve što žele. Zadovoljavam se onim što mi je dato.",
-    "ms": "",
+    "ms": "Nehaj drugi imajut vse čto želajut. Ja zadovoljeny tymi čto dano mi.",
     "source": "D. T. Suzuki i E. From, Zen budizam i psihoanaliza (str. 94), Beograd, 1964.",
-    "_id": 1588
+    "wiki": ""
   },
   {
+    "_id": 1589,
     "author": "Zhaozhou Congshen",
     "sr": "Neko upita: Šta je moje sopstvo?\nDžošu reče: Drvo hrasta u dvorištu. Pogledaj ga!",
-    "ms": "",
+    "ms": "Někoj spraša: Čto moje sobstvo?\nDžošu rěče: Drěvo duba v dvorišču. Pogledaj go!",
     "source": "Radical Zen, The sayings of Joshu (str. 27), 1978.",
-    "_id": 1589
+    "wiki": ""
   },
   {
+    "_id": 1590,
     "author": "Zhaozhou Congshen",
-    "sr": "Carevi Zenkan i Gokan vladaše celom zemljom, ali u času smrti ne mogoše iskorititi ni pola novčića.",
-    "ms": "",
+    "sr": "Carevi Zenkan i Gokan vladaše celom zemljom, ali u času smrti ne mogoše iskoristiti ni pola groša.",
+    "ms": "Cari Zenkan i Gokan vladahu cělom zemjeju, ale v času smrti ne možehu upotrěbiti ni pol groša.",
     "source": "Radical Zen, The sayings of Joshu (str. 29), 1978.",
-    "_id": 1590
+    "wiki": ""
   },
   {
-    "author": "Zhaozhou Congshen",
-    "sr": "Ja nisam reč.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 29), 1978.",
-    "_id": 1591
-  },
-  {
-    "author": "Zhaozhou Congshen",
-    "sr": "Ako ispravan čovek propoveda pogrešan put, put će slediti čoveka i postati ispravan. Ako pogrešan čovek propoveda ispravan put, put će slediti čoveka i postati pogrešan.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 31), 1978.",
-    "_id": 1592
-  },
-  {
+    "_id": 1593,
     "author": "Zhaozhou Congshen",
     "sr": "Mohan upita: Biti sveti, kako je to?\nDžošu reče: Izbaciti planinu govana na čistu ravan.",
-    "ms": "",
+    "ms": "Mohan upita: Byti svety, kako to?\nDžošu rěče: Odmetnuti goru govnah na čistu ravninu.",
     "source": "Radical Zen, The sayings of Joshu (str. 33), 1978.",
-    "_id": 1593
+    "wiki": ""
   },
   {
+    "_id": 1594,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah upita: Gde je tvoja greška?\nDžošu odgovori: U gonjenju.\nMonah reče: Ako je tako, onda neću vežbati.\nDžošu reče: Vežbaj.",
-    "ms": "",
+    "sr": "Monah upita: Gde je tvoja greška?\nDžošu odgovori: U gonjenju.\nMonah reče: Ako je tako, onda vežbati.\nDžošu reče: Vežbaj.",
+    "ms": "Monah spraša: Kde tvoja grěška?\nDžošu odgovori: V gonjenju.\nMonah rěče: Ako tako, togda ne praktikovati.\nDžošu rěče: Praktikuj.",
     "source": "Radical Zen, The sayings of Joshu (str. 34), 1978.",
-    "_id": 1594
+    "wiki": ""
   },
   {
+    "_id": 1595,
     "author": "Zhaozhou Congshen",
-    "sr": "Onog trenutka kada pokušate da usmerite svoj um na ovo ili ono, već ste promašili suštinu.",
-    "ms": "",
+    "sr": "Čim pokušate usmeriti svoj um na nešto, već ste promašili suštinu.",
+    "ms": "Čim pokušate obratiti svoj um na něčto, uže jeste pogrěšili sučnost.",
     "source": "Radical Zen, The sayings of Joshu (str. 38), 1978.",
-    "_id": 1595
+    "wiki": ""
   },
   {
-    "author": "Zhaozhou Congshen",
-    "sr": "Monah upita: Šta je glavno staranje onog koji nosi budistički plašt?\nDžošu reče: Ne obmanjivati sebe.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 42), 1978.",
-    "_id": 1596
-  },
-  {
-    "author": "Zhaozhou Congshen",
-    "sr": "Odsecite glave budama nagrade i izbavljenja, i postaćete dostojni.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 48), 1978.",
-    "_id": 1597
-  },
-  {
+    "_id": 1598,
     "author": "Zhaozhou Congshen",
     "sr": "Što više približavaš se, put više udaljava se.",
-    "ms": "",
+    "ms": "Čto vyše približaješ se, put vyše udaljaje se.",
     "source": "Radical Zen, The sayings of Joshu (str. 50), 1978.",
-    "_id": 1598
+    "wiki": ""
   },
   {
-    "author": "Zhaozhou Congshen",
-    "sr": "Među osam stotina ljudi koji pokušavaju postati Buda, teško je pronaći jednu pravu osobu.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 51), 1978.",
-    "_id": 1599
-  },
-  {
+    "_id": 1600,
     "author": "Zhaozhou Congshen",
     "sr": "Mohan upita: Kada sam potpuno bez razumevanja, šta onda?\nDžošu reče: Ja razumem još manje.",
-    "ms": "",
+    "ms": "Mohan spraša: Kogda jesm popolno bez razuměnja, čto togda?\nDžošu rěče: Ja razuměju ješče menje.",
     "source": "Radical Zen, The sayings of Joshu (str. 120), 1978.",
-    "_id": 1600
+    "wiki": ""
   },
   {
+    "_id": 1601,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah reče: Dođoh izdaleka. Učitelju, koje je tvoje učenje?\nDžošu reče: Ne govorim ga ljudima.\nMonah upita: Zašto ga ne govoriš ljudima?\nDžošu odgovori: To je moje učenje.",
-    "ms": "",
+    "sr": "Monah reče: Dođoh izdaleka. Učitelju, što je tvoje učenje?\nDžošu reče: Ne govorim to ljudima.\nMonah upita: Zašto ne govoriš to ljudima?\nDžošu odgovori: To je moje učenje.",
+    "ms": "Monah rěče: Dojdeh izdaleka. Učitelju, čto tvoje učenje?\nDžošu rěče: Ne govorim to ljudam.\nMonah upita: Začto ne govoriš to ljudam?\nDžošu odgovori: To moje učenje.",
     "source": "Radical Zen, The sayings of Joshu (str. 58), 1978.",
-    "_id": 1601
+    "wiki": ""
   },
   {
+    "_id": 1602,
     "author": "Zhaozhou Congshen",
     "sr": "Pitaše ga: Šta je povratak izvoru?\nDžošu odgovori: U času kad pokušaš, već si promašio.",
-    "ms": "",
+    "ms": "Pytahu go: Čto povratok izvoru?\nDžošu odgovori: V času kogda probuješ, uže jesi pogrěšil.",
     "source": "Radical Zen, The sayings of Joshu (str. 65), 1978.",
-    "_id": 1602
+    "wiki": ""
   },
   {
+    "_id": 1603,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah reče: Čuo sam da stari govorahu: \"Prazno je, čisto je, sija od sebe.\" Sija od sebe, šta to znači?\nDžošu reče: To ne znači da nešto drugo sija.\nMonah reče: Kada omane da sija, šta onda?\nDžošu reče: Izdao si sebe.",
-    "ms": "",
+    "sr": "Monah reče: Slušah da stari govorahu: Prazno je, čisto je, sija od sebe. Sija od sebe, šta to znači?\nDžošu reče: To ne znači da nešto drugo sija.\nMonah reče: Kada ne uspe sijati, šta onda?\nDžošu reče: Izdao si sebe.",
+    "ms": "Monah rěče: Slyšah že stary govorihu: prazdno jest, čisto jest, osvětljaje od sebe. Osvětljaje od sebe, čto znači to?\nDžošu rěče: To ne znači že něčto drugo osvětljaje.\nMonah rěče: Kogda ne uspě osvětljati, čto togda?\nDžošu rěče: Prědal jesi sebe.",
     "source": "Radical Zen, The sayings of Joshu (str. 66), 1978.",
-    "_id": 1603
+    "wiki": ""
   },
   {
+    "_id": 1606,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah upita: Šta probuđeni radi?\nDžošu reče: Istinski upražnjava put.\nMonah upita: Učitelji, upražnjavaš li ti put?\nDžošu reče: Nosim svoju odeću, jedem svoju rižu.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 68), 1978.",
-    "_id": 1604
-  },
-  {
-    "author": "Zhaozhou Congshen",
-    "sr": "Neko upita: Šta znači odreći se sveta?\nDžošu reče: Ne stremiti slavi, ne slediti iskvarenost.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 74), 1978.",
-    "_id": 1605
-  },
-  {
-    "author": "Zhaozhou Congshen",
-    "sr": "Kovani Buda topi se u peći. Drvenog Budu proždire plam. Glinenog Budu rastvara voda. Istinski Buda prebiva unutra.",
-    "ms": "",
+    "sr": "Kovani Buda topi se u peći. \nDrveni Buda gori. \nGlineni Buda rastvara se u vodi. \nIstinski Buda prebiva unutra.",
+    "ms": "Kovany Buda topi se v peči. \nDrěvěny Buda gori. \nGliněny Buda raztvarja se v vodě. \nIstinny Buda prěbyva vnutri.",
     "source": "Radical Zen, The sayings of Joshu (str. 77), 1978.",
-    "_id": 1606
+    "wiki": ""
   },
   {
+    "_id": 1607,
     "author": "Zhaozhou Congshen",
-    "sr": "Ako ne staraš se o njima, patnja i iluzija prestaju postojati.",
-    "ms": "",
+    "sr": "Ako ne staraš se o njima, patnja i obmana prestaju.",
+    "ms": "Ako ne staraš se o jim, stradanje i obman prěstajut.",
     "source": "Radical Zen, The sayings of Joshu (str. 77), 1978.",
-    "_id": 1607
+    "wiki": ""
   },
   {
+    "_id": 1608,
     "author": "Zhaozhou Congshen",
     "sr": "Samo sledi što je istinito, i sedi dvadeset-trideset godina. Ako ne ostvariš uvid, možeš mi odseći glavu.",
-    "ms": "",
+    "ms": "Samo slědi čto istinno, i sědi dvadeset-trideset lěta. Ako ne dosegneš viděnje, možeš mi odsěkti glavu.",
     "source": "Radical Zen, The sayings of Joshu (str. 77), 1978.",
-    "_id": 1608
+    "wiki": ""
   },
   {
+    "_id": 1609,
     "author": "Zhaozhou Congshen",
     "sr": "Kada um ne nastaje, sve je bez mane.",
-    "ms": "",
+    "ms": "Kogda um ne nastava, vse sovršeno.",
     "source": "Radical Zen, The sayings of Joshu (str. 77), 1978.",
-    "_id": 1609
+    "wiki": ""
   },
   {
-    "author": "Zhaozhou Congshen",
-    "sr": "Neko upita: Mesto puta (dodžo), šta je to?\nDžošu odgovori: Dolaziš iz mesta puta, odlaziš iz mesta puta. Ti si upravo ta stvar. Gde je mesto koje nije to?",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 194), 1978.",
-    "_id": 1610
-  },
-  {
+    "_id": 1611,
     "author": "Zhaozhou Congshen",
     "sr": "Neko upita: Šta ako kažem da je samo Buda čestit?\nDžošu odgovori: To su reči đavla.",
-    "ms": "",
+    "ms": "Někoj zapyta: Čto ako skažu že samo Buda čestny?\nDžošu odgovori: To slova diavla.",
     "source": "Radical Zen, The sayings of Joshu (str. 89), 1978.",
-    "_id": 1611
+    "wiki": ""
   },
   {
+    "_id": 1612,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah upita: Ko je moj gospodar?\nDžošu reče: Oblaci prlaze između planina. Padajući dole, voda ne pravi zvuk.\nMonah reče: To nije ono što sam pitao.\nDžošu reče: To je tvoj gospodar. Samo ne prepoznaješ ga.",
-    "ms": "",
+    "sr": "Monah upita: Ko je moj gospodar?\nDžošu reče: Oblaci prlaze između planina. Padajući, voda ne tvori zvuk.\nMonah reče: Ne pitah to.\nDžošu reče: To je tvoj gospodar. Samo ne poznaš ga.",
+    "ms": "Monah upita: Kto moj gospodar?\nDžošu rěče: Oblaky prohodet iz-medžu gor. Padajuči, voda ne tvori zvuk.\nMonah rěče: Ne pytah to.\nDžošu rěče: To tvoj gospodar. Samo ne poznaš go.",
     "source": "Radical Zen, The sayings of Joshu (str. 91), 1978.",
-    "_id": 1612
+    "wiki": ""
   },
   {
+    "_id": 1614,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah upita: Upražnjavajući put, ali ne stižući na cilj, šta onda?\nDžošu odgovori: Stizanje ili ne stizanje - sledbenik puta brine za to manje no za ispljuvak.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 94), 1978.",
-    "_id": 1613
-  },
-  {
-    "author": "Zhaozhou Congshen",
-    "sr": "Ko gubi, ne nedostava mu ništa, ko stiče, ne treba mu.",
-    "ms": "",
+    "sr": "Ko gubi, ne nedostava mu, ko stiče, ne treba mu.",
+    "ms": "Kto gubi, ne nedostava mu, kto dobyva, ne trěba mu.",
     "source": "Radical Zen, The sayings of Joshu (str. 96), 1978.",
-    "_id": 1614
+    "wiki": ""
   },
   {
+    "_id": 1615,
     "author": "Zhaozhou Congshen",
     "sr": "Neko upita: Onaj koji je prekinuo vezu sa svim stvarima, kakva je on osoba?\nDžošu reče: On nije osoba.",
-    "ms": "",
+    "ms": "Někoj zapyta: Kto prěkydnul vezku so vsim věčam, kaka on osoba?\nDžošu rěče: On nest osoba.",
     "source": "Radical Zen, The sayings of Joshu (str. 116), 1978.",
-    "_id": 1615
+    "wiki": ""
   },
   {
+    "_id": 1616,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah reče: Ostavivši sve svetove, odvojen od svih rasprava, to je tvoje stanje svesti, zar ne?\nDžošu reče: Zaista jeste.\nMonah reče: Molim te učitelju, poduči me.\nDžošu reče: Ostavivši sve svetove, odvojen od svih rasprava, šta tu ima za podučavati?",
-    "ms": "",
+    "sr": "Monah reče: Ostavivši svet, odvojen od svih sporenja, to je tvoje stanje svesti, zar ne?\nDžošu reče: U istinu jeste.\nMonah reče: Molim te učitelju, poduči me.\nDžošu reče: Ostavivši svet, odvojen od svih sporenja, šta tu ima za učiti?",
+    "ms": "Monah rěče: Ostavivši svět, odděljeny od vsih sporov, to tvoje stanje svědomosti, ne li?\nDžošu rěče: V istinu jest.\nMonah rěče: Molim te učitelju, obuči me.\nDžošu rěče: Ostavivši svět, odděljeny od vsih sporov, čto tu ima za učiti?",
     "source": "Radical Zen, The sayings of Joshu (str. 120), 1978.",
-    "_id": 1616
+    "wiki": ""
   },
   {
+    "_id": 1617,
     "author": "Zhaozhou Congshen",
-    "sr": "Neko upita: Kada će sledbenik puta primiti blagodat?\nDžošu reče: Od kude blagodat ne primaš?",
-    "ms": "",
+    "sr": "Neko upita: Kada će sledbenik puta primiti blagodat?\nDžošu reče: Odkud blagodat ne primaš?",
+    "ms": "Někoj spraša: Kogda bude poslědovatelj puta prijeti blagodat?\nDžošu rěče: Odkud blagodat ne prijmaš?",
     "source": "Radical Zen, The sayings of Joshu (str. 126), 1978.",
-    "_id": 1617
+    "wiki": ""
   },
   {
+    "_id": 1618,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah upita: Kada um ne počiva ni na čemu, kakav je?\nDžošu reče: Živi i nije obuzet podelama.",
-    "ms": "",
+    "sr": "Monah upita: Kada um nije zauzet ničim, kakav je?\nDžošu reče: Živi i nije obuzet podelama.",
+    "ms": "Monah spraša: Kogda um ne zajeti ničim, kaky jest?\nDžošu rěče: Živy i ne posedeny děljenjem.",
     "source": "Radical Zen, The sayings of Joshu (str. 127), 1978.",
-    "_id": 1618
+    "wiki": ""
   },
   {
+    "_id": 1619,
     "author": "Zhaozhou Congshen",
     "sr": "Neko upita: Šta je Buda?\nDžošu reče: Šta si ti?",
-    "ms": "",
+    "ms": "Někoj sprosi: Čto jest Buda?\nDžošu rěče: Čto jesi ty?",
     "source": "Radical Zen, The sayings of Joshu (str. 129), 1978.",
-    "_id": 1619
+    "wiki": ""
   },
   {
+    "_id": 1621,
     "author": "Zhaozhou Congshen",
-    "sr": "Neko upita: Ako ti bednik dođe, šta ćeš mu dati?\nDžošu reče: Ništa ne nedostaje.",
-    "ms": "",
+    "sr": "Starica upita: Ja sam neuko i grešno stvorenje. Kako mogu spasti se?\nDžošu reče: Neka stvory preporode se u raju. Neka ova žena padne u pakao zauvek.",
+    "ms": "Babka zapyta: Jesm neuk i grěšny stvor. Kako mogu spasti se?\nDžošu rěče: Nehaj vsi stvory vozrodet se v raju. Nehaj tuta žena pade v peklo navěky.",
     "source": "Radical Zen, The sayings of Joshu (str. 130), 1978.",
-    "_id": 1620
+    "wiki": ""
   },
   {
-    "author": "Zhaozhou Congshen",
-    "sr": "Starica upita: Ja sam neuko i grešno stvorenje. Kako mogu spasti se?\nDžošu reče: Neka sva bića preporode se u raju. Neka ova žena padne u pakao zauvek.",
-    "ms": "",
-    "source": "Radical Zen, The sayings of Joshu (str. 130), 1978.",
-    "_id": 1621
-  },
-  {
+    "_id": 1626,
     "author": "Bruce Lee",
-    "sr": "Ako ništa u tebi ne ostane kruto, vanjske stvari će otkriti se. Krećući se, budi kao voda. Stojeći, kao zrcalo. Odgovaraj kao odjek.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 7), 1975.",
-    "_id": 1622
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Ne \"ja radim ovo\", no radije uvid \"ovo se događa kroz mene\". Svesnost sebe je najveća prepraka pravilnom izvođenju svake telesne radnje.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 7), 1975.",
-    "_id": 1623
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Umetnost dostiže vrhunac kada je lišena samosvesti. Sloboda otkriva čoveka kada prestane starati se o utisku koji ostavlja.",
-    "ms": "",
+    "sr": "Ti koji stiču, gube.",
+    "ms": "Ti ktori dobyvajut, utračajut.",
     "source": "Bruce Lee, Tao of Jeet Kune Do (str. 8), 1975.",
-    "_id": 1624
+    "wiki": ""
   },
   {
+    "_id": 1628,
     "author": "Bruce Lee",
-    "sr": "Ako želiš da čista istina stane pred tobom, nikada ne budi za ili protiv.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 8), 1975.",
-    "_id": 1625
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Oni koji stiču, gube.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 8), 1975.",
-    "_id": 1626
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Ne beži, samo pusti. Ne traži, jer doći će kada najmanje očekuješ.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 9), 1975.",
-    "_id": 1627
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Ukloni nečisto mišljenje i delanje iz svog korena.",
-    "ms": "",
+    "sr": "Odstrani nečisto mišljenje i delanje iz svog korena.",
+    "ms": "Odstrani nečisto mysljenje i dělanje iz svojego korenja.",
     "source": "Bruce Lee, Tao of Jeet Kune Do (str. 10), 1975.",
-    "_id": 1628
+    "wiki": ""
   },
   {
+    "_id": 1632,
     "author": "Bruce Lee",
-    "sr": "Umetnost nikada nije ukrašavanje, ulepšavanje; to je delo prosvetljenja. Drugim rečima, umetnost je tehnika sticanja slobode.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 10), 1975.",
-    "_id": 1629
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Nejasni pojmovi moraju pasti pre nego što učenik nazove se učiteljem.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 10), 1975.",
-    "_id": 1630
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Najveća greška je pretpostaviti ishod borbe; ne misli hoće li se završiti pobedom ili porazom. Pusti prirodu da ide svojim tokom.",
-    "ms": "",
+    "sr": "Ne osvrći se kada je smer izabran. Posmatraj život i smrt ravnodušno.",
+    "ms": "Ne obračaj se kogda směr izbrany. Smotri život i smrt ravnodušno.",
     "source": "Bruce Lee, Tao of Jeet Kune Do (str. 12), 1975.",
-    "_id": 1631
+    "wiki": ""
   },
   {
+    "_id": 1637,
     "author": "Bruce Lee",
-    "sr": "Ne osvrći se nakon što je pravac odabran. Posmatraj život i smrt ravnodušno.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 12), 1975.",
-    "_id": 1632
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Jednostavnost je najkraća razdaljina između dve tačke.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 12), 1975.",
-    "_id": 1633
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Dok vežbaš, budi aktivan i dinamičan na svaki način. Ali u pravoj borbi, tvoj um mora biti potpuno smiren. Moraš osećati kao da se ništa presudno ne događa.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 12), 1975.",
-    "_id": 1634
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Udarci i šutevi su oruđa za ubijanje ega. Oni predstavljaju usmerenu silu koja, za razliku od intelekta, ne deli sebe.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 13), 1975.",
-    "_id": 1635
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Odsustvo misli znači ne biti ponešen strujom misli ni oskvrnjen vanjskim predmetima.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 13), 1975.",
-    "_id": 1636
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Odnos je proces samootkrivanja. To je ogledalo u kojem otkrivaš sebe.",
-    "ms": "",
+    "sr": "Odnos je proces samootkrivanja. Ogledalo u kojem otkrivaš sebe.",
+    "ms": "Odnošenje proces samoodkryvanja jest. Zrcalo v kojem odkryvaš sebe.",
     "source": "Bruce Lee, Tao of Jeet Kune Do (str. 15), 1975.",
-    "_id": 1637
+    "wiki": ""
   },
   {
+    "_id": 1638,
     "author": "Bruce Lee",
     "sr": "Da izraziš sebe u slobodi, moraš umreti za sve jučerašnje.",
-    "ms": "",
+    "ms": "Da izraziš sebe v svobodě, moraš umreti za vse včerašnje.",
     "source": "Bruce Lee, Tao of Jeet Kune Do (str. 16), 1975.",
-    "_id": 1638
+    "wiki": ""
   },
   {
-    "author": "Bruce Lee",
-    "sr": "Svesnost je bez izbora, bez zahteva, bez strepnje.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 19), 1975.",
-    "_id": 1639
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Razumevanje sebe dolazi kroz odnos, ne kroz izolaciju.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 20), 1975.",
-    "_id": 1640
-  },
-  {
-    "author": "Bruce Lee",
-    "sr": "Svesnost nema granicu. To je davanje tvog celog bića, bez izuzetka.",
-    "ms": "",
-    "source": "Bruce Lee, Tao of Jeet Kune Do (str. 21), 1975.",
-    "_id": 1641
-  },
-  {
+    "_id": 1642,
     "author": "Bruce Lee",
     "sr": "Da bismo postali drukčiji no što jesmo, prvo moramo biti svesni šta smo.",
-    "ms": "",
+    "ms": "Da by stavali različni no čto jesmo, prvo moramo byti svědomi čto jesmo.",
     "source": "Bruce Lee, Tao of Jeet Kune Do (str. 26), 1975.",
-    "_id": 1642
+    "wiki": ""
   },
   {
-    "author": "Alan Watts",
-    "sr": "Imati vere znači pouzdati se u vodu. Kad plivaš, ne hvataš se za vodu, jer tako bi potonuo i utopio se. Umesto toga opustiš se i plutaš.",
-    "ms": "",
-    "source": "",
-    "_id": 1643
-  },
-  {
+    "_id": 1644,
     "author": "Alan Watts",
     "sr": "Zen ne meša duhovnost sa razmišljanjem o bogu dok gulimo krompir. Zen duhovnost je samo guliti krompir.",
-    "ms": "",
+    "ms": "Zen ne měšaje duhovnost s razmysljanjem o bogu dokolě obdiramo kartofelj. Zen duhovnost jest samo obdirati kartofelj.",
     "source": "",
-    "_id": 1644
+    "wiki": ""
   },
   {
+    "_id": 1645,
     "author": "Alan Watts",
-    "sr": "Što više stvar pokušava biti trajna, to više jest beživotna.",
-    "ms": "",
+    "sr": "Što više stvar pokušava biti trajna, to više beživotna.",
+    "ms": "Čto vyše tvar sili se byti trajna, to vyše neživa.",
     "source": "",
-    "_id": 1645
+    "wiki": ""
   },
   {
+    "_id": 1646,
     "author": "Alan Watts",
-    "sr": "Stvari su kakve jesu. Gledajući svemir noću, ne poredimo dobre i loše zvezde, niti dobro i loše poređana sazvežđa.",
-    "ms": "",
+    "sr": "Stvari su kakve jesu. Gledajući svemir noću, ne poredimo dobre i loše zvezde, ni dobro i loše poređana sazvežđa.",
+    "ms": "Stvary sut kake sut. Gledeči vsemir nočju, ne sravnjajemo dobre i nedobre zvězdy, ni dobro i nedobro poravnjena suzvězdja.",
     "source": "",
-    "_id": 1646
+    "wiki": ""
   },
   {
     "author": "Dorotej iz Gaze",

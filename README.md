@@ -25,6 +25,5 @@ npm start
 
 # TODO
 
-- neprevedeno
+- dodati ponegde nu umesto no
 - ćirilični input
-- rute za jezik

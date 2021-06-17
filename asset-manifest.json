@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.81f302bd.chunk.css",
-    "main.js": "/static/js/main.8233e158.chunk.js",
-    "main.js.map": "/static/js/main.8233e158.chunk.js.map",
+    "main.css": "/static/css/main.fbc276df.chunk.css",
+    "main.js": "/static/js/main.754208a7.chunk.js",
+    "main.js.map": "/static/js/main.754208a7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.48cfc5ae.js",
     "runtime-main.js.map": "/static/js/runtime-main.48cfc5ae.js.map",
     "static/js/2.2f9727b8.chunk.js": "/static/js/2.2f9727b8.chunk.js",
     "static/js/2.2f9727b8.chunk.js.map": "/static/js/2.2f9727b8.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.81f302bd.chunk.css.map": "/static/css/main.81f302bd.chunk.css.map",
+    "static/css/main.fbc276df.chunk.css.map": "/static/css/main.fbc276df.chunk.css.map",
     "static/js/2.2f9727b8.chunk.js.LICENSE.txt": "/static/js/2.2f9727b8.chunk.js.LICENSE.txt",
     "static/media/chakra.5c61cd09.svg": "/static/media/chakra.5c61cd09.svg",
     "static/media/style.css": "/static/media/papir.c0dac391.webp"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.48cfc5ae.js",
     "static/js/2.2f9727b8.chunk.js",
-    "static/css/main.81f302bd.chunk.css",
-    "static/js/main.8233e158.chunk.js"
+    "static/css/main.fbc276df.chunk.css",
+    "static/js/main.754208a7.chunk.js"
   ]
 }

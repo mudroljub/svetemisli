@@ -547,11 +547,11 @@
     "_id": 76
   },
   {
-    "sr": "Da hvali se brat uniženi visotom svojom, a bogati uniženjem svojim.",
+    "_id": 77,
     "author": "Jakov Pravedni",
+    "sr": "Da hvali se brat uniženi visotom svojom, a bogati uniženjem svojim.",
     "ms": "Da hvali se brat uniženy so vysotoju svojeju, a bogaty so uniženjem svojim.",
-    "source": "",
-    "_id": 77
+    "source": ""
   },
   {
     "_id": 78,
@@ -1014,11 +1014,11 @@
     "_id": 143
   },
   {
-    "sr": "Ne izabra li bog nišče u svetu da budu bogati u veri i naslednici carstva?",
+    "_id": 144,
     "author": "Jakov Pravedni",
-    "ms": "Ne bog li izbraše nišče v světu byti bogaty v věrě i naslědniki carstva?",
-    "source": "",
-    "_id": 144
+    "sr": "Bog izabra nišče u svetu da budu bogati u veri i naslednici carstva.",
+    "ms": "Bog izbra nišče v světu da budut bogati v věrě i naslědniki carstva.",
+    "source": ""
   },
   {
     "author": "Muhamed",
@@ -2900,11 +2900,11 @@
     "_id": 409
   },
   {
-    "sr": "Jezikom blagoslovimo boga i oca, i kunemo ljude bivše po podobiju božju. Od istih usta ishode blagoslov i kletva. Ne podobi, braćo moja, tako bivati. Da li istočnik iz jednih usta istače slatko i gorko?",
+    "_id": 410,
     "author": "Jakov Pravedni",
-    "ms": "Jezykom blagoslavjajemo boga i otca, i klnemo člověki byvavši po podobě božje. Od samyh ust izhodet blagoslovjenje i kletva. Ne podobaje, bratjo moja, tako byvati. Da li iztočnik od jednyh ust iztolče sladko i gorko?",
-    "source": "",
-    "_id": 410
+    "sr": "Jezikom blagoslovimo boga, i kunemo ljude bivajuće po podobiju božju. Ne podobi, braćo, tako. Istočnik li iz istih usta istače slatko i gorko?",
+    "ms": "Jezykom blagoslovimo boga, i klnemo člověki suči po podobě božje. Ne podobaje, bratjo, tak. Iztočnik li iz samyh ust iztolče sladko i gorko?",
+    "source": ""
   },
   {
     "sr": "Ovaj svet, isti za sve, nije stvorio ni bog i ni čovek, no uvek je bio, jeste i biće večno živa vatra, koja se s merom pali i s merom gasi.",
@@ -3556,11 +3556,11 @@
     "_id": 506
   },
   {
-    "sr": "Kako je tijelo bez duha mrtvo, tako vjera bez djela mrtva je.",
+    "_id": 507,
     "author": "Jakov Pravedni",
-    "ms": "Kak tělo bez duha mrtvo, tako věra bez děl mrtva jest.",
-    "source": "",
-    "_id": 507
+    "sr": "Kako je tijelo bez duha mrtvo, tako vjera bez djela mrtva je.",
+    "ms": "Kak tělo bez duha mrtvo, tak věra bez děl mrtva jest.",
+    "source": ""
   },
   {
     "author": "Gautama Buddha",
@@ -3758,11 +3758,11 @@
     "_id": 534
   },
   {
-    "sr": "Koja korist ako kažeš da imaš vjeru, a djela nemaš? Može li te vjera spasti? Ako su brat ili sestra goli i lišeni, pa im kažeš: idite s mirom, grijte i nasitite se, ne davši im potrebno za tijelo, koja korist? Tako i vjera: ako nema djela, mrtva je.",
+    "_id": 535,
     "author": "Jakov Pravedni",
-    "ms": "Koja korist ako kažeš věru imaješ, děla že ne imaješ? Može li věra spasti te? Ako brat ili sestra sut nagi i lišeni, i rěčeš jim: idite s mirom, grějte i nasytite se, ne davši jim trěbovanja tělesnogo, koja korist? Tako i věra, ako děla ne imaje, mrtva jest.",
-    "source": "",
-    "_id": 535
+    "sr": "Koja korist ako imaš vjeru, a djela nemaš? Može li vjera spasti te? Ako su neki brat i sestra goli i lišeni, pa im kažeš: idite s mirom, grijte i nasitite se, ne davši im potrebno za tijelo, koja korist? Tako i vjera: bez djela, mrtva je.",
+    "ms": "Koja korist ako věru imaješ, děla že ne imaješ? Može li věra spasti te? Ako někoji brat i sestra nagi sut i lišeni, i rěčeš jim: idite s mirom, grějte i nasytite se, ne davši jim trěbovanja tělesnogo, koja korist? Tako i věra, bez děla, mrtva jest.",
+    "source": ""
   },
   {
     "author": "Muhamed",
@@ -4004,13 +4004,6 @@
     "ms": "Vozvyšeni bog ljubi dobrotu i trplivost v vsakom dělu.",
     "source": "Buharijeva zbirka hadisa, Sarajevo 2008.",
     "_id": 568
-  },
-  {
-    "sr": "Svet samo privid, uobraženje bez istinosti. Znaj i ti si uobraženje. I sve što poimaš govoreći „to nisam ja“, takođe je uobraženje.",
-    "author": "Ibn Arabi",
-    "ms": "Svět samo privid, voobraženje bez istinnosti. Znaj i ty jesi voobraženje. I vse čto pojmaš govoreči „to ne ja“, takože voobraženje.",
-    "source": "",
-    "_id": 569
   },
   {
     "sr": "Pozorni hodajući jasno zna: hodam, stojeći jasno zna: stojim, sedeći jasno zna: sedim, ležeći jasno zna: ležim. Potpuno je svestan dok dolazi i odlazi, gleda i osvrće se, saginje i diže se, dok nosi zdelu, pije, jede, žvaće i guta, dok sere i moča.",
@@ -4771,13 +4764,6 @@
     "ms": "Kto obhodi bolezne zaplyva v božju milost, i kogda sědne do boleznogo, cěly utone v božju milost i ljubov.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 676
-  },
-  {
-    "sr": "Odložite svaku skvrnavost i preostalu zlobu i krotko primite usađenu reč, koja može spasiti vaše duše.",
-    "author": "Jakov Pravedni",
-    "ms": "Odložite vsaku skvrnost i izbytok zloby, v krotosti prijmite vsadženo slovo, moguče spasti duše vaše.",
-    "source": "",
-    "_id": 677
   },
   {
     "author": "Muhamed",
@@ -5777,11 +5763,11 @@
     "_id": 812
   },
   {
+    "_id": 813,
     "author": "Jakov Pravedni",
-    "sr": "Zato, kažem vam, sudije, vama će biti suđeno. Niste poštedeli, a sami bejaste pošteđeni.",
-    "ms": "Zato, glagolju vam, suditelji, vami bude sudženo. Neste poščedili, a sami běste poščedženi.",
-    "source": "The (Second) Apocalypse of James",
-    "_id": 813
+    "sr": "Kažem vam, sudije, vama će biti suđeno. Niste poštedeli, a vi bejaste pošteđeni.",
+    "ms": "Glagolju vam, suditelji, vam bude sudženo. Neste poščedili, a vy běste poščedženi.",
+    "source": "The (Second) Apocalypse of James"
   },
   {
     "author": "Jakov Pravedni",
@@ -6367,11 +6353,11 @@
     "_id": 889
   },
   {
+    "_id": 890,
     "author": "Jakov Pravedni",
     "sr": "Budite tvorci slova, ne samo slušatelji, obmanujući sebe. Ko je samo slušatelj, podobi mužu motrećem svoje lice u zrcalu. Jer, usmotri sebe i otide, i zabi kakav beše.",
     "ms": "Budite tvorci slova, ne samo slušatelji, obmanujuči sebe. Kto samo slušatelj, podobaje mužu smotrečem svoje lice v zrcalu. Usmotri bo sebe i odide, i zaby kaky bě.",
-    "source": "Jakovljeva poslanica 1:22-24",
-    "_id": 890
+    "source": "Jakovljeva poslanica 1:22-24"
   },
   {
     "author": "Jakov Pravedni",
@@ -7191,10 +7177,9 @@
   {
     "_id": 1004,
     "author": "Dōgen",
-    "sr": "Tisuće i tisuće učenika praktikovali su meditaciju i došli do ploda. Ne sumnjaj u njenu moć usled prostog metoda.",
-    "ms": "Tyseč i tyseč učenikov praktikovali meditaciju i došli do ploda. Ne sumněvaj v jej moč vslěd prostogo metoda.",
-    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "wiki": ""
+    "sr": "Tisuće i tisuće učenika praktikovaše meditaciju i dođoše do ploda. Ne sumnjaj u njenu moć usled prostog metoda.",
+    "ms": "Tyseč i tyseč učenikov praktikovahu meditaciju i dojdehu do ploda. Ne sumněvaj v jej moč vslěd prostogo metoda.",
+    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija"
   },
   {
     "author": "Gautama Buddha",
@@ -7907,9 +7892,8 @@
     "_id": 1106,
     "author": "Dōgen",
     "sr": "Ako ne možeš naći istinu ovde i sada, gde drugde očekuješ ju naći?",
-    "ms": "Ako ne možeš najdti istinu sej i segda, kde inamo očekyvaš ju najdti?",
-    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "wiki": ""
+    "ms": "Ako ne možeš najdti istinu sej i sejčas, kde inamo očekyvaš najdti ju?",
+    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija"
   },
   {
     "author": "Huangbo Xiyun",
@@ -8153,11 +8137,11 @@
     "_id": 1140
   },
   {
+    "_id": 1141,
     "author": "Evagrije Pontski",
-    "sr": "Ako ti um luta zaustavi ga čitanjem, bdenjem i molitvom.",
-    "ms": "Ako ti um bludi zaustavi go čitanjem, bděnjem i molitvoju.",
-    "source": "Knjiga mističkih poglavlja, Zagreb, 2005.",
-    "_id": 1141
+    "sr": "Ako um luta zaustavi ga čitanjem, bdenjem i molitvom.",
+    "ms": "Ako um bludi zaustavi go čitanjem, bděnjem i molitvoju.",
+    "source": "Knjiga mističkih poglavlja, Zagreb, 2005."
   },
   {
     "author": "Maksim Ispovednik",
@@ -8709,11 +8693,11 @@
     "_id": 1220
   },
   {
+    "_id": 1221,
     "author": "Evagrije Pontski",
-    "sr": "Kad moliš, ne zamišljaj božanstvo u nekakvom obličju, no netvarnom pristupi netvarno, jer samo tako ćeš ga poznati.",
-    "ms": "Kogda moliš, ne voobražaj božstvo u někakom obličju, no netvarnom pristupi netvarno, ibo samo tak budeš go poznati.",
-    "source": "Knjiga mističkih poglavlja, Zagreb, 2005.",
-    "_id": 1221
+    "sr": "Kad moliš, ne zamišljaj božanstvo u nekakvom obličju, no netvarnom pristupi netvarno. Jer samo tako ćeš ga poznati.",
+    "ms": "Kogda moliš, ne voobražaj božstvo u někakom obličju, no netvarnom pristupi netvarno. Ibo samo tak budeš go poznati.",
+    "source": "Knjiga mističkih poglavlja, Zagreb, 2005."
   },
   {
     "author": "Evagrije Pontski",
@@ -9312,9 +9296,8 @@
     "_id": 1311,
     "author": "Zhaozhou Congshen",
     "sr": "Džošu upita Nansena: Šta je put?\nNansen odgovori: Svakodnevni život je put.\nDžošu upita: Kako se može dospeti na njega?\nNansen odgovori: Što ga više tražiš, sve je dalji.",
-    "ms": "Džošu zapyta Nansena: Čto jest put?\nNansen odgovori: Povsednji život jest put.\nDžošu spraša: Kako možno prihoditi na jego?\nNansen odgovori: Čto vyše iščeš go, on vse dalje.",
-    "source": "Mumonkan, zbirka zen koana, Beograd 1980.",
-    "wiki": ""
+    "ms": "Džošu zapyta Nansena: Čto jest put?\nNansen odgovori: Vsakodenny život jest put.\nDžošu spraša: Kako možno prihoditi na jego?\nNansen odgovori: Čto vyše iščeš go, on vse dalje.",
+    "source": "Mumonkan, zbirka zen koana, Beograd 1980."
   },
   {
     "author": "Huineng",
@@ -9723,11 +9706,11 @@
     "_id": 1371
   },
   {
+    "_id": 1372,
     "author": "Ibn Arabi",
     "sr": "Ko sebe pozna zna da nije drugo do bog.",
-    "ms": "Kto sebe pozna zna že nest drugo do bog.",
-    "source": "Ibn Arabi, Ko samog sebe poznaje, Beograd 2005.",
-    "_id": 1372
+    "ms": "Kto sebe pozna zna ne jest drugo do bog.",
+    "source": "Ibn Arabi, Ko samog sebe poznaje, Beograd 2005."
   },
   {
     "author": "Ibn Arabi",
@@ -10514,11 +10497,11 @@
     "wiki": ""
   },
   {
+    "_id": 1488,
     "author": "Grom: Savršeni um",
     "sr": "Ja sam poslana iz moći\ndošla sam onima koji me promišljaju\ni nađena među onima koji me ištu.",
-    "ms": "Jesm poslana iz moči\njesm došla tym ktori obmysljajut me\ni najdena od tyh ktori iščut me.",
-    "source": "Grom: Savršeni um",
-    "_id": 1488
+    "ms": "Ja jesm poslana iz moči\njesm došla tym ktori obmysljajut me\ni najdena od tyh ktori iščut me.",
+    "source": "Grom: Savršeni um"
   },
   {
     "author": "Grom: Savršeni um",
@@ -10542,18 +10525,18 @@
     "_id": 1491
   },
   {
+    "_id": 1492,
     "author": "Grom: Savršeni um",
     "sr": "Ja sam ta koju zovu život \ni koju zovu smrt.",
-    "ms": "Jesm ta koju zovut život \ni koju zovut smrt.",
-    "source": "Grom: Savršeni um",
-    "_id": 1492
+    "ms": "Ja jesm ta koju zovut život \ni koju zovut smrt.",
+    "source": "Grom: Savršeni um"
   },
   {
+    "_id": 1493,
     "author": "Grom: Savršeni um",
     "sr": "Ja sam bezbožna,\ni ona čiji bog je velik.",
-    "ms": "Ja bezbožna, \ni ja ona čij bog veliky.",
-    "source": "Grom: Savršeni um",
-    "_id": 1493
+    "ms": "Ja bezbožna, \ni ona čij bog veliky.",
+    "source": "Grom: Savršeni um"
   },
   {
     "author": "Grom: Savršeni um",
@@ -10647,11 +10630,11 @@
     "_id": 1507
   },
   {
+    "_id": 1508,
     "author": "Izreke Sekstove",
-    "sr": "Bolje ništa nemati no imati mnogo stva­ri a ne dati potrebitima.",
-    "ms": "Lučše ničto ne imati no imati mnogo stvary a ne dati potrěbujučim.",
-    "source": "Izreke Sekstove 377",
-    "_id": 1508
+    "sr": "Bolje ništa nemati no imati mnogo a ne dati potrebitim.",
+    "ms": "Lučše ničto ne imati no imati mnogo a ne dati potrěbujučim.",
+    "source": "Izreke Sekstove 377"
   },
   {
     "author": "Izreke Sekstove",
@@ -10668,11 +10651,11 @@
     "_id": 1510
   },
   {
+    "_id": 1511,
     "author": "Izreke Sekstove",
-    "sr": "Ne dozvoli da te nezahvalan odvrati činiti dobro.",
-    "ms": "Ne dozvoli da te neblagodarny odvrati činiti dobro.",
-    "source": "Izreke Sekstove 328",
-    "_id": 1511
+    "sr": "Ne dozvoli da te nezahvalni odvrati od dobro tvorenja.",
+    "ms": "Ne dozvoli da neblagodarny odvrati te od dobro tvorjenja.",
+    "source": "Izreke Sekstove 328"
   },
   {
     "_id": 1512,
@@ -11174,13 +11157,6 @@
     "_id": 1585
   },
   {
-    "author": "Evagrije Pontski",
-    "sr": "Početak spasenja je svoja savest.",
-    "ms": "Načetok spasenju svoja svěst.",
-    "source": "",
-    "_id": 1586
-  },
-  {
     "_id": 1588,
     "author": "Zhaozhou Congshen",
     "sr": "Nek drugi imaju sve što žele. Zadovoljavam se onim što mi je dato.",
@@ -11418,30 +11394,6 @@
     "sr": "Da bismo postali drukčiji no što jesmo, prvo moramo biti svesni šta smo.",
     "ms": "Da by stavali različni no čto jesmo, prvo moramo byti svědomi čto jesmo.",
     "source": "Bruce Lee, Tao of Jeet Kune Do (str. 26), 1975.",
-    "wiki": ""
-  },
-  {
-    "_id": 1644,
-    "author": "Alan Watts",
-    "sr": "Zen ne meša duhovnost sa razmišljanjem o bogu dok gulimo krompir. Zen duhovnost je samo guliti krompir.",
-    "ms": "Zen ne měšaje duhovnost s razmysljanjem o bogu dokolě obdiramo kartofelj. Zen duhovnost jest samo obdirati kartofelj.",
-    "source": "",
-    "wiki": ""
-  },
-  {
-    "_id": 1645,
-    "author": "Alan Watts",
-    "sr": "Što više stvar pokušava biti trajna, to više beživotna.",
-    "ms": "Čto vyše tvar sili se byti trajna, to vyše neživa.",
-    "source": "",
-    "wiki": ""
-  },
-  {
-    "_id": 1646,
-    "author": "Alan Watts",
-    "sr": "Stvari su kakve jesu. Gledajući svemir noću, ne poredimo dobre i loše zvezde, ni dobro i loše poređana sazvežđa.",
-    "ms": "Stvary sut kake sut. Gledeči vsemir nočju, ne sravnjajemo dobre i nedobre zvězdy, ni dobro i nedobro poravnjena suzvězdja.",
-    "source": "",
     "wiki": ""
   },
   {

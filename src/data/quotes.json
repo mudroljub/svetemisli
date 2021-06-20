@@ -413,13 +413,6 @@
     "_id": 57
   },
   {
-    "sr": "Čovek ne uplašen nije ratoboran. Čovek bez strahova je istinski slobodan, miran čovek.",
-    "author": "Jiddu Krishnamurti",
-    "ms": "Člověk ne strašeny ne ratoborny. Člověk bez strahov istinny svobodny, mirny člověk.",
-    "source": "",
-    "_id": 58
-  },
-  {
     "author": "Muhamed",
     "sr": "Bog neće pozivati na odgovornost za pomisli koje ostaju u prsima sve dok ih ne ispoljite govorom ili djelom.",
     "ms": "Bog ne zove na odgovornost dlja pomyslov čto ostavajut v prsah dokolě jih ne izrazite govorom ili dělom.",
@@ -793,11 +786,11 @@
     "_id": 111
   },
   {
-    "sr": "Nasilje nije samo ubiti drugog. Nasilje je koristiti oštre reči, terati nekoga, pokoravati se iz straha. Nasilje nije samo organizovano klanje u ime boga, društva ili države. Nasilje je mnogo suptilnije, mnogo dublje. Mi smo uronjeni u bezdane dubine nasilja.",
+    "_id": 112,
     "author": "Jiddu Krishnamurti",
-    "ms": "Nasilje ne prosto ubiti drugogo. Nasilje koristi ostra slova, gnati někogo ili pokoriti se iz straha. Nasilje ne samo ustrojena sěča vo ime boga, družstva ili državy. Nasilje mnogo subtilněje, mnogo glubje. My jesmo zanurjany v glubine nasilja bez dna.",
-    "source": "",
-    "_id": 112
+    "sr": "Nasilje nije samo ubiti drugog. Nasilje je koristiti oštre reči, terati nekoga, pokoravati se iz straha. Nasilje nije samo klanje u ime boga, društva ili države. Nasilje je mnogo suptilnije, mnogo dublje. Mi smo uronjeni u bezdane dubine nasilja.",
+    "ms": "Nasilje ne prosto ubiti drugogo. Nasilje koristiti ostra slova, gnati někogo ili pokoriti se iz straha. Nasilje ne samo sěča vo ime boga, družstva ili državy. Nasilje mnogo subtilněje, mnogo glubje. My zanurjany v glubině nasilja bez dna.",
+    "source": ""
   },
   {
     "author": "Muhamed",
@@ -1379,11 +1372,11 @@
     "_id": 196
   },
   {
-    "sr": "Ljubav nije reakcija. Ako te volim zato što ti voliš mene, to je samo trgovina, stvar koja se kupuje na pijaci; to nije ljubav.",
+    "_id": 197,
     "author": "Jiddu Krishnamurti",
-    "ms": "Ljubov ne reakcija. Ako te ljubim zato čto ty ljubiš mene, to prosto trgovanje, prědmet kupjeny na trgovišču; to ne ljubov.",
-    "source": "",
-    "_id": 197
+    "sr": "Ljubav nije reakcija. Ako te volim zato što ti voliš mene, to je samo trgovina; to nije ljubav.",
+    "ms": "Ljubov ne reakcija. Ako te ljubim zato že ty ljubiš mene, to prosto trgovanje; to ne ljubov.",
+    "source": ""
   },
   {
     "author": "Gautama Buddha",
@@ -1858,11 +1851,11 @@
     "_id": 263
   },
   {
-    "sr": "Na pitanje postoji li ili ne postoji Bog ili istina ili stvarnost, ili kako god to volite nazivati, nikada ne mogu odgovoriti knjige, sveštenici, filozofi ili spasitelji. Niko i ništa ne može odgovoriti na to pitanje osim tebe samog i eto zašto moraš upoznati sebe.",
+    "_id": 264,
     "author": "Jiddu Krishnamurti",
-    "ms": "Na pytanje jestvuje li bog ili istina ili stvarnost ili kak to imenovali, nikogda ne mogu odgovoriti knigy, svečenniki, filozofi ili spasitelji. Nikto i ničto ne može odgovoriti na to pytanje do tebe samogo i zato moraš poznati sebe.",
-    "source": "",
-    "_id": 264
+    "sr": "Na pitanje postoji li bog ili istina ili stvarnost, ne mogu odgovoriti knjige, sveštenici, filozofi, spasitelji. Niko ne može odgovoriti do tebe samog i zašto moraš poznati sebe.",
+    "ms": "Na pytanje jestvuje li bog ili istina ili stvarnost, ne mogu odgovoriti knigy, svečenniki, filozofi, spasitelji. Nikto ne može odgovoriti do tebe samogo i zato moraš poznati sebe.",
+    "source": ""
   },
   {
     "author": "Gautama Buddha",
@@ -2467,11 +2460,11 @@
     "wiki": "https://sh.wikipedia.org/wiki/Ne_sudite"
   },
   {
-    "sr": "Misao je vreme. Misao je rođena iz iskustva i znanja, neodvojivih od vremena i prošlosti.",
+    "_id": 348,
     "author": "Jiddu Krishnamurti",
-    "ms": "Myslj jest vrěme. Myslj rodžena iz izkušenosti i znanja, nerazlučnyh od vrěmena i prošlosti.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 348
+    "sr": "Misao je vreme. Ona je rođena iz iskustva i znanja, neodvojivih od vremena i prošlosti.",
+    "ms": "Myslj jest vrěme. Ona rodžena iz izkušenosti i znanja, nerazlučnyh od vrěmena i prošlosti.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "_id": 349,
@@ -3984,19 +3977,18 @@
     "_id": 565
   },
   {
-    "sr": "Opis nije opisano. Ja mogu opisati goru, no opis nije gora. Ako se uloviš u opis, kao većina ljudi, nikada nećeš videti goru.",
+    "_id": 566,
     "author": "Jiddu Krishnamurti",
-    "ms": "Opis ne opisano. Ja mogu opisati goru, no opis ne gora. Ako uloviš se v opis, kak večinstvo ljudi, nikogda ne uzriš goru.",
-    "source": "",
-    "_id": 566
+    "sr": "Opis nije opisano. Ja mogu opisati goru, no opis nije gora. Ako se uloviš u opis, nikada nećeš videti goru.",
+    "ms": "Opis ne opisano. Ja mogu opisati goru, no opis ne gora. Ako uloviš se v opis, nikogda ne uzriš goru.",
+    "source": ""
   },
   {
     "_id": 567,
     "author": "Jiddu Krishnamurti",
-    "sr": "Ja videh plavi auto što prolazi. Može li se tako videti mišljenje, dok ide s predmeta na predmet? Ako može, otkrijte može li se okončati. Možete li prosto okončati misao i videti šta biva dok sledeća čeka. Pre no sledeća ponikne, motrite. U tom rascepu, u tom međuvremenu, šta se zbiva?",
-    "ms": "Ja viděh prohodeči plavy avto. Može li se tak viděti mysljenje, dokolě ide s prědmeta na prědmet? Ako može, odkryjte može li se skončiti. Možete li prosto skončiti myslj i viděti čto byva dokolě slědujuča čeka. Prěd no slědna voznikne, smotrite. V tom razščepu, v tom medžu vrěmenu, čto byva?",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "wiki": ""
+    "sr": "Ja videh plavi auto što prolazi. Može li se tako videti mišljenje, dok ide s predmeta na predmet? Ako može, otkrijte može li se okončati.",
+    "ms": "Ja viděh prohodeči plavy avto. Može li se tak viděti mysljenje, dokolě ide s prědmeta na prědmet? Ako može, odkryjte može li skončiti se.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Muhamed",
@@ -5321,11 +5313,11 @@
     "_id": 753
   },
   {
-    "sr": "Blaženi vi osamljeni i izabrani, jer ćete naći carstvo. \nVi ishodite iz njega i idete iznova tamo.",
+    "_id": 754,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 49",
-    "ms": "Blaženi vy osamočeny i izbrany, ibo carstvo najdete. \nVy izhodite iz jego i idete iznova tam.",
-    "_id": 754
+    "sr": "Blaženi vi osamljeni i izabrani, jer ćete naći carstvo. Vi ishodite iz njega i idete iznova tamo.",
+    "ms": "Blaženi vy samotni i izbrany, ibo carstvo najdete. Vy izhodite iz jego i idete iznova tam.",
+    "source": "Evangelje po Tomi, izreka 49"
   },
   {
     "sr": "Ako pitaju vas: Odkuda ste?\nOdgovorite: Dođosmo od svetla, gde svetlo samo sebe tvori i slikom javlja.\nAko pitaju vas: Ko ste?\nOdgovorite: Deca i izabranici živoga oca.\nAko pitaju vas: Šta je znak oca u vama?\nOdgovorite: Kretanje i mir.",
@@ -6959,11 +6951,11 @@
     "_id": 972
   },
   {
+    "_id": 973,
     "author": "Konfucije",
     "sr": "Ako sretneš uzvišenog čoveka trudi se da mu budeš sličan. Ako sretneš običnog čoveka, potraži njegove mane u sebi.",
-    "ms": "Ako strěteš vozvyšenogo člověka sili se da mu budeš podobny. Ako strěteš obyčnogo člověka, poišči jego nedostatky v sobě.",
-    "source": "Konfucije, Izreke, Beograd 1986.",
-    "_id": 973
+    "ms": "Ako strěteš vozvyšenogo člověka sili se byti jemu podobny. Ako strěteš obyčnogo člověka, poišči jego nedostatky v sobě.",
+    "source": "Konfucije, Izreke, Beograd 1986."
   },
   {
     "author": "Konfucije",
@@ -7756,11 +7748,11 @@
     "_id": 1086
   },
   {
+    "_id": 1087,
     "author": "Konfucije",
-    "sr": "Ne govoriti o putu sa čovekom sposobnim razumeti znači pokvariti jednog čoveka. Govoriti o putu sa čovekom nesposobnim razumeti znači pokvariti svoje reči.",
-    "ms": "Ne govoriti o putu so člověkom sposobnym razuměti znači kaziti jednogo člověka. Govoriti o putu so člověkom nesposobnym razuměti znači kaziti svoje rěči.",
-    "source": "Konfucije, Izreke, Beograd 1986.",
-    "_id": 1087
+    "sr": "Ne govoriti o putu sa čovekom sposobnim razumeti znači naškoditi čoveku. Govoriti o putu sa čovekom nesposobnim razumeti znači naškoditi svojim rečima.",
+    "ms": "Ne govoriti o putu so člověkom sposobnym razuměti znači poškoditi člověku. Govoriti o putu so člověkom nesposobnym razuměti znači poškoditi svojim slovam.",
+    "source": "Konfucije, Izreke, Beograd 1986."
   },
   {
     "author": "Maksim Ispovednik",
@@ -9370,11 +9362,11 @@
     "_id": 1322
   },
   {
+    "_id": 1323,
     "author": "Jiddu Krishnamurti",
-    "sr": "Mnogi misle da ja jeste odovojeno trajno biće, koje se vremenom usavršava. Ne slažem se. Sama svest jeste ja.",
-    "ms": "Mnogi myslet že ja odděljeno trajno bitje, koje vrěmenem sovršaje se. Nesm soglasny. Sama svědomost jest ja.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1323
+    "sr": "Mnogi misle ja jeste odovojeno trajno biće, koje se vremenom usavršava. Ne slažem se. Sama svest jeste ja.",
+    "ms": "Mnogi myslet ja odděljeno trajno bitje, koje vrěmenem sovršaje se. Nesm soglasny. Sama svědomost jest ja.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9391,18 +9383,18 @@
     "_id": 1325
   },
   {
+    "_id": 1326,
     "author": "Jiddu Krishnamurti",
-    "sr": "Bez sadržaja nema svesti. Sadržaj može biti vaša religija, vaš bog, vaš strah, vaš bol, vaša mržnja, vaša ljubav, vaša zamisao o sopstvu. Sve je to stvorila misao.",
-    "ms": "Bez sodržanja ne imaje svědomosti. Sodržanje može byti vaša religija, vaš bog, vaš strah, vaš bolj, vaša nenavist, vaša ljubov, vaša zamysl o sebstvu. Vse to stvoril myslj.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1326
+    "sr": "Bez sadržaja nema svesti. Sadržaj može biti vaša religija, vaš bog, strah, bol, mržnja, ljubav, vaša zamisao o sopstvu. Misao stvori sve to.",
+    "ms": "Bez sodržanja ne imaje svědomosti. Sodržanje može byti vaša religija, bog, vaš strah, bolj, nenavist, ljubov, vaša zamysl o sebstvu. Myslj stvori vse to.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
+    "_id": 1327,
     "author": "Jiddu Krishnamurti",
-    "sr": "Proučavanje sebe ne uključuje povlačenje, izolaciju i neaktivnost. Naprotiv, to je proces krajnje pažnje i svesnosti.",
-    "ms": "Razsmatrjanje sebe ne vključaje odstupanje, izolaciju i nedějanje. Naprotiv, to proces krajne pozornosti i svědomosti.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1327
+    "sr": "Proučavanje sebe ne uključuje povlačenje i neaktivnost. Naprotiv, to je proces krajnje pažnje i svesnosti.",
+    "ms": "Razsmatrjanje sebe ne vključaje odstupanje i nedějanje. Naprotiv, to proces krajne pozornosti i svědomosti.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9412,11 +9404,11 @@
     "_id": 1328
   },
   {
+    "_id": 1329,
     "author": "Jiddu Krishnamurti",
-    "sr": "I dok radite za mašinom, sigurno imate vremena motriti svoje mišljenje.",
-    "ms": "I dokolě rabotate za mašinoju, bezsumno imajete vrěmena smotriti svoje mysljenje.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1329
+    "sr": "I dok radite u tvornici, sigurno imate vremena motriti svoje mišljenje.",
+    "ms": "I dokolě rabotate v tovarně, bezsumno imajete vrěmena smotriti svoje mysljenje.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9426,18 +9418,18 @@
     "_id": 1330
   },
   {
+    "_id": 1331,
     "author": "Jiddu Krishnamurti",
-    "sr": "Kada kažem: \"Želim uništiti ego\", javlja se iskustvo ega, i tako ego ojačava.",
-    "ms": "Kogda kažu: \"Želaju uniščiti ego\", javja se izkušenost ega, i tak ego ukrěpjaje.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1331
+    "sr": "Kada kažem: želim uništiti ego, javlja se iskustvo ega, i ego jača.",
+    "ms": "Kogda kažu: želaju uniščiti ego, javja se izkušenost ega, i ego ukrěpjaje.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
+    "_id": 1332,
     "author": "Jiddu Krishnamurti",
-    "sr": "Kreativnost je prisutna samo kada je ego odsutan. Zato što kreativnost ne potiče iz uma.",
-    "ms": "Kreativnost prisučna samo kogda ego odsutny. Ibo kreativnost ne proizhodi iz uma.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1332
+    "sr": "Kreativnost je prisutna kada je ego odsutan. Zato što kreativnost ne potiče iz uma.",
+    "ms": "Kreativnost prisučna kogda ego odsutny. Ibo kreativnost ne proizhodi iz uma.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9447,11 +9439,11 @@
     "_id": 1333
   },
   {
+    "_id": 1334,
     "author": "Jiddu Krishnamurti",
-    "sr": "Mi se nadamo da postoji neki bezvremen element, koji ostaje nakon uništenja ega, kojeg nazivamo bog, istina, besmrtnost. Nije li to proces jačanja ega?",
-    "ms": "My nadějemo se že obstaja někoji bezvrěmenny element, koj ostava poslě uniščenja ega, kojego nazyvamo bog, istina, bezsmrtnost. Ne li to podkrěpjaje ego?",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1334
+    "sr": "Nadamo se da postoji bezvremen element, koji ostaje nakon uništenja ega, kojeg nazivamo bog, istina, besmrtnost. Ne jača li to ego?",
+    "ms": "Nadějemo se že obstaja bezvrěmenny element, ostavajuči poslě uniščenja ega, kojego nazyvamo bog, istina, bezsmrtnost. Ne li to podkrěpjaje ego?",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9475,11 +9467,11 @@
     "_id": 1337
   },
   {
+    "_id": 1338,
     "author": "Jiddu Krishnamurti",
-    "sr": "Ako misliš da ćeš polučiti mir u budućnosti, već si uništio mogućnost mira. Mir je sada ili nikada.",
-    "ms": "Ako mysliš da budeš polučiti mir v budučnosti, uže jesi uniščil možnost mira. Mir jest segda ili nikogda.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1338
+    "sr": "Ako misliš polučiti mir u budućnosti, već si uništio mogućnost mira. Mir je sada ili nikada.",
+    "ms": "Ako mysliš polučiti mir v budučnosti, uže jesi uniščil možnost mira. Mir jest segda ili nikogda.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9489,32 +9481,32 @@
     "_id": 1339
   },
   {
+    "_id": 1340,
     "author": "Jiddu Krishnamurti",
-    "sr": "Sud tvori dvojstvo. Možemo li gledati misli bez ocene \"to je dobro\" ili \"to je loše\"? Veoma teško, jer to uključuje prestanak imenovanja.",
-    "ms": "Sud tvori dvojstvo. Možemo li gleděti mysli bez ocěnky \"to dobro\" ili \"to loše\"? Silno težko, ibo to vključaje prěstanje imenovanja.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1340
+    "sr": "Sud tvori dvojstvo. Možemo li gledati misli bez ocene to je dobro ili loše? Veoma teško, jer to uključuje prestanak imenovanja.",
+    "ms": "Sud tvori dvojstvo. Možemo li gleděti mysli bez ocěnky to dobro ili loše? Silno težko, ibo to vključaje prěstanje imenovanja.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
+    "_id": 1341,
     "author": "Jiddu Krishnamurti",
-    "sr": "Kada nečemu dam ime, na primer pohlepa, samo imenovanje je osuđivanje. Osloboditi um od osuđivanja znači prestati sa imenovanjem.",
-    "ms": "Kogda něčemu dam ime, na priměr lakomstvo, samo imenovanje jest osudženje. Osvoboditi um od osudžanja znači prěstati sa imenovanjem.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1341
+    "sr": "Kada nečemu dam ime, na primer pohlepa, samo imenovanje je osuđivanje. Osloboditi um osuđivanja znači prestati sa imenovanjem.",
+    "ms": "Kogda něčemu dam ime, na priměr lakomstvo, samo imenovanje jest osudženje. Osvoboditi um osudžanja znači prěstati sa imenovanjem.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
+    "_id": 1342,
     "author": "Jiddu Krishnamurti",
     "sr": "Ako ste svesni da ste gnevni, ima li i dalje gneva?",
-    "ms": "Ako jeste svědomy gněva, imaje li i dalje gněva?",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1342
+    "ms": "Ako vy svědomy gněva, imaje li i dalje gněva?",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
+    "_id": 1343,
     "author": "Jiddu Krishnamurti",
-    "sr": "Podela na mislioca i misao stvara sukob, jer je mislilac entitet koji sudi. No, ako motrite, samo mišljenje jeste. Mislioca je izmislila misao.",
-    "ms": "Poděla na myslitelja i myslj tvori konflikt, ibo myslitelj sudeči entitet jest. No, ako smotrite, samo mysljenje jest. Myslitelja izmyslila myslj.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1343
+    "sr": "Podela na mislioca i misao stvara sukob. No, ako motrite, samo mišljenje jeste. Mislioca je izmislila misao.",
+    "ms": "Poděla na myslitelja i myslj tvori konflikt. No, ako smotrite, samo mysljenje jest. Myslitelja izmyslila myslj.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9524,11 +9516,11 @@
     "_id": 1344
   },
   {
+    "_id": 1345,
     "author": "Jiddu Krishnamurti",
     "sr": "Želja za životom u drugom svetu je projekcija ega.",
-    "ms": "Želanje za životom v drugom světu projekcija ega jest.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1345
+    "ms": "Želanje dlja žitja v drugom světu projekcija ega jest.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9552,11 +9544,11 @@
     "_id": 1348
   },
   {
+    "_id": 1349,
     "author": "Jiddu Krishnamurti",
-    "sr": "Svesnost znači motrenje bez biranja.",
-    "ms": "Svědomost znači zrěnje bez izbiranja.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1349
+    "sr": "Svesnost je motrenje bez biranja.",
+    "ms": "Svědomost zrěnje bez izbiranja jest.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9566,11 +9558,11 @@
     "_id": 1350
   },
   {
+    "_id": 1351,
     "author": "Jiddu Krishnamurti",
-    "sr": "Tvrdim um se može osloboditi ovog časa, i nema postupnog procesa oslobađanja. Tišina uma se ne stiče gomilanjem znanja i vrlina.",
-    "ms": "Tvrdim um može osvoboditi se sej časa, i ne imaje postupnogo procesa osvobadžanja. Tišina uma ne dobyva se gromadženjem znanja i čestnosti.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1351
+    "sr": "Tvrdim um se može osloboditi ovog časa, i nema postupnog oslobađanja. Tišina uma se ne stiče gomilanjem znanja i vrlina.",
+    "ms": "Tvrdim um može osvoboditi se sej časa, i ne imaje postupnogo osvobadžanja. Tišina uma ne dobyva se gromadženjem znanja i čestnosti.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9580,11 +9572,11 @@
     "_id": 1352
   },
   {
+    "_id": 1353,
     "author": "Jiddu Krishnamurti",
     "sr": "Samo kada je um potpuno miran, moguće je dosegnuti istinske dubine.",
-    "ms": "Samo kogda um popolno mirny, možno jeste dosegnuti istinne glubiny.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1353
+    "ms": "Samo kogda um popolno mirny, možno dosegnuti istinne glubiny.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9601,25 +9593,25 @@
     "_id": 1355
   },
   {
+    "_id": 1356,
     "author": "Jiddu Krishnamurti",
     "sr": "Um obuzet duhovnim napretkom jednako je beznačajan kao um obuzet svetskim problemima.",
-    "ms": "Um zavzety duhovnym postupom jednako neznačny kak um zavzety světskym problemami.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1356
+    "ms": "Um zavzety duhovnym progresom jednako neznačny kak um zavzety světskym problemami.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
+    "_id": 1357,
     "author": "Jiddu Krishnamurti",
     "sr": "Um zaokupljen bogom, istinom, seksom ili pićem ne može videti istinu. Monah zaokupljen bogom može biti korisniji za društvo od pijanice, ali njegov um nije slobodan otkriti istinu.",
-    "ms": "Um zavzety bogom, istinoju, seksom ili pitjem ne može viděti istinu. Monah zavzety bogom može biti koristnějši za družstvo od pijanice, ale jego um ne svobodny odkryti istinu.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1357
+    "ms": "Um zavzety bogom, istinoju, seksom ili pitjem ne može viděti istinu. Monah zavzety bogom može byti koristnějši za družstvo od pijanice, ale jego um ne svobodny odkryti istinu.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
+    "_id": 1358,
     "author": "Jiddu Krishnamurti",
-    "sr": "Vi ste samo misao. Misao o imenu, misao o položaju, misao o novcu. Vi ste obična ideja. Otklonite misao, i gde ste tada?",
-    "ms": "Vy jeste samo myslj. Myslj o imenu, myslj o položenju, myslj o grošah. Vy jeste obyčna ideja. Odstranite myslj, i kde jeste togda?",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1358
+    "sr": "Vi ste samo misao. Misao o imenu, misao o položaju, misao o novcu. Otklonite misao, i gde ste tada?",
+    "ms": "Vy jeste samo myslj. Myslj o imenu, myslj o položenju, myslj o grošah. Odstranite myslj, i kde jeste togda?",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9643,11 +9635,11 @@
     "_id": 1361
   },
   {
+    "_id": 1363,
     "author": "Jiddu Krishnamurti",
-    "sr": "Istina nije daleko, ona je u svakodnevnim stvarima, no mi ne znamo kako ju videti. Samo tihi um koji ne ulaže napor vidi istinu.",
-    "ms": "Istina ne daleko, ona v povsednjim stvarami, no mi ne znamo kako viděti ju. Samo tihy um ktory ne vlaga napor vidi istinu.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1363
+    "sr": "Istina nije daleko, ona je u svakodnevnim stvarima, no mi ne znamo ju videti. Samo tihi um koji ne ulaže napor vidi istinu.",
+    "ms": "Istina ne daleko, ona v vsakodennym věčam, no mi ne znamo viděti ju. Samo tihy um ktory ne vlaga napor vidi istinu.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9678,11 +9670,11 @@
     "_id": 1367
   },
   {
+    "_id": 1368,
     "author": "Jiddu Krishnamurti",
-    "sr": "Nužno je otklanjati sećanje svake minute, čim pojavi se. Vi živite u Rimu a mislite o Bombaju. To dvoji um i tvori konflikt.",
-    "ms": "Nužno odstranjati pamet vsake minuty, čim pojavi se. Vy živete v Rimu a myslite o Bombaju. To dvoji um i tvori konflikt.",
-    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
-    "_id": 1368
+    "sr": "Nužno je otklanjati sećanje svakog časa, čim pojavi se. Vi živite u Rimu a mislite o Bombaju. To dvoji um i tvori konflikt.",
+    "ms": "Nužno odstranjati pamet vsakogo časa, čim pojavi se. Vy živete v Rimu a myslite o Bombaju. To dvoji um i tvori konflikt.",
+    "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
     "author": "Jiddu Krishnamurti",

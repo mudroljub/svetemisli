@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import {useSelector, useDispatch} from 'react-redux'
 
 import Quote from './Quote'
@@ -16,6 +16,13 @@ export default function Quotes({quotes, hideImage}) {
   const transliterate = useTransliterate()
   const dispatch = useDispatch()
 
+  const totalPages = Math.ceil(quotes.length / quotesPerPage)
+  const startPosition = page * quotesPerPage
+
+  useEffect(() => {
+    if (page >= totalPages) dispatch(setPage(0))
+  }, [page, totalPages, dispatch])
+
   const image = <img
     src={chakra}
     alt="cvět"
@@ -31,9 +38,6 @@ export default function Quotes({quotes, hideImage}) {
     dispatch(setPage(x))
     smoothscroll()
   }
-
-  const totalPages = Math.ceil(quotes.length / quotesPerPage)
-  const startPosition = page * quotesPerPage
 
   const jsxQuotes = quotes
     .filter((q, i) => i >= startPosition && i < startPosition + quotesPerPage) // eslint-disable-line no-unused-vars

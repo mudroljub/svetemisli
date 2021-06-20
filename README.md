@@ -25,5 +25,4 @@ npm start
 
 # TODO
 
-- dodati ponegde nu umesto no
 - ćirilični input

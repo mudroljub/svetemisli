@@ -42,7 +42,8 @@ const AuthorImage = ({author, showImage}) => {
   return (
     <img
       src={src}
-      style={{opacity: +loaded, transition: 'opacity .4s' }}
+      style={{opacity: +loaded, transition: 'opacity .4s', pointerEvents: 'none'}}
+      draggable="false"
       onLoad={() => setLoaded(true)}
       alt={showImage ? author : 'cvět'}
       width={imgWidth}

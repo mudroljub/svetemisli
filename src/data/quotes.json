@@ -58,11 +58,11 @@
     "_id": 8
   },
   {
-    "sr": "Monah je ko se ne meša sa svetom i svagda se obraća bogu. Gledajući boga je viđen, ljubeći boga ljubljen, postajući svetlo što svetli neizrecivo. Kada ga slave on sebe vidi bednim, kada mu se približuju on se odaljuje.",
+    "_id": 9,
     "author": "Simeon Novi Teolog",
-    "ms": "Monah jest kto ne měša se so světom i vsegda obrača se bogu. Gledeči boga on jest viděny, ljubeči boga ljubjeny, i stava světlo čto světli neizrěcivo. Kogda go slavet on sebe vidi bědnym, kogda približajut se jemu on se oddaljaje.",
-    "source": "",
-    "_id": 9
+    "sr": "Monah se ne meša sa svetom i svagda se obraća bogu. Gledajući boga je viđen, ljubeći boga ljubljen, postajući svetlo neizrecivo. Kada ga slave on sebe vidi bednim, kada mu se približuju on se odaljuje.",
+    "ms": "Monah ne měša se so světom i vsegda obrača se bogu. Gledeči boga on viděny, ljubeči boga ljubjeny, stavajuči světlo neizrěkajuče. Kogda slavet go on sebe vidi bědnym, kogda približajut se jemu on se oddaljaje.",
+    "source": ""
   },
   {
     "sr": "Ako neko tvoju sestru udari rukom, kamenom, štapom ili nožem, treba napustiti svaku reakciju, i ovako sebe vežbati: Moj um će ostati miran i neću izgovoriti lošu reč, pun saosećanja za njegovu dobrobit, uma punog ljubavi, bez mržnje u sebi.",
@@ -115,11 +115,11 @@
     "_id": 16
   },
   {
+    "_id": 17,
     "author": "Lao Tzu",
-    "sr": "Mudrac prima jedno i postaje uzor.\nNe pokazuje se, vidan je.\nNe hvali se, on uspeva. \nNe uzdiže se, dostojan je.\nNe spori se, i niko ne može sporiti s njim.",
-    "ms": "Mudrec prijma jedno i stava vzor.\nNe pokazyva se, on vidny. \nNe hvali se, on uspěva. \nNe vozdviga se, on dostojny.\nNe spori se, i nikto ne može sporiti s jim.",
-    "source": "Knjiga o putu, izreka 22",
-    "_id": 17
+    "sr": "Mudrac prijmajući jedno postaje uzor.\nNe pokazuje se, vidan je.\nNe hvali se, on uspeva. \nNe uzdiže se, dostojan je.\nNe spori se, i niko ne može sporiti s njim.",
+    "ms": "Mudrec prijmajuči jedno stava vzor.\nNe pokazyva se, on vidny. \nNe hvali se, on uspěva. \nNe vozdviga se, on dostojny.\nNe spori se, i nikto ne može sporiti s jim.",
+    "source": "Knjiga o putu, izreka 22"
   },
   {
     "sr": "Ima četiri vezanosti: za naslade, gledišta, verozakon i sebe. Sve četiri vezanosti imaju žeđ za izvor.",
@@ -210,11 +210,11 @@
     "_id": 29
   },
   {
+    "_id": 30,
     "author": "Lao Tzu",
-    "sr": "Ako su ljudi bogati i na visokom položaju oholi, prepuštaju se neizbežnoj propasti.",
-    "ms": "Ako ljudi bogaty i na vysokom položenju budut naduty, prěpuščajut se neizběžnoj propasti.",
-    "source": "Knjiga o putu, izreka 9",
-    "_id": 30
+    "sr": "Ako su ljudi bogati i na visokom oholi, prepuštaju se neizbežnoj propasti.",
+    "ms": "Ako ljudi bogati i na vysokom položenju naduti, prěpuščajut se neizběžnoj propasti.",
+    "source": "Knjiga o putu, izreka 9"
   },
   {
     "_id": 31,
@@ -326,25 +326,25 @@
     "_id": 45
   },
   {
-    "sr": "Bog je svet, i saopštava od svoje svetlosti onima sa kojima se sjedinjuje po meri njihovog očišćenja.",
+    "_id": 46,
     "author": "Simeon Novi Teolog",
-    "ms": "Bog jest svety, i soobčaje od jego světla jimi s kym se sjedinjaje po měri jih očiščenja.",
-    "source": "",
-    "_id": 46
+    "sr": "Bog saopštava od svoje svetlosti onima sa kojima se sjedinjuje po meri njihovog očišćenja.",
+    "ms": "Bog soobčaje od jego světla jimi s kym se sjedinjaje po měri jih očiščenja.",
+    "source": ""
   },
   {
+    "_id": 47,
     "author": "Zhuang Zhou",
     "sr": "Veličina je bezgranična, \nvreme beskrajno, \nstanja prolazna, \npočetak i kraj ne moguće otkriti.",
-    "ms": "Veličina neograničena, \nvrěme bezkonečno, \nobliky vrěmenny, \npočetok i konec nemožno odkryti.",
-    "source": "",
-    "_id": 47
+    "ms": "Veličina neograničena, \nvrěme bezkonečno, \nobliky minujuči, \npočetok i konec nemožno odkryti.",
+    "source": ""
   },
   {
+    "_id": 48,
     "author": "Lao Tzu",
-    "sr": "Kada izgubi se put, ostaje ispravnost. \nKada izgubi se ispravnost, ostaje zakon. \nKada izgubi se zakon, ostaje dužnost. \nKada izgubi se dužnost, ostaje nered,\ni javlja se potreba za vladanjem.",
-    "ms": "Kogda put izgubjeny, ostava pravost. \nKogda pravost izgubjena, ostava zakon. \nKogda zakon izgubjeny, ostava dolžnost. \nKogda dolžnost izgubjena, ostava nered, \ni javja se potrěba za vladanjem.",
-    "source": "Knjiga o putu, izreka 18 i izreka 38",
-    "_id": 48
+    "sr": "Kada izgubi se put, ostaje ispravnost. \nKada izgubi se ispravnost, ostaje zakon. \nKada izgubi se zakon, ostaje dužnost. \nKada izgubi se dužnost, ostaje nered\ni javlja se potreba za vladanjem.",
+    "ms": "Kogda put izgubjeny, ostava pravost. \nKogda pravost izgubjena, ostava zakon. \nKogda zakon izgubjeny, ostava dolžnost. \nKogda dolžnost izgubjena, ostava nered\ni javja se potrěba za vladanjem.",
+    "source": "Knjiga o putu, izreka 18 i izreka 38"
   },
   {
     "author": "Lao Tzu",
@@ -352,13 +352,6 @@
     "ms": "Smenšaj něčto i bude veličejše. \nUveliči něčto i bude menše.",
     "source": "Knjiga o putu, izreka 42",
     "_id": 49
-  },
-  {
-    "sr": "Priroda jednog je izvor svih tvari, no ni jedna od njih. Ni nešto, ni kakvoća, ni količina, ni duh, ni duša. Nije imenljivo. No mi, obilazeći oko jednog, želimo izraziti šta doživljavamo.",
-    "author": "Plotin",
-    "ms": "Priroda jednogo jest žrlo vsih tvari, no ni jedna od jih. Ni něčto, ni kakost, ni kolikost, ni duh, ni duša. Ne imenlivo. No mi, obhodeči oko jednogo, želamo izraziti čto doživejemo.",
-    "source": "",
-    "_id": 50
   },
   {
     "sr": "Vjera čista i neoskvrnjena pred bogom i ocem jest posećivati sirote i udovice u njihovijem nevoljama, i neoskvrnjena sebe čuvati od svijeta.",
@@ -420,11 +413,11 @@
     "_id": 59
   },
   {
+    "_id": 60,
     "author": "Lao Tzu",
-    "sr": "Put je večan, nema imena, \nneisklesana je gromada... \nKad se gromada jednom iskleše, \npostoje imena.",
-    "ms": "Put věčny, bez imena, \nnerazrězana gromada... \nKogda se gromada jednom razrěže, \nbyvajut imena.",
-    "source": "Knjiga o putu, izreka 32",
-    "_id": 60
+    "sr": "Put je večan, nema imena, \nneisklesana je gromada.\nKad se gromada iskleše, \npostaju imena.",
+    "ms": "Put věčny, bez imena, \nnerazrězana gromada.\nKogda gromada razrěže se, \nbyvajut imena.",
+    "source": "Knjiga o putu, izreka 32"
   },
   {
     "author": "Muhamed",
@@ -498,18 +491,11 @@
     "_id": 70
   },
   {
-    "sr": "Svjesnost najdublja priroda duše. Što svjesniji, to duhovniji jesi.",
-    "author": "Dželaludin Rumi",
-    "ms": "Svědomost najglubša priroda duše. Čto svědomějši, to duhovnějši jesi.",
-    "source": "",
-    "_id": 71
-  },
-  {
-    "sr": "Čisti um je odvojen od neznanja i osvetljen božanskim svetlom.",
+    "_id": 72,
     "author": "Maksim Ispovednik",
-    "ms": "Čisty um odděljany od neznanja i osvětljany božskym světlom.",
-    "source": "Stoslovi o ljubavi I-33",
-    "_id": 72
+    "sr": "Čisti um je odvojen od neznanja i osvetljen božanskim svetlom.",
+    "ms": "Čisty um odděljany od neznanja i osvětljany božskym světlom jest.",
+    "source": "Stoslovi o ljubavi I-33"
   },
   {
     "_id": 73,
@@ -722,11 +708,11 @@
     "_id": 102
   },
   {
-    "sr": "Sve vrline pomažu umu u sticanju božanske ljubavi, no više čista molitva. Um molitvom uznošen k bogu biva van svih stvari.",
+    "_id": 103,
     "author": "Maksim Ispovednik",
-    "ms": "Vsi podvigy pomažu umu v dobyvanju božske ljubvi, no najvyše čista molitva. Um molitvoju voznošeny k bogu byva von vsih prědmeta.",
-    "source": "Stoslovi o ljubavi I-11",
-    "_id": 103
+    "sr": "Sve vrline pomažu u sticanju božanske ljubavi, no najviše čista molitva. Um molitvom uznošen k bogu biva van svih stvari.",
+    "ms": "Vsi podvigy pomažu v dobyvanju božske ljubvi, no najvyše čista molitva. Um molitvoju voznošeny k bogu byva von vsih prědmetov.",
+    "source": "Stoslovi o ljubavi I-11"
   },
   {
     "author": "Gautama Buddha",
@@ -924,9 +910,8 @@
     "_id": 132,
     "author": "Maksim Ispovednik",
     "sr": "Bestrašće je mirno stanje duše, u kome duša postaje teško pomična na zlo.",
-    "ms": "Bezstrastje mirno stanje duše, v kom duša stava težko pomična na zlo.",
-    "source": "Stoslovi o ljubavi I-36",
-    "wiki": ""
+    "ms": "Bezstrastje mirno stanje duše jest, v kom duša stava težko pomična na zlo.",
+    "source": "Stoslovi o ljubavi I-36"
   },
   {
     "_id": 133,
@@ -1164,11 +1149,11 @@
     "_id": 165
   },
   {
+    "_id": 166,
     "author": "Lao Tzu",
     "sr": "Nema gore nevolje od nezasitosti. \nNema veće mane od pohlepe.\nKo zna stati, ostvariće spokoj.",
-    "ms": "Ne imaje gorše nevolje od nenasytnosti. \nNe imaje večše hyby od lakomstva.\nKto zna stati, bude dosegati pokoj.",
-    "source": "Knjiga o putu, izreka 46",
-    "_id": 166
+    "ms": "Ne imaje gorše nevolje od nenasytnosti. \nNe imaje večše hyby od lakomstva.\nKto zna stati, dosegne pokoj.",
+    "source": "Knjiga o putu, izreka 46"
   },
   {
     "author": "Gautama Buddha",
@@ -1179,11 +1164,11 @@
     "_id": 167
   },
   {
-    "sr": "Telo pomračuje istinu, ali tamo sve stoji jasno i odvojeno.",
+    "_id": 168,
     "author": "Plotin",
-    "ms": "Tělo mrači istinu, ale tamo vse stoji jasno i razlučeno.",
-    "source": "",
-    "_id": 168
+    "sr": "Telo pomračuje istinu, no tamo sve stoji jasno i razlučeno.",
+    "ms": "Tělo mrači istinu, no tam vse stoji jasno i razlučeno.",
+    "source": ""
   },
   {
     "author": "Isus",
@@ -1284,13 +1269,6 @@
     "source": "Evangelje po Mateju, glava 12:46-50; Evangelje po Marku, glava 3:31-35; Evangelje po Luki, 8:19-21; Evangelje po Tomi, izreka 99; Tumačenje znanja 9-11",
     "wiki": "https://sh.wikipedia.org/wiki/Isusovi_istinski_srodnici",
     "_id": 183
-  },
-  {
-    "sr": "Često sam dolazio sebi osećajući kao istupam iz tela; iako odvojen od drugih stvari, u samoći sebe, vidim lepotu koja je veličanstvena.",
-    "author": "Plotin",
-    "ms": "Često prijehah sobě čujuči kak izstupam iz těla. Odděljeny od prědmetov, v samoty sebe, viděh lěpotu koja jest veličstvena.",
-    "source": "",
-    "_id": 184
   },
   {
     "author": "Muhamed",
@@ -1837,11 +1815,11 @@
     "_id": 260
   },
   {
-    "sr": "Gordost monaha jeste gorditi se podvizima, unižavati druge, a uspehe pripisivati sobi ne bogu. Gordost svetovnjaka jeste uznositi se lepotom, bogatstvom, silom i pameću.",
+    "_id": 261,
     "author": "Maksim Ispovednik",
-    "ms": "Gordost monaha jest gorditi se so podvigami, unižati druge, a uspěhy pripisyvati sobě ne bogu. Gordost člověka světa jest voznositi se lěpotoju, bogatstvom, siloju i ostroumjem.",
-    "source": "Stoslovi o ljubavi III-84",
-    "_id": 261
+    "sr": "Gordost monaha jeste gorditi se podvizima, unižavati druge, a uspehe pripisivati sobi ne bogu. Gordost svetovnjaka jeste uznositi se lepotom, bogatstvom, silom i pameću.",
+    "ms": "Gordost monaha jest gorditi se podvigami, unižati druge, a uspěhov pripisyvati sobě ne bogu. Gordost člověka světa jest voznositi se lěpotoju, bogatstvom, siloju i ostroumjem.",
+    "source": "Stoslovi o ljubavi III-84"
   },
   {
     "author": "Gautama Buddha",
@@ -2070,11 +2048,11 @@
     "_id": 293
   },
   {
-    "sr": "Tvoji prijatelji su zapravo tvoji neprijatelji, dokle te vežu za sebe i dok se baviš njima, odvlačeći te od prisustva.",
+    "_id": 294,
     "author": "Dželaludin Rumi",
-    "ms": "Tvoji prijatelji zapravdu tvoji neprijatelji, dokolě te vežut za sebe i dokolě se baviš jimi, odvlěkajuči te od prisučnosti.",
-    "source": "",
-    "_id": 294
+    "sr": "Tvoji prijatelji su zapravo tvoji neprijatelji, dokle te vežu za sebe, odvlačeći te od prisustva.",
+    "ms": "Tvoji prijatelji zapravdu tvoji neprijatelji, dokolě vežut te za sebe, odvlěkajuči te od prisučnosti.",
+    "source": ""
   },
   {
     "author": "Muhamed",
@@ -2193,11 +2171,11 @@
     "_id": 310
   },
   {
-    "sr": "Očisti um od gneva, zlopamćenja i sramnih pomisli, i prepoznati ćeš useljenje Hrista u sebi.",
+    "_id": 311,
     "author": "Maksim Ispovednik",
-    "ms": "Očisti um od gněva, zlo pomněnja i sramnyh pomysli, i budeš poznati prijdenje Hrista v sobě.",
-    "source": "Stoslovi o ljubavi IV-76",
-    "_id": 311
+    "sr": "Očisti um od gneva, zlopamćenja i sramnih misli, i poznaćeš useljenje Hrista u sebi.",
+    "ms": "Očisti um od gněva, zlo pomněnja i sramnyh mysli, i poznaš prijdenje Hrista v sobě.",
+    "source": "Stoslovi o ljubavi IV-76"
   },
   {
     "author": "Isak Sirin",
@@ -2215,11 +2193,11 @@
     "wiki": "https://sh.wikipedia.org/wiki/Nemislivo"
   },
   {
+    "_id": 314,
     "author": "Lao Tzu",
-    "sr": "Najsavršenije izgleda nesavršeno, \na njegova je upotrebljivost nenarušena. \nNajpunije izgleda prazno, \na njegova je upotrebljivost neiscrpna. \nNajpravije izgleda krivo. \nNajveće umeće izgleda nespretno. \nNajveći govor kao mucanje.",
-    "ms": "Najsovršeněje prividno nesovršeno, \nješče jego upotrěbimost nenarušima. \nNajpolněje prividno prazdno, \nješče jego upotrěbimost neizčrpana. \nNajpravěje prividno krivo. \nNajboljše uměnje prividno nesručno. \nNajlušči govor kak zajikanje.",
-    "source": "Knjiga o putu, izreka 45",
-    "_id": 314
+    "sr": "Najpunije izgleda prazno, \nali njegova je upotrebljivost neiscrpna.",
+    "ms": "Najpolněje prividno prazdno, \nale jego upotrěbimost neizčrpana.",
+    "source": "Knjiga o putu, izreka 45"
   },
   {
     "_id": 315,
@@ -2417,11 +2395,11 @@
     "_id": 341
   },
   {
-    "sr": "U postizanju budnosti nema mesta namernom naporu. Samo treba nastaviti obične i uzbuđenja lišene radnje: srati i močati, nositi odeću, jesti i spavati kad se umorite. Prost čovek će vas ismejati, ali mudar će razumeti.",
+    "_id": 342,
     "author": "Linji",
-    "ms": "V postiganju budnosti ne imaje města naročitom naporu. Samo trěba nastaviti obyčna i vozbudženja lišena děla: srati i močiti, nesti oděž, jesti i spati kogda se umorite. Prosty člověk vas bude izsmějati, ale mudry razuměti.",
-    "source": "",
-    "_id": 342
+    "sr": "U postizanju budnosti nema mesta namernom naporu. Samo treba nastaviti obične i uzbuđenja lišene radnje: srati i močati, nositi odeću, jesti i spavati kad se umorite. Prost čovek će vas ismejati, ali mudar će razumeti.",
+    "ms": "V postiganju budnosti ne imaje města naročitom naporu. Samo trěba nastaviti obyčna i vozbudženja lišena děla: srati i močiti, nesti oděž, jesti i spati kogda umorite se. Prosty člověk vas bude izsmějati, ale mudry razuměti.",
+    "source": ""
   },
   {
     "author": "Muhamed",
@@ -2443,13 +2421,6 @@
     "ms": "Matej spraša: Dokolě ja gledim i dokolě govorim, kto odkryva i slyši?\nIsus odgovori: Kto govori jednako i slyši, a kto gledi jednako i odkryva.",
     "source": "Dijalog Spasitelja, 125-126",
     "_id": 345
-  },
-  {
-    "author": "Zhuang Zhou",
-    "sr": "Kako mogu znati da ljubav prema životu nije obmana? Kako mogu znati da prestrašen od smrti ne sliči izgubljenom detetu na putu doma?",
-    "ms": "Kak mogu znati že ljubov prěmy žitju ne obman? Kak mogu znati že prěstrašeny od smrti ne podobaje izgubjenom dětetu na putu doma?",
-    "source": "",
-    "_id": 346
   },
   {
     "_id": 347,
@@ -2482,11 +2453,11 @@
     "_id": 350
   },
   {
-    "sr": "Jedno nije daleko ni od koga, a opet je daleko od svih. Ono je prisutno samo za primajuće i gotove priljubiti se i čuti ga srodnošću unutrašnje sile.",
+    "_id": 351,
     "author": "Plotin",
-    "ms": "Jedno ne daleko od nikto, ješče daleko od vsih. Ono jest prisučno samo za prijmajuče i gotove priljubiti se i čuti go srodstvom vnutrišnje silě.",
-    "source": "",
-    "_id": 351
+    "sr": "Jedno nije daleko ni od koga, ipak daleko je od svih. Ono je prisutno samo za primajuće i gotove priljubiti se i čuti ga srodnošću unutrašnje sile.",
+    "ms": "Jedno ne daleko od nikogo, ješče daleko od vsih. Ono prisučno samo za prijmajuče i gotove priljubiti se i čuti go srodstvom vnutrišnje silě.",
+    "source": ""
   },
   {
     "author": "Muhamed",
@@ -2531,11 +2502,11 @@
     "_id": 357
   },
   {
+    "_id": 358,
     "author": "Lao Tzu",
-    "sr": "Ne uznosite ljude, i neće biti sporova. \nNe cenite retke predmete, i neće biti lopova.\nOdbacite žudnju i srca će naći mir.",
-    "ms": "Ne voznosite ljude, i ne bude sporov. \nNe cěnite rědke prědmetov, i ne bude kradeži.\nOdkloniti žednost i srdca budut najdti mir.",
-    "source": "Knjiga o putu, izreka 3",
-    "_id": 358
+    "sr": "Ne uznosite ljude, i neće biti sporova. \nNe cenite retke predmete, i neće biti lopova.\nOdbacite žudnju i srca nađu mir.",
+    "ms": "Ne voznosite ljude, i ne bude sporov. \nNe cěnite rědke prědmetov, i ne bude kradeži.\nOdkloniti žednost i srdca najdut mir.",
+    "source": "Knjiga o putu, izreka 3"
   },
   {
     "author": "Isak Sirin",
@@ -2566,11 +2537,11 @@
     "_id": 362
   },
   {
-    "sr": "Kada um čežnjom ljubavi uznosi se Bogu, ne oseća sebe, ni išta postojeće. Obasjan beskrajnom božanskom svetlošću, bezosećajan je za sve stvoreno, kao oko prema zvezdama kada rodi se sunce.",
+    "_id": 363,
     "author": "Maksim Ispovednik",
-    "ms": "Kogda um žedny ljubvi voznosi se bogu, ne čuje sebe, ni čto-libo byvajuče. Blěskany bezkonečnym božskym světlom, bezčutny jest za vse sozdano, kak oko prěmy zvězdam kogda rodi se solnce.",
-    "source": "Stoslovi o ljubavi I-10",
-    "_id": 363
+    "sr": "Um žedni ljubavi uznosi se bogu, ne oseća sebe, ni išta postojeće. Obasjan beskrajnom božanskom svetlošću, bezosećajan je za sve stvoreno, kao oko prema zvezdama kada rodi se sunce.",
+    "ms": "Um žedny ljubvi voznosi se bogu, ne čuje sebe, ni čto-libo byvajuče. Blěskany bezkonečnym božskym světlom, bezčutny za vse sozdano, kak oko prěmy zvězdam kogda rodi se solnce.",
+    "source": "Stoslovi o ljubavi I-10"
   },
   {
     "sr": "Zamisli ogromnu stenu u duboku vodu. I dođe mnoštvo ljudi i počne se moliti, klanjati i govoriti: Izroni, dobra steno! Izađi na obalu, dobra steno! Šta mniš, usled molitvi mnoštva ljudi, hoće li stena izroniti?",
@@ -2813,11 +2784,11 @@
     "_id": 397
   },
   {
-    "sr": "Oni prebivajući u praroditeljskoj tami smatraju neprijateljima preporođene u duhu od svetlosti uma i govoreće o delima svetlosti, jer ih takve reči silno žaloste i ranjavaju.",
+    "_id": 398,
     "author": "Simeon Novi Teolog",
-    "ms": "Oni prěbyvajuči v praroditeljskoj tmy smatrjajut vragami vozrodžene v duhu od světla uma i govoreče ob dělah světla, ibo jih takova slova silno žalostet i poranet.",
-    "source": "",
-    "_id": 398
+    "sr": "Prebivajući u tami smatraju neprijateljima preporođene u duhu i govoreće o delima svetlosti, jer ih takve reči silno žaloste i ranjavaju.",
+    "ms": "Prěbyvajuči v tmy smatrjajut vragami vozrodžene v duhu i govoreče ob dělam světla, ibo jih takova slova silno žalostet i poranet.",
+    "source": ""
   },
   {
     "author": "Muhamed",
@@ -2880,10 +2851,9 @@
   {
     "_id": 408,
     "author": "Zhuang Zhou",
-    "sr": "Čun možete sakriti u zaliv a mrežu u jezero. No, neko može doći i odneti ih. No ako svemir sklonite u svemir, nema gde izgubiti se. Stoga mudrac ište neizgubivo i ostaje s tim.",
-    "ms": "Čoln možete skryti v zaliv a mrěžu v jezero. No, někto može dojdti i odnesti jih. No ako vsemir skryjemo v vsemir, ne imaje kde izgubiti se. Stoga mudrec išče negubivo i ostava s tym.",
-    "source": "",
-    "wiki": ""
+    "sr": "Čun možete sakriti u zaliv a mrežu u jezero. No, neko može doći i odneti ih. Ako svemir sklonite u svemir, nema gde izgubiti se. Stoga mudrac ište neizgubivo i ostaje s tim.",
+    "ms": "Čoln možete skryti v zaliv a mrěžu v jezero. No, někto može dojdti i odnesti jih. Ako vsemir skryjemo v vsemir, ne imaje kde izgubiti se. Stoga mudrec išče negubivo i ostava s tym.",
+    "source": ""
   },
   {
     "author": "Isus",
@@ -2921,11 +2891,11 @@
     "_id": 413
   },
   {
-    "sr": "Ko je savršen u ljubavi i dostigavši vrh bestrašća ne zna razliku između sebe i drugoga, svoga i tuđeg, vernog i nevernog, roba i slobodnog, čak ni muškog i ženskog.",
+    "_id": 414,
     "author": "Maksim Ispovednik",
-    "ms": "Sovršeny v ljubvi i dostigavši vrh bezstrastja ne zna razliku medžu sebe i drugogo, svojego i inočijego, věrnogo i nevěrnogo, raba i svobodnogo, čak ni mužskogo i ženskogo.",
-    "source": "Stoslovi o ljubavi II-30",
-    "_id": 414
+    "sr": "Savršen u ljubavi i dostigavši vrh bestrašća ne zna razliku između sebe i drugoga, svoga i tuđeg, vernog i nevernog, roba i slobodnog, čak ni muškog i ženskog.",
+    "ms": "Sovršeny v ljubvi i dostigavši vrh bezstrastja ne zna razliku iz-medžu sebe i drugogo, svojego i inočijego, věrnogo i nevěrnogo, raba i svobodnogo, čak ni mužskogo i ženskogo.",
+    "source": "Stoslovi o ljubavi II-30"
   },
   {
     "author": "Muhamed",
@@ -2986,11 +2956,11 @@
     "wiki": ""
   },
   {
-    "sr": "Ni jedna razumna duša po prirodi nije vrednija od druge. Jer svaku dušu bog sazda po svom obrazu kao samopokretnu. Svaka duša pokazuje svoju vrednost kroz slobodu izbora, a sramotu prepuštanjem strasti.",
+    "_id": 423,
     "author": "Maksim Ispovednik",
-    "ms": "Ni jedna razumna duša po prirodi ne dragocěnnějša od druge. Ibo vsaku dušu sozda bog po jego podoby kak samopokretnu. Vsaka duša pokazyva svoju cěnnost črěz svobodu izbora, a sramotu podavanjem strasti.",
-    "source": "Gnostički stoslovi I-11",
-    "_id": 423
+    "sr": "Ni jedna razumna duša po prirodi nije vrednija od druge. Jer svaku dušu bog sazda po svom obrazu. Svaka duša pokazuje svoju vrednost kroz slobodu izbora, a sramotu prepuštanjem strasti.",
+    "ms": "Ni jedna razumna duša po prirodi ne dragocěnnějša od druge. Ibo vsaku dušu sozda bog po jego obrazu. Vsaka duša pokazyva svoju cěnnost črěz svobodu izbora, a sramotu podavanjem strasti.",
+    "source": "Gnostički stoslovi I-11"
   },
   {
     "sr": "Budnima je svet jedan i opšti, a sanjajući okreću se svaki sopstvenom.",
@@ -3165,11 +3135,11 @@
     "_id": 447
   },
   {
-    "sr": "Konačni povratak izvoru je najveća želja vernika. On nalazi ispunjenje u večnokretnom mirovanju oko željenoga.",
+    "_id": 448,
     "author": "Maksim Ispovednik",
-    "ms": "Konečny povratok izvoru jest najboljše želanje věrnika. On nahodi izpolnjanje v věčno dvigajučem miru oko želanogo.",
-    "source": "",
-    "_id": 448
+    "sr": "Konačni povratak izvoru je najveća želja vernika.",
+    "ms": "Konečny povratok izvoru jest najboljše želanje věrnika.",
+    "source": ""
   },
   {
     "author": "Gautama Buddha",
@@ -3207,11 +3177,11 @@
     "_id": 453
   },
   {
-    "sr": "Mudrac, kada podučava ili uči, jedino podučava i uči korisno.",
+    "_id": 454,
     "author": "Maksim Ispovednik",
-    "ms": "Mudrec, kogda obuča ili uči se, jedino obuča i uči koristno.",
-    "source": "Gnostički stoslovi I-28",
-    "_id": 454
+    "sr": "Mudrac, kada podučava ili uči, jedino podučava i uči korisno.",
+    "ms": "Mudrec, kogda obuča ili uči, jedino obuča i uči koristno.",
+    "source": "Gnostički stoslovi I-28"
   },
   {
     "author": "Isak Sirin",
@@ -3331,11 +3301,11 @@
     "_id": 472
   },
   {
-    "sr": "Ko vidi u srcu mržnju k drugom čoveku za kakvu grešku, potpuno je stran ljubavi k bogu. Jer ljubav k bogu ne trpi mržnju k čoveku.",
+    "_id": 473,
     "author": "Maksim Ispovednik",
-    "ms": "Kto vidi v srdcu vragost k drugom člověku za kaku grěšku, popolno stranny ljubvi k bogu. Jer ljubov k bogu ne trpi vragost k člověku.",
-    "source": "Stoslovi o ljubavi I-15",
-    "_id": 473
+    "sr": "Ko ima u srcu mržnju k čoveku za kakvu grešku, potpuno je stran ljubavi k bogu. Jer ljubav k bogu ne trpi mržnju k čoveku.",
+    "ms": "Kto imaje v srdcu nenavist k člověku za kaku grěšku, popolno stranny ljubvi k bogu. Ibo ljubov k bogu ne trpi nenavist k člověku.",
+    "source": "Stoslovi o ljubavi I-15"
   },
   {
     "author": "Isak Sirin",
@@ -3368,11 +3338,11 @@
     "_id": 477
   },
   {
-    "sr": "Nema konca ni početka dobroti božjoj: kao što je svojstvo svetlosti osvetljavati, svojstvo je božje dobrote stvarati.",
+    "_id": 481,
     "author": "Maksim Ispovednik",
-    "ms": "Ne imaje konca ni početka dobroty božjej: kak svojstvo světla osvětljati, tak svojstvo božje dobroty tvoriti.",
-    "source": "Gnostički stoslovi I-35",
-    "_id": 481
+    "sr": "Kao što je svojstvo svetlosti osvetljavati, svojstvo je božje dobrote stvarati.",
+    "ms": "Kak svojstvo světla osvětljati, tak svojstvo božje dobroty tvoriti.",
+    "source": "Gnostički stoslovi I-35"
   },
   {
     "author": "Muhamed",
@@ -3417,11 +3387,11 @@
     "_id": 488
   },
   {
+    "_id": 489,
     "author": "Zhuang Zhou",
-    "sr": "Mudrac ne stara znati zašto živi. Ne stara znati zašto mre. On ne zna šta je pre, šta posle. Sledeći prirodni tok postao je nešto, i prosto čeka dalji preobražaj.",
-    "ms": "Mudrec ne opeka znati začto živi. Ne opeka znati začto mre. On ne zna čto prědže, čto poslě. Slědujuči prirodny tok stava něčto, i prosto čeka dalje prěobraženje.",
-    "source": "",
-    "_id": 489
+    "sr": "Mudrac ne stara znati zašto živi. Ne stara znati zašto mre. On ne zna šta je pre šta posle. Sledeći tok postao je nešto, i prosto čeka dalji preobražaj.",
+    "ms": "Mudrec ne opeka znati začto živi. Ne opeka znati začto mre. On ne zna čto prědže čto poslě. Slědujuči tok stava něčto, i prosto čeka dalje prěobraženje.",
+    "source": ""
   },
   {
     "author": "Isak Sirin",
@@ -3577,13 +3547,6 @@
     "_id": 510
   },
   {
-    "sr": "Tražiti put do ljubavi razumom je kao tražiti sunce svetiljkom.",
-    "author": "Dželaludin Rumi",
-    "ms": "Slědovati put do ljubvi razumom kak slědovati solnce světilkoju.",
-    "source": "",
-    "_id": 511
-  },
-  {
     "sr": "Zamislite da mesar ubije kravu, raspori je nožem, povadi sve žile i oguli kožu. A potom sve vrati na mesto. Je li krava ista kao ranije? U prenesenom značenju, meso su čula, koža predmeti čula, a žile žeđ. Nož je mudrost, koja seče nečistoće, okove i veze.",
     "author": "Gautama Buddha",
     "ms": "Prědstavi sobě měsar ubije kravu, razpore ju nožem, iztrga vse žily i obdere kožu. A potom vse vrne na město. Jest li krava jednaka kak raněje? Podobno, meso sut čutja, koža prědmety čutja, a žily žednost. Nož jest mudrost, sěkuči nečistoty, okovy i svezy.",
@@ -3643,18 +3606,18 @@
     "_id": 519
   },
   {
+    "_id": 520,
     "author": "Lao Tzu",
-    "sr": "Mudrac:\nOstajući iza, u svemu prvi.\nGubeći sebe, dobiva sebe.\nOdbacivši sebe, spasen je.\nNe želeći ništa, postiže sve.",
-    "ms": "Mudrec: \nOstavši vzadu, v vsemu prvy.\nGubeči sebe, dobyva sebe.\nOdstranivši sebe, spaseny.\nne želajuči ničto, dostiga vse.",
-    "source": "Knjiga o putu, izreka 7",
-    "_id": 520
+    "sr": "Mudrac ostajući iza, u svemu prvi.\nGubeći sebe, dobiva sebe.\nOdbacivši sebe, spasen je.\nNe želeći ništa, postiže sve.",
+    "ms": "Mudrec ostavši vzadu, v vsemu prvy.\nGubeči sebe, dobyva sebe.\nOdstranivši sebe, spaseny.\nne želajuči ničto, dostiga vse.",
+    "source": "Knjiga o putu, izreka 7"
   },
   {
-    "sr": "Tri su uzroka ljubavi prema bogatstvu: sladoljublje, sujeta i neverje. Sladostrasan voli srebro da razvratno živi. Sujetni da bi se proslavio. A neverni da krije i šteti, bojeći se gladi, starosti i bolesti, i verujući više u blago no u boga.",
+    "_id": 521,
     "author": "Maksim Ispovednik",
-    "ms": "Tri sut povoda ljubvi k bogatstvu: sladoljubje, gordost i nevěrje. Sladoljubny ljubi srěbro da razvratno živi. Gordy da proslavi se. A nevěrny da kryje i ščedi, boječi se gladi, starosti i bolesti, i dověrjajuči vyše v blago no v boga.",
-    "source": "Stoslovi o ljubavi III-17,18",
-    "_id": 521
+    "sr": "Tri su uzroka ljubavi prema bogatstvu: sladoljublje, sujeta i neverje. Sladostrasan voli srebro da razvratno živi. Sujetni da bi se proslavio. A neverni krije i šteti, bojeći se gladi, starosti i bolesti, verujući više u blago no u boga.",
+    "ms": "Tri sut povoda ljubvi k bogatstvu: sladoljubje, gordost i nevěrje. Sladoljubny ljubi srěbro da razvratno živi. Gordy da proslavi se. A nevěrny kryje i ščedi, boječi se gladi, starosti i bolesti, dověrjajuči vyše v blago no v boga.",
+    "source": "Stoslovi o ljubavi III-17,18"
   },
   {
     "author": "Muhamed",
@@ -3664,11 +3627,11 @@
     "_id": 522
   },
   {
-    "sr": "Ne prljaj telo sramotnim delima \ni ne skrnavi dušu zlim mislima, \ni mir Božiji doći će na tebe, \ndonoseći ljubav.",
+    "_id": 523,
     "author": "Maksim Ispovednik",
+    "sr": "Ne prljaj telo sramotnim delima \ni ne skrnavi dušu zlim mislima, \ni mir božiji doći će na tebe, \ndonoseći ljubav.",
     "ms": "Ne maži tělo sramotnym dělami \ni ne skvrni dušu zlym myslami, \ni mir božji dojde na tebe, \ndonoseči ljubov.",
-    "source": "Stoslovi o ljubavi I-44",
-    "_id": 523
+    "source": "Stoslovi o ljubavi I-44"
   },
   {
     "author": "Muhamed",
@@ -3685,11 +3648,11 @@
     "_id": 525
   },
   {
-    "sr": "Mnoge strasti skrite su u našim dušama, i pokažu se kada se javi povod.",
+    "_id": 526,
     "author": "Maksim Ispovednik",
-    "ms": "Mnoge strasti skryte v našim dušam, i pokažu se kogda javi se povod.",
-    "source": "",
-    "_id": 526
+    "sr": "Mnoge strasti skrite u našim dušama pokažu se kada se javi povod.",
+    "ms": "Mnoge strasti skryte v našim dušam pokažu se kogda javi se povod.",
+    "source": ""
   },
   {
     "author": "Gautama Buddha",
@@ -3795,11 +3758,11 @@
     "_id": 540
   },
   {
-    "sr": "Tihovanje voli nepristrastan prema svemu svetskom. A sve ljude voli ko ne voli ništa ljudsko.",
+    "_id": 541,
     "author": "Maksim Ispovednik",
-    "ms": "Tihovanje ljubi nepristrastny k vsem světskom. A vse ljude ljubi kto ne ljubi ničto ljudsko.",
-    "source": "Stoslovi o ljubavi III-37",
-    "_id": 541
+    "sr": "Sve ljude voli ko ne voli ništa ljudsko.",
+    "ms": "Vse ljude ljubi kto ne ljubi ničto ljudsko.",
+    "source": "Stoslovi o ljubavi III-37"
   },
   {
     "author": "Muhamed",
@@ -4230,18 +4193,11 @@
     "_id": 601
   },
   {
-    "sr": "Um dejstvuje po prirodi kada su mu strasti pokorene, kada sagledava smisao bića i kada prebiva u Bogu.",
+    "_id": 603,
     "author": "Maksim Ispovednik",
-    "ms": "Um děje po prirodě kogda jemu strasti pokorjene, kogda pojmi smysl bytja i kogda prěbyva v bogu.",
-    "source": "Stoslovi o ljubavi IV-45",
-    "_id": 602
-  },
-  {
-    "sr": "Ne preziri savest koja ti uvek savetuje najbolje. Ona ti predlaže božanske i anđelske savete, oslobađa od tajnih oskvrnjenja srca i daruje ti smelost k bogu u vreme smrti.",
-    "author": "Maksim Ispovednik",
-    "ms": "Ne prěziraj svědomje koje ti vsegda sovětuje najlučše. Ona ti prědlaga božske i angelske sověte, osvobadža od tajnyh oskvrnjenja srdca i daruje ti smělost k bogu v vrěme smrti.",
-    "source": "Stoslovi o ljubavi III-80",
-    "_id": 603
+    "sr": "Ne preziri savest koja uvek savetuje najbolje. Ona ti predlaže božanske i anđelske savete, oslobađa od tajnih oskvrnjenja srca i daruje smelost k bogu u vreme smrti.",
+    "ms": "Ne prěziraj svědomje koje vsegda sovětuje najlučše. Ona ti prědlaga božske i angelske sověte, osvobadža od tajnyh oskvrnjenja srdca i daruje smělost k bogu v vrěme smrti.",
+    "source": "Stoslovi o ljubavi III-80"
   },
   {
     "author": "Muhamed",
@@ -4440,11 +4396,11 @@
     "_id": 630
   },
   {
+    "_id": 631,
     "author": "Lao Tzu",
-    "sr": "Spoznanja nepromenljivog naziva se prosvetljenje.",
-    "ms": "Poznanje neměnlivogo kliče se prosvěčenje.",
-    "source": "Knjiga o putu, izreka 16",
-    "_id": 631
+    "sr": "Spoznanja nepromenljivog naziva se prosvetljenjem.",
+    "ms": "Poznanje neměnlivogo kliče se prosvěčenjem.",
+    "source": "Knjiga o putu, izreka 16"
   },
   {
     "author": "Gautama Buddha",
@@ -4779,11 +4735,11 @@
     "_id": 680
   },
   {
-    "sr": "Umirući, telo se odvaja od svih stvari ovoga sveta. I um na krajnjem stepenu molitve umire, odvajajući se od svih svetskih pojmova. Ukoliko ne umre takvom smrću, neće moći da prebiva i živi sa Bogom.",
+    "_id": 681,
     "author": "Maksim Ispovednik",
-    "ms": "Umruči, tělo odděli se od vsih prědmetov světa. Podobno, um na konečnom stupnju molitvy umre, odděljeny od vsih světskyh prědstav. Ako ne umre takovom smrtju, nemožno mu prěbyvati i žiti s bogom.",
-    "source": "Stoslovi o ljubavi II-62",
-    "_id": 681
+    "sr": "Umirući, telo se odvaja od svih stvari sveta. Tako i um na konačnom stupnju molitve umire, odvajajući se od svih svetskih pojmova. Ako ne umre takvom smrću, nemožno mu živeti sa bogom.",
+    "ms": "Umruči, tělo oddělja se od vsih prědmetov světa. Tako i um na konečnom stupnju molitvy umre, odděljeny od vsih světskyh prědstav. Ako ne umre takovom smrtju, nemožno mu žiti s bogom.",
+    "source": "Stoslovi o ljubavi II-62"
   },
   {
     "author": "Muhamed",
@@ -4931,11 +4887,11 @@
     "_id": 701
   },
   {
-    "sr": "Svaka duša i svako živo biće što se kreće učestvuje u suštini dobrog oca.",
+    "_id": 702,
     "author": "Mani",
-    "ms": "Vsaka duša i vsako živo bytje čto se gyba učestvuje v jestestvu dobrogo otca.",
-    "source": "",
-    "_id": 702
+    "sr": "Svaka duša i svako gibajuće živo biće učestvuje u suštini dobrog oca.",
+    "ms": "Vsaka duša i vsako gybajuče živo bytje učestvuje v jestestvu dobrogo otca.",
+    "source": ""
   },
   {
     "author": "Gautama Buddha",
@@ -6505,11 +6461,11 @@
     "_id": 911
   },
   {
+    "_id": 912,
     "author": "Sengcan",
-    "sr": "Zato što biramo da prihvatamo i odbacujemo, ne vidimo istinski smisao stvari.",
-    "ms": "Zato že izbiramo prijmati i odmetati, ne vidimo istinny smysl stvari.",
-    "source": "Biseri kineskog zen budizma, Beograd 2003.",
-    "_id": 912
+    "sr": "Zato što biramo da prihvatamo i odbacujemo, ne vidimo istinski smisao.",
+    "ms": "Zato že izbiramo prijmati i odmetati, ne vidimo istinny smysl.",
+    "source": "Biseri kineskog zen budizma, Beograd 2003."
   },
   {
     "author": "Sengcan",
@@ -6519,11 +6475,11 @@
     "_id": 913
   },
   {
+    "_id": 914,
     "author": "Sengcan",
-    "sr": "Kad je um nepoljuljan, na putu, ništa na svetu ne može da ga povredi.",
-    "ms": "Kogda um ne potreseny, na putu, ničto na světu ne može raniti go.",
-    "source": "Biseri kineskog zen budizma, Beograd 2003.",
-    "_id": 914
+    "sr": "Kad je um na putu, ništa na svetu ne može povrediti ga.",
+    "ms": "Kogda um na putu, ničto na světu ne može raniti go.",
+    "source": "Biseri kineskog zen budizma, Beograd 2003."
   },
   {
     "author": "Sengcan",
@@ -6540,11 +6496,11 @@
     "_id": 916
   },
   {
+    "_id": 917,
     "author": "Sengcan",
-    "sr": "Vezanost za zamisao o prosvetljenju je zastranjenje s puta.",
-    "ms": "Svezannost za zamysl o prosvěčanju jest zabludženje s puta.",
-    "source": "Biseri kineskog zen budizma, Beograd 2003.",
-    "_id": 917
+    "sr": "Zamisao o prosvetljenju je zastranjenje s puta.",
+    "ms": "Zamysl o prosvěčanju zabludženje s puta jest.",
+    "source": "Biseri kineskog zen budizma, Beograd 2003."
   },
   {
     "author": "Sengcan",
@@ -6575,18 +6531,18 @@
     "_id": 921
   },
   {
+    "_id": 922,
     "author": "Sengcan",
-    "sr": "Tragati za umom pomoću uma koji tvori razlike je najveća greška od svih.",
-    "ms": "Slědovati za umom pomočju uma koj tvori razliky jest največša grěška od vsih.",
-    "source": "Biseri kineskog zen budizma, Beograd 2003.",
-    "_id": 922
+    "sr": "Tragati za umom pomoću uma koji razlučuje je najveća greška od svih.",
+    "ms": "Slědovati za umom pomočju uma ktory razlučaje jest največša grěška od vsih.",
+    "source": "Biseri kineskog zen budizma, Beograd 2003."
   },
   {
+    "_id": 923,
     "author": "Sengcan",
-    "sr": "Da oči ne spavaju, ne bi bilo snova. Da um ne tvori razliku, sve stvari bi bile kakve jesu, od iste suštine.",
-    "ms": "Da oči ne spet, ne by bylo snov. Da um ne tvori razliku, vse stvary by byle kake sut, od samogo jestestva.",
-    "source": "Biseri kineskog zen budizma, Beograd 2003.",
-    "_id": 923
+    "sr": "Da um ne razlučava, sve stvari bi bile kakve jesu, od iste suštine.",
+    "ms": "Da um ne razlučaje, vse stvary by byle kake sut, od samogo jestestva.",
+    "source": "Biseri kineskog zen budizma, Beograd 2003."
   },
   {
     "author": "Heraklit",
@@ -6901,11 +6857,11 @@
     "_id": 965
   },
   {
+    "_id": 966,
     "author": "Plotin",
-    "sr": "Jedno nije shvatljivo znanjem kao ostali pojmovi, no prisustvom, što je važnije.",
-    "ms": "Jedno ne razumějemo znanjem kak ine prědstavy, no prisučstvom, čto jest važnějše.",
-    "source": "",
-    "_id": 966
+    "sr": "Jedno nije shvatljivo znanjem kao ostali pojmovi, no prisustvom.",
+    "ms": "Jedno ne razumějemo znanjem kak ine prědstavy, no prisučstvom.",
+    "source": ""
   },
   {
     "author": "Dželaludin Rumi",
@@ -6915,11 +6871,11 @@
     "_id": 967
   },
   {
+    "_id": 968,
     "author": "Dželaludin Rumi",
-    "sr": "Krivnju traži u sebi, ti si posijao sjeme.",
-    "ms": "Vinnost išči v sobě, ty jesi posějal sěme.",
-    "source": "",
-    "_id": 968
+    "sr": "Krivnju traži u sebi.",
+    "ms": "Vinnost išči v sobě.",
+    "source": ""
   },
   {
     "author": "Gautama Buddha",
@@ -6966,13 +6922,6 @@
   },
   {
     "author": "Mani",
-    "sr": "Blaženi će primiti poruku, mudri će je razumeti, jaki će preuzeti mudrost mudrih.",
-    "ms": "Blaženy budu prijeti poslanje, mudry budu razuměti, krěpky budu nabyvati mudrost mudryh.",
-    "source": "Evangelje po Maniju",
-    "_id": 975
-  },
-  {
-    "author": "Mani",
     "sr": "Naređujem vam, slušatelji, dokle ima sile u vašim telima, težite spasenju svoje duše.",
     "ms": "Nakažu vam, slušatelji, dokolě imaje sily v vašim tělam, silite se spasenju svoje duše.",
     "source": "Parable of the \"Pearl-borer\" http://gnosis.org/library/parapear.htm",
@@ -6993,18 +6942,18 @@
     "_id": 978
   },
   {
+    "_id": 979,
     "author": "Mani",
-    "sr": "Ovo su lekovite reči iz večnog i živog ždrela. Ko ih čuje i poveruje, i sačuva njihovu pouku, neće biti podložan smrti, no će uživati u večnom i slavnom životu.",
-    "ms": "Ovo sut zdrava slova iz věčnogo i živogo žrla. Ko jih slyši i pověrja, i ohrani jih pouku, ne bude poddany smrti, no bude uživati v věčnom i slavnom životu.",
-    "source": "Fundamental Epistle of Mani http://gnosis.org/library/fund.htm",
-    "_id": 979
+    "sr": "Ovo su lekovite reči iz večnog i živog ždrela. Ko čuje i poveruje i sačuva njihovu pouku, neće biti podložan smrti, no će uživati u večnom i slavnom životu.",
+    "ms": "Ovo sut zdrava slova iz věčnogo i živogo žrla. Ko slyši i pověrja i ohrani jih pouku, ne bude poddany smrti, no bude uživati v věčnom i slavnom životu.",
+    "source": "Fundamental Epistle of Mani http://gnosis.org/library/fund.htm"
   },
   {
+    "_id": 980,
     "author": "Mani",
-    "sr": "Nema greha, osim od čovekove sopstvene volje. Tako i nagrada kada dobro delamo takođe je od naše volje.",
-    "ms": "Ne ima grěha, kromě od člověkove sobstvene volje. Tako i nagrada kogda dobro dělamo takože od naše volje jest.",
-    "source": "Augustine of Hippo, Against Fortunatus",
-    "_id": 980
+    "sr": "Nema greha, osim od čovekove sopstvene volje. Tako i nagrada kada dobro delamo od naše volje je.",
+    "ms": "Ne ima grěha, kromě od člověkove sobstvene volje. Tako i nagrada kogda dobro dělamo od naše volje jest.",
+    "source": "Augustine of Hippo, Against Fortunatus"
   },
   {
     "_id": 981,
@@ -7022,25 +6971,18 @@
     "_id": 982
   },
   {
+    "_id": 983,
     "author": "Sveti Nuri",
     "sr": "Sufi ništa ne posjeduje i ničim nije posjednut.",
     "ms": "Sufi ničto ne posěda i ničim ne posědany.",
-    "source": "Antologija sufijskih tekstova, Zagreb, 1988.",
-    "_id": 983
+    "source": "Antologija sufijskih tekstova, Zagreb, 1988."
   },
   {
+    "_id": 985,
     "author": "Dželaludin Rumi",
-    "sr": "Oslobodi se svojih svojstava kako bi mogao razmišljati o čistoj biti.",
-    "ms": "Osvobodi se svojih svojstva kako by mogl razmysljati o čistoj istinnosti.",
-    "source": "Antologija sufijskih tekstova, Zagreb, 1988.",
-    "_id": 984
-  },
-  {
-    "author": "Dželaludin Rumi",
-    "sr": "Sufijska se knjiga ne sastoji od crnila i slova; ona nije drugo do srce bijelo kao snijeg.",
-    "ms": "Sufijska kniga ne sostoji se od črnoty i slova; ona ne drugo do srdce bělo kak sněg.",
-    "source": "Antologija sufijskih tekstova, Zagreb, 1988.",
-    "_id": 985
+    "sr": "Sufijska se knjiga ne sastoji od slova; ona nije drugo do srce bijelo kao snijeg.",
+    "ms": "Sufijska kniga ne sostoji se od slova; ona ne drugo do srdce bělo kak sněg.",
+    "source": "Antologija sufijskih tekstova, Zagreb, 1988."
   },
   {
     "author": "Abu Said Abul Hajr",
@@ -7084,13 +7026,6 @@
     "ms": "Věrnik vse svoje napore obrača žilišču vozvyšenogo, i dokolě tu ne stigne ne dopušča sobě oddyha.",
     "source": "Antologija sufijskih tekstova, Zagreb, 1988.",
     "wiki": ""
-  },
-  {
-    "author": "Zun-Nun Egipatski",
-    "sr": "Bože, nikada ne slušah riku zvijeri, ni šum drveća, ni žubor vode, ni pjev ptica, ni huk vjetra, ni grmenje groma, a da u tome ne poznah svjedočanstvo tvoje jednosti.",
-    "ms": "Bože, nikogda ne slyšah ryk zvěri, ni šum drěva, ni žubor vody, ni pěvanje ptica, ni vytje větra, ni greměnje groma, a da v tom ne poznah svědočstvo tvoje jednosti.",
-    "source": "Antologija sufijskih tekstova, Zagreb, 1988.",
-    "_id": 992
   },
   {
     "author": "Abu Said Abul Hajr",
@@ -7181,13 +7116,6 @@
     "_id": 1005
   },
   {
-    "author": "Shunryū Suzuki",
-    "sr": "U umu početnika mnogo je mogućnosti, u umu znalca samo několiko.",
-    "ms": "V umu početnika mnogo možnosti, v umu znalca samo několiko.",
-    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "_id": 1006
-  },
-  {
     "author": "Gautama Buddha",
     "sr": "Nijedna druga stvar ne goni ljude da stranstvuju besprekidno, danju i noću, kao kada su vođeni obmanom.",
     "ms": "Nijedna druga stvar ne goni ljude da bludet bezprěryvno, dnju i noči, kak kogda sut vodženy obmanom.",
@@ -7201,14 +7129,6 @@
     "source": "Milindapanha 77",
     "wiki": "https://sh.wikipedia.org/wiki/Milindina_pitanja",
     "_id": 1008
-  },
-  {
-    "_id": 1009,
-    "author": "Nagasena",
-    "sr": "Poznat sam pod imenom Nagasena. Iako roditelji daju imena Nagasena, Surasena ili Virasena, to je samo prigodna oznaka. Jer ne postoji nikakav ja.",
-    "ms": "Znany jesm pod imenem Nagasena. I ako roditelji dadut imena Nagasena, Surasena ili Virasena, to samo prigodna oznaka. Ibo ne jest nikaky ja.",
-    "source": "Milindapanha",
-    "wiki": ""
   },
   {
     "author": "Gautama Buddha",
@@ -7416,18 +7336,18 @@
     "wiki": ""
   },
   {
+    "_id": 1040,
     "author": "Maksim Ispovednik",
-    "sr": "Blažen je čovek koji sve ljude može jednako da voli.",
-    "ms": "Blaženy člověk možny vse ljude jednako ljubiti.",
-    "source": "",
-    "_id": 1040
+    "sr": "Blažen je ko može sve ljude jednako voleti.",
+    "ms": "Blaženy kto može vse ljude jednako ljubiti.",
+    "source": ""
   },
   {
+    "_id": 1041,
     "author": "Maksim Ispovednik",
-    "sr": "Ako nećeš da otpadneš od ljubavi po bogu, ne dopusti da brat zaspi ogorčen na tebe, ni ti na njega.",
-    "ms": "Ako ne hočeš odpasti od ljubvi po bogu, ne dopusti da brat zaspi gorky na tebe, ni ti na jego.",
-    "source": "",
-    "_id": 1041
+    "sr": "Ako nećeš da otpadneš od božje ljubavi, ne dopusti da brat zaspi ogorčen na tebe, ni ti na njega.",
+    "ms": "Ako ne hočeš odpasti od božje ljubvi, ne dopusti da brat zaspi gorky na tebe, ni ti na jego.",
+    "source": ""
   },
   {
     "author": "Hasan al-Basri",
@@ -7554,16 +7474,15 @@
     "_id": 1059,
     "author": "Seneka",
     "sr": "Ako čovjek ne zna prema kojem pristaništu plovi, nijedan vjetar nije povoljan.",
-    "ms": "Ako člověk ne zna prěmy kojem pristanišču plava, nijedin větr ne dobry.",
-    "source": "",
-    "wiki": ""
+    "ms": "Ako člověk ne zna prěmy kojem pristanišču plava, nijedin větr ne ugodny.",
+    "source": ""
   },
   {
+    "_id": 1060,
     "author": "Zaratustra",
-    "sr": "Vatra uči mnogim znanjima svakog ko njen plamen posmatra radoznalim umom.",
-    "ms": "Ogonj uči mnogym znanjam vsekogo kto jego plamenj posmotri ljubopytnym umom.",
-    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004.",
-    "_id": 1060
+    "sr": "Vatra uči mnogim znanjima svakog ko plamen posmatra radoznalim umom.",
+    "ms": "Ogonj uči mnogym znanjam vsekogo kto plamenj posmotri ljubopytnym umom.",
+    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004."
   },
   {
     "author": "Pitagora",
@@ -7580,11 +7499,11 @@
     "_id": 1062
   },
   {
+    "_id": 1063,
     "author": "Pitagora",
-    "sr": "Ne daj da san padne ti na oči pre no pretreseš današnja dela. Gde pogreših? Šta učinih? Šta dužan propustih? Takav trud izvešće te na put božanske čestitosti.",
-    "ms": "Ne daj da son pade ti na oči prědže no prěgledaš dnešnja děla. Kde pogrěših? Čto učinih? Čto dolžny propustih? Takovy trud izvede te na put božske čestnosti.",
-    "source": "Pitagora, Zlatni stihovi",
-    "_id": 1063
+    "sr": "Ne daj da san padne ti na oči pre no pretreseš današnja dela. Gde pogreših? Šta učinih? Šta propustih? Takav trud izvešće te na put božanske čestitosti.",
+    "ms": "Ne daj da son pade ti na oči prědže no prěgledaš dnešnja děla. Kde pogrěših? Čto učinih? Čto propustih? Takovy trud izvede te na put božske čestnosti.",
+    "source": "Pitagora, Zlatni stihovi"
   },
   {
     "author": "Pitagora",
@@ -7616,24 +7535,17 @@
   },
   {
     "author": "Zaratustra",
-    "sr": "Kako vatra gori u ognjištu goreći drvo, tako neka gori u tebi, goreći tvoje srce ljubavlju k mudrom gospodu.",
-    "ms": "Kak ogonj gori v ognišču goreči drěvo, tak nehaj gori v tobě, goreči tvoje srdce ljubvi k mudrom gospodu.",
-    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004.",
-    "_id": 1068
-  },
-  {
-    "author": "Zaratustra",
     "sr": "Bolje učiniti jednu dušu srećnom no podići tisuću hramova u slavu boga.",
     "ms": "Lučše učiniti jednu dušu ščestnom no vozdvignuti tyseč hramov v slavu boga.",
     "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004.",
     "_id": 1069
   },
   {
+    "_id": 1070,
     "author": "Zaratustra",
-    "sr": "Molitva je najmoćnije sredstvo prijateljske ljubavi između čoveka i mudrog gospoda.",
-    "ms": "Molitva najmočněje srědstvo prijateljske ljubvi iz-medžu člověka i mudrogo gospoda.",
-    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004.",
-    "_id": 1070
+    "sr": "Molitva je najmoćnije sredstvo prijateljske ljubavi između čoveka i gospoda.",
+    "ms": "Molitva najmočněje srědstvo prijateljske ljubvi iz-medžu člověka i gospoda.",
+    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004."
   },
   {
     "author": "Zaratustra",
@@ -7650,18 +7562,11 @@
     "_id": 1072
   },
   {
+    "_id": 1073,
     "author": "Zaratustra",
-    "sr": "Zdanja podignuta čovekovom rukom neumitno će propasti od sunca i kiše. Ali, plemenita dela, nastala od znanja i mudrosti, će odoleti surovosti vremena i večno trajati.",
-    "ms": "Zdanja vozdvignena ljudskom rukoju neizběžno budut propasti od solnca i dožda. Ale, blagorodna děla, voznikala od znanja i mudrosti, budut odolěti surovosti vrěmena i věčno trajati.",
-    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004.",
-    "_id": 1073
-  },
-  {
-    "author": "Zaratustra",
-    "sr": "Postoji samo jedan put, put ispravnosti. Sve ostalo su stranputice.",
-    "ms": "Obstaja samo jedin put, put spravědlivosti. Vse ino zabludžanja sut.",
-    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004.",
-    "_id": 1074
+    "sr": "Zdanja podignuta čovekovom rukom neumitno će propasti od sunca i kiše. Ali plemenita dela, nastala od znanja i mudrosti, će odoleti surovosti vremena i večno trajati.",
+    "ms": "Zdanja vozdvignena ljudskom rukoju neizběžno propadut od solnca i dožda. Ale blagorodna děla, voznikala od znanja i mudrosti, budut odolěti surovosti vrěmena i věčno trajati.",
+    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004."
   },
   {
     "author": "Zaratustra",
@@ -7720,11 +7625,11 @@
     "_id": 1082
   },
   {
+    "_id": 1083,
     "author": "Zaratustra",
-    "sr": "Ako čovek ne uspe da savlada uzburkana čuvstva i zagospodari strastima, onda strasti zagospodare i on postane rob.",
-    "ms": "Ako člověk ne uspě sovladnuti burna čuvstva i ovladnuti strastami, togda strasti ovladnut i on stane rab.",
-    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004.",
-    "_id": 1083
+    "sr": "Ako čovek ne uspe da savlada čuvstva i zagospodari strastima, onda strasti zagospodare i on postane rob.",
+    "ms": "Ako člověk ne uspě sovladnuti čuvstva i ovladnuti strastami, togda strasti ovladnut i on stane rab.",
+    "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004."
   },
   {
     "author": "Zaratustra",
@@ -7741,13 +7646,6 @@
     "_id": 1085
   },
   {
-    "author": "Zaratustra",
-    "sr": "Svetim te poznah, mudri gospode, kad dobri duh me uze i pokaza: za umni doseg tiha dubina je najbolja.",
-    "ms": "Svetym te poznah, mudry gospode, kogda dobry duh me vze i pokaza: za umny doseg tiha glubina jest najlučša.",
-    "source": "Yasna 43,15 (Čedomil Veljačić, Avesta - kult mudrosti u Iranu )",
-    "_id": 1086
-  },
-  {
     "_id": 1087,
     "author": "Konfucije",
     "sr": "Ne govoriti o putu sa čovekom sposobnim razumeti znači naškoditi čoveku. Govoriti o putu sa čovekom nesposobnim razumeti znači naškoditi svojim rečima.",
@@ -7755,11 +7653,11 @@
     "source": "Konfucije, Izreke, Beograd 1986."
   },
   {
+    "_id": 1088,
     "author": "Maksim Ispovednik",
-    "sr": "Kako lepota vidljivih stvari privlači čulno oko, tako poznanje nevidljivih privlači čisti um.",
-    "ms": "Kako lěpota vidimyh stvary privlěka čutno oko, tako poznanje nevidimyh privlěka čisty um.",
-    "source": "Stoslovi o ljubavi I-90",
-    "_id": 1088
+    "sr": "Kako lepota vidljivih stvari privlači oko, tako poznanje nevidljivih privlači um.",
+    "ms": "Kak lěpota vidimyh stvary privlěka oko, tak poznanje nevidimyh privlěka um.",
+    "source": "Stoslovi o ljubavi I-90"
   },
   {
     "author": "Upanišade",
@@ -7781,13 +7679,6 @@
     "ms": "Kto vsa bytja vidi v sobě i sobě v vsih bytjah, osvobadža se straha.",
     "source": "Upanišade, Novi Sad, 1988.",
     "_id": 1091
-  },
-  {
-    "author": "Upanišade",
-    "sr": "Ne znamo ga i razumeti ne možemo. On je iznad svega poznatog i nepoznatog.",
-    "ms": "Ne znamo go i razuměti ne možemo. On povyše vsego znanogo i neznanogo.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1092
   },
   {
     "author": "Upanišade",
@@ -7853,13 +7744,6 @@
     "_id": 1101
   },
   {
-    "author": "Upanišade",
-    "sr": "Postoji budan duh u našem snu koji čudnovate snove tvori.",
-    "ms": "Jest bdeči duh v naših snah, koj tvori čudnovate sny.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1102
-  },
-  {
     "author": "Muhamed",
     "sr": "Vaš najveći neprijatelj su vaše želje.",
     "ms": "Vaš največši vrag sut vaša želanja.",
@@ -7917,13 +7801,6 @@
   },
   {
     "author": "Upanišade",
-    "sr": "Znaj ga kao jedno i zanemari druge reči. On je most besmrtnosti.",
-    "ms": "Znaj go kak jedno i neprigledi druge rěči. On most bezsmrtnosti.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1111
-  },
-  {
-    "author": "Upanišade",
     "sr": "Istina je put što k predelu svetlosti vodi.",
     "ms": "Istina jest put čto k oblasti světla vodi.",
     "source": "Upanišade, Novi Sad, 1988.",
@@ -7943,13 +7820,6 @@
     "ms": "Kto boga zna v istinu stava bogom.",
     "source": "Upanišade, Novi Sad, 1988.",
     "wiki": ""
-  },
-  {
-    "author": "Upanišade",
-    "sr": "Duh koji se ne može videti i taknuti je van svih razlika, misli i dokaza. U jednosti s njim je vrhovni dokaz njegovog bića.",
-    "ms": "Duh ktory ne možemo viděti i tknuti von vsih razlika, myslij i dokazov jest. U jednosti s jim vrhovny dokaz jego bytja.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1115
   },
   {
     "author": "Upanišade",
@@ -7974,24 +7844,10 @@
   },
   {
     "author": "Upanišade",
-    "sr": "U duši je svega, kao plamen skriven u srcima ljudi. \nUčitelj mudrosti što doseže se mišlju i ljubavlju. \nBesmrtnost onih koji ga znaju.",
-    "ms": "V duši vsego jest, kak plamenj skryty v srdcah ljudij. \nUčitelj mudrosti čto dosega se myslju i ljubovju. \nBezsmrtnost tyh ktori go znajut.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1119
-  },
-  {
-    "author": "Upanišade",
     "sr": "Ja poznam taj duh \nčija je beskrajnost u svemu, \nkoji je izvan vremena zauvek.",
     "ms": "Ja poznam toj duh \nčija bezkonečnost v vsemu, \niže jest izvně vrěmena navěky.",
     "source": "Upanišade, Novi Sad, 1988.",
     "_id": 1120
-  },
-  {
-    "author": "Upanišade",
-    "sr": "Šta koristi knjiga onom ko ne zna duha od kog knjiga proishodi? Jer, samo našavši njega nalazi mir.",
-    "ms": "Čto koristi kniga tomu kto ne zna duha iz kogo kniga proizhodi? Ibo, samo naševši jego nahodi mir.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1121
   },
   {
     "author": "Søren Kierkegaard",
@@ -8001,26 +7857,11 @@
     "_id": 1122
   },
   {
-    "_id": 1123,
-    "author": "Meister Eckhart",
-    "sr": "Najbitniji čas uvijek je sada, \nnajbitnija osoba uvijek ta nasuprot tebe, \nnajnužnije djelo uvijek ljubav.",
-    "ms": "Najvažnějši čas vsegda sejčas, \nnajvažnějša osoba vsegda ta poprěk tebe, \nnajnužnějše dělo vsegda ljubov.",
-    "source": "",
-    "wiki": ""
-  },
-  {
-    "author": "Upanišade",
-    "sr": "Postoji oblast s one strane tame, gde nema dana ni noći, ni nečega što postoji ni nečega što ne postoji. Jedino bog ljubavi jeste tu.",
-    "ms": "Obstaja oblast s inu stranu tmy, kde ne imaje dnja ni noči, ni něčego čto jeste ni něčego čto ne jeste. Jedino bog ljubvi jest tu.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1124
-  },
-  {
+    "_id": 1125,
     "author": "Upanišade",
     "sr": "Bog je bestelesni duh, ali može ga videti čisto srce.",
-    "ms": "Bog beztělesny duh, ale može go viděti čisto srdce.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1125
+    "ms": "Bog beztělesny duh, ale čisto srdce može viděti go.",
+    "source": "Upanišade, Novi Sad, 1988."
   },
   {
     "author": "Upanišade",
@@ -8050,13 +7891,6 @@
     "ms": "Ne trěba poznati govor, no togo kto govori. Ne trěba poznati viděno no togo kto vidi. Ne trěba poznati zvuky no togo kto čuje. Ne trěba poznati mysli no togo kto mysli.",
     "source": "Upanišade, Novi Sad, 1988.",
     "_id": 1129
-  },
-  {
-    "author": "Upanišade",
-    "sr": "Postoji svetlo izvan zemnih tvari, \nizvan nas, izvan neba. \nTo je svetlo u našem srcu.",
-    "ms": "Jeste světlo izvně zemnyh tvary, \nizvně nas, izvně neba. \nTo světlo v našem srdcu.",
-    "source": "Upanišade, Novi Sad, 1988.",
-    "_id": 1130
   },
   {
     "author": "Huangbo Xiyun",
@@ -8115,11 +7949,11 @@
     "_id": 1138
   },
   {
+    "_id": 1139,
     "author": "Nil Sinajski",
     "sr": "Kako hleb hrana tijela, tako molitva hrana uma.",
-    "ms": "Kako hlěb jedivo těla, tako molitva jedivo uma.",
-    "source": "Dobrotoljublje",
-    "_id": 1139
+    "ms": "Kak hlěb jedivo těla, tak molitva jedivo uma.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Evagrije Pontski",
@@ -8165,18 +7999,18 @@
     "wiki": ""
   },
   {
+    "_id": 1146,
     "author": "Nil Sinajski",
-    "sr": "Stoj trpljiv i moli se krepko, odbijajući navalu životnih briga i pomisli.",
-    "ms": "Stoj trplivy i moli se krěpko, odmetajuči naval životnyh opeky i pomysli.",
-    "source": "Dobrotoljublje",
-    "_id": 1146
+    "sr": "Stoj trpljiv i moli se krepko, odbijajući navalu briga i pomisli.",
+    "ms": "Stoj trplivy i moli se krěpko, odmetajuči naval opeky i pomysli.",
+    "source": "Dobrotoljublje"
   },
   {
+    "_id": 1147,
     "author": "Nil Sinajski",
     "sr": "Staraj se um u molitvi učiniti gluhim i nemim. Tada hoćeš moliti se kako treba.",
-    "ms": "Staraj se um v molitvě učiniti gluhym i němym. Togda budeš moliti se kako trěba.",
-    "source": "Dobrotoljublje",
-    "_id": 1147
+    "ms": "Staraj se um v molitvě učiniti gluhym i němym. Togda budeš moliti se kak trěba.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Nil Sinajski",
@@ -8186,25 +8020,25 @@
     "_id": 1148
   },
   {
+    "_id": 1149,
     "author": "Nil Sinajski",
-    "sr": "Ako u vreme nevolje pokažeš trpljenje, plod nađeš u molitvi.",
-    "ms": "Ako vo vrěme nevolje pokažeš trpěnje, plod najdeš v molitvě.",
-    "source": "Dobrotoljublje",
-    "_id": 1149
+    "sr": "Ako pokažeš trpljenje u vreme nevolje, plod nađeš u molitvi.",
+    "ms": "Ako pokažeš trpěnje vo vrěme nevolje, plod najdeš v molitvě.",
+    "source": "Dobrotoljublje"
   },
   {
+    "_id": 1150,
     "author": "Nil Sinajski",
-    "sr": "Mogu ti doći na um dela zbog kojih izgleda opravdano razgneviti se na bližnjeg. Budi oprezan! Ne postoji opravdan gnev na bližnjeg.",
-    "ms": "Mogut ti dojdti na um děla vslěd kojih izdava se opravdano razgněvati se na bližnjego. Budi ostražny! Ne obstaja opravdany gněv na bližnjego.",
-    "source": "Dobrotoljublje",
-    "_id": 1150
+    "sr": "Ako pomisliš opravdano razgneviti se na bližnjeg, budi oprezan! Ne postoji opravdan gnev na bližnjega.",
+    "ms": "Ako pomysliš opravdano razgněvati se na bližnjego, budi ostražny! Ne istnuje opravdany gněv na bližnjego.",
+    "source": "Dobrotoljublje"
   },
   {
+    "_id": 1151,
     "author": "Nil Sinajski",
     "sr": "Nerasejana molitva je najviše umno delanje.",
-    "ms": "Ne razsějana molitva najvyše umno dělanje.",
-    "source": "Dobrotoljublje",
-    "_id": 1151
+    "ms": "Ne razsějana molitva najvyše umno dělanje jest.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Nil Sinajski",
@@ -8214,18 +8048,18 @@
     "_id": 1152
   },
   {
+    "_id": 1153,
     "author": "Nil Sinajski",
-    "sr": "U molitvi ne pridavaj božanstvu nikakav oblik, već netvarno pristupi netvarnom, pa ćeš se sjediniti sa njim.",
-    "ms": "V molitvě ne pridavaj božstvu nikaky oblik, no netvarno pristupi netvarnom, pa budeš sjediniti se s jim.",
-    "source": "Dobrotoljublje",
-    "_id": 1153
+    "sr": "U molitvi ne pridavaj božanstvu nikakav oblik, no pristupi netvarnom netvarno, da sjediniš se sa njim.",
+    "ms": "V molitvě ne pridavaj božstvu nikaky oblik, no pristupi netvarnom netvarno, da sjediniš se s jim.",
+    "source": "Dobrotoljublje"
   },
   {
+    "_id": 1154,
     "author": "Nil Sinajski",
-    "sr": "Ne možeš moliti se čisto ako uplićeš se u dela sveta i uznemiruju te neprestane brige. Jer, molitva odlaganje misli jest.",
-    "ms": "Ne možeš moliti se čisto ako vključaješ se v děla světa i bezpokojet te bezprěryvne opeky. Ibo, molitva odloženje mysli jest.",
-    "source": "Dobrotoljublje",
-    "_id": 1154
+    "sr": "Ne možeš moliti se čisto ako uplićeš se u dela sveta i uznemiruju te neprestane brige. Jer molitva odlaganje misli jest.",
+    "ms": "Ne možeš moliti se čisto ako vključaješ se v děla světa i bezpokojet te bezprěryvne opeky. Ibo molitva odloženje mysli jest.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Nil Sinajski",
@@ -8284,11 +8118,11 @@
     "_id": 1162
   },
   {
+    "_id": 1163,
     "author": "Nil Sinajski",
-    "sr": "U iskušenjima budi tvrd. Jer, mnogi usled ljubaznosti padoše.",
-    "ms": "V pokušenjami budi tvrdy. Ibo, mnogi vslěd blagosklonnosti padehu.",
-    "source": "Dobrotoljublje",
-    "_id": 1163
+    "sr": "U iskušenjima budi tvrd. Jer mnogi usled ljubaznosti padoše.",
+    "ms": "V pokušenjami budi tvrdy. Ibo mnogi vslěd blagosklonnosti padehu.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Nil Sinajski",
@@ -8298,11 +8132,11 @@
     "_id": 1164
   },
   {
+    "_id": 1165,
     "author": "Nil Sinajski",
-    "sr": "Ako imaš bogatstvo deli ga, ako nemaš nemoj ga ni sticati.",
-    "ms": "Ako imaješ bogatstvo děli go, ako ne imaješ ne nabyvaj go.",
-    "source": "Dobrotoljublje",
-    "_id": 1165
+    "sr": "Ako imaš bogatstvo deli, ako nemaš ne stiči.",
+    "ms": "Ako imaješ bogatstvo děli, ako ne imaješ ne nabyvaj.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Nil Sinajski",
@@ -8362,18 +8196,18 @@
     "_id": 1173
   },
   {
+    "_id": 1174,
     "author": "Nil Sinajski",
-    "sr": "Blažen neuspavljiv u molitvama, čitanju i dobročinstvu! Taj neće zaspati na smrt.",
-    "ms": "Blaženy bezsonny v molitvah, čitanju i dobročinstvu! Toj ne bude zaspati na smrt.",
-    "source": "Dobrotoljublje",
-    "_id": 1174
+    "sr": "Blažen neuspavljiv u molitvi, čitanju i dobročinstvu! Taj neće zaspati na smrt.",
+    "ms": "Blaženy bezsonny v molitvě, čitanju i dobročinstvu! Toj ne bude zaspati na smrt.",
+    "source": "Dobrotoljublje"
   },
   {
+    "_id": 1175,
     "author": "Nil Sinajski",
-    "sr": "Svetitelji su bežali od gradova znajući da je opštenje sa razvratnima opasnije od zaraze.",
-    "ms": "Svetitelji běgali od gradov znajuči že občenje so razvratnymi opasněje no zaraza.",
-    "source": "Dobrotoljublje",
-    "_id": 1175
+    "sr": "Svetitelji bežaše od gradova znajući da je opštenje sa razvratnima opasnije od zaraze.",
+    "ms": "Svetitelji běgahu od gradov znajuči že občenje so razvratnymi opasněje no zaraza.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Nil Sinajski",
@@ -8383,25 +8217,25 @@
     "_id": 1177
   },
   {
+    "_id": 1178,
     "author": "Nil Sinajski",
-    "sr": "Nemoguće da čovek ne bude ranjen od strele, ako ga pogodi. Takođe, nemoguće da ne bude ranjen od zle misli, ako ju primi.",
-    "ms": "Nemožno že člověk ne bude ranjeny od strělě, ako zastrěli go. Takože, nemožno že ne bude ranjeny od zle mysli, ako ju prijme.",
-    "source": "Dobrotoljublje",
-    "_id": 1178
+    "sr": "Nemoguće ne biti ranjen od strele, ako te pogodi. Nemoguće ne biti ranjen od zle misli, ako ju primiš.",
+    "ms": "Nemožno ne byti ranjeny od strěly, ako zastrěli te. Nemožno ne byti ranjeny od zle mysli, ako prijmeš ju.",
+    "source": "Dobrotoljublje"
   },
   {
+    "_id": 1179,
     "author": "Nil Sinajski",
-    "sr": "Nema ništa veliko u tome što hoćemo postati pravedni. Tako samo hoćemo biti kakvim nas bog sazda u početku.",
-    "ms": "Ne imaje ničto veliko v tomu čto hočemo stati pravedny. Tako samo hočemo byti kakym nas bog sozdaše v početku.",
-    "source": "Dobrotoljublje",
-    "_id": 1179
+    "sr": "Nema ništa veliko u tome što hoćemo postati pravednim. Samo hoćemo biti kakvim nas bog sazda u početku.",
+    "ms": "Ne imaje ničto veliko v tomu čto hočemo stati pravednym. Samo hočemo byti kakym nas bog sozda v početku.",
+    "source": "Dobrotoljublje"
   },
   {
+    "_id": 1180,
     "author": "Nil Sinajski",
     "sr": "Ne govori: ne mogu dostići boga jer me odvraćaju roditelj, žena, dete ili neko ini. Omrzni svakog ko te odvraća od boga. Sa takvima nemoj ni jesti.",
-    "ms": "Ne govori: ne mogu dostignuti boga ibo odvračajut me roditelj, žena, děte ili někoj iny. Omrzni vsakogo kto te odvrača od boga. Sa takymi ni ne jedaj.",
-    "source": "Dobrotoljublje",
-    "_id": 1180
+    "ms": "Ne govori: ne mogu dostignuti boga ibo odvračajut me roditelj, žena, děte ili někoj iny. Omrzni vsakogo kto odvrača te od boga. Sa takymi ni ne jedaj.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Jovan Lestvičnik",
@@ -8635,19 +8469,11 @@
     "_id": 1213
   },
   {
-    "_id": 1214,
+    "_id": 1215,
     "author": "Maksim Ispovednik",
-    "sr": "Dva su konačna stanja čiste molitve. Jedno dosežu delatelji, a drugo sagledatelji.",
-    "ms": "Dva konečna stana čiste molitvy sut. Jedno dosegajut dělatelji, drugo sogledatelji.",
-    "source": "Dobrotoljublje",
-    "wiki": ""
-  },
-  {
-    "author": "Maksim Ispovednik",
-    "sr": "Ko odbaci majku svih strasti, sebeljublje, lako će odstraniti i ostale.",
-    "ms": "Kto odmetne mati vsih strasti, sebeljubje, legko odstranja i ostale.",
-    "source": "Dobrotoljublje",
-    "_id": 1215
+    "sr": "Ko odbaci majku svih strasti, sebeljublje, lako će odstraniti ostale.",
+    "ms": "Kto odmetne mati vsih strasti, sebeljubje, legko odstranja ostale.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Maksim Ispovednik",
@@ -8706,11 +8532,11 @@
     "_id": 1224
   },
   {
+    "_id": 1225,
     "author": "Simeon Novi Teolog",
-    "sr": "Ne govorite nemoguće je primiti božanski duh. \nNe govorite bez njega moguće je spasti se. \nNe govorite nemoguće je boga videti.\nIli nemoguće je u današnje vreme.\nNikada to nije bilo nemoguće, prijatelji!\nNo vrlo moguće onima koji žele.",
-    "ms": "Ne govorite že nemožno prijeti božsky duh. \nNe govorite že možno bez jego spasti se. \nNe govorite že nemožno boga viděti. \nIli to nemožno v dnešnje vrěme.\nNikogda to ne bylo nemožno, prijatelji!\nNo velmi možno želajučimi.",
-    "source": "Knjiga mističkih poglavlja, Zagreb, 2005.",
-    "_id": 1225
+    "sr": "Ne govorite: Nemoguće je primiti božanski duh. \nNe govorite: Bez njega moguće je spasti se. \nNe govorite: Nemoguće je boga videti.\nIli: Nemoguće je u današnje vreme.\nNikada to nije bilo nemoguće, prijatelji!\nNo vrlo moguće onima koji žele.",
+    "ms": "Ne govorite: Nemožno prijeti božsky duh. \nNe govorite: Možno bez jego spasti se. \nNe govorite: Nemožno boga viděti. \nIli: Nemožno v dnešnje vrěme.\nNikogda to ne bylo nemožno, prijatelji!\nNo velmi možno želajučim.",
+    "source": "Knjiga mističkih poglavlja, Zagreb, 2005."
   },
   {
     "author": "Vivekananda",
@@ -8889,18 +8715,11 @@
     "_id": 1251
   },
   {
+    "_id": 1253,
     "author": "Vivekananda",
-    "sr": "Primati darove znači gubiti duhovnu nezavisnost i padati u ropstvo. Zato, ne primajte darove.",
-    "ms": "Prijmati dary znači gubiti duhovnu nezavisnost i padati v rabstvo. Zato, ne prijmajte dary.",
-    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
-    "_id": 1252
-  },
-  {
-    "author": "Vivekananda",
-    "sr": "Tvoja sopstvena volja jedina odgovara na tvoje molitve. Ali ljudima se javlja u vidu raznih verskih predstava.",
-    "ms": "Tvoja sobstvena volja jedina odgovarja na tvoje molitvy. Ale ljudami projavja se v obliku raznyh věrskyh prědstavy.",
-    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
-    "_id": 1253
+    "sr": "Tvoja sopstvena volja jedina odgovara na tvoje molitve.",
+    "ms": "Tvoja sobstvena volja jedina odgovarja na tvoje molitvy.",
+    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982."
   },
   {
     "author": "Vivekananda",
@@ -8920,9 +8739,8 @@
     "_id": 1257,
     "author": "Ramana Maharši",
     "sr": "Samoća je stanje uma. Osoba savladana željama ne može nigde naći samoću. Osoba slobodna od želja svuda nalazi svoju samoću i mir.",
-    "ms": "Samota stanje uma. Osoba sovladnena želanjami ne može nikde najdti samotu. Osoba svobodna od želanja vsekde nahodi svoju samotu i mir.",
-    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
-    "wiki": ""
+    "ms": "Samota jest stanje uma. Osoba sovladnena želanjami ne može nikde najdti samotu. Osoba svobodna od želanja vsekde nahodi svoju samotu i mir.",
+    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982."
   },
   {
     "author": "Gautama Buddha",
@@ -8983,11 +8801,11 @@
     "_id": 1265
   },
   {
+    "_id": 1267,
     "author": "Pitagora",
-    "sr": "Kaznu sila, koju si svojim delanjem izazvao, trpi sa nepomućenim raspoloženjem.",
-    "ms": "Kaznj od sil, koju svojim dělanjem jesi pričinjal, trpi so nemutněnym nastrojenjem.",
-    "source": "Pitagora, Zlatni stihovi",
-    "_id": 1267
+    "sr": "Kaznu sila, koju si svojim delanjem izazvao, trpi mirno.",
+    "ms": "Kaznj od sil, koju svojim dělanjem jesi pričinjal, trpi mirno.",
+    "source": "Pitagora, Zlatni stihovi"
   },
   {
     "author": "Heraklit",
@@ -9019,11 +8837,11 @@
     "_id": 1271
   },
   {
+    "_id": 1272,
     "author": "Dželaludin Rumi",
-    "sr": "Bog je svjetlo, svi mi smo tama. Ova kuća od tog sunca prima svoj sjaj.",
-    "ms": "Bog světlo, vsi my tma. Sej dom od togo solnca prijma svoj luč.",
-    "source": "William C. Chittick, Sufijski put ljubavi, Sarajevo 2005.",
-    "_id": 1272
+    "sr": "Bog je svjetlo, svi mi tama.",
+    "ms": "Bog světlo, vsi my tma.",
+    "source": "William C. Chittick, Sufijski put ljubavi, Sarajevo 2005."
   },
   {
     "author": "Dželaludin Rumi",
@@ -9040,25 +8858,11 @@
     "_id": 1274
   },
   {
+    "_id": 1277,
     "author": "Dželaludin Rumi",
-    "sr": "Kad u tvojemu srcu narasta ljubav za boga, nema sumnje da te bog ljubi.",
-    "ms": "Kogda v tvojemu srdcu narasta ljubov dlja boga, ne imaje sumněnja že bog ljubi te.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1275
-  },
-  {
-    "author": "Dželaludin Rumi",
-    "sr": "Naša želja za bogom razgorijeva se njegovom ljubavlju. Svi putnici prelaze svoj put zahvaljujući sili njegove privlačnosti.",
-    "ms": "Naše želanje dlja boga razgorěje se jego ljubovju. Vsi putniki prěhodet svoj put hvaleči sili jego privlěkanja.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1276
-  },
-  {
-    "author": "Dželaludin Rumi",
-    "sr": "Religija ljubavi nadilazi sve druge religije. Onima koji ljube, bog je jedina vjera, jedini vjerozakon.",
-    "ms": "Religija ljubvi prěvozhodi vse druge religije. Tym ktori ljubet, bog jedina věra, jediny věrozakon.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1277
+    "sr": "Religija ljubavi nadilazi sve druge religije. Ljubećima je bog jedina vjera, jedini vjerozakon.",
+    "ms": "Religija ljubvi prěvozhodi vse druge religije. Ljubečim bog jedina věra, jediny věrozakon.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
     "author": "Dželaludin Rumi",
@@ -9068,39 +8872,32 @@
     "_id": 1278
   },
   {
+    "_id": 1279,
     "author": "Dželaludin Rumi",
-    "sr": "Ljubav za boga je plamen, koji sažeže sve osim boga.",
-    "ms": "Ljubov za boga plamenj, iže žže vse kromě boga.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1279
+    "sr": "Ljubav k bogu je plamen, koji sažeže sve osim boga.",
+    "ms": "Ljubov k bogu plamenj, koj žže vse kromě boga.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
+    "_id": 1280,
     "author": "Dželaludin Rumi",
-    "sr": "Bog ti je u srce posadio želju da ga išteš. Ne obaziri se na svoje slabosti, no posveti se iskanju.",
+    "sr": "Bog ti je u srce posadio želju da ga išteš. Ne obziri se na svoje slabosti, no posveti se iskanju.",
     "ms": "Bog ti v srdce vsadil želanje da go iščeš. Ne obziraj se na svoje slabosti, no posveti se iskanju.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1280
+    "source": "Rumi, Blago njegova duha"
   },
   {
+    "_id": 1281,
     "author": "Dželaludin Rumi",
-    "sr": "Proroci i vjeroučitelji nalik su na putokaze duhovnim putnicima.",
-    "ms": "Proroki i věroučitelji podobajut na dragoukazatelje duhovnym putnikami.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1281
+    "sr": "Proroci i vjeroučitelji su putokazi duhovnim putnicima.",
+    "ms": "Proroki i věroučitelji sut dragoukazatelji duhovnym putnikam.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
+    "_id": 1282,
     "author": "Dželaludin Rumi",
-    "sr": "Obrati se od bića prema nebiću, iskaš li gospoda. Nebiće je mjesto polučenja.",
-    "ms": "Obrati se od bytja prěmy nebytju, iščeš li gospoda. Nebytje město polučenja.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1282
-  },
-  {
-    "author": "Dželaludin Rumi",
-    "sr": "Pomen boga ispunjava nas željom za putovanjem, i čini od nas putnike.",
-    "ms": "Pomněnje boga izpolnjaje nas želanjem za putovanjem, i čini od nas putnikov.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1283
+    "sr": "Obrati se od bića prema nebiću, iskaš li gospoda.",
+    "ms": "Obrati se od bytja prěmy nebytju, iščeš li gospoda.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
     "author": "Dželaludin Rumi",
@@ -9117,18 +8914,18 @@
     "_id": 1285
   },
   {
+    "_id": 1286,
     "author": "Dželaludin Rumi",
-    "sr": "Glava može biti prepuna znanja, \ni čovjek može znati sve znanosti svijeta, \na ne znati svoju dušu.",
-    "ms": "Glava može byti prěpolna znanja, \ni člověk može znati vse nauky světa, \na ne znati svoju dušu.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1286
+    "sr": "Glava može biti prepuna znanja, \nčovjek može znati sve znanosti svijeta, \na ne znati svoju dušu.",
+    "ms": "Glava može byti prěpolna znanja, \nčlověk može znati vse nauky světa, \na ne znati svoju dušu.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
+    "_id": 1287,
     "author": "Dželaludin Rumi",
-    "sr": "Sve osim božje ljubavi je umiranje duha. To znači hoditi prema smrti, i ne piti vodu života.",
-    "ms": "Vse kromě božje ljubvi umiranje duha jest. To znači hoditi prěmy smrti, i ne piti vodu života.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1287
+    "sr": "Sve osim božje ljubavi je umiranje duha.",
+    "ms": "Vse kromě božje ljubvi umiranje duha jest.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
     "author": "Dželaludin Rumi",
@@ -9145,18 +8942,18 @@
     "_id": 1289
   },
   {
+    "_id": 1290,
     "author": "Dželaludin Rumi",
-    "sr": "Čisto srce je savršeno zrcalo, \nkoje odražava beskrajnu ljepotu. \nBezmjerni oblik ne sadrži se \nu nebu, moru, ni svemiru. \nJer sve ima granicu, \na srce je bezgranično.",
-    "ms": "Čisto srdce sovršeno zrcalo, \nkoje odražaje bezkonečnu lěpotu. \nBezměrni oblik ne sodrža se \nv nebu, morju, ni vsemiru. \nIbo vse ograničeno, \na srdce neograničeno jest.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1290
+    "sr": "Čisto srce savršeno zrcalo, \nodražava beskrajnu ljepotu. \nBezmjerno se ne sadrži\nu nebu, moru, ni svemiru. \nJer sve ima granicu, \na srce je bezgranično.",
+    "ms": "Čisto srdce sovršeno zrcalo, \nodraža bezkonečnu lěpotu. \nBezměrno ne sodrža se \nv nebu, morju, ni vsemiru. \nIbo vse ograničeno, \na srdce neograničeno jest.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
+    "_id": 1291,
     "author": "Dželaludin Rumi",
-    "sr": "U koga je čisto zrcalo srca, svakoga časa motri ljepotu. Dosegnuo je bit i vrhovni izvor znanja.",
-    "ms": "V kogo čisto zrcalo srdca, vsakogo časa smotri lěpotu. On dosegnul jestestvo i vrhovny izvor znanja.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1291
+    "sr": "U koga je čisto zrcalo srca, svakoga časa motri ljepotu.",
+    "ms": "V kogo čisto zrcalo srdca, vsakogo časa smotri lěpotu.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
     "author": "Dželaludin Rumi",
@@ -9180,11 +8977,11 @@
     "_id": 1294
   },
   {
+    "_id": 1295,
     "author": "Dželaludin Rumi",
     "sr": "Molitva te može učini gordim. Ako sebe smatraš bliskim bogu, mnogi se tako udaljiše.",
-    "ms": "Molitva te može učini gordym. Ako sebe obvažiš blizkym bogu, mnogi se tako oddaljahu.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1295
+    "ms": "Molitva te može učini gordym. Ako sebe uvažaš blizkym bogu, mnogi se tako oddaljahu.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
     "author": "Dželaludin Rumi",
@@ -9194,18 +8991,18 @@
     "_id": 1296
   },
   {
+    "_id": 1297,
     "author": "Dželaludin Rumi",
     "sr": "Utihni i uđi u nebiće. \nKad to ostvariš, \nsav ćeš se pretvoriti u hvalu.",
-    "ms": "Utihni i vojdi v nebytje. \nKogda sovršiš to, \nves budeš prětvoriti se v hvalu.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1297
+    "ms": "Utihni i vojdi v nebytje. \nKogda sovršiš to, \nves prětvoriš se v hvalu.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
+    "_id": 1298,
     "author": "Dželaludin Rumi",
-    "sr": "Druženje sa svetima od tebe čini sveca. Ako si kamen ili mramor, postat ćeš dragi kamen, družeći se s čovjekom srca.",
-    "ms": "Druženje so svetymi od tebe čini svetca. Ako jesi kamenj ili mramor, budeš stavati dragocěnny kamenj, družeči se so člověkom srdca.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1298
+    "sr": "Druženje sa svetima od tebe čini sveca.",
+    "ms": "Druženje so svetymi od tebe čini svetca.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
     "author": "Dželaludin Rumi",
@@ -9213,13 +9010,6 @@
     "ms": "Slovo puščeno s jezyka podobaje strěly. Ne može vratiti se. Moraš zaustaviti go na izvoru.",
     "source": "Rumi, Blago njegova duha",
     "_id": 1299
-  },
-  {
-    "author": "Dželaludin Rumi",
-    "sr": "Tvoja riječ i djelo ne smiju biti protivni, da tvoj život bude prihvatljiv bogu.",
-    "ms": "Tvoje slovo i dělo ne smějut byti protivni, da tvoj život bude prijemlivy bogu.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1300
   },
   {
     "author": "Dželaludin Rumi",
@@ -9236,11 +9026,11 @@
     "_id": 1302
   },
   {
+    "_id": 1303,
     "author": "Dželaludin Rumi",
-    "sr": "Nema na svijetu potpunoga zla. \nNema ni otrova ni slada, \nkoji nekomu nije pomoć, a nekomu odmoć.",
-    "ms": "Ne imaje na světu popolnogo zla. \nNe imaje ni jada ni slada, \nkoj někomu pomoč, a někomu odmoč.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1303
+    "sr": "Nema na svijetu potpunoga zla. Svaki otrov i slad nekomu je pomoć a nekomu odmoć.",
+    "ms": "Ne imaje na světu popolnogo zla. Vsaky jad i slad někomu pomoč a někomu odmoč.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
     "author": "Zhaozhou Congshen",
@@ -9299,32 +9089,11 @@
     "_id": 1313
   },
   {
+    "_id": 1316,
     "author": "Zaratustra",
-    "sr": "Najviše dobro stići će onoga ko, učeći mudrost, širi svetu riječ, riječ istine.",
-    "ms": "Najvyše dobro bude stignuti togo kto, učeči mudrost, širi sveto slovo, slovo istině.",
-    "source": "Gathe: Yasna31-6",
-    "_id": 1314
-  },
-  {
-    "author": "Zaratustra",
-    "sr": "Vođen svetim duhom i tvojom ljubavlju, vođen mislima, riječima i djelima istine, čovjek će dostići savršen vječni život.",
-    "ms": "Vodženy svetym duhom i tvojem ljubovju, vodženy myslami, slovami i dělami istině, člověk bude dostignuti sovršeny věčny život.",
-    "source": "Gathe: Yasna 47-1",
-    "_id": 1315
-  },
-  {
-    "author": "Zaratustra",
-    "sr": "Sve misli, riječi i djela ljudi donijet će ploda, kako je utvrđeno u tvom vječnom zakonu.",
-    "ms": "Vse mysli, slova i děla ljudi budut prinesti ploda, kako utvrdženo v tvojem věčnom zakonu.",
-    "source": "Gathe: Yasny 43-5",
-    "_id": 1316
-  },
-  {
-    "author": "Zaratustra",
-    "sr": "O mudri gospodaru, ljubav i istina gore unutar nas. One će voditi tragaoce tvojim putem.",
-    "ms": "O mudri gospodaru, ljubov i istina goret vnutri nas. One budut voditi iskateljev tvojim putom.",
-    "source": "Gathe: Yasna 47-6",
-    "_id": 1317
+    "sr": "Sve misli, riječi i djela ljudi donijet će ploda, kako je utvrđeno u vječnom zakonu.",
+    "ms": "Vse mysli, slova i děla ljudi budut prinesti ploda, kako utvrdženo v věčnom zakonu.",
+    "source": "Gathe: Yasny 43-5"
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9810,32 +9579,25 @@
     "_id": 1387
   },
   {
+    "_id": 1388,
     "author": "Dželaludin Rumi",
-    "sr": "Duh je nevidljiv, ali promalja se u ponašanju čovjeka.",
-    "ms": "Duh nevidimy, ale projavja se v postupanju člověka.",
-    "source": "duhovna izgradnja",
-    "_id": 1388
+    "sr": "Duh nevidljiv javlja se u ponašanju čovjeka.",
+    "ms": "Duh nevidimy javja se v postupanju člověka.",
+    "source": "duhovna izgradnja"
   },
   {
+    "_id": 1390,
     "author": "Dželaludin Rumi",
-    "sr": "Jezgra svakoga ploda je bolja od kore. \nGledaj tijelo kao koru, a duh kao jezgru.",
-    "ms": "Jedro vsakogo ploda lučše od korky. \nGledi tělo kak korku, a duh kak jedro.",
-    "source": "http://www.duhovnaizgradnja.com/stranice/tekstovi/poznate_licnosti_u_duhovnosti/rumi/rumi_duhovni_svijet.html",
-    "_id": 1389
+    "sr": "Ne trudi se ostvariti svjetovne težnje, trudi se oko vjere. Inače će tvoj život ostati neispunjen.",
+    "ms": "Ne sili se sovršati světske cělje, sili se oko věry. Inače tvoj život ostane ne izpolneny.",
+    "source": "duhovna izgradnja"
   },
   {
-    "author": "Dželaludin Rumi",
-    "sr": "Ne trudi se ostvariti svjetovne težnje, \ntrudi se oko vjere. \nInače će tvoj život ostati neispunjen, \ntvoj kruh nedopečen.",
-    "ms": "Ne sili se sovršati světske cělje, \nsili se oko věry. \nInače tvoj život ostane ne izpolneny, \ntvoj hlěb nepečeny.",
-    "source": "duhovna izgradnja",
-    "_id": 1390
-  },
-  {
+    "_id": 1391,
     "author": "Dželaludin Rumi",
     "sr": "Izučio si zanat da zaradiš i zadovoljiš potrebe tijela. Usredotoči se sada na duhovni zanat, da zadovoljiš potrebe duše.",
-    "ms": "Izučil jesi uměnje da zarabotaš i zadovoliš potrěby těla. Susrědotoči se segda na duhovno uměnje, da zadovoliš potrěby duše.",
-    "source": "duhovnaizgradnja",
-    "_id": 1391
+    "ms": "Izučil jesi uměnje da zarabotaš i zadovoliš potrěb těla. Susrědotoči se segda na duhovno uměnje, da zadovoliš potrěb duše.",
+    "source": "duhovnaizgradnja"
   },
   {
     "author": "Lao Tzu",
@@ -9873,11 +9635,11 @@
     "_id": 1396
   },
   {
+    "_id": 1397,
     "author": "Lao Tzu",
     "sr": "Ostvari konačno prazno,\nstanje potpunog mira,\nodakle sve stvari nastaju\ni čemu se vraćaju.",
-    "ms": "Dosegni konečno prazdno,\nstan popolnogo mira,\nodkud vse stvary nastavajut\ni čemu vračajut se.",
-    "source": "Knjiga o putu, izreka 16",
-    "_id": 1397
+    "ms": "Dosegni konečno prazdno,\nstanje popolnogo mira,\nodkud vse stvary nastavajut\ni čemu vračajut se.",
+    "source": "Knjiga o putu, izreka 16"
   },
   {
     "author": "Lao Tzu",
@@ -9887,11 +9649,11 @@
     "_id": 1398
   },
   {
+    "_id": 1399,
     "author": "Lao Tzu",
-    "sr": "Biti u skladu sa putem znači besmrtnost.",
-    "ms": "Byti soglasny s putom znači bezsmrtnost.",
-    "source": "Knjiga o putu, izreka 16",
-    "_id": 1399
+    "sr": "Biti u skladu sa putem je besmrtnost.",
+    "ms": "Byti soglasny s putom bezsmrtnost jest.",
+    "source": "Knjiga o putu, izreka 16"
   },
   {
     "author": "Lao Tzu",
@@ -9950,18 +9712,18 @@
     "_id": 1407
   },
   {
+    "_id": 1408,
     "author": "Lao Tzu",
     "sr": "Deset tisuća stvari nastaje iz bića,\nbiće nastaje iz nebića.",
-    "ms": "Deset tyseča stvarov nastava iz bytja,\nbytje nastava iz nebytja.",
-    "source": "Knjiga o putu, izreka 40",
-    "_id": 1408
+    "ms": "Deset tyseča věčij nastava iz bytja,\nbytje nastava iz nebytja.",
+    "source": "Knjiga o putu, izreka 40"
   },
   {
+    "_id": 1409,
     "author": "Lao Tzu",
     "sr": "Kada mudri čuju za put,\nmarljivo vežbaju.\nKada osrednji čuju za put,\nmisle o tome ponekad.\nKada niski čuju za put,\nglasno se smeju. \nDa ne smeju se, ne bi bio put.",
-    "ms": "Kogda mudri uslyšet o putu,\nmarlivo izučajut.\nKogda posrědnji uslyšet o putu,\nmyslet o tom poněkogda.\nKogda nizki uslyšet o putu,\nglasno smějut se. \nDa ne smějut se, ne by byl put.",
-    "source": "Knjiga o putu, izreka 41",
-    "_id": 1409
+    "ms": "Kogda mudri uslyšet o putu,\nmarlivo izučajut.\nKogda obični uslyšet o putu,\nmyslet o tom poněkogda.\nKogda nizki uslyšet o putu,\nglasno smějut se. \nDa ne smějut se, ne by byl put.",
+    "source": "Knjiga o putu, izreka 41"
   },
   {
     "author": "Lao Tzu",
@@ -10070,11 +9832,11 @@
     "_id": 1424
   },
   {
+    "_id": 1425,
     "author": "Lao Tzu",
-    "sr": "Ako se ljudi ne boje smrti, \nne mogu im pretiti smrću.\nNjih uče da se boje smrti,\ni da je smrt kazna za prestup.",
-    "ms": "Ako ljudi ne bojet se smrti,\nne mogu groziti jim smrtju.\nJih učet da bojet se smrti,\ni da smrt kaznj za prěstupok.",
-    "source": "Knjiga o putu, izreka 74",
-    "_id": 1425
+    "sr": "Ako se ljudi ne boje smrti, \nne mogu im pretiti smrću.\nNjih uče da se boje smrti,\nda je smrt kazna za prestup.",
+    "ms": "Ako ljudi ne bojet se smrti,\nne mogu groziti jim smrtju.\nJih učet da bojet se smrti,\nda smrt kaznj za prěstupok.",
+    "source": "Knjiga o putu, izreka 74"
   },
   {
     "author": "Lao Tzu",
@@ -10114,13 +9876,6 @@
     "wiki": ""
   },
   {
-    "author": "Zun-Nun Egipatski",
-    "sr": "Odstupanje je pravo kada je toliko silno da odstupaš i od samog sebe.",
-    "ms": "Odstupanje pravo kogda toliko silno da odstupaješ i od samogo sebe.",
-    "source": "Sufizam, Beograd 1981.",
-    "_id": 1433
-  },
-  {
     "author": "Al-Dakak",
     "sr": "Sa ljudima se oblači kako se oni oblače, jedi što oni jedu, ali odvoj se od njih unutrašnjim.",
     "ms": "So ljudami oblači se kako oni oblačet se, jedaj čto oni jedut, ale odděli se od jih vnutrišnym.",
@@ -10128,25 +9883,18 @@
     "_id": 1434
   },
   {
+    "_id": 1435,
     "author": "Dželaludin Rumi",
-    "sr": "Vi koji tražite boga na nebu, pustite to. \nVi ste on, i on vi.",
-    "ms": "Vy ktory iščete boga na nebu, pustite to. \nVy jeste on, i on vy.",
-    "source": "Sufizam, Beograd 1981.",
-    "_id": 1435
+    "sr": "Koji ištete boga na nebu, pustite to. \nVi ste on, i on vi.",
+    "ms": "Ktory iščete boga na nebu, pustite to. \nVy jeste on, i on vy.",
+    "source": "Sufizam, Beograd 1981."
   },
   {
-    "author": "Sengzhao",
-    "sr": "Nebo, zemlja i ja smo od iste tvari.",
-    "ms": "Nebo, zemja i ja jesmo od same tvari.",
-    "source": "Sufizam, Beograd 1981.",
-    "_id": 1436
-  },
-  {
+    "_id": 1438,
     "author": "Plotin",
-    "sr": "Svaka duša treba imati na pameti da je ona sama stvorila sva živa bića.",
-    "ms": "Vsaka duša trěba pripomněti že ona sama stvorila vsa živa bitja.",
-    "source": "Plotin, Eneade V, Beograd 1984.",
-    "_id": 1438
+    "sr": "Svaka duša treba znati da je sama stvorila sva živa bića.",
+    "ms": "Vsaka duša trěba znati že sama stvorila vsa živa bitja.",
+    "source": "Plotin, Eneade V, Beograd 1984."
   },
   {
     "author": "Gautama Buddha",
@@ -10249,11 +9997,11 @@
     "_id": 1452
   },
   {
+    "_id": 1453,
     "author": "Lao Tzu",
-    "sr": "Mudrac bi pogrešio ako usled milosrđa i dužnosti zanemari put.",
-    "ms": "Mudrec by pogrěšil ako vslěd milosrdja i dolžnosti zapusti put.",
-    "source": "Kung fu meditacije, Beograd 1987.",
-    "_id": 1453
+    "sr": "Mudrac bi pogrešio ako bi usled milosrđa i dužnosti zanemario put.",
+    "ms": "Mudrec by pogrěšil ako by vslěd milosrdja i dolžnosti zapustil put.",
+    "source": "Kung fu meditacije, Beograd 1987."
   },
   {
     "author": "Isak Sirin",
@@ -10277,11 +10025,11 @@
     "_id": 1456
   },
   {
+    "_id": 1457,
     "author": "Lao Tzu",
-    "sr": "Ako neko stigne iz prvog pokušaja,\npokušaj deset puta.\nAko neko uspe iz stotog pokušaja,\npokušaj tisuću puta.\nTako čineći,\ni spor će stići,\ni slab će smoći snage.",
-    "ms": "Ako někto stigne iz prvogo pokušenja,\npokušaj deset krat.\nAko někto uspě iz stotogo pokušenja,\npokušaj tyseč krat.\nTako čineči,\ni nebystry bude stignuti,\ni slaby najde sily.",
-    "source": "Kung fu meditacije, Beograd 1978.",
-    "_id": 1457
+    "sr": "Ako neko stigne iz prvog pokušaja,\nti pokušaj deset puta.\nAko neko uspe iz stotog pokušaja,\nti pokušaj tisuću puta.\nTako čineći,\ni spor će stići,\ni slab će smoći snage.",
+    "ms": "Ako někto stigne iz prvogo pokušenja,\nty pokušaj deset krat.\nAko někto uspě iz stotogo pokušenja,\nty pokušaj tyseč krat.\nTako čineči,\ni nebystry prispě,\ni slaby najde sily.",
+    "source": "Kung fu meditacije, Beograd 1978."
   },
   {
     "author": "Lao Tzu",
@@ -10459,19 +10207,18 @@
     "wiki": ""
   },
   {
+    "_id": 1484,
     "author": "Evanđelje po Filipu",
-    "sr": "Ne bojte se tela niti ga ljubite. Ako bojite se, ono će zavladati vama. Ako ga ljubite ono će vas progutati i onemoćati.",
-    "ms": "Ne bojite se těla i ne ljubite go. Ako bojite se, ono bude zavladnuti vami. Ako ljubite go ono bude progoltati i iznemogti vas.",
-    "source": "Evanđelje po Filipu",
-    "_id": 1484
+    "sr": "Ne bojte se tela niti ga ljubite. Ako bojite se, zavlada vama. Ako ga ljubite, proguta i onemoća vas.",
+    "ms": "Ne bojite se těla ni ljubite go. Ako bojite se, zavladne vami. Ako ljubite go, progolta i iznemože vas.",
+    "source": "Evanđelje po Filipu"
   },
   {
     "_id": 1485,
     "author": "Evanđelje po Filipu",
     "sr": "Koji govore da će prvo umreti pa vaskrsnuti, varaju se. Jer ako ne prime vaskrsenje za života, neće primiti ništa kada umru.",
-    "ms": "Ktori govoret že prvo budu umreti pa vozkresnuti, obmanyvajut se. Ibo ako ne prijmut vozkrešenje za života, ne budu prijeti ničto kogda umrut.",
-    "source": "Evanđelje po Filipu",
-    "wiki": ""
+    "ms": "Ktori govoret že prvo budut umreti pa vozkresnuti, obmanyvajut se. Ibo ako ne prijmut vozkrešenje za života, ne prijmut ničto kogda umrut.",
+    "source": "Evanđelje po Filipu"
   },
   {
     "author": "Isus",
@@ -10536,13 +10283,6 @@
     "ms": "Jesm vlast i bezvlastna.\nJesm jedna i razděljana.\nJesm trajna i minujuča.",
     "source": "Grom: Savršeni um",
     "_id": 1494
-  },
-  {
-    "author": "Silvanovo učenje",
-    "sr": "Bog je blizu, nije daleko.",
-    "ms": "Bog blizko, on nedaleky.",
-    "source": "Silvanovo učenje 115",
-    "_id": 1496
   },
   {
     "author": "Isus",
@@ -10648,29 +10388,6 @@
     "sr": "Ne dozvoli da te nezahvalni odvrati od dobro tvorenja.",
     "ms": "Ne dozvoli da neblagodarny odvrati te od dobro tvorjenja.",
     "source": "Izreke Sekstove 328"
-  },
-  {
-    "_id": 1512,
-    "author": "Trimorfna protenoja",
-    "sr": "U svakome stvorenju ja se krećem.",
-    "ms": "U vsekom stvoru ja dvigam se.",
-    "source": "Trimorfna protenoja",
-    "wiki": ""
-  },
-  {
-    "_id": 1513,
-    "author": "Trimorfna protenoja",
-    "sr": "Ja sam istinski glas u svakom.",
-    "ms": "Jesm istinny glas v vsekom.",
-    "source": "Trimorfna protenoja",
-    "wiki": ""
-  },
-  {
-    "author": "Trimorfna protenoja",
-    "sr": "Ja sam vid onih koji snevaju.",
-    "ms": "Ja jesm vid tyh ktory snet.",
-    "source": "Trimorfna protenoja",
-    "_id": 1514
   },
   {
     "author": "Evanđelje po Filipu",
@@ -10818,11 +10535,11 @@
     "wiki": ""
   },
   {
+    "_id": 1538,
     "author": "Parmenid",
-    "sr": "Ne treba gledati pojave no tok misli.",
-    "ms": "Ne trěba gleděti javjenja no tok mysli.",
-    "source": "Herman Diels, Predsokratovci I, Zagreb 1983.",
-    "_id": 1538
+    "sr": "Ne treba gledati pojave no misli.",
+    "ms": "Ne trěba gleděti javjenja no mysli.",
+    "source": "Herman Diels, Predsokratovci I, Zagreb 1983."
   },
   {
     "author": "Parmenid",
@@ -10846,11 +10563,11 @@
     "_id": 1541
   },
   {
+    "_id": 1543,
     "author": "Pitagora",
     "sr": "Duša se čisti muzikom.",
-    "ms": "Duša čisti se so muzikoju.",
-    "source": "Herman Diels, Predsokratovci I (str. 422), Zagreb 1983.",
-    "_id": 1543
+    "ms": "Duša čisti se s muzikoju.",
+    "source": "Herman Diels, Predsokratovci I (str. 422), Zagreb 1983."
   },
   {
     "author": "Anaksagora",

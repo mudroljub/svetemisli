@@ -74,7 +74,7 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Treba razmatrati predmet tako da svijest izvana ne bude ometana niti privlačena, a iznutra ne bude pokolebana sklonošću ni strahom.",
+    "sr": "Treba razmatrati predmet tako da svijest izvana ne bude ometana ni privlačena, a iznutra ne bude pokolebana sklonošću ni strahom.",
     "ms": "Trěba razsmatrjati prědmet tako da svědomost iz vně ne bude odmetana ni privlěkana, a iz vnutri ne bude kolěbana sklonnostju ni strahom.",
     "source": "majjhima/mn138",
     "_id": 11
@@ -1459,7 +1459,7 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Bog ne gleda vaš izgled niti vaš imetak nego gleda vaša srca i vaša djela.",
+    "sr": "Bog ne gleda vaš izgled ni vaš imetak nego gleda vaša srca i vaša djela.",
     "ms": "Bog ne gledi vaš vozgled ni vaše iměnje no gledi vaša srdca i vaša děla.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 212
@@ -1582,11 +1582,11 @@
     "_id": 228
   },
   {
+    "_id": 229,
     "author": "Gautama Buddha",
-    "sr": "Ni kiša zlatnika ne zadovolji strasti. Bolni su prolazni užici, tak uviđa pametan čoviek.",
-    "ms": "Ni dožd zlata ne zadovoli strasti. Boljne sut nestalne ljubosti, tak vidi umny člověk.",
-    "source": "Dhammapada",
-    "_id": 229
+    "sr": "Ni kiša zlatnika ne zadovolji strasti. Bolne su prolazne sladosti, tak uviđa pametan čovek.",
+    "ms": "Ni dožd zlata ne zadovoli strasti. Boljne sut nestale sladosti, tak vidi umny člověk.",
+    "source": "Dhammapada"
   },
   {
     "sr": "Treba uzeti jelo nakon razboritog razmatranja, ne radi naslade, gordosti ili lepote tela, no radi održanja tela i izbegavanja štete, razumevši: odstranjujem bolni osećaj gladi i ne dopuštam bolnom osećaju prejedenosti da se razvije.",
@@ -5664,12 +5664,11 @@
     "wiki": ""
   },
   {
+    "_id": 807,
     "author": "Gautama Buddha",
-    "sr": "Ko stavlja sebe na mesto drugog, on ne bi ubio niti izazvao drugog da ubije.",
+    "sr": "Ko stavlja sebe na mesto drugog, on ne bi ubio ni izazvao drugog da ubije.",
     "ms": "Kto stavja sebe na město drugogo, on ne by ubil ni izzval drugogo da ubije.",
-    "source": "https://srednjiput.rs/tumacenja/sravasti-dhammika-kamma/budizam-od-a-do-z/z/",
-    "wiki": "https://sh.wikipedia.org/wiki/Zlatno_pravilo",
-    "_id": 807
+    "source": "https://srednjiput.rs/tumacenja/sravasti-dhammika-kamma/budizam-od-a-do-z/z/"
   },
   {
     "author": "Muhamed",
@@ -5751,7 +5750,7 @@
   {
     "_id": 818,
     "author": "Isus",
-    "sr": "Za odeću što se brinete? Pogledajte ljiljane kako rastu; ne trude se niti predu, a ni Solomon u svoj slavi ne obuče se kao jedan od njih. Ako seno poljsko, koje danas jeste a sutra u peć mećemo, bog tako odeva, neće li mnogo više vas maloverni?",
+    "sr": "Za odeću što se brinete? Pogledajte ljiljane kako rastu; ne trude se ni predu, a ni Solomon u svoj slavi ne obuče se kao jedan od njih. Ako seno poljsko, koje danas jeste a sutra u peć mećemo, bog tako odeva, neće li mnogo više vas maloverni?",
     "ms": "O oděži čto pečete se? Smotrite cvěty poljnyh kako rastut: ne trudet se, ni tkajut, a ni Šalomon vo vsej slavě ne oblěče se kak jedin od jih. Ako že sěno poljne, dnes suče i utre v peč metamo, bog tako oděva, ne mnogo li bolje vas, malověrny?",
     "source": "Evangelje po Mateju, glava 6:25-34; Evangelje po Tomi, izreka 36",
     "wiki": "https://sh.wikipedia.org/wiki/Ne_brinite_se_za_%C5%BEivot"
@@ -9349,7 +9348,7 @@
   },
   {
     "author": "Jiddu Krishnamurti",
-    "sr": "Nikada ne zamišljah šta je istina, niti želeh posedovati ju. Znadoh što ograničava me, opseda mi misli, rasipa energiju. I putem oslobađanja od žudnje, spoznah istinu.",
+    "sr": "Nikada ne zamišljah šta je istina, ni želeh posedovati ju. Znadoh što ograničava me, opseda mi misli, rasipa energiju. I putem oslobađanja od žudnje, spoznah istinu.",
     "ms": "Nikogda ne zamysljah čto istina jest, ni željah posědati ju. Znah čto ograniča me, obsěda mi mysli, trati energiju. I putom osvobadžanja od žednosti, spoznah istinu.",
     "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
     "_id": 1354
@@ -10684,7 +10683,7 @@
   },
   {
     "author": "Demokrit",
-    "sr": "Ništa ne nastaje iz nebića niti propada u nebiće.",
+    "sr": "Ništa ne nastaje iz nebića ni propada u nebiće.",
     "ms": "Ničto ne nastava iz nebitja ni propada v nebitje.",
     "source": "Herman Diels, Predsokratovci II, Zagreb 1983.",
     "_id": 1560

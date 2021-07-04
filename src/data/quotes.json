@@ -16,17 +16,16 @@
   {
     "_id": 3,
     "author": "Gautama Buddha",
-    "sr": "Neki duhovnici govore posle smrti duša potpuno blažena. Pitah ih: Živite li u svijetu potpuno blaženom? Oni rekoše ne. Još pitah: Iskusiste li potpuno blaženstvo? Oni rekoše ne. Još pitah: Znate li put do pot­punog blaženstva? Ne znaše. Dalje pitah: Slušaste li bogove da kažu: Dođite do našeg svijeta koji je potpuno blažen! Opet rekoše ne. Što misliš, ne zvuči li njihov govor besmislen?",
-    "ms": "Někoji duhovniki govoret poslě smrti duša popolno blažena. Pytah jih: Živite li v světu popolno blaženom? Oni rěčehu ne. Ješče pytah: Izkušaste li popolno blaženstvo? Oni rěčehu ne. Potom pytah: Znate li put do popolnogo blaženstva? Ne znahu. Dalje sprašah: Slyšaste li bogov kazati: Dojdite do našego světa iže popolno blaženy! Opet rěčehu ne. Čto mysliš, izdava li se jih govor bezsmyslny?",
-    "source": "Digha nikaya 9 Potthapada sutta",
-    "wiki": ""
+    "sr": "Neki duhovnici govore posle smrti duša potpuno blažena. Pitah ih: Živite li u svijetu potpuno blaženom? Oni rekoše ne. Još pitah: Iskusiste li potpuno blaženstvo? Rekoše ne. Još pitah: Znate li put do pot­punog blaženstva? Ne znaše. Dalje pitah: Slušaste li bogove da zovu u njihov svijet koji je potpuno blažen? Opet rekoše ne. Što misliš, ne zvuči li njihov govor besmislen?",
+    "ms": "Někoji duhovniki govoret poslě smrti duša popolno blažena. Pytah jih: Živite li v světu popolno blaženom? Oni rěčehu ne. Ješče pytah: Izkušaste li popolno blaženstvo? Rěčehu ne. Ješče pytah: Znate li put do popolnogo blaženstva? Ne znahu. Dalje sprašah: Slyšaste li bogov zvati v jih svět iže popolno blaženy? Opet rěčehu ne. Čto mysliš, izdava li se jih govor bezsmyslny?",
+    "source": "Digha nikaya 9 Potthapada sutta"
   },
   {
+    "_id": 4,
     "author": "Gautama Buddha",
-    "sr": "Tri su svojstva uslovljenog. Njegov nastanak je očigledan, njegov nestanak je očigledan i njegova mena dok traje je očigledna.",
-    "ms": "Tri svojstva uslovnogo. Jego nastanje očevidno, jego izčeznenje očevidno i jego měna dokolě traja očevidna.",
-    "source": "anguttara/an03-046",
-    "_id": 4
+    "sr": "Tri su svojstva uslovljenog: njegov nastanak je očigledan, njegov nestanak je očigledan i njegova mena dok traje je očigledna.",
+    "ms": "Tri svojstva uslovnogo: jego nastanje očevidno, jego izčeznenje očevidno i jego měna dokolě traja očevidna.",
+    "source": "anguttara/an03-046"
   },
   {
     "author": "Gautama Buddha",
@@ -36,11 +35,11 @@
     "_id": 5
   },
   {
+    "_id": 6,
     "author": "Gautama Buddha",
-    "sr": "Postupno, malo po malo, vremenom, kako kovač pročišćava srebro, tako mudri treba odstranjivati mane iz sebe.",
-    "ms": "Postupno, malo po malo, vrěmenem, kako kovač očiščaje srěbro, tako mudry trěba odstranjati poroky od sebe.",
-    "source": "Dhammapada",
-    "_id": 6
+    "sr": "Postupno, malo po malo, vremenom, kako kovač pročišćava srebro, tako mudri treba odstranjivati mane.",
+    "ms": "Postupno, malo po malo, vrěmenem, kak kovač očiščaje srěbro, tak mudry trěba odstranjati poroky.",
+    "source": "Dhammapada"
   },
   {
     "author": "Gautama Buddha",
@@ -74,7 +73,7 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Treba razmatrati predmet tako da svijest izvana ne bude ometana ni privlačena, a iznutra ne bude pokolebana sklonošću ni strahom.",
+    "sr": "Treba razmatrati predmet tako da svijest izvana ne bude ometana niti privlačena, a iznutra ne bude pokolebana sklonošću ni strahom.",
     "ms": "Trěba razsmatrjati prědmet tako da svědomost iz vně ne bude odmetana ni privlěkana, a iz vnutri ne bude kolěbana sklonnostju ni strahom.",
     "source": "majjhima/mn138",
     "_id": 11
@@ -248,11 +247,11 @@
     "_id": 34
   },
   {
+    "_id": 35,
     "author": "Gautama Buddha",
     "sr": "Naricanjem i plakanjem um ne biva mirniji, samo se patnja uvećava.",
-    "ms": "Narěkanjem i plakanjem um ne byva mirnějši, samo se muka vozveliča.",
-    "source": "Khuddaka nikaya, Sutta nipata III.8: Salla sutta",
-    "_id": 35
+    "ms": "Narěkanjem i plakanjem um ne byva mirnějši, samo muka vozveliča se.",
+    "source": "Khuddaka nikaya, Sutta nipata III.8: Salla sutta"
   },
   {
     "author": "Gautama Buddha",
@@ -291,11 +290,11 @@
     "_id": 40
   },
   {
+    "_id": 41,
     "author": "Gautama Buddha",
-    "sr": "Ja, prijatelju, preko ove bujice preplivah ne stajući i ne jureći. Kada stajah, tonuh, kada jurih upadah v vrtlog.",
-    "ms": "Ja, prijatelju, poprěk ove struje prěplyvah ne stajuči i ne brzajuči. Kogda stajah, tonuh, kogda brzah vpadah v vir.",
-    "source": "samyutta/sn01-001",
-    "_id": 41
+    "sr": "Ja, prijatelju, preko ove bujice preplivah ne stajući ni jureći. Kada stajah, tonuh, kada jurih upadah u vir.",
+    "ms": "Ja, prijatelju, poprěk ove struje prěplyvah ne stanuči ni spěšeči. Kogda stanuh, tonuh, kogda spěših vpadah v vir.",
+    "source": "samyutta/sn01-001"
   },
   {
     "sr": "Ako neko pred tobom počne da osuđuje brata tvog, obori lice. Čim to učiniš, pokazaćeš se oprezan i pred Bogom i pred njim.",
@@ -386,10 +385,9 @@
   {
     "_id": 55,
     "author": "Gautama Buddha",
-    "sr": "Slušaste li bolnog vuka kako tužno zavija u svitanje? Ne može naći mir u jami, podnožju drveta ni na otvorenom. Gde god ide, svuda je u nevolji. Podobno, čovek opsednut imanjem, čašću i slavom ne može naći mir u kolibi, podnožju drveta ni na otvorenom.",
-    "ms": "Slyšaste li boljnogo volka kak žalostno vyje v svitanje? Ne može najdti mir v jamě, poniže drěva ni na otvorjenom. Kde ide, vsekde v nevolji. Podobno, člověk obsědeny iměnjem, čestju i slavoju ne može najdti mir v kolibě, poniže drěva ni na otvorjenom.",
-    "source": "samyutta/sn17-008",
-    "wiki": ""
+    "sr": "Slušaste li bolnog vuka kako tužno zavija u svitanje? Ne može naći mir u jami, podnožju drveta ni na otvorenom. Podobno, čovek opsednut imanjem, čašću i slavom ne može naći mir u kolibi, podnožju drveta ni na otvorenom.",
+    "ms": "Slyšaste li boljnogo volka kak žalostno vyje v svitanje? Ne može najdti mir v jamě, poniže drěva ni na otvorjenom. Podobno, člověk obsědeny iměnjem, čestju i slavoju ne može najdti mir v kolibě, poniže drěva ni na otvorjenom.",
+    "source": "samyutta/sn17-008"
   },
   {
     "author": "Muhamed",
@@ -458,16 +456,15 @@
     "_id": 66,
     "author": "Gautama Buddha",
     "sr": "Nema sveštenika, učitelja ni učiteljeva učitelja koji može reći: Ja znam, ja vidim, samo to je istina, sve ino zabluda. Ni davni pisatelji svetih spisa za sebe to ne tvrđahu. Sve to izgleda kao red slepaca gde ni prvi, ni srednji, ni poslednji ništa ne vidi.",
-    "ms": "Ne imaje svečennika, učitelja ni učiteljeva učitelja možnogo kazati: Ja znam, ja vidim, samo to istina, vse ino zabluda. Ni davny pisatelji svetyh knigah dlja sebe to ne tvrdihu. Vse to vozgleda kak red slěpca kde ni prvy, ni srědny, ni poslědny ničto ne vidi.",
-    "source": "majjhima/mn095",
-    "wiki": "https://sh.wikipedia.org/wiki/Slepci_vode_slepce"
+    "ms": "Ne imaje svečennika, učitelja ni učiteljeva učitelja možnogo kazati: Ja znaju, ja vidžu, samo to istina, vse ino zabluda. Ni davny pisatelji svetyh knig dlja sebe to ne tvrdihu. Vse to vozgleda kak red slěpcev kde ni prvy, ni srědny, ni poslědny ničto ne vidi.",
+    "source": "majjhima/mn095"
   },
   {
+    "_id": 67,
     "author": "Gautama Buddha",
-    "sr": "Ja ću vas poučiti kako ostaviti sve. Poslušajte! Bez potpunog znanja, bez potpunog razumenja, bez odustajanja i ostavljanja svega nije moguće dosegnuti kraj patnje.",
-    "ms": "Ja hoču vas obučiti kak ostaviti vse. Slyšite! Bez popolnogo věděnja, bez popolnogo razuměnja, bez odrěčenja i ostavjanja vsego ne možno dosegnuti konec muky.",
-    "source": "Samyutta-nikayo XXXV, 23",
-    "_id": 67
+    "sr": "Ja ću vas poučiti kako ostaviti sve. Poslušajte! Bez potpunog znanja i razumenja, bez odustajanja i ostavljanja svega nije moguće dosegnuti kraj patnje.",
+    "ms": "Ja hoču vas obučiti kak ostaviti vse. Slyšite! Bez popolnogo věděnja i razuměnja, bez odrěčenja i ostavjanja vsego ne možno dosegnuti konec muky.",
+    "source": "Samyutta-nikayo XXXV, 23"
   },
   {
     "author": "Muhamed",
@@ -541,11 +538,11 @@
     "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta"
   },
   {
+    "_id": 79,
     "author": "Gautama Buddha",
     "sr": "Postoji nerođeno, nerastuće i neuslovljeno. Kad ne bi bilo nerođenog, nerastućeg i neuslovljenog, tada ne bi bilo izlaza za rođeno, rastuće i uslovljeno.",
-    "ms": "Istnuje nerodženo, nerastuče i bezuslovno. Ako ne by bylo nerodženogo, nerastučego i bezuslovnogo, togda ne by bylo izhoda dlja rodženo, rastuče i uslovno.",
-    "source": "https://srednjiput.rs/tumacenja/walpola-rahula/treca-plemenita-istina/",
-    "_id": 79
+    "ms": "Jest nerodženo, nerastuče i bezuslovno. Ako ne by bylo nerodženogo, nerastučego i bezuslovnogo, togda ne by bylo izhoda dlja rodženo, rastuče i uslovno.",
+    "source": "https://srednjiput.rs/tumacenja/walpola-rahula/treca-plemenita-istina/"
   },
   {
     "_id": 80,
@@ -577,11 +574,11 @@
     "_id": 83
   },
   {
-    "sr": "Sedam je blaga koja nisu podložna vatri, poplavi, kraljevima, lopovima i gramzivim naslednicima: blago vere, blago vrline, blago savesti, blago zazora od loših dela, blago pažljivog slušanja, blago velikodušnosti, blago mudrosti.",
+    "_id": 84,
     "author": "Gautama Buddha",
-    "ms": "Sedm blaga ne podležno ognju, poplavi, vlasti, kradcami i lakomym naslědnikami: blago věry, blago čestnosti, blago svědomja, blago zazora od zlyh děla, blago pozornog slyšanja, blago velikodušnosti i blago mudrosti.",
-    "source": "Anguttara nikaya 7:1-10 Dhana vaggo",
-    "_id": 84
+    "sr": "Sedam je blaga nepodložnih vatri, poplavi, vlasti, lopovima ni gramzivim naslednicima: blago vere, blago vrline, blago savesti, blago zazora od loših dela, blago pažljivog slušanja, blago velikodušnosti, blago mudrosti.",
+    "ms": "Sedm blaga ne podležno ognju, poplavi, vlasti, kradcami ni lakomym naslědnikami: blago věry, blago čestnosti, blago svědomja, blago zazora od zlyh děla, blago pozornog slyšanja, blago velikodušnosti i blago mudrosti.",
+    "source": "Anguttara nikaya 7:1-10 Dhana vaggo"
   },
   {
     "author": "Muhamed",
@@ -678,12 +675,11 @@
     "_id": 98
   },
   {
-    "sr": "Čak i ko bi držao moj plašt i sledio me u stopu, ali lakom u željama, nezasit u žudnjama, zlovoljan u srcu, mutnog uma, nepozoran, neukroćenih čula, bio bi daleko od mene, i ja od njega. A zašto? Zato što ne vidi darmu, a ko ne vidi darmu, ne vidi mene.",
+    "_id": 99,
     "author": "Gautama Buddha",
-    "ms": "Čak i kto by držal moj plašč i slědil me v stopu, ale lakomy v želanjah, nenasytny v žedžah, zlovoljny v srdcu, mutnogo uma, nepozorny, ukročenyh čuvstvah, byl by daleko od mene, i ja od jego. A začto? Zato čto ne vidi darmu, a kto ne vidi darmu, ne vidi mene.",
-    "source": "https://srednjiput.rs/pali-kanon/sutta-pitaka/khuddaka-nikaya/itivuttaka/it-50-100-grupa-trojki/",
-    "wiki": "https://sh.wikipedia.org/wiki/Darma",
-    "_id": 99
+    "sr": "Ko bi držao moj plašt i sledio me u stopu, ali lakom, nezasit, zlovoljan, nepozoran, bio bi daleko od mene, i ja od njega. A zašto? Zato što ne vidi darmu, a ko ne vidi darmu, ne vidi mene.",
+    "ms": "Kto by držal moj plašč i slědil me v stopu, ale lakomy, nenasytny, zlovoljny, nepozorny, byl by daleko od mene, i ja od jego. A začto? Zato že ne vidi darmu, a kto ne vidi darmu, ne vidi mene.",
+    "source": "https://srednjiput.rs/pali-kanon/sutta-pitaka/khuddaka-nikaya/itivuttaka/it-50-100-grupa-trojki/"
   },
   {
     "author": "Gautama Buddha",
@@ -808,11 +804,11 @@
     "_id": 116
   },
   {
-    "sr": "Tonući u blato ne može izvući drugog tonućeg u blato. Ali netonući u blato može izvući tonućeg.",
+    "_id": 117,
     "author": "Gautama Buddha",
-    "ms": "Tonučy v blato ne može iztrgnuti drugogo tonučego v blato. Ale netonučy v blato može iztrgnuti tonučego.",
-    "source": "Mađđhima nikaya 8: Sallekha sutta",
-    "_id": 117
+    "sr": "Tonući u blato ne može izvući drugog tonućeg. Ali netonući u blato može izvući tonućeg.",
+    "ms": "Tonučy v blato ne može iztrgnuti drugogo tonučego. Ale netonučy v blato može iztrgnuti tonučego.",
+    "source": "Mađđhima nikaya 8: Sallekha sutta"
   },
   {
     "author": "Muhamed",
@@ -1027,18 +1023,18 @@
     "_id": 148
   },
   {
+    "_id": 149,
     "author": "Gautama Buddha",
-    "sr": "Spajanjem i trenjem dva drveta nastaje toplota, a razdvajanjem prestaje. Podobno, od čulnog utiska čuvstva nastaju, a prestankom čulnog utiska prestaju.",
-    "ms": "Sjedinjenjem i trenjem dva drěva nastane gorečnja, a jih razdělom prěstaje. Podobno, od čutnogo odtiska čuvstva nastanut, a prěstanjem čutnogo odtiska prěstajut.",
-    "source": "samyutta/sn36-010",
-    "_id": 149
+    "sr": "Spajanjem i trenjem dva drveta nastaje toplota, a razdvajanjem prestaje. Podobno, od čulnog utiska čuvstva nastaju, a prestankom utiska prestaju.",
+    "ms": "Sjedinjenjem i trenjem dva drěva nastane gorečnja, a jih razdělom prěstaje. Podobno, od čutnogo odtiska čuvstva nastanut, a prěstanjem odtiska prěstajut.",
+    "source": "samyutta/sn36-010"
   },
   {
+    "_id": 150,
     "author": "Gautama Buddha",
-    "sr": "Ja tvrdim, strasti može okončati samo ko pozna ih i prozre, ne ko ne pozna i ne prozre ih.",
-    "ms": "Ja tvrdim, strasti može skončiti samo kto pozna jih i prozri, ne kto ne pozna ni prozri jih.",
-    "source": "samyutta/sn22-023",
-    "_id": 150
+    "sr": "Strasti može okončati samo ko pozna ih i prozre, ne ko ne pozna i ne prozre ih.",
+    "ms": "Strasti može skončiti samo kto pozna jih i prozri, ne kto ne pozna ni prozri jih.",
+    "source": "samyutta/sn22-023"
   },
   {
     "author": "Muhamed",
@@ -1114,11 +1110,11 @@
     "_id": 160
   },
   {
+    "_id": 161,
     "author": "Gautama Buddha",
-    "sr": "Zamisli šumu punu divljeg rastinja. I dođe čovek želeći šumi dobro. On razreže divlje rastinje koje uzima snagu drva, očisti šumu izvnutra i ostavi zdrava dreveća. Tako vi, ostavite škodljivo i posvetite se korisnim stanjima, da dođete do rasta, veličine i ispunjenja.",
-    "ms": "Prědstavi si lěs polny divyh rastlina. I dojde člověk želajuči lěsu dobro. On razrěže dive rastliny izimajuči silu drěva, očisti gaj izvnutra i ostavi zdrava drěvesa. Tako vy, ostavite škodlivo i posvetite se koristnom uslovju, da dojdete do rasta, veličiny i izpolnenja.",
-    "source": "Mađđhima nikaya 21: Kakaćupama sutta",
-    "_id": 161
+    "sr": "Zamisli šumu punu divljeg rastinja. I dođe čovek želeći šumi dobro. On razreže divlje rastinje, očisti šumu izvnutra i ostavi zdrava drveća. Tako vi, otklonite škodljivo i posvetite se korisnom, da dođete do rasta, veličine i ispunjenja.",
+    "ms": "Prědstavi si lěs polny divyh rastlin. I dojde člověk želajuči lěsu dobro. On razrěže dive rastliny, očisti gaj izvnutra i ostavi zdrava drěvesa. Tako vy, odklonite škodlivo i posvetite se koristnomu, da dojdete do rasta, veličiny i izpolnenja.",
+    "source": "Mađđhima nikaya 21: Kakaćupama sutta"
   },
   {
     "author": "Gautama Buddha",
@@ -1178,11 +1174,11 @@
     "_id": 169
   },
   {
+    "_id": 170,
     "author": "Gautama Buddha",
-    "sr": "Sve stvari vezane sa nepovoljnim, um tvori. Prvo ih um tvori, potom postaju nepovoljne.",
-    "ms": "Vse tvari svezane so nevygodnym um tvori. Prvo jih um tvori, potom stanut nevygodne.",
-    "source": "anguttara/an01-051",
-    "_id": 170
+    "sr": "Sve nepovoljne stvari um tvori.",
+    "ms": "Vse nevygodne věči um tvori.",
+    "source": "anguttara/an01-051"
   },
   {
     "sr": "Ko zgreši u jednom, ne ostaje zlo koje neće učiniti. To jedno je smišljena laž.",
@@ -1395,9 +1391,8 @@
     "_id": 203,
     "author": "Gautama Buddha",
     "sr": "Poneke noći prebivah na jezovitim mestima. I zbivalo se da neka zver slomi granu ili vetar zašumi među suhim lišćem. I mišljah: Nastupaju li strah i bojazan? I mišljah: Zašto svagda čekam strah i bojazan? Kako bi bilo odgnati ih, ostajući u istom položaju, dokle ne prođu?",
-    "ms": "Poněkoj noči prěbyvah na jezovitym městami. I byvalo je někoja zvěr slomi větvu ili větr zašumi medžu suhym listjem. I dumah: Nastupajut li strah i bojaznj? I dumah: Začto vsegda čekam strah i bojaznj? Kak by bylo izgnati jih, ostavajuči v samom položenju, dokolě ne projdut?",
-    "source": "Mađđhima nikaya 4: Bhaya-bherava sutta",
-    "wiki": ""
+    "ms": "Poněkoje noči prěbyvah na strašnym městam. I byvalo je někoja zvěr slomi větvu ili větr zašumi medžu suhym listjem. I dumah: Nastupajut li strah i bojaznj? I dumah: Začto vsegda čekam strah i bojaznj? Kak by bylo izgnati jih, ostavajuči v samom položenju, dokolě ne projdut?",
+    "source": "Mađđhima nikaya 4: Bhaya-bherava sutta"
   },
   {
     "author": "Gautama Buddha",
@@ -1459,17 +1454,17 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Bog ne gleda vaš izgled ni vaš imetak nego gleda vaša srca i vaša djela.",
+    "sr": "Bog ne gleda vaš izgled niti vaš imetak nego gleda vaša srca i vaša djela.",
     "ms": "Bog ne gledi vaš vozgled ni vaše iměnje no gledi vaša srdca i vaša děla.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 212
   },
   {
+    "_id": 213,
     "author": "Gautama Buddha",
-    "sr": "Kao pre, tako i sada ja pretežno prebivam u stanju ništavila. Svi prošli koji dosegnuše potpuno čisto konačno ništavilo, dosegnuše upravo to ništavilo. I svi budući koji dosegnu potpuno čisto konačno ništavilo, dosegnuće upravo to ništavilo.",
-    "ms": "Kak prědže, tak segda ja glavno prěbyvam v stanu ničtosti. Vsi prošli ktori dosegnuhu popolno čistu konečnu ničtost, dosegnuhu točno tu ničtost. I vsi buduči ktori dosegnut popolno čistu konečnu ničtost, budut dosegnuti točno tu ničtost.",
-    "source": "majjhima/mn121",
-    "_id": 213
+    "sr": "Ja uglavnom prebivam u stanju ništavila. Svi koji dosegnuše čisto konačno ništavilo, dosegnuše upravo to ništavilo. I svi koji će dosegnuti čisto konačno ništavilo, dosegnuće upravo to ništavilo.",
+    "ms": "Ja glavno prěbyvaju v stanu ničtosti. Vsi ktori dosegnuhu čistu konečnu ničtost, dosegnuhu točno tu ničtost. I vsi ktori budut dosegnuti čistu konečnu ničtost, budut dosegnuti točno tu ničtost.",
+    "source": "majjhima/mn121"
   },
   {
     "author": "Gautama Buddha",
@@ -1517,10 +1512,9 @@
   {
     "_id": 220,
     "author": "Gautama Buddha",
-    "sr": "Treba smatrati svoje telo, i sve unutar kože, kao gomilu nečistote. U telu su: vlasi, nokti, zubi, koža, meso, žile, kosti, srce, jetra, slezina, pluća, creva, žuč, sluz, gnoj, krv, mast, salo, suze, sline, govna i mokraća. Tako treba posmatrati odvratnost tela.",
-    "ms": "Trěba smatrjati svoje tělo, i vse vnutrny kože, kak gromadu nečistoty. V tělu sut: vlasy, nogti, zuby, koža, meso, žily, kosti, srdce, jetra, slězena, pljuča, črěvo, žolč, sliz, gnoj, krov, mast, salo, solzy, sliny, govna i moč. Tako trěba posmotriti odvratnost těla.",
-    "source": "Nanaponika Thera, Pet mentalnih prepreka i njihovo uklanjanje",
-    "wiki": "https://sh.wikipedia.org/wiki/Razmatranje_odvratnosti"
+    "sr": "Treba smatrati svoje telo i sve unutar kože kao gomilu nečistote. U telu su: vlasi, nokti, zubi, koža, meso, žile, kosti, srce, jetra, slezina, pluća, creva, žuč, sluz, gnoj, krv, mast, salo, suze, sline, govna i mokraća. Tako treba posmatrati odvratnost tela.",
+    "ms": "Trěba smatrjati svoje tělo i vse vnutrny kože kak gromadu nečistoty. V tělu sut: vlasy, nogti, zuby, koža, meso, žily, kosti, srdce, jetra, slězena, pljuča, črěvo, žolč, sliz, gnoj, krov, mast, salo, solzy, sliny, govna i moč. Tako trěba posmotriti odvratnost těla.",
+    "source": "Nanaponika Thera, Pet mentalnih prepreka i njihovo uklanjanje"
   },
   {
     "sr": "Ako ostavimo čula bez straže, \nškodljiva stanja mogu osvojiti um. \nStražarimo nad okom, nastojmo obuzdati oko. \nKad vidimo oblik, ne lepimo se za njega. \nStražarimo nad umom, nastojmo obuzdati um. \nKad osetimo misao, ne lepimo se za nju.",
@@ -1531,11 +1525,11 @@
     "_id": 221
   },
   {
+    "_id": 222,
     "author": "Gautama Buddha",
     "sr": "Postoje stvari koje su okovi, a izdaju se prijatnim i stvari koje su okovi, a izdaju se neprijatnim.",
-    "ms": "Imajut věči že sut okovy, a izdavajut se prijetnym i věči že sut okovy, a izdavajut se neprijetnym.",
-    "source": "anguttara/an02-001",
-    "_id": 222
+    "ms": "Jestvujut věči že sut okovy, a izdavajut se prijetnym i věči že sut okovy, a izdavajut se neprijetnym.",
+    "source": "anguttara/an02-001"
   },
   {
     "author": "Isus",
@@ -1562,10 +1556,9 @@
   {
     "_id": 226,
     "author": "Gautama Buddha",
-    "sr": "Kada misao o nasladi javi se, ja razumem: Misao o nasladi javila se. Ona vodi do žalosti mene i drugog, odvraća razvoj mudrosti, izaziva nevolje i odaljava od nirvane. I ta misao prestaje.",
-    "ms": "Kogda myslj o nasladě javi se, ja razuměm: Myslj o nasladě javila se. Ona vodi do žalosti mene i drugogo, odvrača razvoj mudrosti, izzyva nevolje i oddaljaje od nirvane. I ta myslj prěstava.",
-    "source": "Mađđhima nikaya 19: Dvedhavitakka sutta",
-    "wiki": ""
+    "sr": "Kada misao o nasladi javljala se, ja razumeh: Misao o nasladi javila se. Ona vodi do žalosti mene i drugog, odvraća razvoj mudrosti, izaziva nevolje i odaljava od nirvane. I ta misao prestajaše.",
+    "ms": "Kogda myslj o nasladě javjala se, ja razuměh: Myslj o nasladě javila se. Ona vodi do žalosti mene i drugogo, odvrača razvoj mudrosti, izzyva nevolje i oddaljaje od nirvane. I ta myslj prěstavaše.",
+    "source": "Mađđhima nikaya 19: Dvedhavitakka sutta"
   },
   {
     "author": "Muhamed",
@@ -1589,11 +1582,11 @@
     "source": "Dhammapada"
   },
   {
-    "sr": "Treba uzeti jelo nakon razboritog razmatranja, ne radi naslade, gordosti ili lepote tela, no radi održanja tela i izbegavanja štete, razumevši: odstranjujem bolni osećaj gladi i ne dopuštam bolnom osećaju prejedenosti da se razvije.",
+    "_id": 230,
     "author": "Gautama Buddha",
-    "ms": "Trěba vzeti jelo poslě razbornogo razsmatrjanja, ne radi naslady, gordosti ili lěpoty těla, no radi poddržanja těla i izběženja škody, razuměvši: odstranjam boljno čuvstvo gladi i ne puščam boljnom čuvstvu prějedatosti razviti se.",
-    "source": "https://srednjiput.rs/tumacenja/nanaponika-thera/pet-mentalnih-prepreka/prepreke/",
-    "_id": 230
+    "sr": "Jesti treba ne radi naslade, gordosti ili lepote tela, no radi održanja tela i izbegavanja štete, razumevši: odstranjujem bolni osećaj gladi i ne dopuštam bolnom osećaju prejedenosti da se razvije.",
+    "ms": "Jesti trěba ne radi naslady, gordosti ili lěpoty těla, no radi poddržanja těla i izběženja škody, razuměvši: odstranjam boljno čuvstvo gladi i ne puščam boljnom čuvstvu prějedatosti razviti se.",
+    "source": "https://srednjiput.rs/tumacenja/nanaponika-thera/pet-mentalnih-prepreka/prepreke/"
   },
   {
     "author": "Gautama Buddha",
@@ -1625,11 +1618,11 @@
     "_id": 234
   },
   {
+    "_id": 235,
     "author": "Gautama Buddha",
     "sr": "Nije lako pronaći biće koje nekada nije bilo tvoja mati ili otac. Nije lako pronaći biće koje nekada nije bilo tvoj brat ili sestra. Nije lako pronaći biće koje nekada nije bilo tvoj sin ili kćera.",
-    "ms": "Nest legko najdti bytje koj někogda ne bylo tvoja mati ili otec. Nest legko najdti bytje někogda ne bylo tvoj brat ili sestra. Nest legko najdti bytje někogda ne bylo tvoj syn ili dočera.",
-    "source": "samyutta/sn15-014",
-    "_id": 235
+    "ms": "Ne legko najdti bytje iže někogda ne bylo tvoja mati ili otec. Ne legko najdti bytje iže někogda ne bylo tvoj brat ili sestra. Ne legko najdti bytje iže někogda ne bylo tvoj syn ili dočera.",
+    "source": "samyutta/sn15-014"
   },
   {
     "author": "Zhuang Zhou",
@@ -1719,11 +1712,11 @@
     "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_trunu_i_brvnu"
   },
   {
-    "sr": "Kako ogromnu stenu vetar pomeriti ne može, tako mudraca ne kolebaju pohvale ni pokude.",
+    "_id": 248,
     "author": "Gautama Buddha",
-    "ms": "Kak tvrdu stěnu větr dvignuti ne može, tak mudrogo ne kolěbajut ni hvala ni karanje.",
-    "source": "Dhammapada 81",
-    "_id": 248
+    "sr": "Kako ogromnu stenu vetar ne pomera, tako mudraca ne kolebaju pohvale ni pokude.",
+    "ms": "Kak tvrdu stěnu větr ne dviga, tak mudrogo ne kolěbajut hvala ni karanje.",
+    "source": "Dhammapada 81"
   },
   {
     "author": "Zhuang Zhou",
@@ -1836,12 +1829,11 @@
     "source": ""
   },
   {
+    "_id": 265,
     "author": "Gautama Buddha",
-    "sr": "Neuk čovek oblik smatra sobom. I njegov oblik menja se, postaje različit. Njegova svest postaje zauzeta menom oblika. Nemir od promene oblika poseda njegov um. I njegov um je posednut, on je prestrašen, nesrećan i pun bojazni. Tako nastaje nemir usled vezanosti.",
-    "ms": "Neuk člověk oblik smatrja soboju. I jego oblik měnja se, stava različny. Jego svědomost stava zavzeta so měnoju oblika. Nemir od izměně oblika posěda jego um. I jego um posědeny, on prěstrašeny, neščestny i polny bojaznji. Tak nastava nemir vslěd vezanosti.",
-    "source": "samyutta/sn22-007",
-    "wiki": "https://sh.wikipedia.org/wiki/Gorivo_(budizam)",
-    "_id": 265
+    "sr": "Neuk čovek oblik smatra sobom. I njegov oblik menja se, postaje različit. Nemir od promene oblika poseda njegov um. I on je prestrašen, nesrećan i pun bojazni. Tako nastaje nemir usled vezanosti.",
+    "ms": "Neuk člověk oblik smatrja soboju. I jego oblik měnja se, stava različny. Nemir od izměně oblika posěda jego um. I on prěstrašeny, neščestny i polny bojaznji. Tako nastava nemir vslěd vezanosti.",
+    "source": "samyutta/sn22-007"
   },
   {
     "sr": "Nemoguće da od dobro dela ishod bude nemio i neprijatan.",
@@ -1881,10 +1873,9 @@
   {
     "_id": 271,
     "author": "Gautama Buddha",
-    "sr": "Ako čovek pozorno ispituje mehur na reci Gang, vidi prazan jest i bez suštine. Tako mudrac ispituje oblike, draži, čuvstva, tvorevine i svest, dok ne prozre prazni su i bez suštine.",
-    "ms": "Ako člověk pozorno izpytyva měhurok na rěky Gang, vidi prazdny jest i bez sučnosti. Tak mudrec izpytyva obliky, draži, čuvstva, tvorenja i svědomost, dokolě ne prozri prazdny sut i bez sučnosti.",
-    "source": "samyutta/sn22-095",
-    "wiki": "https://sh.wikipedia.org/wiki/Nesopstvo"
+    "sr": "Ako čovek pozorno ispituje mehur na reci Gang, vidi ga praznim i bez suštine. Tako mudrac ispituje oblike, draži, čuvstva, tvorevine i svest, dok ne prozre ih praznim i bez suštine.",
+    "ms": "Ako člověk pozorno izpytyva měhurok na rěky Gang, vidi go prazdnym i bez sučnosti. Tak mudrec izpytyva obliky, draži, čuvstva, tvorenja i svědomost, dokolě ne prozri jih prazdnym i bez sučnosti.",
+    "source": "samyutta/sn22-095"
   },
   {
     "sr": "Ko želi ljubiti boga iznad svega treba se starati o čistoti duše. Čistota duše stiče se savlađivanjem i iskorenjivanjem strasti.",
@@ -1897,9 +1888,8 @@
     "_id": 273,
     "author": "Gautama Buddha",
     "sr": "Podvižnik ne daje pozornost predstavi grada ni predstavi ljudi. On predstavom šume bistri, stišava i oslobađa um.",
-    "ms": "Podvižnik ne dava pozornost prědstavi grada ni prědstavi ljudi. On prědstavoju lěsa čisti, utišaje i osvobadža um.",
-    "source": "Mađđhima nikaya 121: Ćula-sunnata sutta",
-    "wiki": ""
+    "ms": "Podvižnik ne dava pozornost prědstavi grada ni prědstavi ljudi. On so prědstavoju lěsa čisti, utišaje i osvobadža um.",
+    "source": "Mađđhima nikaya 121: Ćula-sunnata sutta"
   },
   {
     "sr": "Duša otpada od jednosti i nije potpuno jedno, kad prima spoznaju nečega. Jer spoznaja je pojam, a pojam je mnoštvo.",
@@ -1938,11 +1928,11 @@
     "_id": 278
   },
   {
-    "sr": "Ko ponavlja mnoštvo svetih izreka, a ne vlada se po njima, ne može ostvariti sveti život.",
+    "_id": 279,
     "author": "Gautama Buddha",
-    "ms": "Kto povtarja množstvo svetyh izrěka, a ne vlada se po jimi, ne može dosegnuti svety život.",
-    "source": "Dhammapada",
-    "_id": 279
+    "sr": "Ko ponavlja mnoštvo svetih izreka, ne živeći ih, ne može ostvariti sveti život.",
+    "ms": "Kto povtarja množstvo svetyh izrěčenja, ne živuči jih, ne može dosegnuti svety život.",
+    "source": "Dhammapada"
   },
   {
     "author": "Muhamed",
@@ -1975,11 +1965,11 @@
     "wiki": ""
   },
   {
+    "_id": 284,
     "author": "Gautama Buddha",
-    "sr": "Kao što vjetar ne satire čvrstu stijenu tako se ni pametni ljudi ne kolebaju pred pokudom ili pohvalom.",
-    "source": "Dhammapada",
-    "ms": "Kak větr ne slomi tvrdu stěnu tak ni pametni ljudi ne kolěbajut se prěd kritikoju ili hvaloju.",
-    "_id": 284
+    "sr": "Kako vjetar ne lomi tvrdu stijenu tako pametni ljudi ne kolebaju se pred pokudom ni pohvalom.",
+    "ms": "Kak větr ne slomi tvrdu stěnu tak pametni ljudi ne kolěbajut se prěd kritikoju ni hvaloju.",
+    "source": "Dhammapada"
   },
   {
     "sr": "Između čoveka koji ostavi višak jela i koji pojede, više hvalim prvoga. Na duge staze to vodi umanjenju želja, zadovoljstvu, čišćenju, prostom životu i gipkosti.",
@@ -2026,11 +2016,11 @@
     "_id": 290
   },
   {
+    "_id": 291,
     "author": "Gautama Buddha",
-    "sr": "Među onima koji na ovom svetu uvek dobro spavaju ja sam jedan.",
-    "ms": "Medžu ljudami na světu ktori vsegda dobro spet ja jesm jedin.",
-    "source": "anguttara/an03-035",
-    "_id": 291
+    "sr": "Ja sam među tima koji uvek dobro spavaju.",
+    "ms": "Ja jesm medžu tymi ktori vsegda dobro spet.",
+    "source": "anguttara/an03-035"
   },
   {
     "_id": 292,
@@ -2069,11 +2059,11 @@
     "_id": 296
   },
   {
-    "sr": "Podvižnik otišavši u šumu razmišlja: Ima li neka opsesija koja bi opseda um, da ne mogu videti stvari kakve jesu? Opseda li me želja? Opseda li me mržnja? Opseda li me nemir? Opseda li me sumnja? Opsedaju li me misli o ovome ili onome svetu?",
+    "_id": 297,
     "author": "Gautama Buddha",
-    "ms": "Podvižnik otišavši v lěs razmyslja: Imaje li někoja obsědenost koja mi obsěda um, že ne mogu viděti stvary kake sut? Obsěda li me žednost? Obsěda li me vragost? Obsěda li me nemir? Obsěda li me sumněnje? Obsědajut li me mysli o sej i inom světu?",
-    "source": "Mađđhima nikaya 48: Kosambiya sutta",
-    "_id": 297
+    "sr": "Borac otišavši u šumu razmišlja: Ima li neka opsesija koja bi opseda um, da ne mogu videti stvari kakve jesu? Opseda li me želja? Opseda li me mržnja? Opseda li me nemir? Opseda li me sumnja? Opsedaju li me misli o ovome ili onome svetu?",
+    "ms": "Bojec otišavši v lěs razmyslja: Imaje li někoja obsědenost koja mi obsěda um, že ne mogu viděti stvary kake sut? Obsěda li me žednost? Obsěda li me nenavist? Obsěda li me nemir? Obsěda li me sumněnje? Obsědajut li me mysli o sej i inom světu?",
+    "source": "Mađđhima nikaya 48: Kosambiya sutta"
   },
   {
     "author": "Gautama Buddha",
@@ -2102,8 +2092,7 @@
     "author": "Gautama Buddha",
     "sr": "Ako bi tijelo bilo isključivo bolno, ljudi ne bi uživali u tijelu. No tijelo je također radosno, za tijelo ih vezuje strast. Uslijed te veze se zagađuju, to je uzrok zagađenja. Zato im tjelo postaje odvratno i odriču se strasti. To je uzrok očišćenja.",
     "ms": "Ako by tělo bylo izključiteljno boljno, ljudi ne by uživali v tělu. No tělo takože radostno, dlja těla jih svezyva strast. Vslěd te sveze zanečistet se, to povod zanečiščenja. Zato tělo jim stava odvratno i odrěkajut se strasti. To povod očiščenja.",
-    "source": "samyutta/sn22-060",
-    "wiki": "https://sh.wikipedia.org/wiki/Gorivo_(budizam)"
+    "source": "samyutta/sn22-060"
   },
   {
     "author": "Gautama Buddha",
@@ -2135,12 +2124,11 @@
     "_id": 305
   },
   {
-    "sr": "Mržnja se nikad ne smiruje mržnjom, već jedino njenim odsustvom. Ovo je večni zakon.",
+    "_id": 306,
     "author": "Gautama Buddha",
-    "ms": "Vragost nikogda ne prěstava vragostju. Vragost prěstava odsučstvom vragosti. To jest věčny zakon.",
-    "source": "Dhammapada",
-    "wiki": "https://sh.wikipedia.org/wiki/Mr%C5%BEnja_(budizam)",
-    "_id": 306
+    "sr": "Mržnja se nikad ne smiruje mržnjom, no odsustvom mržnje. To je večni zakon.",
+    "ms": "Nenavist nikogda ne prěstava nenavistju, no odsučstvom nenavisti. To jest věčny zakon.",
+    "source": "Dhammapada"
   },
   {
     "sr": "Kako je odvajanje od duše smrt za telo, tako je odvajanje od boga smrt za dušu.",
@@ -2187,10 +2175,9 @@
   {
     "_id": 313,
     "author": "Gautama Buddha",
-    "sr": "Gledišta: svet je večan, svet nije večan, svet beskonačan, svet konačan, duša i telo isto, duša i telo različito, posle smrti oslobođeni jeste, posle smrti oslobođeni nije - su šuma gledišta, džungla gledišta, okov. Ne vode trežnjenju, miru i budnosti. Ta gledišta oslobođeni je odložio.",
-    "ms": "Gledišča: svět věčny, svět ne věčny, svět bezkonečny, svět konečny, duša i tělo jednako, duša i tělo različno, poslě smrti osvobodženy jest, poslě smrti osvobodženy ne jest - sut lěs gledišča, džungla gledišča, okov. Ne vodet trězvěnju, miru i budnosti. Ta gledišča osvobodženy odložil.",
-    "source": "majjhima/mn072",
-    "wiki": "https://sh.wikipedia.org/wiki/Nemislivo"
+    "sr": "Gledišta: svet je večan, svet nije večan, svet beskonačan, svet konačan, duša i telo isto, duša i telo različito, posle smrti duša jeste, posle smrti duša nije - su šuma gledišta, džungla gledišta, okov. Ne vode trežnjenju, miru i budnosti. Ta gledišta oslobođeni odloži.",
+    "ms": "Gledišča: svět věčny, svět ne věčny, svět bezkonečny, svět konečny, duša i tělo jednako, duša i tělo različno, poslě smrti duša jest, poslě smrti duša ne jest - sut lěs gledišča, džungla gledišča, okov. Ne vodet trězvěnju, miru i budnosti. Ta gledišča osvobodženy odloži.",
+    "source": "majjhima/mn072"
   },
   {
     "_id": 314,
@@ -2215,12 +2202,11 @@
     "_id": 316
   },
   {
-    "sr": "Dva su traganja: neblagorodno i blagorodno. Neblagorodno je kada čovek, podložan rođenju, starenju, bolesti, smrti, traga za podložnim rođenju, starenju, bolesti, smrti. A blagorodno kada čovek vidi opasnost i traga za nerođenim, za oslobođenjem, za nirvanom.",
+    "_id": 317,
     "author": "Gautama Buddha",
-    "ms": "Dva sut slědovanja: neblagorodno i blagorodno. Neblagorodno jest kogda člověk, podležny rodženju, starěnju, bolesti, smrti, slědi za podležnym rodženju, starěnju, bolesti, smrti. A blagorodno kogda člověk vidi opasnost i slědi za nerodženym, za oslobodženjem, za nirvanom.",
-    "source": "Anguttara nikaya IV.254-263: Abhiññā vaggo",
-    "wiki": "https://sh.wikipedia.org/wiki/Nirvana",
-    "_id": 317
+    "sr": "Dva su traganja: neblagorodno i blagorodno. Neblagorodno je kada podložan rođenju, starenju, bolesti, smrti, ište podložno rođenju, starenju, bolesti, smrti. A blagorodno kada čovek vidi opasnost i ište nerođeno, oslobođenje, nirvanu.",
+    "ms": "Dva sut slědovanja: neblagorodno i blagorodno. Neblagorodno jest kogda podležny rodženju, starěnju, bolesti, smrti, išče podležno rodženju, starěnju, bolesti, smrti. A blagorodno kogda člověk vidi opasnost i išče nerodženo, oslobodženje, nirvanu.",
+    "source": "Anguttara nikaya IV.254-263: Abhiññā vaggo"
   },
   {
     "sr": "Više krvi prolismo ubijeni lutajući ovim predugim putem, nego je vode u četiri okeana.",
@@ -2273,12 +2259,11 @@
     "wiki": ""
   },
   {
-    "sr": "Ako je voda prekrivena žabokrečinom, \nčovek ne može videti sopstveno lice. \nAko je um opsednut lenjošću i tromošću, \nčovek ne vidi sopstveno dobro, ni dobro drugih.",
+    "_id": 325,
     "author": "Gautama Buddha",
-    "ms": "Ako voda pokryta rastlinami, \nčlověk ne može viděti sobstveno lice. \nAko um posědany lěnivostju i otupělostju, \nčlověk ne vidi sobstveno dobro, ni dobro drugyh.",
-    "source": "https://srednjiput.rs/tumacenja/nanaponika-thera/pet-mentalnih-prepreka/prepreke/",
-    "wiki": "https://sh.wikipedia.org/wiki/Um_(budizam)",
-    "_id": 325
+    "sr": "Ako je voda prekrivena žabokrečinom, \nčovek ne vidi sopstveno lice. \nAko je um opsednut lenjošću i tromošću, \nčovek ne vidi sopstveno dobro, ni dobro drugih.",
+    "ms": "Ako voda pokryta rastlinami, \nčlověk ne vidi sobstveno lice. \nAko um posědany lěnivostju i otupělostju, \nčlověk ne vidi sobstveno dobro, ni dobro drugyh.",
+    "source": "https://srednjiput.rs/tumacenja/nanaponika-thera/pet-mentalnih-prepreka/prepreke/"
   },
   {
     "author": "Muhamed",
@@ -2317,11 +2302,11 @@
     "_id": 330
   },
   {
+    "_id": 331,
     "author": "Gautama Buddha",
-    "sr": "Sve pobedih, sve prozreh, ničim što postoji nisam ukaljan. Sve ostavih, okončanjem žeđi se oslobodih, sam se uzdigoh do spoznaje. Na koga da se ugledam?",
-    "ms": "Vse pobědih, vse prozrěh, ničim čto byva nesm obmazany. Vse ostavih, skončenjem žedže se osvobodih, sam se vozdvignuh do věděnja. Na kogo da se vgledam?",
-    "source": "Dhammapada",
-    "_id": 331
+    "sr": "Sve pobedih, sve prozreh, sve ostavih. Sam se uzdigoh do spoznaje. Na koga da se ugledam?",
+    "ms": "Vse pobědih, vse prozrěh, vse ostavih. Sam vozdvignuh se do věděnja. Na kogo da vgledam se?",
+    "source": "Dhammapada"
   },
   {
     "author": "Gautama Buddha",
@@ -2440,10 +2425,9 @@
   {
     "_id": 349,
     "author": "Gautama Buddha",
-    "sr": "Kada radnik gleda dršku sekire ne zna koliko se istanjila danas, koliko jučer, koliko pre. No, kada drška potpuno istanji se to vidi. Podobno, dokle podvižnik čisti um, ne zna: Toliko nečistoća odstranih danas, toliko jučer, toliko pre. No, kada su odstranjene, to vidi.",
-    "ms": "Kogda rabotnik gledi držku sěkyry ne zna koliko smenšala se dnes, koliko včera, koliko prědže. No, kogda držka popolno tenka to vidi. Podobno, dokolě podvižnik čisti um, ne zna: Toliko nečistoty odstranih dnes, toliko včera, toliko prědže. No, kogda sut odstranenje, to vidi.",
-    "source": "samyutta/sn22-101",
-    "wiki": ""
+    "sr": "Kada radnik gleda dršku sekire ne zna koliko se istanjila danas. No, kada drška potpuno istanji se to vidi. Tako, dokle čovek čisti um ne zna: Toliko nečistoća odstranih danas. No, kada su sve odstranjene, to vidi.",
+    "ms": "Kogda rabotnik gledi držku sěkyry ne zna koliko smenšala se dnes. No, kogda držka popolno tenka to vidi. Tak, dokolě člověk čisti um ne zna: Toliko nečistoty odstranih dnes. No, kogda vse odstranenje, to vidi.",
+    "source": "samyutta/sn22-101"
   },
   {
     "author": "Muhamed",
@@ -2544,11 +2528,11 @@
     "source": "Stoslovi o ljubavi I-10"
   },
   {
-    "sr": "Zamisli ogromnu stenu u duboku vodu. I dođe mnoštvo ljudi i počne se moliti, klanjati i govoriti: Izroni, dobra steno! Izađi na obalu, dobra steno! Šta mniš, usled molitvi mnoštva ljudi, hoće li stena izroniti?",
+    "_id": 364,
     "author": "Gautama Buddha",
-    "ms": "Prědstavi si ogromny kamenj v glubokoj vodě. I dojde množstvo ljudi i počne se moliti, klanjati i govoriti: Izplyvaj, dobry kamenju! Prijdi na brěg, dobry kamenju! Čto mniš, vslěd molitvy množstva ljudi, bude li kamenj izplyvati?",
-    "source": "Samyutta nikaya 42:1-10 Salayatana vagga",
-    "_id": 364
+    "sr": "Zamisli ogromnu stenu u jezeru. I dođe mnoštvo ljudi moliti se, klanjati i govoriti: Izroni, dobra steno! Izađi na obalu, dobra steno! Što mniš, usled molitvi mnoštva ljudi, hoće li stena izroniti?",
+    "ms": "Prědstavi si ogromny kamenj v jezeru. I dojde množstvo ljudi moliti se, klanjati i govoriti: Izplyvaj, dobry kamenju! Prijdi na brěg, dobry kamenju! Čto mniš, vslěd molitvy množstva ljudi, hoče li kamenj izplyvati?",
+    "source": "Samyutta nikaya 42:1-10 Salayatana vagga"
   },
   {
     "author": "Gautama Buddha",
@@ -2581,10 +2565,9 @@
   {
     "_id": 369,
     "author": "Gautama Buddha",
-    "sr": "Ne znam ini oblik tako posevši um čoveka kao telo žene. \nNe znam ini zvuk tako posevši um čoveka kao glas žene. \nNe znam ini miris tako posevši um čoveka kao miris žene. \nNe znam ini ukus tako posevši um čoveka kao ukus žene. \nNe znam ini dodir tako posevši um čoveka kao dodir žene.",
-    "ms": "Ne věm iny oblik tak posěvši um člověka kak tělo žene. \nNe věm iny zvuk tak posěvši um člověka kak glas žene. \nNe věm iny vonj tak posěvši um člověka kak vonj žene. \nNe věm iny vkus tak posěvši um člověka kak vkus žene. \nNe věm iny dotyk tak posěvši um člověka kak dotyk žene.",
-    "source": "anguttara/an01-001",
-    "wiki": ""
+    "sr": "Ne znam ini oblik posevši um čoveka kao telo žene. \nNe znam ini zvuk posevši um čoveka kao glas žene. \nNe znam ini miris posevši um čoveka kao miris žene. \nNe znam ini ukus posevši um čoveka kao ukus žene. \nNe znam ini dodir posevši um čoveka kao dodir žene.",
+    "ms": "Ne věm iny oblik posěvši um člověka kak tělo žene. \nNe věm iny zvuk posěvši um člověka kak glas žene. \nNe věm iny vonj posěvši um člověka kak vonj žene. \nNe věm iny vkus posěvši um člověka kak vkus žene. \nNe věm iny dotyk posěvši um člověka kak dotyk žene.",
+    "source": "anguttara/an01-001"
   },
   {
     "author": "Isus",
@@ -2611,9 +2594,8 @@
     "_id": 373,
     "author": "Gautama Buddha",
     "sr": "Ribar zabaci mamac u jezero. Ako riba proguta mamac, u njegovoj je vlasti. Imanje, čast i slava su mamci. Ribar je đavo.",
-    "ms": "Rybar metne primamku v jezero. Ako ryba progolta primamku, v jego vlasti. Iměnje, čest i slava primamky. Rybar jest diavol.",
-    "source": "samyutta/sn17-002",
-    "wiki": ""
+    "ms": "Rybar metne primamku v jezero. Jestli ryba progolta primamku, v jego vlasti. Iměnje, čest i slava primamky sut. Rybar jest diavol.",
+    "source": "samyutta/sn17-002"
   },
   {
     "author": "Muhamed",
@@ -2637,11 +2619,11 @@
     "_id": 376
   },
   {
+    "_id": 377,
     "author": "Gautama Buddha",
-    "sr": "Ne dozovoli sebi gnjiti! Na gnjilom i smradnom truplu, počnu rojiti se muhe i napadati ga! Pohlepa je truljenje, zlovolja smrad lešine, a štetne misli su muhe.",
-    "ms": "Ne dozvoli sobě gniti! Na gnijučem i smrdečem trupu, počnut rojiti se muhy i napadati go! Lakomstvo jest gnilost, zlovolja smrad trupa, a škodlive mysli sut muhy.",
-    "source": "anguttara/an03-129",
-    "_id": 377
+    "sr": "Ne dozovoli sebi gnjiti! Na gnjilom i smradnom truplu počnu rojiti se muhe i napadati ga! Pohlepa je trulež, zlovolja smrad lešine, a štetne misli su muhe.",
+    "ms": "Ne dozvoli sobě gniti! Na gnijučem i smrdečem trupu počnut rojiti se muhy i napadati go! Lakomstvo jest gnilost, zlovolja smrad trupa, a škodlive mysli muhy.",
+    "source": "anguttara/an03-129"
   },
   {
     "_id": 378,
@@ -2748,11 +2730,11 @@
     "wiki": ""
   },
   {
+    "_id": 393,
     "author": "Gautama Buddha",
-    "sr": "Telo je bolno, slabo i tegobno. Nije ni tren potpuno zdravo. Ovako sebe obučavaj: Ako je moje telo bolno, moj um biće bez bola.",
-    "ms": "Tělo boljno i slabo brěme. Nest ni čas popolno zdravo. Ovako sebe obučaj: Ako moje tělo boljno, moj um bude bez bolja.",
-    "source": "samyutta/sn22-001",
-    "_id": 393
+    "sr": "Telo je bolno, slabo i tegobno. Ovako sebe obučavaj: Ako je moje telo bolno, moj um biće bez bola.",
+    "ms": "Tělo boljno i slabo brěme. Ovako sebe obučaj: Ako moje tělo boljno, moj um bude bez bolja.",
+    "source": "samyutta/sn22-001"
   },
   {
     "author": "Muhamed",
@@ -2777,11 +2759,11 @@
     "_id": 396
   },
   {
+    "_id": 397,
     "author": "Gautama Buddha",
-    "sr": "Gledam kako su neslobodni ljudi progutani željom, gore za nasladom, podaju se zadovolenju čula, i ja im ne zavidim. Postoji zadovoljstvo nevezano za čula, a prevazilazi božansko blaženstvo. Ja u njemu uživam, i nemam zavisti prema nižem.",
-    "ms": "Gledim kak nesvobodny ljudi progoltani želanjem, goret dlja naslad, podavajut se zadovoljenju čutja, i ja jim ne zavidim. Istnuje zadovoljstvo ne vezano dlja čutja, a prěvozhodi božsko blaženstvo. Ja v jego uživam, i ne imaju zavisti prěmy nižemu.",
-    "source": "majjhima/mn075",
-    "_id": 397
+    "sr": "Gledam neslobodni ljudi progutani željom podaju se zadovolenju čula, i ne zavidim im. Postoji zadovoljstvo bez čula, a prevazilazi božansko blaženstvo. Ja to uživam, i nemam zavisti prema nižem.",
+    "ms": "Gledžu nesvobodny ljudi progoltani želanjem podavajut se zadovoljenju čutja, i ne zavidžu jim. Istnuje zadovoljstvo bez čutja, a prěvozhodi božsko blaženstvo. Ja to uživaju, i ne imaju zavisti prěmy nižemu.",
+    "source": "majjhima/mn075"
   },
   {
     "_id": 398,
@@ -2798,12 +2780,11 @@
     "_id": 399
   },
   {
+    "_id": 400,
     "author": "Gautama Buddha",
     "sr": "Želja i strast za okom jeste smetnja umu.",
-    "ms": "Žedža i strast k oku prěpona umu.",
-    "source": "samyutta/sn27-001",
-    "wiki": "https://sh.wikipedia.org/wiki/%C5%BDe%C4%91_(budizam)",
-    "_id": 400
+    "ms": "Želanje i strast k oku prěpona umu jest.",
+    "source": "samyutta/sn27-001"
   },
   {
     "sr": "Čovek bude najbliži sebi kada postigne ozbiljnost kao dete dok se igra.",
@@ -2991,11 +2972,11 @@
     "_id": 427
   },
   {
+    "_id": 428,
     "author": "Gautama Buddha",
-    "sr": "Mudar treba izbegavati razvrat kao što izbegava pasti u rupu punu žarkog uglja. Ako ne može održavati celibat, barem ne treba odlaziti tuđoj ženi.",
-    "ms": "Mudry trěba izběgati razvrat kak izběgaje pasti v jamu polnu žarkogo vuglja. Ako ne može poddržati celibat, prinajmenje ne trěba hoditi inočijej ženi.",
-    "source": "khuddaka/snp2-14",
-    "_id": 428
+    "sr": "Mudar treba izbegavati razvrat kao što izbegava jamu punu žarkog uglja. Ako ne može održavati celibat, barem ne treba odlaziti tuđoj ženi.",
+    "ms": "Mudry trěba izběgati razvrat kak izběgaje jamu polnu žarkogo vuglja. Ako ne može poddržati celibat, prinajmenje ne trěba hoditi čudžej ženi.",
+    "source": "khuddaka/snp2-14"
   },
   {
     "sr": "Kada vetar duva u dobrom pravcu, svaki moreplovac može misliti visoko o sebi i hvaliti se. Međutim, pri iznenadnoj promeni vetra otkriva se iskustvo oprobanih krmanoša.",
@@ -3170,11 +3151,11 @@
     "_id": 452
   },
   {
+    "_id": 453,
     "author": "Gautama Buddha",
-    "sr": "Nesigurna je i nepoznata dužina života. Život težak i kratak, bremenit patnjom. Nema načina da rođeni izbegnu smrt.",
-    "ms": "Dolžina života neizvěstna i neznana. Život težky i kratky, brěmenny stradanjem. Ne imaje puta rodženomu izběgti smrt.",
-    "source": "khuddaka/snp3-8",
-    "_id": 453
+    "sr": "Dužina života je neizvesna. Život težak i kratak, bremenit patnjom. Nema načina da rođeni izbegnu smrt.",
+    "ms": "Dolžina života neizvěstna. Život težky i kratky, brěmenny stradanjem. Ne imaje puta rodženomu izběgti smrt.",
+    "source": "khuddaka/snp3-8"
   },
   {
     "_id": 454,
@@ -3191,11 +3172,11 @@
     "_id": 455
   },
   {
-    "sr": "Ako je voda pomešana sa bojom, čovek ne može videti sopstveni lik. Isto tako, kada je nečiji um opsednut čulnom željom, on ne vidi sopstveno dobro, ni dobro drugih.",
+    "_id": 456,
     "author": "Gautama Buddha",
-    "ms": "Ako voda poměšana s cvětom, člověk ne može viděti sobstveno lice. Podobno, kogda něčiji um posědany čutnym želanjem, on ne vidi sobstveno dobro, ni dobro drugyh.",
-    "source": "https://srednjiput.rs/tumacenja/nanaponika-thera/pet-mentalnih-prepreka/prepreke/",
-    "_id": 456
+    "sr": "Ako je voda pomešana sa bojom, čovek ne može videti sopstveni lik. Isto tako, ako je um opsednut željom, čovek ne vidi sopstveno dobro, ni dobro drugih.",
+    "ms": "Ako voda poměšana s cvětom, člověk ne može viděti sobstveno lice. Podobno, ako um posědany želanjem, člověk ne vidi sobstveno dobro, ni dobro drugyh.",
+    "source": "https://srednjiput.rs/tumacenja/nanaponika-thera/pet-mentalnih-prepreka/prepreke/"
   },
   {
     "author": "Gautama Buddha",
@@ -3242,12 +3223,11 @@
     "_id": 462
   },
   {
+    "_id": 463,
     "author": "Gautama Buddha",
-    "sr": "Kornjača spazi vuka i uvuče se u oklop. Vuk ju poče obilaziti misleći: Čim izvuče neki od udova, smesta ću je zgrabiti. No, pošto ona osta mirna, vuk na koncu odstupi i ode. Podobno, đavo nas lovi zahvaljujući oku, uhu, nosu, jeziku, telu i umu. Zato motrite na čula!",
-    "ms": "Žolv uzri volka i vtegne se v bronju. Volk ju počne obhoditi mysleči: Čim izvlěče někoj od členov, směsta ju grabim. No, ona osta mirna, volk na koncu odstupi i odide. Podobno, diavol nas lovi hvaleči oku, uhu, nosu, jezyku, tělu i umu. Zato motrite na čutja!",
-    "source": "samyutta/sn17-003",
-    "wiki": "https://sh.wikipedia.org/wiki/%C5%A0est_%C4%8Dula",
-    "_id": 463
+    "sr": "Vuk obilazi kornjaču misleći: Čim izvuče neki ud, smesta ću je zgrabiti. No, pošto ona osta mirna, vuk na koncu ode. Podobno, đavo nas lovi zahvaljujući oku, uhu, nosu, jeziku, telu i umu. Zato motrite na čula!",
+    "ms": "Volk obhodi žolov mysleči: Čim izvlěče někoj člen, směsta ju grabim. No, ona osta mirna, volk na koncu odide. Podobno, diavol nas lovi hvaleči oku, uhu, nosu, jezyku, tělu i umu. Zato motrite na čutja!",
+    "source": "samyutta/sn17-003"
   },
   {
     "sr": "Jednu trećinu noći mudrac bdi.",
@@ -3294,11 +3274,11 @@
     "_id": 471
   },
   {
-    "sr": "Kada nesavršen stekne bogatstvo, ne koristi ga za sebe ni druge. Slično čistom jezeru, iz kojeg ljudi ne piju vodu. Ali kada savršen stekne bogatstvo, koristi ga za sebe i druge. Kao čisto jezero iz kojeg ljudi piju vodu, i kupaju se.",
+    "_id": 472,
     "author": "Gautama Buddha",
-    "ms": "Kogda nesovršeny ima bogatstvo, ne koristi go za sebe ni druge. Podobno čistom jezeru iz kogo ljudi ne pijut vodu. Ale kogda sovršeny ima bogatstvo, koristi go za sebe i druge. Podobno čistom jezeru, iz kogo ljudi pijut vodu, i kupajut se.",
-    "source": "Samyutta nikaya III.19: Aputtaka sutta",
-    "_id": 472
+    "sr": "Kada nesavršen stekne bogatstvo, ne koristi ga za sebe ni druge. Slično čistom jezeru, iz kojeg ljudi ne piju vodu. Kada savršen stekne bogatstvo, koristi ga za sebe i druge. Kao čisto jezero iz kojeg ljudi piju vodu, i kupaju se.",
+    "ms": "Kogda nesovršeny ima bogatstvo, ne koristi go za sebe ni druge. Podobno čistom jezeru iz kogo ljudi ne pijut vodu. Kogda sovršeny ima bogatstvo, koristi go za sebe i druge. Podobno čistom jezeru, iz kogo ljudi pijut vodu, i kupajut se.",
+    "source": "Samyutta nikaya III.19: Aputtaka sutta"
   },
   {
     "_id": 473,
@@ -3504,12 +3484,11 @@
     "_id": 504
   },
   {
+    "_id": 505,
     "author": "Gautama Buddha",
-    "sr": "Tri su sredstva tvoriti zlo: telo, govor i um. Među njima, um je prvi.",
-    "ms": "Tri sut srědstva tvoriti zlo: tělo, govor i um. Medžu jimi, um prvy.",
-    "source": "Mađđhima nikaya 56: Upali sutta",
-    "wiki": "https://sh.wikipedia.org/wiki/Um_(budizam)",
-    "_id": 505
+    "sr": "Tri su sredstva tvoriti zlo: telo, govor i um. Um je prvi od njih.",
+    "ms": "Tri sut srědstva tvoriti zlo: tělo, govor i um. Um prvy od jih.",
+    "source": "Mađđhima nikaya 56: Upali sutta"
   },
   {
     "author": "Muhamed",
@@ -3547,12 +3526,11 @@
     "_id": 510
   },
   {
-    "sr": "Zamislite da mesar ubije kravu, raspori je nožem, povadi sve žile i oguli kožu. A potom sve vrati na mesto. Je li krava ista kao ranije? U prenesenom značenju, meso su čula, koža predmeti čula, a žile žeđ. Nož je mudrost, koja seče nečistoće, okove i veze.",
+    "_id": 512,
     "author": "Gautama Buddha",
-    "ms": "Prědstavi sobě měsar ubije kravu, razpore ju nožem, iztrga vse žily i obdere kožu. A potom vse vrne na město. Jest li krava jednaka kak raněje? Podobno, meso sut čutja, koža prědmety čutja, a žily žednost. Nož jest mudrost, sěkuči nečistoty, okovy i svezy.",
-    "source": "Mađđhima nikaya 146: Nandakovada sutta",
-    "wiki": "https://sh.wikipedia.org/wiki/Mudrost_(budizam)",
-    "_id": 512
+    "sr": "Zamislite da mesar raspori kravu nožem, povadi sve žile i oguli kožu. A potom sve vrati na mesto. Je li krava ista kao ranije? U prenesenom značenju, meso su čula, koža predmeti čula, a žile žeđ. Nož je mudrost, koja seče nečistoće, okove i veze.",
+    "ms": "Prědstavi sobě měsar razpore kravu nožem, iztrga vse žily i obdere kožu. A potom vse vrne na město. Jest li krava jednaka kak raněje? Podobno, meso sut čutja, koža prědmety čutja, a žily žednost. Nož jest mudrost, sěkuči nečistoty, okovy i svezy.",
+    "source": "Mađđhima nikaya 146: Nandakovada sutta"
   },
   {
     "author": "Muhamed",
@@ -3694,10 +3672,9 @@
   {
     "_id": 532,
     "author": "Gautama Buddha",
-    "sr": "Ako je stražar neoprezan, gladan vo poješće letinu. Tako, neopreznom čoveku čula posedaju um. Ako je stražar oprezan, odagnaće vola. Tako, kada čovek motri na čula, um se smiruje.",
-    "ms": "Ako straž ne ostražny, gladny vol pojede žetvu. Tako, neostražnom člověku čutja posedut um. Ako straž ostražny, on izgone vola. Tako, kogda člověk smotri na čutja, um se uspokoji.",
-    "source": "Samyutta nikaya XXXV.205: Vina sutta",
-    "wiki": "https://sh.wikipedia.org/wiki/%C5%A0est_%C4%8Dula"
+    "sr": "Ako stražar ne motri, vo pojede letinu, ako motri, on odagna vola. Ako čovek ne motri, njegov um je posednut, ako motri, um se smiruje.",
+    "ms": "Jestli straž neostražny, vol pojede žetvu, ostražny li, on izgna vola. Jestli člověk neostražny, jego um posědany, ostražny li, jego um spokojny.",
+    "source": "Samyutta nikaya XXXV.205: Vina sutta"
   },
   {
     "sr": "Pohota začeta rađa greh, a greh zdelan rađa smrt.",
@@ -3728,12 +3705,11 @@
     "_id": 536
   },
   {
-    "sr": "Šta je sve? Oko i oblici, uho i zvuci, nos i mirisi, jezik i ukusi, telo i dodiri, um i misli. To se naziva sve. Svako ko bi rekao: osim toga, opisaću ino, našao bi se u smutnji. A zašto? Jer ino je neopisivo.",
+    "_id": 537,
     "author": "Gautama Buddha",
-    "ms": "Čto jest vse? Oko i obliky, uho i zvuky, nos i vonji, jezyk i vkusi, tělo i dotyki, um i mysli. To nazyva se vse. Kto kaže: kromě togo, budu opisati ino, najde se v mutnosti. A začto? Ibo ino neopisno.",
-    "source": "SN XXXV.23 https://srednjiput.rs/pali-kanon/sutta-pitaka/samyutta-nikaya/sn-xii-48-lokayatika-sutta/",
-    "wiki": "https://sh.wikipedia.org/wiki/%C5%A0est_%C4%8Dula",
-    "_id": 537
+    "sr": "Šta je sve? Oko i oblici, uho i zvuci, nos i mirisi, jezik i ukusi, telo i dodiri, um i misli. Ko osim toga hoće opisati ino, bude smućen, jer ino je neopisivo.",
+    "ms": "Čto jest vse? Oko i obliky, uho i zvuky, nos i vonji, jezyk i vkusi, tělo i dotyki, um i mysli. Kto kromě togo hoče opisati ino, bude smučeny, ibo ino neopisno.",
+    "source": "SN XXXV.23 https://srednjiput.rs/pali-kanon/sutta-pitaka/samyutta-nikaya/sn-xii-48-lokayatika-sutta/"
   },
   {
     "author": "Muhamed",
@@ -3897,12 +3873,11 @@
     "_id": 559
   },
   {
-    "sr": "Stradanje ne dotiče onoga ko ništa nema, koga ništa ne veže.",
+    "_id": 560,
     "author": "Gautama Buddha",
-    "ms": "Stradanje ne dotyče ničto ne imajučego, kogo ničto ne veže.",
-    "source": "Khuddaka nikaya, Theragatha XVI",
-    "wiki": "https://sh.wikipedia.org/wiki/Gorivo_(budizam)",
-    "_id": 560
+    "sr": "Stradanje ne dotiče toga koga ništa ne veže.",
+    "ms": "Stradanje ne dotyče togo kogo ničto ne veže.",
+    "source": "Khuddaka nikaya, Theragatha XVI"
   },
   {
     "sr": "Neodgovarati na gnev gnevnim slovima znači pobediti teški boj. Tako delaš za dobrobit sebe i drugog, a neznajući darmu će misliti da si budala.",
@@ -3912,11 +3887,11 @@
     "_id": 561
   },
   {
-    "sr": "Šta je breme? Telo, draži, čuvstva, misli i svest. \nA ko je nosilac bremena? Osoba ta i ta, čovek toga imena iz toga plemena.",
+    "_id": 562,
     "author": "Gautama Buddha",
-    "ms": "Čto jest brěme? Tělo, draži, čuvstva, mysli i svědomost. \nA kto nositelj brěmena? Osoba ta i ta, člověk togo imena iz togo plemena.",
-    "source": "Samyutta nikaya XXII.22: Bharam sutta",
-    "_id": 562
+    "sr": "Šta je breme? Telo, draži, čuvstva, misli i svest. A ko je nosilac bremena? Osoba ta i ta, čovek toga imena iz toga plemena.",
+    "ms": "Čto jest brěme? Tělo, draži, čuvstva, mysli i svědomost. A kto nositelj brěmena? Osoba ta i ta, člověk togo imena iz togo plemena.",
+    "source": "Samyutta nikaya XXII.22: Bharam sutta"
   },
   {
     "sr": "Ako bi ljudi znali sebe, znali bi boga.",
@@ -3961,12 +3936,11 @@
     "_id": 568
   },
   {
-    "sr": "Pozorni hodajući jasno zna: hodam, stojeći jasno zna: stojim, sedeći jasno zna: sedim, ležeći jasno zna: ležim. Potpuno je svestan dok dolazi i odlazi, gleda i osvrće se, saginje i diže se, dok nosi zdelu, pije, jede, žvaće i guta, dok sere i moča.",
+    "_id": 570,
     "author": "Gautama Buddha",
-    "ms": "Pozorny hodeči jasno zna: hodim, stoječi jasno zna: stojim, sědeči jasno zna: sědim, ležeči jasno zna: ležim. Popolno jest svědomy dokolě dojde i ide, gledi i obozri se, nagne se i vozdvigne se, dokolě nosi posudu, pije, jeda, žuje i golta, dokolě sra i moči.",
-    "source": "Mađđhima nikaya 10: Satipatthana sutta",
-    "wiki": "https://sh.wikipedia.org/wiki/Svesnost_(budizam)",
-    "_id": 570
+    "sr": "Pozorni hodajući jasno zna hodam, stojeći jasno zna stojim, sedeći jasno zna sedim, ležeći jasno zna ležim. Potpuno je svestan dok ide, gleda, osvrće se, saginje i diže se, dok nosi zdelu, pije, jede, žvaće, guta, sere i moči.",
+    "ms": "Pozorny hodeči jasno zna hodim, stoječi jasno zna stojim, sědeči jasno zna sědim, ležeči jasno zna ležim. Popolno jest svědomy dokolě ide, gledi, obozri se, nagne i vozdvigne se, dokolě nosi posudu, pije, jeda, žuje, golta, sra i moči.",
+    "source": "Mađđhima nikaya 10: Satipatthana sutta"
   },
   {
     "author": "Isus",
@@ -4022,9 +3996,8 @@
     "_id": 578,
     "author": "Gautama Buddha",
     "sr": "Zamislite čoveka koji naiđe na veliku reku. On nakupi drva, napravi splav i pređe na drugu obalu. I pomisli: splav mi mnogo pomože, da ga stavim na pleća i ponesem? Treba li nositi ga ili ostaviti i poći dalje? Tako cilj učenja jeste preneti vas na drugu obalu, ne vezati se za njega.",
-    "ms": "Prědstavite sobě člověka naševšego na veliku rěku. On nabere drěva, napravi splav i prějde na drugy brěg. I pomysli: splav mi mnogo pomože, da go stavim na ramena i ponesem? Trěba li nositi go ili ostaviti i pojdti dalje? Tako cělj učenja prěnesti vas na drugy brěg, ne vezati se dlja jego.",
-    "source": "Mađđhima nikaya 22: Alagaddupama sutta",
-    "wiki": ""
+    "ms": "Prědstavite si člověka naševšego na veliku rěku. On nabere drěva, napravi splav i prějde na drugy brěg. I pomysli: splav mi mnogo pomože, da go stavju na ramena i nošu? Trěba li nositi to ili ostaviti i pojdti dalje? Tako cělj učenja prěnesti vas na drugy brěg, ne vezati se dlja jego.",
+    "source": "Mađđhima nikaya 22: Alagaddupama sutta"
   },
   {
     "sr": "Ko se udostoji poznanja boga, \ni okusi ishodeću bogatu sladost, \nprezire sve sladosti željnog dela duše.",
@@ -4101,10 +4074,9 @@
   {
     "_id": 589,
     "author": "Gautama Buddha",
-    "sr": "Sve gori! Oko gori. Uho gori. Nos gori. \nJezik gori. Telo gori. Um gori. \nGori vatrom pohote, odbojnosti i neznanja. \nGori, kažem vam, rađanjem, starenjem i umiranjem, bolom, žalom i očajem. \nVidevši to, čovek gubi iluzije, i u njemu se hladi strast. \nUsled hlađenja strasti, oslobađa se.",
-    "ms": "Vse gori! Oko gori. Uho gori. Nos gori. \nJezyk gori. Tělo gori. Um gori. \nGori ognjem pohoty, odbivanja i nevědenja. \nGori, glagolju vam, rodženjem, starěnjem i umrenjem, boljem, žaljem i odčajem. \nViděvši to, člověk gubi iluzije, i v jego hladi se strast. \nVslěd hladženja strasti, osvobadža se.",
-    "source": "samyutta/sn35-028",
-    "wiki": ""
+    "sr": "Sve gori! Oko gori. Uho gori. Nos gori. Jezik gori. Telo gori. Um gori. Gori vatrom pohote, mržnje i neznanja. Gori, kažem vam, rađanjem, starenjem, umiranjem, bolom, žalom i očajem. Videvši to, čovek gubi iluzije, i u njemu hladi se strast. Usled hlađenja strasti, oslobađa se.",
+    "ms": "Vse gori! Oko gori. Uho gori. Nos gori. Jezyk gori. Tělo gori. Um gori. Gori ognjem pohoty, nenavisti i nevědenja. Gori, glagolju vam, rodženjem, starěnjem, umrenjem, boljem, žaljem i odčajem. Viděvši to, člověk gubi iluzije, i v jego hladi se strast. Vslěd hladženja strasti, osvobadža se.",
+    "source": "samyutta/sn35-028"
   },
   {
     "sr": "Koji ljubi boga, nesumnjivo ljubi i bližnje. On ne može čuvati novce no bogoljubno njima raspolaže, dajući svakome ko zamoli.",
@@ -4302,11 +4274,11 @@
     "_id": 617
   },
   {
-    "sr": "Čovek je poput traga na steni, zemlji ili vodi. U kome gnev ostaje dugo, on je kao trag na steni, koji vetar i kiša ne brišu. U kome gnev ne ostaje dugo, on je kao trag na zemlji, koji vetar i kiša obrišu. A krotki dok ga vređaju je kao trag na vodi koji trenutno nestane.",
+    "_id": 618,
     "author": "Gautama Buddha",
-    "ms": "Člověk podobaje slědu na kamenju, zemji ili vodi. V kogo gněv ostava dolgo, podobaje slědu na kamenju, koj větr i dožd ne utirajut. V kogo gněv ne ostava dolgo, podobaje slědu na zemji, koj větr i dožd utirajut. A krotky dokolě ponižajut go podobaje slědu na vodi koj izčezne v času.",
-    "source": "Anguttara nikaya 3:133-145 Yodhāđīva vagga",
-    "_id": 618
+    "sr": "U koga gnev ostaje dugo, sliči tragu na steni koji vetar i kiša ne brišu. U koga gnev ostaje kratko sliči tragu na zemlji, koji vetar i kiša obrišu. A krotki dok ga vređaju sliči tragu na vodi koji nestane u trenu.",
+    "ms": "V kogo gněv ostava dolgo, podobaje slědu na kamenju iže větr i dožd ne odstranjajut. V kogo gněv ostava kratko, podobaje slědu na zemji iže větr i dožd odstranet. A krotky dokolě ponižajut go podobaje slědu na vodi iže izčezne v čas.",
+    "source": "Anguttara nikaya 3:133-145 Yodhāđīva vagga"
   },
   {
     "author": "Isak Sirin",
@@ -4316,11 +4288,11 @@
     "_id": 619
   },
   {
+    "_id": 620,
     "author": "Gautama Buddha",
     "sr": "Sada kao i ranije, ja objašnjavam samo patnju i dokončanje patnje.",
-    "ms": "Segda kak i prědže, ja objasnjaju samo muku i končanje muky.",
-    "source": "https://srednjiput.rs/tumacenja/cedomil-veljacic/veljacic-budizam/historijski-uvod/",
-    "_id": 620
+    "ms": "Segda kak prědže, ja objasnjaju samo stradanje i končanje stradanja.",
+    "source": "https://srednjiput.rs/tumacenja/cedomil-veljacic/veljacic-budizam/historijski-uvod/"
   },
   {
     "author": "Muhamed",
@@ -4330,12 +4302,11 @@
     "_id": 621
   },
   {
+    "_id": 622,
     "author": "Gautama Buddha",
-    "sr": "Samsari se ne može videti početak. Ne vidi se početak tumaranja bića okovanih neznanjem i žudnjom. Predugo smo trpeli muku, bol, nevolju i punili groblja. To je dovoljno da osetimo odvratnost prema tvorevinama, ugasimo strast za njih i postanemo od njih slobodni.",
-    "ms": "Samsari ne možno viděti početok. Ne vidi se početok stranstvovanja bytja okovanyh nevěděnjem i žedžeju. Prědolgo mi trpěli muku, bolj, nevolju i polnili grobišča. To  dovoljno že čujemo odvratnost k tvorenjam, ugasimo strast dlja jih i stanemo od jih svobodny.",
-    "source": "samyutta/sn15-001",
-    "wiki": "https://sh.wikipedia.org/wiki/Samsara",
-    "_id": 622
+    "sr": "Samsari se ne može videti početak. Ne vidi se početak tumaranja bića okovanih neznanjem i žudnjom. Predugo smo trpeli muku, bol, nevolju i punili groblja. Dovoljno da odvratimo se od tvorevina, ugasimo strast i postanemo od njih slobodni.",
+    "ms": "Samsari ne možno viděti početok. Ne vidi se početok stranstvovanja bytja okovanyh nevěděnjem i žedžeju. Prědolgo mi trpěli muku, bolj, nevolju i polnili grobišča. Dovoljno da odvratimo se od tvorenja, ugasimo strast i stanemo od jih svobodny.",
+    "source": "samyutta/sn15-001"
   },
   {
     "author": "Isak Sirin",
@@ -4388,12 +4359,11 @@
     "_id": 629
   },
   {
+    "_id": 630,
     "author": "Gautama Buddha",
-    "sr": "Samo živeći sa nekim upoznajemo njegove vrline, i to samo posle dugog vremena, ne kratkog, ako smo pažljivi, ne nepažljivi, ako smo pronicljivi, ne nepronicljivi.",
-    "ms": "Samo živuči s něktorym spoznajemo jego čestnost, i to samo poslě dolgogo vrěmena, ne kratkogo, ako jesmo pozorni, ne nepozorni, ako jesmo proniklivi, ne neproniklivi.",
-    "source": "anguttara/an04-192",
-    "wiki": "https://sh.wikipedia.org/wiki/Vrlina_(budizam)",
-    "_id": 630
+    "sr": "Samo živeći sa nekim upoznajemo njegove vrline, i to samo posle dugog vremena, ne kratkog, ako smo pažljivi, ne nepažljivi.",
+    "ms": "Samo živuči s něktorym spoznajemo jego čestnost, i to samo poslě dolgogo vrěmena, ne kratkogo, ako jesmo pozorni, ne nepozorni.",
+    "source": "anguttara/an04-192"
   },
   {
     "_id": 631,
@@ -4418,12 +4388,11 @@
     "_id": 634
   },
   {
+    "_id": 635,
     "author": "Gautama Buddha",
     "sr": "Neznanje je preteča slabih stanja uma. Sledi odsustvo stida i zazora od zlih dela.",
-    "source": "samyutta/sn45-001",
-    "ms": "Nevěděnje prědteča slabyh stanov uma. Slědi odsučstvo styda i zazora od zlyh děla.",
-    "wiki": "https://sh.wikipedia.org/wiki/Neznanje_(budizam)",
-    "_id": 635
+    "ms": "Nevěděnje prědteča slabyh stanja uma. Slědi odsučstvo styda i zazora od zlyh děla.",
+    "source": "samyutta/sn45-001"
   },
   {
     "author": "Muhamed",
@@ -4447,12 +4416,11 @@
     "_id": 638
   },
   {
-    "sr": "Drugi slepo slede svoja gledišta, traju u njima i teško ih ostavljaju. Mi nećemo slepo slediti sopstvena gledišta i trajati u njima, no ih lako ostavljati.",
+    "_id": 639,
     "author": "Gautama Buddha",
-    "ms": "Drugi slěpo slědet svoja gledišča, trajajut v jih i težko jih ostavjajut. Mi ne budemo slěpo slěditi gledišča i trajati v jih, no jih legko ostavjati.",
-    "source": "Mađđhima nikaya 8: Sallekha sutta",
-    "wiki": "https://sh.wikipedia.org/wiki/Gledi%C5%A1te_(budizam)",
-    "_id": 639
+    "sr": "Drugi slepo slede svoja gledišta, traju u njima i teško ih ostavljaju. Mi nećemo slepo slediti sopstvena gledišta i trajati u njima, no ih lako ostavljati.",
+    "ms": "Drugi slěpo slědet svoja gledišča, trajajut v jih i težko jih ostavjajut. Mi ne budemo slěpo slěditi gledišča i trajati v jih, no legko jih ostavjati.",
+    "source": "Mađđhima nikaya 8: Sallekha sutta"
   },
   {
     "author": "Zhuang Zhou",
@@ -4534,11 +4502,11 @@
     "_id": 650
   },
   {
-    "sr": "Budi sebi ostrvo, budi sebi utočište, ne išti vanjsko utočište.",
+    "_id": 651,
     "author": "Gautama Buddha",
-    "ms": "Budi sobě ostrov, budi sobě uběžišče, ne išči vněšnje uběžišče.",
-    "source": "Digha nikaya 16 Maha-parinibbana sutta",
-    "_id": 651
+    "sr": "Budi sebi utočište, ne išti vanjsko.",
+    "ms": "Budi sobě uběžišče, ne išči vněšnje.",
+    "source": "Digha nikaya 16 Maha-parinibbana sutta"
   },
   {
     "author": "Lao Tzu",
@@ -4555,27 +4523,25 @@
     "_id": 653
   },
   {
-    "sr": "Kada čovek ispravnog ponašanja pogleda svoj um, oslobođen pohlepe, mržnje i neznanja, tada se javlja najveći duhovni mir.",
+    "_id": 654,
     "author": "Gautama Buddha",
-    "ms": "Kogda dobrodějni člověk posmotri vlastniti um, osvobodženy lakomstva, nenavisti i nevěděnja, javja se največši duhovny mir.",
-    "source": "Samyutta nikaya XXXVI.31: Niramisa sutta",
-    "_id": 654
+    "sr": "Kada čovek pogleda svoj um, oslobođen pohlepe, mržnje i neznanja, javlja se najveći duhovni mir.",
+    "ms": "Kogda člověk posmotri vlastny um, osvobodženy lakomstva, nenavisti i nevěděnja, javja se največši duhovny mir.",
+    "source": "Samyutta nikaya XXXVI.31: Niramisa sutta"
   },
   {
+    "_id": 655,
     "author": "Gautama Buddha",
-    "sr": "Vaša nedoumica je prirodna, jer nedoumica nastaje iz sumnjivog. Ne dajte se zavesti pričama, predanjem, tvrdnjama, svetim knjigama, dokazivanjem, ni učiteljem. Samo ako vidite da nešto škodno i pogrešno, pustite to, a ako povoljno i dobro, primite to i sledite.",
-    "ms": "Vaše nedoumje prirodno, ibo nedoumje nastava iz sumnlivogo. Ne dajte se obmanuti razkazami, prědanjem, tvrdženjem, svetym knigami, dokazyvanjem, ni učiteljem. Samo ako vidite že něčto škodno i nedobro, pustite to, a ako koristno i dobro, prijmite to i slědite.",
-    "source": "Anguttara nikaya III.65: Kālāma sutta",
-    "wiki": "https://sh.wikipedia.org/wiki/Govor_Kalamama",
-    "_id": 655
+    "sr": "Ne dajte se zavesti pričama, predanjem, tvrdnjama, svetim knjigama ni učiteljem. Samo ako vidite da nešto škodno i pogrešno, pustite to, a ako povoljno i dobro, primite to i sledite.",
+    "ms": "Ne dajte se obmanuti povědkam, prědanjem, tvrdženjem, svetym knigam ni učiteljem. Samo ako vidite že něčto škodno i nedobro, pustite to, a ako koristno i dobro, prijmite to i slědite.",
+    "source": "Anguttara nikaya III.65: Kālāma sutta"
   },
   {
-    "sr": "Zla se dela ne otkrivaju odmah, kao što ni sveže mleko ne pokiseli odjednom. Poput vatre koja tinja, ona polako uništavaju krivca.",
+    "_id": 656,
     "author": "Gautama Buddha",
-    "ms": "Zla děla ne odkryvajut se směsta, kak ni svěže mlěko ne kysne iznenada. Kak tlějuči ogonj, ona pomalo razorjajut krivca.",
-    "source": "",
-    "wiki": "https://sh.wikipedia.org/wiki/Karma_u_budizmu",
-    "_id": 656
+    "sr": "Zla se dela ne otkrivaju odmah, kao što ni sveže mleko ne prokisne odmah. Poput tinjajuće vatre, ona polako uništavaju krivca.",
+    "ms": "Zla děla ne odkryvajut se směsta, kak ni svěže mlěko ne kysne směsta. Kak tlějuči ogonj, ona pomalo razorjajut krivca.",
+    "source": ""
   },
   {
     "sr": "Pokušaj boga u sebi dovesti do božanskog u svemu.",
@@ -4650,11 +4616,11 @@
     "_id": 667
   },
   {
-    "sr": "Usredotočenost je blaženstvo sada i ima za izhod blaženstvo u budućnosti.",
+    "_id": 668,
     "author": "Gautama Buddha",
-    "ms": "Susrědotočenje blaženstvo sejčas i imaje za izhod blaženstvo v budučnosti.",
-    "source": "Anguttara nikaya 5:21-30 Pancangika vagga",
-    "_id": 668
+    "sr": "Usredotočenost je blaženstvo sada i proishodi blaženstvo u budućnosti.",
+    "ms": "Susrědotočenje blaženstvo sejčas i proizhodi blaženstvo v budučnosti.",
+    "source": "Anguttara nikaya 5:21-30 Pancangika vagga"
   },
   {
     "author": "Muhamed",
@@ -4798,13 +4764,6 @@
     "_id": 689
   },
   {
-    "author": "Gautama Buddha",
-    "sr": "Ja nisam sveštenik, kraljević, zemljoradnik, ni išta drugo. Jasno uvideh kako se ljudi u svetu rađaju; sada svetom hodim kao mudrac, bez imovine, bez ičega svog.",
-    "ms": "Ja nesm svečennik, knez, zemjedělec, ni něčto drugo. Jasno uzrěh kak se ljudi v světu radžajut; segda světom hodim kak mudrec, bez iměnja, bez ničto moje.",
-    "source": "khuddaka/snp3-4",
-    "_id": 690
-  },
-  {
     "author": "Muhamed",
     "sr": "Grešni koji priznaje grijehe i nada se oprostu od uzvišenog boga, bliži je milosti no pobožni koji gubi nadu u božju milost.",
     "ms": "Grěšny priznajuči grěhy i nadějuči se proščenju od vyšnogo boga, bliži milosti no nabožny gubeči naděju v božju milost.",
@@ -4827,11 +4786,11 @@
     "_id": 693
   },
   {
-    "sr": "Što učitelj treba učiniti za učenike, iz saosećanja i želje za njihovu dobrobit, ja učinih za vas. Okolo su drveća i prazne kolibe. Motrite, ne odlažite ili ćete žaliti. To je moje uputstvo za vas.",
+    "_id": 694,
     "author": "Gautama Buddha",
-    "ms": "Čto učitelj trěba učiniti dlja učenikov, iz sočuvsta i želanja jih dobrobyt, ja učinih za vas. Okolo sut drěvesa i prazdne kolibe. Smotrite, ne odložite ili budete žaliti. To moje poučenje za vas.",
-    "source": "Samyutta nikaya 43:1-11 Pathama vagga",
-    "_id": 694
+    "sr": "Što učitelj treba učiniti za učenike, ja učinih za vas. Okolo su drveća i prazne kolibe. Motrite, ne odlažite ili ćete žaliti. To je moje uputstvo za vas.",
+    "ms": "Čto učitelj trěba učiniti dlja učenikov, ja učinih za vas. Okolo sut drěvesa i prazdne kolibe. Motrite, ne odložite ili budete žaliti. To moje poučenje za vas.",
+    "source": "Samyutta nikaya 43:1-11 Pathama vagga"
   },
   {
     "author": "Muhamed",
@@ -4909,34 +4868,32 @@
     "_id": 704
   },
   {
-    "sr": "Ja sam srećniji od kralja. Mogu bez pokreta i slova doživljavati vrhunac užitka sedam dana i noći.",
+    "_id": 705,
     "author": "Gautama Buddha",
-    "ms": "Ja jesm ščestnějši od kralja. Mogu bez pokreta i slova doživeti vrh naslady sedm dnja i noči.",
-    "source": "Mađđhima nikaya 14: Ćula-dukkhakkhandha",
-    "_id": 705
+    "sr": "Ja sam srećniji od kralja. Mogu bez pokreta i slova doživljavati vrhunac užitka sedam dana i noći.",
+    "ms": "Jesm ščestnějši od kralja. Mogu bez dviženja i slova doživeti vrh naslady sedm dnja i noči.",
+    "source": "Mađđhima nikaya 14: Ćula-dukkhakkhandha"
   },
   {
     "_id": 706,
     "author": "Gautama Buddha",
-    "sr": "Tri su neodložne obaveze seljana: orati njivu, sejati i polivati. On nema moć kazati da žito dozri danas ili sutra. No kada dođe vreme, žito dozri. Podobno, tri su neodložne obaveze podvižnika: čistiti vrlinu, um i uvid. On nema moć kazati da um bude oslobođen danas ili sutra. No, kada dođe vreme um bude oslobođen.",
-    "ms": "Tri sut neodložna obvezka seljana: orati nivu, sějati i polivati. On ne imaje moč kazati da žito dozrě dnes ili zautra. No kogda vrěme dojde, žito dozrě. Podobno, tri sut neodložna obvezka podvižnika: čistiti čestnost, um i věděnje. On ne ima moč kazati da um bude osvobodženy dnes ili zautra. No kogda vrěme dojde um bude osvobodženy.",
-    "source": "anguttara/an03-093",
-    "wiki": "https://sh.wikipedia.org/wiki/Um_(budizam)"
+    "sr": "Tri su neodložne obaveze seljana: orati njivu, sejati i polivati. On nema moć kazati da žito dozri danas ili sutra. No kada dođe vreme, žito dozri. Podobno, tri su neodložne obaveze monaha: čistiti vrlinu, um i uvid. On nema moć kazati da um bude oslobođen danas ili sutra. No, kada dođe vreme um bude oslobođen.",
+    "ms": "Tri sut neodložna obvezka seljana: orati nivu, sějati i polivati. On ne imaje moč kazati da žito dozrě dnes abo zautra. No kogda vrěme dojde, žito dozrě. Podobno, tri sut neodložna obvezka mniha: čistiti čestnost, um i věděnje. On ne ima moč kazati da um bude osvobodženy dnes abo zautra. No kogda vrěme dojde um bude osvobodženy.",
+    "source": "anguttara/an03-093"
   },
   {
+    "_id": 707,
     "author": "Gautama Buddha",
-    "sr": "Ubijajući, stvarate sopstvenog ubicu.",
-    "ms": "Ubivajuči, tvorite sobstvenogo ubijcu.",
-    "source": "samyutta/sn03-015",
-    "_id": 707
+    "sr": "Ubijajući stvarate sopstvenog ubicu.",
+    "ms": "Ubivajuči tvorite sobstvenogo ubijcu.",
+    "source": "samyutta/sn03-015"
   },
   {
-    "sr": "Nastanak sveta je nepojmiva stvar oko koje ne treba lupati glavu, jer donosi ludilo i nevolju svakome ko je tim zaokupljen.",
+    "_id": 708,
     "author": "Gautama Buddha",
-    "source": "anguttara/an04-077",
-    "ms": "Početok světa nepojmema věč oko koje ne trěba trěskati glavu, ibo prinosi ludost i nevolju vsekom kto tym posedeny.",
-    "wiki": "https://sh.wikipedia.org/wiki/Svet_(budizam)",
-    "_id": 708
+    "sr": "Nastanak sveta je nepojmiva stvar o kojoj ne treba lupati glavu, jer donosi ludilo i nevolju svakome ko je tim zaokupljen.",
+    "ms": "Početok světa jest nepojmema věč o kojej ne trěba trěskati glavu, ibo prinosi ludost i nevolju vsekomu kto tym posedeny.",
+    "source": "anguttara/an04-077"
   },
   {
     "sr": "Koren svih pojava jeste želja.",
@@ -4960,19 +4917,18 @@
     "_id": 711
   },
   {
-    "sr": "Ko krivo dela telom, govorom i mišlju ne štiti sebe. I ako ima borna kola, konjicu i pešadiju, nije zaštićen. Jer njegova je zaštita vanjska. Ko pravo dela telom, govorom i mišlju štiti sebe. I ako nema borna kola, konjicu i pešadiju, zaštićen je. Jer njegova je zaštita unutrašnja.",
+    "_id": 712,
     "author": "Gautama Buddha",
-    "source": "samyutta/sn03-005",
-    "ms": "Kto krivo děla tělom, govorom i myslju ne ščiti sebe. I ako imaje bojna kola, konnicu i bojevnikov, on ne zaščičeny. Ibo jego zaščita vněšnja. Kto pravo děla tělom, govorom i myslju ščiti sebe. I ako ne imaje bojna kola, konnicu i bojevnikov, on zaščičeny. Ibo jego zaščita vnutrišnja.",
-    "_id": 712
+    "sr": "Ko krivo dela, govori i misli ne štiti sebe. I ako ima borna kola, konjicu i pešadiju, nije zaštićen. Jer njegova je zaštita vanjska. Ko pravo dela, govori i misli štiti sebe. I ako nema borna kola, konjicu i pešadiju, zaštićen je. Jer njegova je zaštita unutrašnja.",
+    "ms": "Kto krivo děla, govori i mysli ne ščiti sebe. I ako imaje bojna kola, konnicu i bojevnikov, on ne zaščičeny. Ibo jego zaščita vněšnja. Kto pravo děla, govori i mysli ščiti sebe. I ako ne imaje bojna kola, konnicu i bojevnikov, on zaščičeny. Ibo jego zaščita vnutrišnja.",
+    "source": "samyutta/sn03-005"
   },
   {
-    "sr": "Putujući nije moguće dostići kraj sveta, gde nema rađanja, starosti i smrti. No, nemoguće je okončati patnju bez dostizanja kraja sveta. Ja kažem, unutar ovog ni dva metra visokog tela sadržan je svet, početak sveta, kraj sveta i put koji vodi do kraja sveta.",
+    "_id": 713,
     "author": "Gautama Buddha",
-    "source": "samyutta/sn02-026",
-    "ms": "Putujuči nemožno dostignuti konec světa, kde ne imaje rodženja, starosti i smrti. No, nemožno zakončiti stradanje bez dostiganja konca světa. Ja kažu, vnutri ovogo ni dva metra vysokogo těla sodržany svět, početok světa, konec světa i put vodeči do konca světa.",
-    "wiki": "https://sh.wikipedia.org/wiki/Svet_(budizam)",
-    "_id": 713
+    "sr": "Putujući nije moguće dostići kraj sveta, bez rađanja, starosti i smrti. Ali nemoguće je okončati patnju ne dostigavši kraj sveta. Ja kažem, unutar nas sadržan je svet, početak sveta, kraj sveta i put do kraja sveta.",
+    "ms": "Putujuči nemožno dostignuti konec světa, bez rodženja, starosti i smrti. Ale nemožno skončiti stradanje ne dostigavši konec světa. Ja kažu, vnutri nas sodržany svět, početok světa, konec světa i put do konca světa.",
+    "source": "samyutta/sn02-026"
   },
   {
     "sr": "Čak ako bi razbojnici počeli pilom divljački da seku vam udove, ko bi u sebi stvorio um pun mržnje ne bi sledio moje učenje.",
@@ -5666,8 +5622,8 @@
   {
     "_id": 807,
     "author": "Gautama Buddha",
-    "sr": "Ko stavlja sebe na mesto drugog, on ne bi ubio ni izazvao drugog da ubije.",
-    "ms": "Kto stavja sebe na město drugogo, on ne by ubil ni izzval drugogo da ubije.",
+    "sr": "Ko stavlja sebe na mesto drugog, ne ubija.",
+    "ms": "Kto stavja sebe na město drugogo, ne ubiva.",
     "source": "https://srednjiput.rs/tumacenja/sravasti-dhammika-kamma/budizam-od-a-do-z/z/"
   },
   {
@@ -5750,7 +5706,7 @@
   {
     "_id": 818,
     "author": "Isus",
-    "sr": "Za odeću što se brinete? Pogledajte ljiljane kako rastu; ne trude se ni predu, a ni Solomon u svoj slavi ne obuče se kao jedan od njih. Ako seno poljsko, koje danas jeste a sutra u peć mećemo, bog tako odeva, neće li mnogo više vas maloverni?",
+    "sr": "Za odeću što se brinete? Pogledajte ljiljane kako rastu; ne trude se niti predu, a ni Solomon u svoj slavi ne obuče se kao jedan od njih. Ako seno poljsko, koje danas jeste a sutra u peć mećemo, bog tako odeva, neće li mnogo više vas maloverni?",
     "ms": "O oděži čto pečete se? Smotrite cvěty poljnyh kako rastut: ne trudet se, ni tkajut, a ni Šalomon vo vsej slavě ne oblěče se kak jedin od jih. Ako že sěno poljne, dnes suče i utre v peč metamo, bog tako oděva, ne mnogo li bolje vas, malověrny?",
     "source": "Evangelje po Mateju, glava 6:25-34; Evangelje po Tomi, izreka 36",
     "wiki": "https://sh.wikipedia.org/wiki/Ne_brinite_se_za_%C5%BEivot"
@@ -6877,12 +6833,11 @@
     "source": ""
   },
   {
+    "_id": 969,
     "author": "Gautama Buddha",
-    "sr": "Ovaj svet je vođen umom, ovaj svet je okovan umom.",
-    "ms": "Sej svět vodženy umom, sej svět okovany umom.",
-    "source": "SN I.62-64 https://srednjiput.rs/tumacenja/sravasti-dhammika-kamma/budizam-od-a-do-z/m/",
-    "wiki": "https://sh.wikipedia.org/wiki/Svet_(budizam)",
-    "_id": 969
+    "sr": "Svet je vođen umom, svet je okovan umom.",
+    "ms": "Svět vodženy umom, svět okovany umom.",
+    "source": "SN I.62-64 https://srednjiput.rs/tumacenja/sravasti-dhammika-kamma/budizam-od-a-do-z/m/"
   },
   {
     "author": "Konfucije",
@@ -7072,12 +7027,11 @@
     "_id": 999
   },
   {
+    "_id": 1000,
     "author": "Gautama Buddha",
-    "sr": "Ko vidi mene vidi i darmu; ko vidi darmu vidi i mene.",
-    "ms": "Kto vidi mene vidi i darmu; kto vidi darmu vidi i mene.",
-    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
-    "wiki": "https://sh.wikipedia.org/wiki/Darma",
-    "_id": 1000
+    "sr": "Ko vidi mene vidi darmu; ko vidi darmu vidi mene.",
+    "ms": "Kto vidi mene vidi darmu; kto vidi darmu vidi mene.",
+    "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija"
   },
   {
     "author": "Gautama Buddha",
@@ -7087,11 +7041,11 @@
     "_id": 1001
   },
   {
+    "_id": 1002,
     "author": "Gautama Buddha",
-    "sr": "Ko zna a ne primenjuje učenje naliči čoveku koji pliva a umire od žeđi, lekaru koji ne leči sebe, gluhom sviraču koji muziku ne sluša, čoveku koji ljubazno govori, ali nema čestitosti.",
-    "ms": "Kto zna a ne priměnja učenje podobi člověku ktory plava a umira od žedže, lěkaru ktory ne lěči sebe, gluhom muzikantu ktory muziku ne slyši, člověku ktory ljubezno govori, ale ne ima čestnosti.",
-    "source": "Avatamsaka sutra",
-    "_id": 1002
+    "sr": "Ko zna a ne primenjuje učenje naliči plivajućem koji umire od žeđi, lekaru koji se ne leči, gluhom sviraču koji muziku ne čuje, krasno govorećem bez čestitosti.",
+    "ms": "Kto zna a ne priměnja učenje podoba plyvučemu iže umira od žedže, lěkaru iže ne lěči se, gluhom muzikantu iže muziku ne slyši, krasno govorečemu bez čestnosti.",
+    "source": "Avatamsaka sutra"
   },
   {
     "author": "Dōgen",
@@ -7115,11 +7069,11 @@
     "_id": 1005
   },
   {
+    "_id": 1007,
     "author": "Gautama Buddha",
-    "sr": "Nijedna druga stvar ne goni ljude da stranstvuju besprekidno, danju i noću, kao kada su vođeni obmanom.",
-    "ms": "Nijedna druga stvar ne goni ljude da bludet bezprěryvno, dnju i noči, kak kogda sut vodženy obmanom.",
-    "source": "Ittivutaka, I.14",
-    "_id": 1007
+    "sr": "Ništa drugo ne goni ljude tumarati besprekidno, danju i noću, kao obmana.",
+    "ms": "Ničto ino ne goni ljude bluditi bezprěryvno, dnju i nočju, kak obman.",
+    "source": "Ittivutaka, I.14"
   },
   {
     "author": "Nagasena",
@@ -8749,11 +8703,11 @@
     "_id": 1258
   },
   {
+    "_id": 1259,
     "author": "Gautama Buddha",
-    "sr": "Zlo delo - kada čovek kaje se a plodove prima sa strahom. Dobro delo - kada čovek ne kaje se a plodove prima radosno.",
-    "ms": "Zlo dělo - kogda člověk kaja se a plodov prijma so strahom. Dobro dělo - kogda člověk ne kaja se a plodov prijma radostno.",
-    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982.",
-    "_id": 1259
+    "sr": "Zlo delo - čovek kaje se i plodove prima sa strahom. Dobro delo - čovek ne kaje se i plodove prima radosno.",
+    "ms": "Zlo dělo - člověk kaja se i plodov prijma so strahom. Dobro dělo - člověk ne kaja se i plodov prijma radostno.",
+    "source": "S. Jesudijan, Joga i zdravlje, Beograd 1982."
   },
   {
     "author": "Gautama Buddha",
@@ -8772,10 +8726,9 @@
   {
     "_id": 1262,
     "author": "Gautama Buddha",
-    "sr": "Ne znam ini oblik tako posevši um žene kao telo čoveka. \nNe znam ini zvuk tako posevši um žene kao glas čoveka. \nNe znam ini miris tako posevši um žene kao miris čoveka. \nNe znam ini ukus tako posevši um žene kao ukus čoveka. \nNe znam ini dodir tako posevši um žene kao dodir čoveka.",
-    "ms": "Ne věm iny oblik tak posěvši um žene kak tělo člověka. \nNe věm iny zvuk tak posěvši um žene kak glas člověka. \nNe věm iny vonj tak posěvši um žene kak vonj člověka. \nNe věm iny vkus tak posěvši um žene kak vkus člověka. \nNe věm iny dotyk tak posěvši um žene kak dotyk člověka.",
-    "source": "anguttara/an01-001",
-    "wiki": ""
+    "sr": "Ne znam ini oblik posevši um žene kao telo čoveka. \nNe znam ini zvuk posevši um žene kao glas čoveka. \nNe znam ini miris posevši um žene kao miris čoveka. \nNe znam ini ukus posevši um žene kao ukus čoveka. \nNe znam ini dodir posevši um žene kao dodir čoveka.",
+    "ms": "Ne věm iny oblik posěvši um žene kak tělo člověka. \nNe věm iny zvuk posěvši um žene kak glas člověka. \nNe věm iny vonj posěvši um žene kak vonj člověka. \nNe věm iny vkus posěvši um žene kak vkus člověka. \nNe věm iny dotyk posěvši um žene kak dotyk člověka.",
+    "source": "anguttara/an01-001"
   },
   {
     "author": "Lao Tzu",
@@ -9060,11 +9013,11 @@
     "_id": 1307
   },
   {
+    "_id": 1308,
     "author": "Gautama Buddha",
     "sr": "Četiri stvari čiste um: slušanje o darmi, govor o darmi, smirenje i uvid.",
-    "ms": "Četyri srědstva čistet um: slyšanje ob darmě, govor ob darmě, mir i poznanje.",
-    "source": "Anguttara nikaya IV.141-150: Ābhā vaggo",
-    "_id": 1308
+    "ms": "Četyri srědstva čistet um: slyšanje ob darmě, govor ob darmě, mir i věděnje.",
+    "source": "Anguttara nikaya IV.141-150: Ābhā vaggo"
   },
   {
     "author": "Jiddu Krishnamurti",
@@ -9348,7 +9301,7 @@
   },
   {
     "author": "Jiddu Krishnamurti",
-    "sr": "Nikada ne zamišljah šta je istina, ni želeh posedovati ju. Znadoh što ograničava me, opseda mi misli, rasipa energiju. I putem oslobađanja od žudnje, spoznah istinu.",
+    "sr": "Nikada ne zamišljah šta je istina, niti želeh posedovati ju. Znadoh što ograničava me, opseda mi misli, rasipa energiju. I putem oslobađanja od žudnje, spoznah istinu.",
     "ms": "Nikogda ne zamysljah čto istina jest, ni željah posědati ju. Znah čto ograniča me, obsěda mi mysli, trati energiju. I putom osvobadžanja od žednosti, spoznah istinu.",
     "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
     "_id": 1354
@@ -9896,11 +9849,11 @@
     "source": "Plotin, Eneade V, Beograd 1984."
   },
   {
+    "_id": 1439,
     "author": "Gautama Buddha",
-    "sr": "Ko ne obuzdava oko, um zamaže oblicima.\nKo ne obuzdava uho, um zamaže zvucima.\nKo ne obuzdava um, um zamaže mislima.\nAko um zamazan, nema radosti.",
-    "ms": "Kto ne obuzdyva oko, um obmaže oblikami.\nKto ne obuzdyva uho, um obmaže zvukami.\nKto ne obuzdyva um, um obmaže mysljami.\nAko um obmazany, ne imaje radosti.",
-    "source": "Samyutta nikāya XXXV.97: Pamādavihārī sutta",
-    "_id": 1439
+    "sr": "Ko ne kroti oko, zamaže um oblicima.\nKo ne kroti uho, zamaže um zvucima.\nKo ne kroti um, zamaže um mislima.\nAko um zamazan, nema radosti.",
+    "ms": "Kto ne kroti oko, obmaže um oblikami.\nKto ne kroti uho, obmaže um zvukami.\nKto ne kroti um, obmaže um mysljami.\nAko um obmazany, ne imaje radosti.",
+    "source": "Samyutta nikāya XXXV.97: Pamādavihārī sutta"
   },
   {
     "_id": 1440,
@@ -9911,11 +9864,11 @@
     "wiki": ""
   },
   {
+    "_id": 1441,
     "author": "Gautama Buddha",
-    "sr": "Nađoh stari put kojim putovahu budni od davnine. I sledeći taj put, stigoh do buđenja.",
-    "ms": "Najdeh stary put kojim putovahu budni od davna. I slědeči toj put, stigah do budženja.",
-    "source": "Samyutta nikāya XII.65, Nagara sutta",
-    "_id": 1441
+    "sr": "Nađoh stari put kojim putovahu budni od davnine. I sledeći ga, stigoh do buđenja.",
+    "ms": "Najdeh stary put kojim putovahu budni od davna. I slědeči go, stigah do budženja.",
+    "source": "Samyutta nikāya XII.65, Nagara sutta"
   },
   {
     "author": "Gautama Buddha",
@@ -10683,7 +10636,7 @@
   },
   {
     "author": "Demokrit",
-    "sr": "Ništa ne nastaje iz nebića ni propada u nebiće.",
+    "sr": "Ništa ne nastaje iz nebića niti propada u nebiće.",
     "ms": "Ničto ne nastava iz nebitja ni propada v nebitje.",
     "source": "Herman Diels, Predsokratovci II, Zagreb 1983.",
     "_id": 1560

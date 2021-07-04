@@ -25,4 +25,7 @@ npm start
 
 # TODO
 
+- srediti web app
+- ako -> jestli
+- ili -> abo
 - ćirilični input

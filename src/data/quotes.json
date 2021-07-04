@@ -29,8 +29,8 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Ako neko tvrdi: ja to vjerujem, a tvrdnja mu je dosljedna istini, iz toga ne slijedi: samo to je istina, sve ostalo zabluda. Jer istinu uviđaju samo mudraci, svaki za sebe.",
-    "ms": "Ako někoj tvrdi: ja to věrim, a tvrdženje jego doslědno istiny, iz togo ne slědi: samo to istina, vse ostalo zabluda. Ibo istinu poznajut samo mudrci, vsaky dlja sebe.",
+    "sr": "Ako neko nešto tvrdi, a tvrdnja mu je istina, iz toga ne slijedi: samo to je istina, sve ostalo zabluda. Jer istinu uviđaju samo mudri, svaki za sebe.",
+    "ms": "Ako někoj nečto tvrdi, a tvrdženje mu istinno, iz togo ne slědi: samo to istina, vse ostalo zabluda. Ibo istinu poznajut samo mudri, vsaky dlja sebe.",
     "source": "Mađđhima nikaya 95: Canki sutta",
     "_id": 5
   },
@@ -64,9 +64,9 @@
     "source": ""
   },
   {
-    "sr": "Ako neko tvoju sestru udari rukom, kamenom, štapom ili nožem, treba napustiti svaku reakciju, i ovako sebe vežbati: Moj um će ostati miran i neću izgovoriti lošu reč, pun saosećanja za njegovu dobrobit, uma punog ljubavi, bez mržnje u sebi.",
+    "sr": "Udari li neko tvoju sestru rukom, kamenom, štapom ili nožem, treba napustiti svaku reakciju, i ovako sebe vežbati: Moj um će ostati miran i neću izgovoriti lošu reč, pun saosećanja za njegovu dobrobit, uma punog ljubavi, bez mržnje u sebi.",
     "author": "Gautama Buddha",
-    "ms": "Ako někto tvoju sestru udari rukoju, drěvom, kamenom ili nožem, trěba ostaviti vsaki odzyv, i ovako sebe učiti: Moj um bude ostati mirny, ne budem izgovoriti zlo slovo, polny sočuvstva za jego dobrobyt, uma polnogo ljubvi, bez gněva v sobě.",
+    "ms": "Udari li někto tvoju sestru rukoju, drěvom, kamenom ili nožem, trěba ostaviti vsaki odzyv, i ovako sebe učiti: Moj um bude ostati mirny, ne budem izgovoriti zlo slovo, polny sočuvstva za jego dobrobyt, uma polnogo ljubvi, bez gněva v sobě.",
     "source": "Mađđhima nikaya 21: Kakaćupama sutta",
     "wiki": "https://sh.wikipedia.org/wiki/Ljubav_(budizam)",
     "_id": 10
@@ -94,8 +94,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Ako te nezgoda zadesi ne reci: da učinih tako, bilo bi onako, no reci: tako bog odredi. Jer, što on hoće, to i čini. Riječi da sam i kada bih bio otvaraju vrata đavlu.",
-    "ms": "Ako tobě nesgoda sluči se, ne kaži: da sdělah tako, by bylo onako, no kaži: tako bog oprěděli. Ibo, čto hoče, on čini. Slova da jesm i kogda by byl otvarjajut vrata diavlu.",
+    "sr": "Zadesi li te nezgoda ne reci: da učinih tako, bilo bi onako, no reci: tako bog odredi. Jer, što on hoće, to i čini. Riječi da sam i kada bih bio otvaraju vrata đavlu.",
+    "ms": "Sluči li se tobě nesgoda, ne kaži: da sdělah tako, by bylo onako, no kaži: tako bog oprěděli. Ibo, čto hoče, on čini. Slova da jesm i kogda by byl otvarjajut vrata diavlu.",
     "source": "Buharijeva zbirka hadisa, Sarajevo 2008.",
     "_id": 14
   },
@@ -211,8 +211,8 @@
   {
     "_id": 30,
     "author": "Lao Tzu",
-    "sr": "Ako su ljudi bogati i na visokom oholi, prepuštaju se neizbežnoj propasti.",
-    "ms": "Ako ljudi bogati i na vysokom položenju naduti, prěpuščajut se neizběžnoj propasti.",
+    "sr": "Kada su bogati i uvaženi oholi, prepuštaju se neizbežnoj propasti.",
+    "ms": "Kogda bogati i uvaženi naduti, prěpuščajut se neizběžnoj propasti.",
     "source": "Knjiga o putu, izreka 9"
   },
   {
@@ -225,8 +225,8 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Ako utisci opsedaju osobu, a u njoj nema ničeg da ih primi i sladi se, to je kraj nemira, obmana, sklonosti k strasti, žeđi za biti, uzimanja oružja, rasprava i sporenja. Tada sve loše nestaje bez ostatka.",
-    "ms": "Ako odtisky obsědajut osobu, a v jej ne imaje ničego da prijmi jih i sladi se, to konec nemira, obmana, sklonnosti k strasti, žedže dlja byti, vzenja oružja, razprava i sporenja. Togda vse zlo izčezaje bez ostatka.",
+    "sr": "Opsedaju li utisci osobu, a u njoj nema ničeg da ih primi, to je kraj nemira, obmana, strasti, žeđi, uzimanja oružja i sporenja. Tada sve loše nestaje bez ostatka.",
+    "ms": "Obsědajut li odtisky osobu, a v jej ne imaje ničego da prijmi jih, to konec nemira, obmana, strasti, žedže, vzenja oružja i sporenja. Togda vse zlo izčezaje bez ostatka.",
     "source": "majjhima/mn018",
     "wiki": "https://sh.wikipedia.org/wiki/Ose%C4%87aj_(budizam)",
     "_id": 32
@@ -297,9 +297,9 @@
     "source": "samyutta/sn01-001"
   },
   {
-    "sr": "Ako neko pred tobom počne da osuđuje brata tvog, obori lice. Čim to učiniš, pokazaćeš se oprezan i pred Bogom i pred njim.",
+    "sr": "Počne li neko pred tobom osuđivati brata, obori lice. Čim to učiniš, pokazaćeš se oprezan pred bogom i pred njim.",
     "author": "Isak Sirin",
-    "ms": "Ako někto prěd toboju počne osudžati brata, spusti lice. Čim to učiniš, pokazyvaš pozornost i prěd bogom i prěd jim.",
+    "ms": "Počne li někto prěd toboju osudžati brata, spusti lice. Čim to učiniš, pokazyvaš pozornost prěd bogom i prěd jim.",
     "source": "Dobrotoljublje",
     "_id": 42
   },
@@ -376,8 +376,8 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Ako čovek ne čisti um i misli: \"Ah, kada bi se moj um oslobodio nečistoća!\", njegov um ne može osloboditi se. Zamisli kokošku sa mnogo jaja. Ne leži na njima, ne greje ih i misli: \"Ah, kada bi moji pilići probili koru i izlegli se!\". No, pilići se ne mogu izlegnuti.",
-    "ms": "Ako člověk ne čisti um i mysli: \"Ah, kogda by moj um osvobodil se nečistoty!\", jego um ne može osvoboditi se. Voobražaj kokošku so mnogo jajca. Ne leži na jim, ne grěje jih i mysli: \"Ah, kogda by moji ptičky probili koru i izlegli se!\". No, ptičky ne mogu izlegti se.",
+    "sr": "Ne čisti li čovek um i misli: \"Ah, kada bi se moj um oslobodio nečistoća!\", njegov um ne može osloboditi se. Kao kokoška sa mnogo jaja. Ne leži na njima, ne greje ih i misli: \"Ah, kada bi moji pilići probili koru i izlegli se!\". No, pilići ne mogu izlegnuti se.",
+    "ms": "Ne čisti li člověk um i mysli: \"Ah, kogda by moj um osvobodil se nečistoty!\", jego um ne može osvoboditi se. Kak kokoška so mnogo jajca. Ne leži na jim, ne grěje jih i mysli: \"Ah, kogda by moji ptičky probili koru i izlegli se!\". No, ptičky ne mogu izlegti se.",
     "source": "samyutta/sn22-101",
     "wiki": "https://sh.wikipedia.org/wiki/Um_(budizam)",
     "_id": 54
@@ -482,8 +482,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Ako želiš da ti srce omekša i postigne cilj, budi milostiv prema siročetu, pomiluj ga po glavi i daj mu jelo.",
-    "ms": "Ako želaš da ti srdce smekča i postigne cělj, budi milostivy prěmy sirotě, pomiluj ju po glavy i daj jej jelo.",
+    "sr": "Želiš li da ti srce omekša i postigne cilj, budi milostiv prema siročetu, pomiluj ga po glavi i nahrani.",
+    "ms": "Želaš li da ti srdce smekča i postigne cělj, budi milostivy prěmy sirotoju, pomiluj ju po glavy i nasyti.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 70
   },
@@ -497,8 +497,8 @@
   {
     "_id": 73,
     "author": "Gautama Buddha",
-    "sr": "Ako točna tvrdnja nekorisna i drugima neugodna, to savršeni ne izriče. Ako točna tvrdnja korisna a drugima neugodna, to savršeni nađe pravo vrijeme izreći.",
-    "ms": "Ako točna tvrdnja nekoristna i drugym nemila, to sovršeni ne izrěče. Ako točna tvrdnja koristna a drugym nemila, to sovršeni najde pravo vrěme izrěkti.",
+    "sr": "Ako je tvrdnja točna, nekorisna i drugima neugodna, to savršeni ne izriče. Ako je tvrdnja točna, korisna i drugima neugodna, to savršeni nađe pravo vrijeme izreći.",
+    "ms": "Jestli tvrdženje točno, nekoristno i drugym nemilo, to sovršeni ne izrěče. Jestli tvrdženje točno, koristno i drugym nemilo, to sovršeni najde pravo vrěme izrěkti.",
     "source": "Mađđhima nikaya 58: Abhaya sutta",
     "wiki": ""
   },
@@ -540,15 +540,15 @@
   {
     "_id": 79,
     "author": "Gautama Buddha",
-    "sr": "Postoji nerođeno, nerastuće i neuslovljeno. Kad ne bi bilo nerođenog, nerastućeg i neuslovljenog, tada ne bi bilo izlaza za rođeno, rastuće i uslovljeno.",
+    "sr": "Jeste nerođeno, nerastuće i neuslovljeno. Ako ne bi bilo nerođenog, nerastućeg i neuslovljenog, tada ne bi bilo izlaza za rođeno, rastuće i uslovljeno.",
     "ms": "Jest nerodženo, nerastuče i bezuslovno. Ako ne by bylo nerodženogo, nerastučego i bezuslovnogo, togda ne by bylo izhoda dlja rodženo, rastuče i uslovno.",
     "source": "https://srednjiput.rs/tumacenja/walpola-rahula/treca-plemenita-istina/"
   },
   {
     "_id": 80,
     "author": "Gautama Buddha",
-    "sr": "Krivo delajući, govoreći i misleći nisu posvećeni sebi. Ako kažu: posvećeni smo sebi, nisu. Oni čine sebi što neprijatelj čini neprijatelju. No, pravo delajući, govoreći i misleći su posvećeni sebi. Oni čine sebi što prijatelj čini prijatelju.",
-    "ms": "Krivo dělajuči, govoreči i mysleči ne posvečeny sobě. Ako kažu: mi posvečeny sobě, ne sut. Oni činet sobě čto vrag čini vragu. No, pravo dělajuči, govoreči i mysleči posvečeny sobě. Oni činet sobě čto prijatelj čini prijatelju.",
+    "sr": "Krivo delajući, govoreći i misleći nisu posvećeni sebi. Kažu li: posvećeni smo sebi, nisu. Oni čine sebi što neprijatelj čini neprijatelju. No, pravo delajući, govoreći i misleći su posvećeni sebi. Oni čine sebi što prijatelj čini prijatelju.",
+    "ms": "Krivo dělajuči, govoreči i mysleči ne posvečeny sobě. Skažut li: mi posvečeny sobě, ne sut. Oni činet sobě čto vrag čini vragu. No, pravo dělajuči, govoreči i mysleči posvečeny sobě. Oni činet sobě čto prijatelj čini prijatelju.",
     "source": "samyutta/sn03-004",
     "wiki": ""
   },
@@ -648,8 +648,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "U telu ima jedan deo. Ako je dobar, celo telo bude dobro, a ako je pokvaren, celo telo bude pokvareno. Taj deo je srce.",
-    "ms": "V tělu imaje jedna čest. Jestli ona dobra, cělo tělo bude dobro, jestli zla, cělo tělo bude zlo. Ta čest srdce.",
+    "sr": "U telu ima jedan deo. Jest li dobar, celo telo bude dobro, jest li kvaran, celo telo bude kvarno. Taj deo je srce.",
+    "ms": "V tělu imaje jedna čest. Jestli dobra, cělo tělo bude dobro, jestli liha, cělo tělo bude liho. Ta čest srdce.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 95
   },
@@ -735,7 +735,7 @@
     "_id": 107,
     "author": "Isus",
     "sr": "Čuli ste rečeno: oko za oko, zub za zub. A ja kažem ne opirite se zlu. Ko te udari po obrazu, okreni mu i drugi. Ko te tuži da ti uzme odeću, daj mu i ogrtač. I ko te natera jednu milju, idi sa njim dve.",
-    "ms": "Slyšaste rěčeno: oko za oko, zub za zub. Ja že glagolju vam: ne protivite se zlu. Ako te kto udari v desnu lanitu, obrati jemu i drugu. I hočučemu suditi se s toboju oděž tvoj vzeti, odpusti jemu i plašč. I kto te potěra siloju poprišče jedno, idi s jim dva.",
+    "ms": "Slyšaste rěčeno: oko za oko, zub za zub. Ja že glagolju vam: ne protivite se zlu. Udari li te kto v desnu lanitu, obrati jemu i drugu. I hočučemu suditi se s toboju oděž tvoj vzeti, odpusti jemu i plašč. I kto te potěra siloju poprišče jedno, idi s jim dva.",
     "source": "Evangelje po Mateju, glava 5:38-41; Evangelje po Luki, glava 6:29",
     "wiki": "https://sh.wikipedia.org/wiki/Okreni_drugi_obraz"
   },
@@ -861,9 +861,9 @@
     "wiki": ""
   },
   {
-    "sr": "Ako gubitak novca, dece ili inog smatrate nevoljom, znajte treba biti zadovoljan bogom danim, i dano blagodarno vratiti.",
+    "sr": "Smatrate li gubitak novca, dece ili inog nevoljom, znajte treba biti zadovoljan danim, i dano blagodarno vratiti.",
     "author": "Antonije Veliki",
-    "ms": "Ako gubitok groša, děteta ili inogo smatrjate nevoljom, znajte trěba byti zadovoljeny bogom danym, i dano blagodarno vrnuti.",
+    "ms": "Smatrjate li gubitok groša, děteta ili inogo nevoljom, znajte trěba byti zadovoljeny danym, i dano blagodarno vrnuti.",
     "source": "Dobrotoljublje",
     "_id": 126
   },
@@ -1074,8 +1074,8 @@
   },
   {
     "author": "Isak Sirin",
-    "sr": "Kome je srce porobljeno strastima, one mu i jezik pokreću. Ako počne o duhovnom, raspravlja pod uplivom strasti da u nepravdi pobedi. Mudar primećuje takvog čoveka prilikom prvog susreta i može nanjušiti njegov vonj.",
-    "ms": "Kto imaje srdce porabjeno strastami, one jemu i jezyk mrdajut. Ako počne ob duhovnom, razpravja pod vplyvom strasti, da v nepravdy pobědi. Mudry priměti takogo člověka kod prvogo strětenja i čisty može njuhnuti jego vonj.",
+    "sr": "Kome je srce porobljeno strastima, one mu i jezik pokreću. Počne li o duhovnom, raspravlja pod uplivom strasti da u nepravdi pobedi. Mudar primećuje takvog čoveka prilikom prvog susreta i može nanjušiti njegov vonj.",
+    "ms": "Kto imaje srdce porabjeno strastami, one jemu i jezyk mrdajut. Počne li ob duhovnom, razpravja pod vplyvom strasti, da v nepravdy pobědi. Mudry priměti takogo člověka kod prvogo strětenja i čisty može njuhnuti jego vonj.",
     "source": "Dobrotoljublje",
     "_id": 156
   },
@@ -1096,8 +1096,8 @@
   },
   {
     "author": "Isus",
-    "sr": "Ako praštate ljudima greške, oprostiće i vama nebeski otac. Ako ne praštate ljudima grehe, ni vama otac neće oprostiti.",
-    "ms": "Ako odpuščajete člověkom sogrěšenja, odpusti i vam otec nebesny. Ako li ne odpuščajete člověkom sogrěšenja, ni otec odpusti vam.",
+    "sr": "Praštate li ljudima greške, oprostiće i vama nebeski otac. Ne praštate li ljudima grehe, ni vama otac neće oprostiti.",
+    "ms": "Odpuščajete li člověkom sogrěšenja, odpusti i vam otec nebesny. Ne odpuščajete li člověkom sogrěšenja, ni otec odpusti vam.",
     "source": "Evangelje po Mateju, glava 6:14-15; Evangelje po Marku, glava 11:25",
     "wiki": "https://sh.wikipedia.org/wiki/Pra%C5%A1tajte",
     "_id": 159
@@ -1238,16 +1238,16 @@
     "_id": 178
   },
   {
-    "sr": "Ako želite pravo razumevanje, ne dozvolite da vas drugi obmanjuju. Treba ubiti sve na šta naiđete, iznutra i van. Ako sretnete Budu, ubijte Budu. Ako sretnete patrijarhe, ubijte patrijarhe. Tad možete postići oslobođenje.",
+    "sr": "Želite li pravo razumevanje, ne dozvolite da vas drugi obmanjuju. Treba ubiti sve na šta naiđete, iznutra i van. Sretnete li Budu, ubijte Budu. Sretnete li patrijarhe, ubijte patrijarhe. Tada možete biti slobodni.",
     "author": "Linji",
-    "ms": "Ako želajete pravo razuměnje, ne dozvolite da drugi obmanut vas. Trěba ubiti vse čto najdete, vnutri i von. Ako strětete Budu, ubijte Budu. Ako strětete patriarhi, ubijte patriarhi. Togda možete postignuti osvobodženje.",
+    "ms": "Želajete li pravo razuměnje, ne dozvolite da drugi obmanut vas. Trěba ubiti vse čto najdete, vnutri i von. Strětete li Budu, ubijte Budu. Strětete li patriarhi, ubijte patriarhi. Togda možete byti svobodny.",
     "source": "",
     "_id": 179
   },
   {
     "author": "Isak Sirin",
-    "sr": "Ako na jednu stranu položiš sve ine podvige, a na drugu ćutanje, ćutanje će prevagnuti.",
-    "ms": "Ako na jednu stranu položiš vse ine podvigov, a na drugu molčanje, molčanje prěvaža.",
+    "sr": "Položiš li na jednu stranu sve podvige, a na drugu ćutanje, ćutanje će prevagnuti.",
+    "ms": "Položiš li na jednu stranu vse podvigov, a na drugu molčanje, molčanje prěvaža.",
     "source": "Dobrotoljublje",
     "_id": 180
   },
@@ -1283,8 +1283,8 @@
   {
     "_id": 187,
     "author": "Gautama Buddha",
-    "sr": "Ako neko pusti se strastima i čini zla dela, kažemo da ide nizvodno. Ako ne pusti se strastima i ne čini zla dela, kažemo ide uzvodno.",
-    "ms": "Ako někto pusti se strastami i čini zla děla, kažemo že ide vniz vodu. Ako ne pusti se strastami i ne čini zla děla, kažemo ide vgoru vody.",
+    "sr": "Ako neko prepusti se strastima i čini zla dela, ide niz tok. Ako ne prepusti se strastima i ne čini zla dela, ide uzvodno.",
+    "ms": "Ako někto pusti se strastami i čini zla děla, ide vniz tok. Ako ne pusti se strastami i ne čini zla děla, ide protiv toku.",
     "source": "",
     "wiki": "https://sh.wikipedia.org/wiki/Karma_u_budizmu"
   },
@@ -1349,7 +1349,7 @@
     "_id": 197,
     "author": "Jiddu Krishnamurti",
     "sr": "Ljubav nije reakcija. Ako te volim zato što ti voliš mene, to je samo trgovina; to nije ljubav.",
-    "ms": "Ljubov ne reakcija. Ako te ljubim zato že ty ljubiš mene, to prosto trgovanje; to ne ljubov.",
+    "ms": "Ljubov ne odzyv. Ljubim li te zato že ty ljubiš mene, to prosto trgovanje; to ne ljubov.",
     "source": ""
   },
   {
@@ -1368,8 +1368,8 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Ako usled govora o viđenom, u čoveku zla svojstva narastaju, a dobra umanjuju se, tada o tom ne treba govoriti.",
-    "ms": "Ako vslěd govora o viděnom, v člověku zla svojstva narastajut, a dobra umenšajut, togda o tom ne trěba govoriti.",
+    "sr": "Ako usled govora o nečemu u čoveku zla svojstva narastaju, a dobra umanjuju se, tada o tome ne treba govoriti.",
+    "ms": "Ako vslěd govora o něčemu v člověku zla svojstva narastajut, a dobra umenšajut, togda o tomu ne trěba govoriti.",
     "source": "Anguttara nikaya 4:181-191 Brahmana vagga",
     "_id": 200
   },
@@ -1447,8 +1447,8 @@
   {
     "_id": 211,
     "author": "Gautama Buddha",
-    "sr": "Ako postoji ini svet za dobro tvoreće, posle smrti mogu preporoditi se. Ako ne postoji ini svet, tada živim ovde radostan, bez zla. Ako posledice stižu zlo tvoreće, ne bojim se. Ako posledice ne stižu zlo tvoreće, ja sam opet čist.",
-    "ms": "Ako jest iny svět za dobro tvoreče, poslě smrti možem vozroditi se. Ako ne jest iny svět, togda živem sde radostny, bez zla. Ako poslědice stigajut zlo tvoreče, ne bojim se. Ako poslědice ne stigajut zlo tvoreče, jesm opet čisty.",
+    "sr": "Jest li ini svet za dobro tvoreće, posle smrti mogu preporoditi se. Ne jest li ini svet, tada živim ovde radostan, bez zla. Stižu li posledice zlo tvoreće, ne bojim se. Ne stižu li posledice zlo tvoreće, ja sam opet čist.",
+    "ms": "Jest li iny svět za dobro tvoreče, poslě smrti mogu vozroditi se. Ne jest li iny svět, togda živu sde radostny, bez zla. Stigajut li poslědice zlo tvoreče, ne boju se. Ne stigajut li poslědice zlo tvoreče, opet jesm čisty.",
     "source": "anguttara/an03-065",
     "wiki": ""
   },
@@ -1517,9 +1517,9 @@
     "source": "Nanaponika Thera, Pet mentalnih prepreka i njihovo uklanjanje"
   },
   {
-    "sr": "Ako ostavimo čula bez straže, \nškodljiva stanja mogu osvojiti um. \nStražarimo nad okom, nastojmo obuzdati oko. \nKad vidimo oblik, ne lepimo se za njega. \nStražarimo nad umom, nastojmo obuzdati um. \nKad osetimo misao, ne lepimo se za nju.",
+    "sr": "Ostavimo li čula bez straže, \nškodljiva stanja mogu osvojiti um. \nStražarimo nad okom, nastojmo obuzdati oko. \nKad vidimo oblik, ne lepimo se za njega. \nStražarimo nad umom, nastojmo obuzdati um. \nKad osetimo misao, ne lepimo se za nju.",
     "author": "Gautama Buddha",
-    "ms": "Ako ostavimo čutja bez straže, \nškodliva uslovja mogu osvojiti um. \nStrěžimo nad okom, nastojimo obuzdati oko. \nKogda vidimo oblik, ne lěpimo se za jego. \nStrěžimo nad umom, nastojimo obuzdati um. \nKogda čujemo myslj, ne lěpimo se za ju.",
+    "ms": "Ostavimo li čutja bez straže, \nškodliva uslovja mogu osvojiti um. \nStrěžimo nad okom, nastojimo obuzdati oko. \nKogda vidimo oblik, ne lěpimo se za jego. \nStrěžimo nad umom, nastojimo obuzdati um. \nKogda čujemo myslj, ne lěpimo se za ju.",
     "source": "Mađđhima nikaya 39: Maha-Assapura sutta",
     "wiki": "https://sh.wikipedia.org/wiki/%C5%A0est_%C4%8Dula",
     "_id": 221
@@ -1750,8 +1750,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Ako mi prođe dan ne proširivši znanje koje me približava uzvišenom bogu, taj dan mi nije blagosloven.",
-    "ms": "Ako mi projde denj ne razširivši znanje že me približa vozvyšenom bogu, toj mi denj ne blagoslovjeny.",
+    "sr": "Prođe li mi dan ne proširivši znanje koje me približava uzvišenom bogu, taj dan mi nije blagosloven.",
+    "ms": "Projde li mi denj ne razširivši znanje že me približa vozvyšenom bogu, toj mi denj ne blagoslovjeny.",
     "source": "Buharijeva zbirka hadisa, Sarajevo 2008.",
     "_id": 253
   },
@@ -1873,8 +1873,8 @@
   {
     "_id": 271,
     "author": "Gautama Buddha",
-    "sr": "Ako čovek pozorno ispituje mehur na reci Gang, vidi ga praznim i bez suštine. Tako mudrac ispituje oblike, draži, čuvstva, tvorevine i svest, dok ne prozre ih praznim i bez suštine.",
-    "ms": "Ako člověk pozorno izpytyva měhurok na rěky Gang, vidi go prazdnym i bez sučnosti. Tak mudrec izpytyva obliky, draži, čuvstva, tvorenja i svědomost, dokolě ne prozri jih prazdnym i bez sučnosti.",
+    "sr": "Ako čovek pozorno gleda mehur na reci Gang, vidi ga praznim i bez suštine. Tako mudrac gleda oblike, draži, čuvstva, tvorevine i svest, dok ne prozre ih praznim i bez suštine.",
+    "ms": "Ako člověk pozorno gledi měhurok na rěky Gang, vidi go prazdnym i bez sučnosti. Tak mudrec gledi obliky, draži, čuvstva, tvorenja i svědomost, dokolě ne prozri jih prazdnym i bez sučnosti.",
     "source": "samyutta/sn22-095"
   },
   {
@@ -1981,8 +1981,8 @@
   {
     "_id": 286,
     "author": "Gautama Buddha",
-    "sr": "Visoko na nebu duvaju moćni vetrovi. Ako neka ptica poleti visoko, oluja ju raskida na sve strane: noga odleti na jednu, krilo na drugu, glava na treću, telo na četvrtu. Podobno, monah nemotreći čula pođe u grad. On vidi žene oskudno obučene i pohota mu napadne um. Savladan pohotom, ostavlja monaštvo. Tada jedan uzme njegov plašt, drugi zdelu, treći prostirku, četvrti pribor za šivenje. Podobno ptici čije delove iskida oluja.",
-    "ms": "Vysoko na nebu vějut močni větri. Ako někoja ptica poleti vysoko, burja ju razkyda na vse strany: noga odleti na jednu, krilo na drugu, glava na tretju, tělo na četvrtu. Podobno, monah nesmotreči čula pojde v grad. On vidi žene oskudno oblěčene i pohota mu napadne um. Sovladneny pohotoju, ostavja monaštvo. Togda jedin vozme jego plašč, vtory posudu, tretji prostirku, četvrty pribor za šitje. Podobno ptici čije dělov izkyda burja.",
+    "sr": "Visoko na nebu duvaju moćni vetrovi. Poleti li neka ptica visoko, oluja ju raskida na sve strane: noga odleti na jednu, krilo na drugu, glava na treću, telo na četvrtu. Podobno, monah nemotreći čula pođe u grad. On vidi žene oskudno obučene i pohota mu napadne um. Savladan pohotom, ostavlja monaštvo. Tada jedan uzme njegov plašt, drugi zdelu, treći prostirku, četvrti pribor za šivenje. Podobno ptici čije delove iskida oluja.",
+    "ms": "Vysoko na nebu vějut močni větri. Poleti někoja ptica vysoko, burja ju razkyda na vse strany: noga odleti na jednu, krilo na drugu, glava na tretju, tělo na četvrtu. Podobno, monah nesmotreči čula pojde v grad. On vidi žene oskudno oblěčene i pohota mu napadne um. Sovladneny pohotoju, ostavja monaštvo. Togda jedin vozme jego plašč, vtory posudu, tretji prostirku, četvrty pribor za šitje. Podobno ptici čije dělov izkyda burja.",
     "source": "samyutta/sn17-009",
     "wiki": "https://sh.wikipedia.org/wiki/%C5%A0est_%C4%8Dula"
   },
@@ -2261,14 +2261,14 @@
   {
     "_id": 325,
     "author": "Gautama Buddha",
-    "sr": "Ako je voda prekrivena žabokrečinom, \nčovek ne vidi sopstveno lice. \nAko je um opsednut lenjošću i tromošću, \nčovek ne vidi sopstveno dobro, ni dobro drugih.",
-    "ms": "Ako voda pokryta rastlinami, \nčlověk ne vidi sobstveno lice. \nAko um posědany lěnivostju i otupělostju, \nčlověk ne vidi sobstveno dobro, ni dobro drugyh.",
+    "sr": "Ako je voda pokrivena žabokrečinom, \nčovek ne vidi sopstveno lice. \nAko je um pokriven lenjošću i tromošću, \nčovek ne vidi sopstveno dobro, ni dobro drugih.",
+    "ms": "Jestli voda pokryta rastlinami, \nčlověk ne vidi sobstveno lice. \nJestli um pokryty lěnivostju i otupělostju, \nčlověk ne vidi sobstveno dobro, ni dobro drugyh.",
     "source": "https://srednjiput.rs/tumacenja/nanaponika-thera/pet-mentalnih-prepreka/prepreke/"
   },
   {
     "author": "Muhamed",
     "sr": "Najteža iskušenja imali su proroci, a potom njima podobni. Čovjek podnosi udarce i nevolje prema sili vjere. Ako je vjera čvrsta, iskušenje bude teže, ako je vjera slaba i površna, iskušenje bude srazmjerno.",
-    "ms": "Najtežša izkušenja imali sut proroki, a potom jim podobny. Člověk trpi udare i nevolje prěmy sili věrě. Ako věra tvrda, izkušenje bude težje, ako věra slaba i povrhna, izkušenje bude surazměrno.",
+    "ms": "Najtežša izkušenja imali sut proroki, a potom jim podobny. Člověk trpi udare i nevolje prěmy sili věrě. Jestli věra tvrda, izkušenje bude težje, jestli věra slaba i povrhna, izkušenje bude surazměrno.",
     "source": "Buharijeva zbirka hadisa, Sarajevo 2008.",
     "_id": 326
   },
@@ -2289,8 +2289,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Ako me uistinu voliš, budi spreman na siromaštvo; siromaštvo brže stiže do onoga ko me voli no bujica do ušća.",
-    "ms": "Ako me istinno ljubiš, budi gotovy na bědu; běda brzěje prijde do ljubečego me no struja do ustja.",
+    "sr": "Ljubiš li me uistinu, budi spreman na siromaštvo; siromaštvo brže stiže do ljubećeg no struja do ušća.",
+    "ms": "Ljubiš li me istinno, budi gotovy na bědu; běda brzěje prijde do ljubečego no struja do ustja.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 329
   },
@@ -2345,8 +2345,8 @@
   },
   {
     "author": "Isak Sirin",
-    "sr": "Ako želiš podvig, podaj se svakom stradanju, jer nevolje rađaju spokoj. Ko u podvigu prebiva bez patnje, otvorene su mu dveri gordosti.",
-    "ms": "Ako želaš podvig, podaj se vsakom stradanju, jer nevolje radžajut pokoj. Kto v podvigu prěbyva bez muky, otvorjene jemu dveri gordosti.",
+    "sr": "Želiš li podvig, podaj se svakom stradanju, jer nevolje rađaju spokoj. Ko u podvigu prebiva bez patnje, otvorene su mu dveri gordosti.",
+    "ms": "Želaš li podvig, podaj se vsakom stradanju, jer nevolje radžajut pokoj. Kto v podvigu prěbyva bez muky, otvorjene jemu dveri gordosti.",
     "source": "Dobrotoljublje",
     "_id": 337
   },
@@ -2374,8 +2374,8 @@
   },
   {
     "author": "Isus",
-    "sr": "Ako prinosiš dar tvoj k oltaru i setiš se da brat ima nešto protiv tebe, idi prvo izmiri se s bratom tvojim, i tada prinesi dar.",
-    "ms": "Ako prineseš dar tvoj k oltaru i tu pomniš že brat imaje něčto na te, šed prědže smiri se s bratom tvojim, i togda prinesi dar.",
+    "sr": "Ako prinosiš dar k žrtveniku i setiš se da brat ima nešto protiv tebe, idi prvo pomiri se s bratom, i tada prinesi dar.",
+    "ms": "Ako prinosiš dar k žrtveniku i tu pomniš že brat imaje něčto na te, pojdi prědže pomiri se s bratom, i togda prinesi dar.",
     "source": "Evangelje po Mateju, glava 5:23-24",
     "_id": 341
   },
@@ -2480,8 +2480,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Koi vrše i koi krše Božje zakone, sliče ljudima na lađi. Jedni kažu: Ako bušimo v našem delu, vas ne tiče! Ako ih puste, vsi propadut, a ako ih spreče, vsi se spasut.",
-    "ms": "Ktori sovršet i ktori rušet božje zakone, podobni sut ljudam na lodkě. Jedni kažu: Ako svrdlimo v našem dělu, vas ne tyče se! Ako jih pustet, vsi propadut, ako jih prěduprědet, vsi spasut se.",
+    "sr": "Koji vrše i koji krše božje zakone, sliče ljudima na lađi. Jedni kažu: bušimo u našem delu, vas ne tiče se! Puste li ih, svi propadnu, spreče li ih, svi spasu se.",
+    "ms": "Ktori sovršet i ktori rušet božje zakonov, podobni sut ljudam na lodkě. Jedni kažu: svrdlimo v našem dělu, vas ne tyče se! Pustet li jih, vsi propadut, prěduprědet li jih, vsi spasut se.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 357
   },
@@ -2507,9 +2507,9 @@
     "_id": 360
   },
   {
-    "sr": "Ako te ko uvredi ili ponizi, čuvaj se gnevne pomisli, da te gorčina ne odvoji od ljubavi, i baci u oblast mržnje.",
+    "sr": "Uvredi li te ko ili ponizi, čuvaj se gnevne pomisli, da te gorčina ne odvoji od ljubavi, i baci u oblast mržnje.",
     "author": "Maksim Ispovednik",
-    "ms": "Ako te kto urazi ili ponizi, čuvaj se gněvne pomysli, da te gorkost ne razděli od ljubvi, i vrgne v oblast nenavisti.",
+    "ms": "Urazi li te kto ili ponizi, čuvaj se gněvne pomysli, da te gorkost ne razděli od ljubvi, i vrgne v oblast nenavisti.",
     "source": "Stoslovi o ljubavi I-29",
     "_id": 361
   },
@@ -2536,8 +2536,8 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Kada se gotoviš delati, razmisli: Hoće li moje delo naneti patnju meni ili drugima? Ako zaključiš da hoće, ne treba delati. Ako nikom ne donosi patnju, a donosi korist, treba delati.",
-    "ms": "Kogda gotoviš se dělati, razmysli: Bude li moje dělo prinesti muku mně ili drugym? Ako zaključiš da, ne trěba dělati. Ako nikomu ne prinosi muku, a prinosi korist, trěba dělati.",
+    "sr": "Kada se gotoviš delati, razmisli: Hoće li moje delo naneti patnju meni ili drugima? Zaključiš li da, ne treba delati. Ako nikom ne donosi patnju, a donosi korist, treba delati.",
+    "ms": "Kogda gotoviš se dělati, razmysli: Bude li moje dělo prinesti muku mně ili drugym? Zaključiš li da, ne trěba dělati. Ako nikomu ne prinosi muku, a prinosi korist, trěba dělati.",
     "source": "majjhima/mn061",
     "_id": 365
   },
@@ -2593,8 +2593,8 @@
   {
     "_id": 373,
     "author": "Gautama Buddha",
-    "sr": "Ribar zabaci mamac u jezero. Ako riba proguta mamac, u njegovoj je vlasti. Imanje, čast i slava su mamci. Ribar je đavo.",
-    "ms": "Rybar metne primamku v jezero. Jestli ryba progolta primamku, v jego vlasti. Iměnje, čest i slava primamky sut. Rybar jest diavol.",
+    "sr": "Ribar zabaci mamac u jezero. Proguta li riba mamac, u njegovoj je vlasti. Imanje, čast i slava su mamci. Ribar je đavo.",
+    "ms": "Rybar metne primamku v jezero. Progolta li ryba  primamku, v jego vlasti. Iměnje, čest i slava primamky sut. Rybar jest diavol.",
     "source": "samyutta/sn17-002"
   },
   {
@@ -2724,8 +2724,8 @@
   {
     "_id": 392,
     "author": "Gautama Buddha",
-    "sr": "Neki monah je zadovoljan kakvim bilo starim plaštom. Radi lepšeg plašta ne čini ništa neprilično. Ako ne dobije novo platno, nije uznemiren. Ako ga dobije, ne veže se. Ne uzdiže sebe, ne kori druge. Za takvog monaha kažem: tvrdo stoji na predanjima blagorodnih.",
-    "ms": "Někoj monah zadovoljeny kakym-libo starym plaščem. Radi lěpšego plašča ne čini ničto neprilično. Ako ne dobyva novo platno, ne bezpokojeny. Ako dobyva, ne veže se. Ne vozdviga sebe, ne kori druge. Za takovogo monaha kažem: tvrdo stoji na prědanjam blagorodnyh.",
+    "sr": "Neki monah je zadovoljan kakvim bilo starim plaštom. Radi lepšeg plašta ne čini ništa neprilično. Ne dobije li novo platno, nije uznemiren. Dobije li, ne veže se. Ne uzdiže sebe, ne kori druge. Za takvog monaha kažem: tvrdo stoji na predanjima blagorodnih.",
+    "ms": "Někoj monah zadovoljeny kakym-libo starym plaščem. Radi lěpšego plašča ne čini ničto neprilično. Ne dobude li novo platno, ne bezpokojeny. Dobude li, ne veže se. Ne vozdviga sebe, ne kori druge. Za takovogo monaha kažem: tvrdo stoji na prědanjam blagorodnyh.",
     "source": "Anguttara nikaya 4:21-30 Uruvela vagga",
     "wiki": ""
   },
@@ -2733,7 +2733,7 @@
     "_id": 393,
     "author": "Gautama Buddha",
     "sr": "Telo je bolno, slabo i tegobno. Ovako sebe obučavaj: Ako je moje telo bolno, moj um biće bez bola.",
-    "ms": "Tělo boljno i slabo brěme. Ovako sebe obučaj: Ako moje tělo boljno, moj um bude bez bolja.",
+    "ms": "Tělo boljno i slabo brěme. Ovako sebe obučaj: Jestli moje tělo boljno, moj um bude bez bolja.",
     "source": "samyutta/sn22-001"
   },
   {
@@ -2931,8 +2931,8 @@
   {
     "_id": 422,
     "author": "Gautama Buddha",
-    "sr": "Ako potopite prljavu tkaninu u boju, tkanina ostane prljava. Tako, kada je um nečist, ne vidi stvari kakve su. Ako potopite čistu tkaninu u boju, tkanina postane obojena. Tako, kada je um čist, vidi stvari kakve su.",
-    "ms": "Ako potopite obmazanu tkaninu v cvět, tkanina ostane obmazana. Tako, kogda um nečisty, ne vidi věči kake sut. Ako potopite čistu tkaninu v cvět, tkanina stane cvětna. Tako, kogda um čisty, vidi věči kake sut.",
+    "sr": "Potopite li prljavu tkaninu u boju, tkanina ostane prljava. Tako, kada je um nečist, ne vidi stvari kakve su. Potopite li čistu tkaninu u boju, tkanina postane obojena. Tako, kada je um čist, vidi stvari kakve su.",
+    "ms": "Potopite li obmazanu tkaninu v cvět, tkanina ostane obmazana. Tako, kogda um nečisty, ne vidi věči kake sut. Potopite li čistu tkaninu v cvět, tkanina stane cvětna. Tako, kogda um čisty, vidi věči kake sut.",
     "source": "majjhima/mn007",
     "wiki": ""
   },
@@ -2965,17 +2965,17 @@
     "_id": 426
   },
   {
-    "sr": "Ovako treba vežbati: Bićemo zadovoljni svakim odelom, svakim jelom, svakim boravištem. Ako nemamo, nećemo biti uznemireni. Ako imamo, ne vezujemo se, vidimo opasnost, razumemo put izlaska.",
+    "sr": "Ovako treba vežbati: budemo zadovoljni svakim odelom, svakim jelom, svakim boravištem. Nemamo li, ne budemo uznemireni. Imamo li, ne vezujemo se, vidimo opasnost, razumemo put izlaska.",
     "author": "Gautama Buddha",
-    "ms": "Ovako trěba obučati se: Budemo zadovoljeni vsakom oděžju, vsakym jelom, vsakym žiliščem. Ako ne imamo, ne budemo nemirni. Ako imamo, ne vežemo se, vidimo grozu, razuměmo put izhoda.",
+    "ms": "Ovako trěba obučati se: budemo zadovoljeni vsakom oděžju, vsakym jelom, vsakym žiliščem. Ne imamo li, ne budemo nemirni. Imamo li, ne vežemo se, vidimo grozu, razuměmo put izhoda.",
     "source": "Samyutta nikaya XVI.1: Santuttha sutta",
     "_id": 427
   },
   {
     "_id": 428,
     "author": "Gautama Buddha",
-    "sr": "Mudar treba izbegavati razvrat kao što izbegava jamu punu žarkog uglja. Ako ne može održavati celibat, barem ne treba odlaziti tuđoj ženi.",
-    "ms": "Mudry trěba izběgati razvrat kak izběgaje jamu polnu žarkogo vuglja. Ako ne može poddržati celibat, prinajmenje ne trěba hoditi čudžej ženi.",
+    "sr": "Mudar treba izbegavati razvrat kao što izbegava jamu punu žarkog uglja. Ako ne može držati celibat, barem ne treba odlaziti tuđoj ženi.",
+    "ms": "Mudry trěba izběgati razvrat kak izběgaje jamu polnu žarkogo vuglja. Ako ne može držati celibat, prinajmenje ne trěba hoditi čudžej ženi.",
     "source": "khuddaka/snp2-14"
   },
   {
@@ -2994,8 +2994,8 @@
   },
   {
     "author": "Gautama Buddha",
-    "sr": "Ako netko pobijedi u boju tisuću puta po tisuću ljudi, a drugi pobijedi jedino sebe, taj je nenadmašivi pobjednik.",
-    "ms": "Ako někto pobědi v boju tyseč krat po tyseč ljudij, a drugy pobědi jedino sebe, on neizměrimy poběditelj.",
+    "sr": "Pobijedi li netko u boju tisuću puta po tisuću ljudi, a drugi jedino sebe, taj je nenadmašivi pobjednik.",
+    "ms": "Pobědi li někto v boju tyseč krat po tyseč ljudij, a drugy jedino sebe, on neizměrimy poběditelj.",
     "source": "Dhammapada",
     "_id": 431
   },
@@ -3023,8 +3023,8 @@
   },
   {
     "author": "Lao Tzu",
-    "sr": "Ako ljudi označe lepo, označeno je i ružno. \nAko ljudi označe dobro, označeno je i zlo.",
-    "ms": "Ako ljudi označet krasotu, označena i skarednost. \nAko ljudi označet dobro, označeno i zlo.",
+    "sr": "Označe li ljudi lepo, označeno je i ružno. \nOznače li ljudi dobro, označeno je i zlo.",
+    "ms": "Označet li ljudi krasotu, označena i skarednost. \nOznačet li ljudi dobro, označeno i zlo.",
     "source": "Knjiga o putu, izreka 2",
     "_id": 435
   },
@@ -3110,8 +3110,8 @@
   },
   {
     "author": "Zhuang Zhou",
-    "sr": "Primati sve jednako, bez pretpostavljanja, bez sklonosti, to je neograničenost. Ako sve gledamo jednako, tada šta kratko, šta dugo?",
-    "ms": "Prijmati vse jednako, bez prědpolaganja, bez sklonnosti, jest neograničenost. Ako vse gledimo jednako, togda čto kratko, čto dolgo?",
+    "sr": "Primati sve jednako, bez pretpostavljanja, bez sklonosti, to je neograničenost. Kada sve gledamo jednako, tada šta kratko, šta dugo?",
+    "ms": "Prijmati vse jednako, bez prědpolaganja, bez sklonnosti, jest neograničenost. Kogda vse gledimo jednako, togda čto kratko, čto dolgo?",
     "source": "",
     "_id": 447
   },
@@ -3541,8 +3541,8 @@
   },
   {
     "author": "Isak Sirin",
-    "sr": "Što sol za jelo, pokoj je za svako delo. Da ga dostigne, čovek mora mneti o sebi krotko, sa omalovaženjem i bolnom samoosudom. Ako ga steknemo, učini nas sinovima božijim.",
-    "ms": "Čto sol za jelo, pokoj za vsako dělo. Da go dostigne, člověk mora mněti o sobě krotko, so omalovaženjem i boljnym samoosudom. Ako go dostignemo, učini nas synam božjim.",
+    "sr": "Što je sol za jelo, pokoj je za svako delo. Da ga dostigne, čovek mora mneti o sebi krotko, sa omalovaženjem i bolnom samoosudom. Dostignemo li ga, učini nas sinovima božijim.",
+    "ms": "Čto sol za jelo, pokoj za vsako dělo. Da go dostigne, člověk mora mněti o sobě krotko, so omalovaženjem i boljnym samoosudom. Dostignemo li go, učini nas synam božjim.",
     "source": "Dobrotoljublje",
     "_id": 514
   },
@@ -3641,9 +3641,9 @@
     "_id": 527
   },
   {
-    "sr": "Ako nemaš dela, ne govori o dobrodetelji.",
+    "sr": "Nemaš li dela, ne govori o dobrodetelji.",
     "author": "Isak Sirin",
-    "ms": "Ako ne imaješ děla, ne govori o dobrodětěli.",
+    "ms": "Ne imaješ li děla, ne govori o dobrodětěli.",
     "source": "Dobrotoljublje",
     "_id": 528
   },
@@ -3672,8 +3672,8 @@
   {
     "_id": 532,
     "author": "Gautama Buddha",
-    "sr": "Ako stražar ne motri, vo pojede letinu, ako motri, on odagna vola. Ako čovek ne motri, njegov um je posednut, ako motri, um se smiruje.",
-    "ms": "Jestli straž neostražny, vol pojede žetvu, ostražny li, on izgna vola. Jestli člověk neostražny, jego um posědany, ostražny li, jego um spokojny.",
+    "sr": "Ne motri li stražar, vo pojede letinu, motri li, odagna vola. Ne motri li čovek, um postaje posednut, motri li, um se smiruje.",
+    "ms": "Jestli straž neostražny, vol pojede žetvu, ostražny li, izgna vola. Jestli člověk neostražny, um stava posědany, ostražny li, um uspokoji se.",
     "source": "Samyutta nikaya XXXV.205: Vina sutta"
   },
   {
@@ -3778,8 +3778,8 @@
   {
     "_id": 547,
     "author": "Gautama Buddha",
-    "sr": "Ako čovek ne stekne imetak dok rabota i muči se, on kuka: Moj trud uzaludan, moj napor bez ploda! Ako stekne, on brine: Da mi vlast i lopovi ne uzmu imetak, vatra ne sagori, naslednici ne raznesu.",
-    "ms": "Ako člověk ne poluči imutok dokolě rabota i muči se, on kuka: Moj trud naprazdny, moj napor bez ploda! Ako poluči, on bezpokojny: Da mi vlast i kradci ne vozmut imutok, ogonj ne sožže, naslědniki ne raznesut.",
+    "sr": "Ne stekne li čovek imetak dok rabota i muči se, on kuka: Moj trud uzaludan, moj napor bez ploda! Stekne li, on brine: Da mi vlast i lopovi ne uzmu imetak, vatra ne sagori, naslednici ne raznesu.",
+    "ms": "Ne poluči li člověk imutok dokolě rabota i muči se, on kuka: Moj trud naprazdny, moj napor bez ploda! Poluči li, on bezpokojny: Da mi vlast i kradci ne vozmut imutok, ogonj ne sožže, naslědniki ne raznesut.",
     "source": "Mađđhima nikaya 13: Maha-dukkhakkhandha sutta; Mađđhima nikaya 14: Ćula-dukkhakkhandha",
     "wiki": ""
   },
@@ -3851,8 +3851,8 @@
   },
   {
     "author": "Isus",
-    "sr": "Svetionik tela je oko. Ako je oko tvoje čisto, sve telo tvoje biće svetlo. Ako li je oko tvoje lakomo, sve telo tvoje biće tamno. Pazi da svjetlost u tebi ne bude tama. Jer ako je svetlost, koja je u tebi, tama, kolika će to tama biti?",
-    "ms": "Světilnik tělu jest oko. Ako oko tvoje čisto, vse tělo tvoje světlo bude. Ako li oko tvoje lakomo, vse tělo tvoje temno bude. Opekaj da světlo v tobě ne bude tma. Ako světlo, iže v tobě, tma jest, to tma kolika?",
+    "sr": "Svetilnik tela je oko. Ako je oko tvoje čisto, sve telo biće svetlo. Ako je oko tvoje lakomo, sve telo biće tamno. Pazi da svjetlost u tebi ne bude tama.",
+    "ms": "Světilnik tělu jest oko. Jestli oko tvoje čisto, vse tělo světlo bude. Jestli oko tvoje lakomo, vse tělo temno bude. Opekaj da světlo v tobě ne bude tma.",
     "source": "Evangelje po Mateju, glava 6:22-23; Evangelje po Luki, 11:34-36",
     "wiki": "https://sh.wikipedia.org/wiki/Oko_je_svetiljka_telu",
     "_id": 557
@@ -3917,8 +3917,8 @@
   {
     "_id": 566,
     "author": "Jiddu Krishnamurti",
-    "sr": "Opis nije opisano. Ja mogu opisati goru, no opis nije gora. Ako se uloviš u opis, nikada nećeš videti goru.",
-    "ms": "Opis ne opisano. Ja mogu opisati goru, no opis ne gora. Ako uloviš se v opis, nikogda ne uzriš goru.",
+    "sr": "Opis nije opisano. Ja mogu opisati goru, no opis nije gora. Uloviš li se u opis, nikada nećeš videti goru.",
+    "ms": "Opis ne opisano. Ja mogu opisati goru, no opis ne gora. Uloviš li se v opis, nikogda ne uzriš goru.",
     "source": ""
   },
   {
@@ -4181,8 +4181,8 @@
   {
     "_id": 605,
     "author": "Zhuang Zhou",
-    "sr": "Ako postignemo jednost, tada život i smrt, konac i početak, samo mena dana i noći.",
-    "ms": "Ako postignemo jednost, togda život i smrt, konec i početok, samo měna dnja i noči.",
+    "sr": "Postignemo li jednost, tada život i smrt, konac i početak, samo su mena dana i noći.",
+    "ms": "Postignemo li jednost, togda život i smrt, konec i početok, samo měna dnja i noči.",
     "source": "",
     "wiki": ""
   },
@@ -4215,9 +4215,9 @@
     "_id": 609
   },
   {
-    "sr": "Ako te napadne gnev, goni ga smesta dalje od sebe, i radovaćeš se celi život.",
+    "sr": "Napadne li te gnev, goni ga smesta dalje od sebe, i radovaćeš se celi život.",
     "author": "Antonije Veliki",
-    "ms": "Ako te napadne gněv, goni go směsta dalje od sebe, i budeš radostny cěly život.",
+    "ms": "Napadne li te gněv, goni go směsta dalje od sebe, i budeš radostny cěly život.",
     "source": "Dobrotoljublje",
     "_id": 610
   },
@@ -4246,7 +4246,7 @@
   },
   {
     "author": "Isus",
-    "sr": "Ako ostanete u moj učenju, \nonda ste zaista moji učenici, \ni saznaćete istinu, \ni istina će vas osloboditi.",
+    "sr": "Ako ostanete u mom učenju, \nonda ste zaista moji učenici, \ni saznaćete istinu, \ni istina će vas osloboditi.",
     "ms": "Ako prěbyvajete vo slovesah mojih, \nvo istinnu učeniki moji budete, \ni razumějete istinu, \ni istina osvobodi vy.",
     "source": "Evangelje po Jovanu, glava 8:31-32",
     "wiki": "https://sh.wikipedia.org/wiki/Istina_%C4%87e_vas_osloboditi",
@@ -4703,8 +4703,8 @@
   {
     "_id": 681,
     "author": "Maksim Ispovednik",
-    "sr": "Umirući, telo se odvaja od svih stvari sveta. Tako i um na konačnom stupnju molitve umire, odvajajući se od svih svetskih pojmova. Ako ne umre takvom smrću, nemožno mu živeti sa bogom.",
-    "ms": "Umruči, tělo oddělja se od vsih prědmetov světa. Tako i um na konečnom stupnju molitvy umre, odděljeny od vsih světskyh prědstav. Ako ne umre takovom smrtju, nemožno mu žiti s bogom.",
+    "sr": "Umirući, telo se odvaja od svih stvari sveta. Tako i um na konačnom stupnju molitve umire, odvajajući se od svih svetskih pojmova. Ne umre li takvom smrću, ne može živeti sa bogom.",
+    "ms": "Umruči, tělo oddělja se od vsih prědmetov světa. Tako i um na konečnom stupnju molitvy umre, odděljeny od vsih světskyh prědstav. Ne umre li takovom smrtju, ne može žiti s bogom.",
     "source": "Stoslovi o ljubavi II-62"
   },
   {
@@ -4825,8 +4825,8 @@
   {
     "_id": 699,
     "author": "Zhuang Zhou",
-    "sr": "Život je ograničen, znanje ne. Ako ograničeno koristiš da dosegneš bezgranično, u nevolji si.",
-    "ms": "Žitje ograničeno, znanje ne. Ako ograničeno koristiš za dosegnuti neograničeno, ty v nevolji.",
+    "sr": "Život je ograničen, znanje ne. Koristiš li ograničeno da dosegneš bezgranično, u nevolji si.",
+    "ms": "Žitje ograničeno, znanje ne. Koristiš li ograničeno za dosegnuti neograničeno, ty v nevolji.",
     "source": "",
     "wiki": ""
   },
@@ -4903,10 +4903,10 @@
     "_id": 709
   },
   {
-    "sr": "Za dostignuće istine osobito je važan podvig. Ako ne izvršiš podvig, nećeš dostići istinu. Kako se trudiš, tako dostižeš istinu.",
+    "sr": "Za dostignuće istine osobito je važan podvig. Ne izvršiš li podvig, nećeš dostići istinu. Kako se trudiš, tako dostižeš istinu.",
     "author": "Gautama Buddha",
     "source": "Mađđhima nikāya 95: Ćanki sutta",
-    "ms": "Za doseženje istiny osoblivo važny podvig. Ako ne sovršiš podvig, ne budeš dosegnuti istinu. Kako trudiš se, tako dosegaš istinu.",
+    "ms": "Za doseženje istiny osoblivo važny podvig. Ne sovršiš li podvig, ne budeš dosegnuti istinu. Kako trudiš se, tako dosegaš istinu.",
     "_id": 710
   },
   {
@@ -5094,10 +5094,10 @@
     "_id": 735
   },
   {
-    "sr": "Ako postite nanećete sebi grijeh. Ako molite, bićete osuđeni. Ako dajete milostinju, naškodićete svojem duhu. Kad putujete i ljudi vas prime, jedite što vam daju i liječite bolesne među njima. Jer, što ulazi u usta, ne skrnavi vas, no što iz usta vam izlazi.",
+    "sr": "Postite li, nanećete sebi grijeh. Molite li, bićete osuđeni. Dajete li milostinju, naškodićete svojem duhu. Kad putujete i ljudi vas prime, jedite što vam daju i liječite bolesne među njima. Jer, što ulazi u usta, ne skrnavi vas, no što iz usta vam izlazi.",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 14",
-    "ms": "Ako postite nanosite sobě grěh. Ako molite, budete osudženi. Ako davate milostynju, škodite svojem duhu. Kogda putujete i ljudi prijmut vas, jedite čto dadut vam i lěčite boljnyh medžu jimi. Ibo, čto vhodi v ustah, ne oskvrnja vas, no čto iz ustij vam izhodi.",
+    "ms": "Postite li, nanosite sobě grěh. Molite li, budete osudženi. Davate li milostynju, škodite svojem duhu. Kogda putujete i ljudi prijmut vas, jedite čto dadut vam i lěčite boljnyh medžu jimi. Ibo, čto vhodi v ustah, ne oskvrnja vas, no čto iz ustij vam izhodi.",
     "_id": 736
   },
   {
@@ -5144,10 +5144,10 @@
     "_id": 742
   },
   {
-    "sr": "Ako plot nasta duha radi, to je čudo. \nAko duh nasta ploti radi, to je čudo od čuda. \nNu, čudim se kako toliko bogatstvo \ndođe bivati u ovoj bedi.",
+    "sr": "Nasta li plot duha radi, to je čudo. \nNasta li duh ploti radi, to je čudo od čuda. \nNu, čudim se kako toliko bogatstvo \ndođe bivati u ovoj bedi.",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 29",
-    "ms": "Ako plot stava duha radi, to čudo. \nAko duh stava ploti radi, to čudo od čuda. \nNu, čudim se kak toliko bogatstvo \ndojde byvati v sej bědě.",
+    "ms": "Stava li plot duha radi, to čudo. \nStava li duh ploti radi, to čudo od čuda. \nNu, čudim se kak toliko bogatstvo \ndojde byvati v sej bědě.",
     "_id": 743
   },
   {
@@ -5159,10 +5159,10 @@
     "wiki": ""
   },
   {
-    "sr": "Ako ne suzdržite se od svijeta, nećete naći kraljevstvo.",
+    "sr": "Ne suzdržite li se od svijeta, nećete naći kraljevstvo.",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 27",
-    "ms": "Ako ne udržate se od světa, ne budete najdti kraljevstvo.",
+    "ms": "Ne udržate li se od světa, ne budete najdti kraljevstvo.",
     "_id": 745
   },
   {
@@ -5218,10 +5218,10 @@
     "_id": 752
   },
   {
-    "sr": "Ako dvoje načine mir u jednom domu, \nkazaće gori da se premesti, \ni gora premestiće se.",
+    "sr": "Stvore li dvoje mir u jednom domu, \nkazaće gori da premesti se, \ni gora premestiće se.",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 48",
-    "ms": "Ako dvoje sotvoret mir v jednom domu, \nbudut kazati gory da prěměsti se, \ni gora bude prěměstiti se.",
+    "ms": "Sotvoret li dvoje mir v jednom domu, \nbudut kazati gory da prěměsti se, \ni gora bude prěměstiti se.",
     "_id": 753
   },
   {
@@ -5232,10 +5232,10 @@
     "source": "Evangelje po Tomi, izreka 49"
   },
   {
-    "sr": "Ako pitaju vas: Odkuda ste?\nOdgovorite: Dođosmo od svetla, gde svetlo samo sebe tvori i slikom javlja.\nAko pitaju vas: Ko ste?\nOdgovorite: Deca i izabranici živoga oca.\nAko pitaju vas: Šta je znak oca u vama?\nOdgovorite: Kretanje i mir.",
+    "sr": "Pitaju li vas: Odkuda ste?\nOdgovorite: Dođosmo od svetla, gde svetlo samo sebe tvori i slikom javlja.\nAko pitaju vas: Ko ste?\nOdgovorite: Deca i izabranici živoga oca.\nAko pitaju vas: Šta je znak oca u vama?\nOdgovorite: Kretanje i mir.",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 50",
-    "ms": "Ako sprašajut vas: Odkud jeste?\nOdgovorite: Dojdehmo od světla, kde světlo samo sebe tvori i obrazom javja.\nAko sprašajut vas: Kto jeste?\nOdgovorite: Děti i izbraniki živogo otca.\nAko sprašajut vas: Čto znak otca v vas?\nOdgovorite: Dviženje i mir.",
+    "ms": "Sprašajut li vas: Odkud jeste?\nOdgovorite: Dojdehmo od světla, kde světlo samo sebe tvori i obrazom javja.\nAko sprašajut vas: Kto jeste?\nOdgovorite: Děti i izbraniki živogo otca.\nAko sprašajut vas: Čto znak otca v vas?\nOdgovorite: Dviženje i mir.",
     "_id": 755
   },
   {
@@ -5343,10 +5343,10 @@
     "_id": 769
   },
   {
-    "sr": "Ako ispoljiš što je u tebi, \nto će te spasiti. \nAko ne ispoljiš što je u tebi, \nto će te usmrtiti.",
+    "sr": "Ispoljiš li što je u tebi, \nto će te spasiti. \nNe ispoljiš li što je u tebi, \nto će te usmrtiti.",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 70",
-    "ms": "Ako projaviš čto vnutri tebe, \nto bude spasti te. \nAko ne projaviš čto vnutri tebe, \nto bude usmrtiti te.",
+    "ms": "Projaviš li čto vnutri tobě, \nto bude spasti te. \nNe projaviš li čto vnutri tobě, \nto bude usmrtiti te.",
     "_id": 770
   },
   {
@@ -5833,8 +5833,8 @@
   },
   {
     "author": "Muhamed",
-    "sr": "Višnji bog govori: Sluge moje! Ne možete mi naškoditi. Ne možete mi učiniti korist. Ako tvorite dobro, korist ide vama. Ako tvorite zlo, škoda ide samo vama.",
-    "ms": "Vyšny bog govori: Rabi moji! Ne možete mi poškoditi. Ne možete mi učiniti korist. Ako tvorite dobro, korist ide vami. Ako tvorite zlo, škoda ide samo vami.",
+    "sr": "Višnji bog govori: Sluge moje! Ne možete mi naškoditi. Ne možete mi učiniti korist. Tvorite li dobro, korist ide vama. Tvorite li zlo, škoda ide samo vama.",
+    "ms": "Vyšny bog govori: Rabi moji! Ne možete mi poškoditi. Ne možete mi učiniti korist. Tvorite li dobro, korist ide vami. Tvorite li zlo, škoda ide samo vami.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 835
   },
@@ -6388,8 +6388,8 @@
   },
   {
     "author": "Sengcan",
-    "sr": "Ako želiš videti istinu, ne budi za ni protiv.",
-    "ms": "Ako želaješ viděti istinu, ne budi za ni protiv.",
+    "sr": "Želiš li videti istinu, ne budi za ni protiv.",
+    "ms": "Želaješ li viděti istinu, ne budi za ni protiv.",
     "source": "Biseri kineskog zen budizma, Beograd 2003.",
     "_id": 908
   },
@@ -6863,8 +6863,8 @@
   {
     "_id": 973,
     "author": "Konfucije",
-    "sr": "Ako sretneš uzvišenog čoveka trudi se da mu budeš sličan. Ako sretneš običnog čoveka, potraži njegove mane u sebi.",
-    "ms": "Ako strěteš vozvyšenogo člověka sili se byti jemu podobny. Ako strěteš obyčnogo člověka, poišči jego nedostatky v sobě.",
+    "sr": "Sretneš li uzvišenog čoveka trudi se da mu budeš sličan. Sretneš li običnog čoveka, potraži njegove mane u sebi.",
+    "ms": "Strěteš li vozvyšenogo člověka sili se byti jemu podobny. Strěteš li obyčnogo člověka, poišči jego nedostatky v sobě.",
     "source": "Konfucije, Izreke, Beograd 1986."
   },
   {
@@ -6999,7 +6999,7 @@
     "_id": 995,
     "author": "Ađan Ča",
     "sr": "Ako je tvoj dom poplavljen ili spaljen ili mu preti kakva druga nesreća, neka bude samo dom. Neka ne poplavi tvoj um.",
-    "ms": "Ako tvoj dom poplavjeny ili spaljeny ili mu grozi kaka druga nevolja, nehaj bude samo dom. Nehaj ne poplavi tvoj um.",
+    "ms": "Jestli tvoj dom poplavjeny ili spaljeny ili mu grozi kaka druga nevolja, nehaj bude samo dom. Nehaj ne poplavi tvoj um.",
     "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
     "wiki": ""
   },
@@ -7014,8 +7014,8 @@
   {
     "_id": 998,
     "author": "Ađan Ča",
-    "sr": "Ako prestaneš vezivati se za malo stvari, dobićeš malo mira. Ako prestaneš vezivati se za mnogo stvari, dobićeš mnogo mira. Ako potpuno prestaneš vezivati se, dobićeš potpuni mir. Tada je borba sa svetom okončana.",
-    "ms": "Ako prěstaš svezyvati se za malo věči, dobudeš malo mira. Ako prěstaš svezyvati se za mnogo věči, dobudeš mnogo mira. Ako popolno prěstaš svezyvati se, dobudeš popolny mir. Togda borba sa světom skončena.",
+    "sr": "Prestaneš li vezivati se za malo stvari, dobićeš malo mira. Prestaneš li vezivati se za mnogo stvari, dobićeš mnogo mira. Prestaneš li potpuno vezivati se, dobićeš potpuni mir. Tada je borba sa svetom okončana.",
+    "ms": "Prěstaš li svezyvati se za malo věči, dobudeš malo mira. Prěstaš li svezyvati se za mnogo věči, dobudeš mnogo mira. Prěstaš li popolno svezyvati se, dobudeš popolny mir. Togda borba sa světom skončena.",
     "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija",
     "wiki": ""
   },
@@ -7121,8 +7121,8 @@
   },
   {
     "author": "Antonije Veliki",
-    "sr": "Ako neko uzme podvig ćutanja, neka ne misli da čini podvig, no muči nedostojan govoriti.",
-    "ms": "Ako někto vozme podvig molčanja, nehaj ne mysli že čini podvig, no molča nedostojny govoriti.",
+    "sr": "Uzme li neko podvig ćutanja, neka ne misli da čini podvig, no šuti nedostojan govoriti.",
+    "ms": "Vozme li někto podvig molčanja, nehaj ne mysli že čini podvig, no molča nedostojny govoriti.",
     "source": "Dobrotoljublje",
     "_id": 1016
   },
@@ -7205,8 +7205,8 @@
   },
   {
     "author": "Antonije Veliki",
-    "sr": "Ako hoću mogu pobediti napad strasti. No, neću pobediti želim li ispuniti prohtev.",
-    "ms": "Ako hoču mogu poběditi napad strasti. No, ne hoču poběditi želaju li izpolniti ohotu.",
+    "sr": "Ako hoću, mogu pobediti napad strasti. Ali neću pobediti želim li ispuniti prohtev.",
+    "ms": "Ako hoču, mogu poběditi napad strasti. Ale ne hoču poběditi želaju li izpolniti ohotu.",
     "source": "Dobrotoljublje",
     "_id": 1028
   },
@@ -7298,8 +7298,8 @@
   {
     "_id": 1041,
     "author": "Maksim Ispovednik",
-    "sr": "Ako nećeš da otpadneš od božje ljubavi, ne dopusti da brat zaspi ogorčen na tebe, ni ti na njega.",
-    "ms": "Ako ne hočeš odpasti od božje ljubvi, ne dopusti da brat zaspi gorky na tebe, ni ti na jego.",
+    "sr": "Nećeš li da otpadneš od ljubavi božje, ne dopusti da brat zaspi ogorčen na tebe, ni ti na njega.",
+    "ms": "Ne hočeš li odpasti od ljubvi božje, ne dopusti da brat zaspi gorky na tebe, ni ti na jego.",
     "source": ""
   },
   {
@@ -7368,8 +7368,8 @@
   },
   {
     "author": "Hasan al-Basri",
-    "sr": "Ako primijetiš u svojeg djeteta to što mrziš, učini pokajanje bogu i išti oprost, jer je to udio tvoje naravi i tvoj grijeh od ranije.",
-    "ms": "Ako primětiš v svojego děteta to čto nenavidiš, učini pokajanje bogu i išči odpust, ibo to jest děl tvoje nravy i tvoj grěh od prědže.",
+    "sr": "Primijetiš li u svojeg djeteta to što mrziš, učini pokajanje bogu i išti oprost, jer je to udio tvoje naravi i tvoj grijeh od ranije.",
+    "ms": "Primětiš li v svojego děteta to čto nenavidiš, učini pokajanje bogu i išči odpust, ibo to jest děl tvoje nravy i tvoj grěh od prědže.",
     "source": "",
     "_id": 1051
   },
@@ -7580,8 +7580,8 @@
   {
     "_id": 1083,
     "author": "Zaratustra",
-    "sr": "Ako čovek ne uspe da savlada čuvstva i zagospodari strastima, onda strasti zagospodare i on postane rob.",
-    "ms": "Ako člověk ne uspě sovladnuti čuvstva i ovladnuti strastami, togda strasti ovladnut i on stane rab.",
+    "sr": "Ne uspe li čovek savladati čuvstva i ovladati strastima, strasti ovladaju i on postane rob.",
+    "ms": "Ne uspě li člověk sovladnuti čuvstva i ovladnuti strastami, strasti ovladnut i on stane rab.",
     "source": "Zaratustra, O prirodi dobra i zla, Beograd 2004."
   },
   {
@@ -7656,8 +7656,8 @@
   },
   {
     "author": "Huangbo Xiyun",
-    "sr": "Ako božanstva i probuđeni pređu ga, pesak ne oseća radost. Ako ovce i zmije pređu ga, pesak nije gnevan. On ne želi drago kamenje i mirise, ne mrzi izmet i mokraću.",
-    "ms": "Ako božstva i probudženi prějdut jego, pěsok ne radostny. Ako ovce i zmije prějdut jego, pěsok ne gněvny. On ne žela drago kamenje i zapahy, ne omrža gnoj i moč.",
+    "sr": "Pređu li ga božanstva i bude, pesak ne oseća radost. Pređu li ga ovce i zmije, pesak nije gnevan. On ne želi drago kamenje i mirise, ne mrzi govno i mokraću.",
+    "ms": "Prějdut li go božstva i probudženi, pěsok ne radostny. Prějdut li go ovce i zmije, pěsok ne gněvny. On ne žela drago kamenje i zapahy, ne omrža govno i moč.",
     "source": "Huang Po, Učenje o prenošenju duha, Beograd, 1986.",
     "_id": 1096
   },
@@ -7720,8 +7720,8 @@
   {
     "_id": 1106,
     "author": "Dōgen",
-    "sr": "Ako ne možeš naći istinu ovde i sada, gde drugde očekuješ ju naći?",
-    "ms": "Ako ne možeš najdti istinu sej i sejčas, kde inamo očekyvaš najdti ju?",
+    "sr": "Ne možeš li naći istinu ovde i sada, gde ju drugde očekuješ naći?",
+    "ms": "Ne možeš li najdti istinu sej i sejčas, kde ju inamo očekyvaš najdti?",
     "source": "Ono što misliš, to i postaješ: 365 budističkih inspiracija"
   },
   {
@@ -7918,7 +7918,7 @@
   {
     "_id": 1141,
     "author": "Evagrije Pontski",
-    "sr": "Ako um luta zaustavi ga čitanjem, bdenjem i molitvom.",
+    "sr": "Ako um bludi zaustavi ga čitanjem, bdenjem i molitvom.",
     "ms": "Ako um bludi zaustavi go čitanjem, bděnjem i molitvoju.",
     "source": "Knjiga mističkih poglavlja, Zagreb, 2005."
   },
@@ -7967,23 +7967,23 @@
   },
   {
     "author": "Nil Sinajski",
-    "sr": "Ako osvetiš se bratu za nepravdu, za vreme molitve to smućivaće te.",
-    "ms": "Ako odmstiš se bratu za nepravdu, za vrěme molitvě to bude smutiti te.",
+    "sr": "Osvetiš li se bratu za nepravdu, za vreme molitve to smućivaće te.",
+    "ms": "Odmstiš li se bratu za nepravdu, za vrěme molitvě to bude smutiti te.",
     "source": "Dobrotoljublje",
     "_id": 1148
   },
   {
     "_id": 1149,
     "author": "Nil Sinajski",
-    "sr": "Ako pokažeš trpljenje u vreme nevolje, plod nađeš u molitvi.",
-    "ms": "Ako pokažeš trpěnje vo vrěme nevolje, plod najdeš v molitvě.",
+    "sr": "Pokažeš li trpljenje u vreme nevolje, plod nađeš u molitvi.",
+    "ms": "Pokažeš li trpěnje vo vrěme nevolje, plod najdeš v molitvě.",
     "source": "Dobrotoljublje"
   },
   {
     "_id": 1150,
     "author": "Nil Sinajski",
-    "sr": "Ako pomisliš opravdano razgneviti se na bližnjeg, budi oprezan! Ne postoji opravdan gnev na bližnjega.",
-    "ms": "Ako pomysliš opravdano razgněvati se na bližnjego, budi ostražny! Ne istnuje opravdany gněv na bližnjego.",
+    "sr": "Pomisliš li opravdano razgneviti se na bližnjeg, budi oprezan! Ne postoji opravdan gnev na bližnjega.",
+    "ms": "Pomysliš li opravdano razgněvati se na bližnjego, budi ostražny! Ne istnuje opravdany gněv na bližnjego.",
     "source": "Dobrotoljublje"
   },
   {
@@ -8115,8 +8115,8 @@
   {
     "_id": 1169,
     "author": "Nil Sinajski",
-    "sr": "Ako rđava navika ovlada tobom, odsecaj je po malo, pa ćeš iščupati trnje iz duše bez većeg truda.",
-    "ms": "Ako zly navyk ovladne toboju, odsěkaj go po malo, pa budeš iztrgnuti trny iz duše bez večšego truda.",
+    "sr": "Ovlada li rđava navika tobom, odsecaj je po malo, pa ćeš iščupati trnje iz duše bez većeg truda.",
+    "ms": "Ovladne li zly navyk toboju, odsěkaj go po malo, pa budeš iztrgnuti trny iz duše bez večšego truda.",
     "source": "Dobrotoljublje",
     "wiki": ""
   },
@@ -8514,8 +8514,8 @@
   },
   {
     "author": "Heraklit",
-    "sr": "Ako slušate ne mene no glas istine, mudro složiti se da sve jedno jest.",
-    "ms": "Ako slušate ne mene no glas istiny, mudro soglasiti se že vse jedno jest.",
+    "sr": "Slušate li ne mene no glas istine, mudro je složiti se da sve jedno jest.",
+    "ms": "Slušate li ne mene no glas istiny, mudro soglasiti se že vse jedno jest.",
     "source": "Fragment 50",
     "_id": 1230
   },
@@ -8626,8 +8626,8 @@
   },
   {
     "author": "Heraklit",
-    "sr": "Ako se čovek ne nada neće naći nenadano, jer je ono nenalažljivo i nepristupno.",
-    "ms": "Ako člověk ne naděje se ne bude najdti nenadějemo, ibo ono nenajdomo i nepristupno.",
+    "sr": "Ako čovek ne nada se neće naći nenadano. Jer je ono nenalažljivo i nepristupno.",
+    "ms": "Ako člověk ne naděje se ne najde nenadějemo. Ibo ono nenajdomo i nepristupno.",
     "source": "Fragment 18",
     "_id": 1246
   },
@@ -9190,8 +9190,8 @@
   {
     "_id": 1338,
     "author": "Jiddu Krishnamurti",
-    "sr": "Ako misliš polučiti mir u budućnosti, već si uništio mogućnost mira. Mir je sada ili nikada.",
-    "ms": "Ako mysliš polučiti mir v budučnosti, uže jesi uniščil možnost mira. Mir jest segda ili nikogda.",
+    "sr": "Misliš li polučiti mir u budućnosti, već si uništio mogućnost mira. Mir je sada ili nikada.",
+    "ms": "Mysliš li polučiti mir v budučnosti, uže jesi uniščil možnost mira. Mir jest segda ili nikogda.",
     "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003."
   },
   {
@@ -9343,8 +9343,8 @@
   },
   {
     "author": "Jiddu Krishnamurti",
-    "sr": "Ako gledate predmet sa nekom idejom o njemu, tada ne gledate tiho.",
-    "ms": "Ako gledite prědmet so někym zamyslom o jemu, togda ne gledite tiho.",
+    "sr": "Gledate li predmet sa nekom idejom o njemu, tada ne gledate tiho.",
+    "ms": "Gledite li prědmet so někym zamyslom o jemu, togda ne gledite tiho.",
     "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
     "_id": 1360
   },
@@ -9943,8 +9943,8 @@
   },
   {
     "author": "Lao Tzu",
-    "sr": "Ako rešiš poznati put\nmožeš živeti u gradu\nuvažen u društvu.\nTajna je tako prosta,\nako bi bila otkrivena,\nsvugde bi se razlegao smeh.",
-    "ms": "Ako rěšiš poznati put\nmožeš žiti v gradu\nuvaženy v družstvu.\nTajna tak prosta,\nako by byla odkryta,\nvsekde by razlegl se směh.",
+    "sr": "Rešiš li poznati put\nmožeš živeti u gradu\nuvažen u društvu.\nTajna je tako prosta,\nako bi bila otkrivena,\nsvugde bi se razlegao smeh.",
+    "ms": "Rěšiš li poznati put\nmožeš žiti v gradu\nuvaženy v družstvu.\nTajna tak prosta,\nako by byla odkryta,\nvsekde by razlegl se směh.",
     "source": "Kung fu meditacije, Beograd 1978.",
     "_id": 1452
   },
@@ -9979,8 +9979,8 @@
   {
     "_id": 1457,
     "author": "Lao Tzu",
-    "sr": "Ako neko stigne iz prvog pokušaja,\nti pokušaj deset puta.\nAko neko uspe iz stotog pokušaja,\nti pokušaj tisuću puta.\nTako čineći,\ni spor će stići,\ni slab će smoći snage.",
-    "ms": "Ako někto stigne iz prvogo pokušenja,\nty pokušaj deset krat.\nAko někto uspě iz stotogo pokušenja,\nty pokušaj tyseč krat.\nTako čineči,\ni nebystry prispě,\ni slaby najde sily.",
+    "sr": "Stigne li neko iz prvog pokušaja,\nti pokušaj deset puta.\nAko neko uspe iz stotog pokušaja,\nti pokušaj tisuću puta.\nTako čineći,\ni spor će stići,\ni slab će smoći snage.",
+    "ms": "Stigne li někto iz prvogo pokušenja,\nty pokušaj deset krat.\nAko někto uspě iz stotogo pokušenja,\nty pokušaj tyseč krat.\nTako čineči,\ni nebystry prispě,\ni slaby najde sily.",
     "source": "Kung fu meditacije, Beograd 1978."
   },
   {
@@ -10287,8 +10287,8 @@
   },
   {
     "author": "Izreke Sekstove",
-    "sr": "Ako preuzmeš staranje nad siročadi, bit ćeš otac mnoge djece, ljubljen od boga.",
-    "ms": "Ako podojmeš staranje nad sirotami, budeš otec mnogym čedam, ljubjeny od boga.",
+    "sr": "Preuzmeš li staranje nad siročadi, bit ćeš otac mnoge djece, ljubljen od boga.",
+    "ms": "Podojmeš li staranje nad sirotami, budeš otec mnogym čedam, ljubjeny od boga.",
     "source": "Izreke Sekstove 340",
     "_id": 1504
   },
@@ -10343,8 +10343,8 @@
   },
   {
     "author": "Evanđelje po Filipu",
-    "sr": "Neka svako kopa duboko do korena zla u sebi, i iščupa ga iz srca. Ako ga ne poznamo, rađa plod.",
-    "ms": "Nehaj vsaky kopa gluboko do korenja zla v sobě, i iztrgne go iz srdca. Ako ne poznamo go, radža plod.",
+    "sr": "Neka svako kopa duboko do korena zla u sebi, i iščupa ga iz srca. Ne poznamo li ga, rađa plod.",
+    "ms": "Nehaj vsaky kopa gluboko do korenja zla v sobě, i iztrgne go iz srdca. Ne poznamo li go, radža plod.",
     "source": "Evanđelje po Filipu",
     "_id": 1515
   },
@@ -10852,8 +10852,8 @@
   {
     "_id": 1594,
     "author": "Zhaozhou Congshen",
-    "sr": "Monah upita: Gde je tvoja greška?\nDžošu odgovori: U gonjenju.\nMonah reče: Ako je tako, onda vežbati.\nDžošu reče: Vežbaj.",
-    "ms": "Monah spraša: Kde tvoja grěška?\nDžošu odgovori: V gonjenju.\nMonah rěče: Ako tako, togda ne praktikovati.\nDžošu rěče: Praktikuj.",
+    "sr": "Monah upita: Gde je tvoja greška?\nDžošu odgovori: U gonjenju.\nMonah reče: Onda ne treba vežbati?\nDžošu reče: Vežbaj.",
+    "ms": "Monah spraša: Kde tvoja grěška?\nDžošu odgovori: V gonjenju.\nMonah rěče: Togda ne trěba praktikovati?\nDžošu rěče: Praktikuj.",
     "source": "Radical Zen, The sayings of Joshu (str. 34), 1978.",
     "wiki": ""
   },
@@ -10924,8 +10924,8 @@
   {
     "_id": 1608,
     "author": "Zhaozhou Congshen",
-    "sr": "Samo sledi što je istinito, i sedi dvadeset-trideset godina. Ako ne ostvariš uvid, možeš mi odseći glavu.",
-    "ms": "Samo slědi čto istinno, i sědi dvadeset-trideset lěta. Ako ne dosegneš viděnje, možeš mi odsěkti glavu.",
+    "sr": "Samo sledi što je istinito, i sedi dvadeset-trideset godina. Ne ostvariš li uvid, možeš mi odseći glavu.",
+    "ms": "Samo slědi čto istinno, i sědi dvadeset-trideset lěta. Ne dosegneš li viděnje, možeš mi odsěkti glavu.",
     "source": "Radical Zen, The sayings of Joshu (str. 77), 1978.",
     "wiki": ""
   },

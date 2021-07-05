@@ -25,7 +25,7 @@ npm start
 
 # TODO
 
-- ako -> jestli, li
-- no -> nu (no, pa, ali)
 - ili -> abo
+- Rabota poševšego
+- predže no stavaše
 - ćirilični input

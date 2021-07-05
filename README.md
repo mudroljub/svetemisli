@@ -25,6 +25,4 @@ npm start
 
 # TODO
 
-- Rabota poševšego
-- predže no stavaše
 - ćirilični input

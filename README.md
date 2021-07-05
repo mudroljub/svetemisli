@@ -25,7 +25,6 @@ npm start
 
 # TODO
 
-- ili -> abo
 - Rabota poševšego
 - predže no stavaše
 - ćirilični input

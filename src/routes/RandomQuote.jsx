@@ -1,25 +1,24 @@
-import React, { useState } from 'react'
-import {useSelector} from 'react-redux'
+import React from 'react'
+import {useSelector, useDispatch} from 'react-redux'
 
 import ImageQuote from './../components/main/ImageQuote'
-import {useTranslate} from '../store/actions'
+import {useTranslate, setIndex} from '../store/actions'
 import {smoothscroll} from '../utils/helpers'
 
-let i = 0
-
 const RandomQuote = () => {
-  const {filteredQuotes} = useSelector(state => state)
+  const {filteredQuotes, i} = useSelector(state => state)
   const translate = useTranslate()
-  const [quote, setQuote] = useState(filteredQuotes[i])
+  const dispatch = useDispatch()
+  const quote = filteredQuotes[i]
 
   const next = () => {
-    setQuote(filteredQuotes[++i % filteredQuotes.length])
+    dispatch(setIndex((i + 1) % filteredQuotes.length))
     smoothscroll()
   }
 
   const prev = () => {
     if (i - 1 < 0) return
-    setQuote(filteredQuotes[--i])
+    dispatch(setIndex(i - 1))
     smoothscroll()
   }
 

@@ -5,11 +5,11 @@ import {shuffle, getDerived} from '../utils/helpers'
 const storage = localStorage.getItem('sveteMisli')
   ? JSON.parse(localStorage.getItem('sveteMisli'))
   : {}
-// required storage props for derived
+// lang and allQuotes are required for getDerived
 storage.lang = storage.lang || 'ms'
 storage.allQuotes = storage.allQuotes || shuffle(quotes)
 
-const {lang, script = 'kir', minLimit, maxLimit, showFilters = false, showSidebar = false, phrase = '', sourcePhrase = '', authorPhrase = '', selectedAuthors = [], allQuotes, page = 0, favorites = savedFavorites} = storage
+const {lang, script = 'kir', minLimit, maxLimit, showFilters = false, showSidebar = false, phrase = '', sourcePhrase = '', authorPhrase = '', selectedAuthors = [], allQuotes, page = 0, i = 0, favorites = savedFavorites} = storage
 
 const {minLength, maxLength, allAuthors, filteredQuotes, filteredAuthors} = getDerived(storage)
 
@@ -30,6 +30,7 @@ const initialState = {
   favorites,
   showFilters,
   showSidebar,
+  i,
   minLimit: minLimit || minLength,
   maxLimit: maxLimit || maxLength,
 }

@@ -38,6 +38,8 @@ export const setShowSidebar = showSidebar => ({type: 'SET_SHOW_SIDEBAR', showSid
 
 export const setPage = page => ({type: 'SET_PAGE', page})
 
+export const setIndex = i => ({type: 'SET_INDEX', i})
+
 export const saveQuote = quote => (dispatch, getState) => {
   const action = quote._id ? updateQuote : addQuote
   if (!quote._id) quote._id = createId(getState().allQuotes)

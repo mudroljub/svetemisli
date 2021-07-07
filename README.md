@@ -25,4 +25,5 @@ npm start
 
 # TODO
 
+- tagovi
 - ćirilični input

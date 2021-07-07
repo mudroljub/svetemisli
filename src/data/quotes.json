@@ -270,8 +270,8 @@
   {
     "_id": 38,
     "author": "Muhamed",
-    "sr": "Najčistija je zarada trgovaca koji govoreći ne lažu, obećano ispune, kupujući ne kude, prodajući ne hvale, ako duguju plate na vrijeme, a dužnicima ne brzaju otplatu.",
-    "ms": "Najčistěje zarabotanje trgovcev ktory govoreči ne lžut, oběčano izpolnet, kupujuči ne hulet, prodajuči ne hvalet, jestli dolžni platet na vrěme, a dolžnikom ne pospěšet odplatu.",
+    "sr": "Najčistija je zarada trgovaca koji kupujući ne kude, prodajući ne hvale, ako su dužni plate na vrijeme, a dužnicima ne brzaju otplatu.",
+    "ms": "Najčistěje zarabotanje trgovcah ktory kupujuči ne hulet, prodaduči ne hvalet, jestli dolžni platet na vrěme, a dolžnikom ne pospěšet odplatu.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991."
   },
   {
@@ -817,11 +817,11 @@
     "_id": 118
   },
   {
+    "_id": 119,
     "author": "Isak Sirin",
-    "sr": "Smirenoumni ne sme ni bogu pomoliti se, i ne zna šta moliti. On samo ćuti svojim čulima, čekajuči milost i izvoljenje. On samo sme moliti: Nek sa mnom bude po volji tvojoj gospode.",
-    "ms": "Mirnoumny ne směje ni bogu pomoliti se, i ne zna čto moliti. On samo čuti svojim čutjami, čekajuči milost i izvoljenje. On samo směje moliti: Nehaj so mnoju bude po volji tvojej gospode.",
-    "source": "Dobrotoljublje",
-    "_id": 119
+    "sr": "Smirenoumni ne sme ni bogu pomoliti se, ni zna šta moliti. On samo moli: Nek sa mnom bude po volji tvojoj gospode.",
+    "ms": "Mirnoumny ne směje ni bogu pomoliti se, ni zna čto moliti. On samo moli: Nehaj so mnoju bude po volji tvojej gospodu.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Muhamed",
@@ -1232,8 +1232,8 @@
   {
     "_id": 178,
     "author": "Muhamed",
-    "sr": "Ko rabota nahraniti decu je na božjem putu. I ko rabota nahraniti stare roditelje je na božjem putu. I ko rabota sebe radi, da bude nezavisan, je na božjem putu. Ali ko zarađuje iz krivih pobuda, iz gordosti k drugima, je na putu šejtana.",
-    "ms": "Kto rabota nasytiti děti jest na božjem putu. I kto rabota ohraniti stare roditeljev jest na božjem putu. I kto rabota sebe radi, da bude nezavisny, jest na božjem putu. Ale kto zarabotyva iz krivyh pogona, iz gordosti k drugym, jest na putu šejtana.",
+    "sr": "Ko rabota nahraniti decu na božjem putu je. I ko rabota nahraniti stare roditelje na božjem putu je. I ko rabota sebe radi, da bude nezavisan, na božjem putu je. Ali ko zarađuje iz krivih pobuda, iz gordosti k drugima, je na putu šejtana.",
+    "ms": "Rabotajuči nasytiti děti na božjem putu jest. I rabotajuči ohraniti stare roditeljev na božjem putu jest. I rabotajuči sebe radi, da bude nezavisny, na božjem putu jest. Ale zarabotajuči iz krivyh pogona, iz gordosti k drugym, jest na putu šejtana.",
     "source": "Buharijeva zbirka hadisa, Sarajevo 2008."
   },
   {
@@ -2307,11 +2307,11 @@
     "source": "Dhammapada"
   },
   {
+    "_id": 332,
     "author": "Gautama Buddha",
-    "sr": "Ne znam ništa drugo toliko puno radosti kao izvežban i često korišćen um. Izvežban i često korišćen um prepun je radosti.",
-    "ms": "Ne znam ničto drugo toliko polno radostju kak ovladneny i često koriščeny um. Ovladneny i često koriščeny um prěpolny radosti.",
-    "source": "anguttara/an01-021",
-    "_id": 332
+    "sr": "Ne znam ništa tako puno radosti kao izvežban i često korišćen um. Izvežban i često korišćen um prepun je radosti.",
+    "ms": "Ne znaju ničto tak polno radosti kak izučeny i često koriščeny um. Izučeny i često koriščeny um prěpolny radosti.",
+    "source": "anguttara/an01-021"
   },
   {
     "author": "Lao Tzu",
@@ -3752,11 +3752,11 @@
     "_id": 543
   },
   {
+    "_id": 544,
     "author": "Isak Sirin",
-    "sr": "Zavolimo tišinu da svet umre u našim srcima. Uvek se sećajmo smrti, u misli bližimo se bogu, i zadovoljstva sveta će dobiti naš prezir.",
-    "ms": "Ljubimo tišinu da svět umre v našim srdcah. Vsegda pomnimo se smrti, v mysli bližimo se bogu, i ljubosti světa budut dobyti naš prězir.",
-    "source": "Dobrotoljublje",
-    "_id": 544
+    "sr": "Ljubimo tišinu da svet umre u našim srcima. Uvek se sećajmo smrti, u misli bližimo se bogu i zadovoljstva sveta će dobiti naš prezir.",
+    "ms": "Ljubimo tišinu da svět umre v našim srdcam. Vsegda pomnimo se smrti, v mysli bližimo se bogu i sladosti světa dobudut naš prězir.",
+    "source": "Dobrotoljublje"
   },
   {
     "author": "Isak Sirin",
@@ -4012,11 +4012,11 @@
     "wiki": "https://sh.wikipedia.org/wiki/Ljubi_bli%C5%BEnjeg_svog"
   },
   {
+    "_id": 581,
     "author": "Muhamed",
-    "sr": "Svevišnji nije dao bolest a da joj nije dao lek, osim starosti.",
-    "ms": "Vsevyšnji ne daše bolest a da jej ne daše lěk, izključno starosti.",
-    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
-    "_id": 581
+    "sr": "Svevišnji ne dade bolest ne davši joj lek, osim starosti.",
+    "ms": "Vsevyšnji ne daše bolest ne davši jej lěk, izključno starosti.",
+    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991."
   },
   {
     "author": "Muhamed",
@@ -4420,10 +4420,11 @@
     "source": "Mađđhima nikaya 8: Sallekha sutta"
   },
   {
+    "_id": 640,
     "author": "Zhuang Zhou",
     "sr": "Nebo, Zemlja i ja nastali smo zajedno, sve stvari sa mnom čine jedno.",
-    "ms": "Nebo, zemja i ja nastali jesmo vkupě, vse tvari so mnoju činet jedno.",
-    "_id": 640
+    "ms": "Nebo, zemja i ja nastali vkupě, vse tvari so mnoju činet jedno.",
+    "source": ""
   },
   {
     "author": "Isus",
@@ -4513,11 +4514,11 @@
     "_id": 652
   },
   {
+    "_id": 653,
     "author": "Muhamed",
     "sr": "Čuvajte se osame s tuđim ženama, jer kada se čoviek osami sa tuđom ženom, treći sa njima šejtan.",
-    "ms": "Čuvajte se samotě s inočijim ženami. Kogda se člověk osami s inočijem ženoju, tretji s jimi šejtan.",
-    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
-    "_id": 653
+    "ms": "Čuvajte se samotě s čudžim ženami. Kogda člověk osami se s čudžej ženoju, tretji s jimi šejtan.",
+    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991."
   },
   {
     "_id": 654,
@@ -10960,10 +10961,9 @@
   {
     "_id": 1615,
     "author": "Zhaozhou Congshen",
-    "sr": "Neko upita: Onaj koji je prekinuo vezu sa svim stvarima, kakva je on osoba?\nDžošu reče: On nije osoba.",
-    "ms": "Někoj zapyta: Kto prěkydnul vezku so vsim věčam, kaka on osoba?\nDžošu rěče: On nest osoba.",
-    "source": "Radical Zen, The sayings of Joshu (str. 116), 1978.",
-    "wiki": ""
+    "sr": "Neko upita: Ko prekine vezu sa svim stvarima, kakva je on osoba?\nDžošu reče: On nije osoba.",
+    "ms": "Někoj zapyta: Kto prěkydne vezku so vsim věčam, kaka on osoba?\nDžošu rěče: On nest osoba.",
+    "source": "Radical Zen, The sayings of Joshu (str. 116), 1978."
   },
   {
     "_id": 1616,

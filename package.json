@@ -1,11 +1,11 @@
 {
-  "name": "svetemysli",
+  "name": "svetemisli",
   "version": "0.1.0",
-  "homepage": "https://svetemysli.github.io",
-  "repository": "https://github.com/svetemysli/svetemysli.github.io",
+  "homepage": "https://svetemisli.github.io",
+  "repository": "https://github.com/svetemisli/svetemisli.github.io",
   "license": "MIT",
   "scripts": {
-    "save": "wget https://svetemysli.herokuapp.com/api/ -O src/data/quotes.json",
+    "save": "wget https://svetemisli.herokuapp.com/api/ -O src/data/quotes.json",
     "predeploy": "npm run build",
     "dev": "cross-env REACT_APP_ENV=development react-scripts start",
     "start": "cross-env REACT_APP_ENV=production react-scripts start",

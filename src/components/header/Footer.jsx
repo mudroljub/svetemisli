@@ -14,7 +14,7 @@ export default function Footer() {
         <a style={{ marginRight: '8px', verticalAlign: 'middle' }} href="https://www.youtube.com/channel/UCdj34UyN5y60nIc_Bybr-Gg" target="_blank" rel="noopener noreferrer" title="Svete misli Youtube">
           <img src={youtube} alt="youtube" />
         </a>
-        <a style={{ marginRight: '8px', verticalAlign: 'middle' }} href="https://twitter.com/svetemysli" target="_blank" rel="noopener noreferrer" title="Svete misli Twitter">
+        <a style={{ marginRight: '8px', verticalAlign: 'middle' }} href="https://twitter.com/svetemisli" target="_blank" rel="noopener noreferrer" title="Svete misli Twitter">
           <img src={twitter} alt="twitter" />
         </a>
         <a style={{ marginRight: '8px', verticalAlign: 'middle' }} href="https://www.facebook.com/Svete-misli-104015637951243" target="_blank" rel="noopener noreferrer" title="Svete misli Facebook">

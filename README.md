@@ -1,4 +1,4 @@
-[![Svete misli](https://raw.githubusercontent.com/svetemysli/svetemysli.github.io/master/icon-192x192.png)](https://svetemysli.github.io)
+[![Svete misli](https://raw.githubusercontent.com/svetemisli/svetemisli.github.io/master/icon-192x192.png)](https://svetemisli.github.io)
 
 # Svete misli ❁
 

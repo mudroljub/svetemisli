@@ -87,7 +87,7 @@
   {
     "author": "Muhamed",
     "sr": "Najbolji prema svojim ženama su najbolji među vama.",
-    "ms": "Najlučši prěmy svojim ženam sut najlučši medžu vam. ",
+    "ms": "Najlučši prěmy svojim ženam sut najlučši medžu vami. ",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 13
   },
@@ -223,12 +223,11 @@
     "wiki": "https://sh.wikipedia.org/wiki/Zlatno_pravilo"
   },
   {
+    "_id": 32,
     "author": "Gautama Buddha",
-    "sr": "Opsedaju li utisci osobu, a u njoj nema ničeg da ih primi, to je kraj nemira, obmana, strasti, žeđi, uzimanja oružja i sporenja. Tada sve loše nestaje bez ostatka.",
-    "ms": "Obsědajut li odtisky osobu, a v jej ne imaje ničego da prijmi jih, to konec nemira, obmana, strasti, žedže, vzenja oružja i sporenja. Togda vse zlo izčezaje bez ostatka.",
-    "source": "majjhima/mn018",
-    "wiki": "https://sh.wikipedia.org/wiki/Ose%C4%87aj_(budizam)",
-    "_id": 32
+    "sr": "Opsedaju li utisci osobu, a u njoj nema ničeg da ih primi, to je kraj nemira, obmana, strasti, žeđi, nasilja i sporenja. Tada sve loše nestaje bez ostatka.",
+    "ms": "Obsědajut li odtisky osobu, a v jej ne imaje ničego da prijmi jih, to konec nemira, obmana, strasti, žedže, nasilja i sporenja. Togda vse zlo izčezaje bez ostatka.",
+    "source": "majjhima/mn018"
   },
   {
     "author": "Isus",
@@ -284,7 +283,7 @@
   {
     "sr": "Kak čovek gledajući provaliju povlači nazad telo i um, tak i vi monasi idući među ljude.",
     "author": "Gautama Buddha",
-    "ms": "Kak člověk smotreči bezdnu odstupa nazad tělom i umom, tak i vy monahi iduči medžu ljude.",
+    "ms": "Kak člověk smotreči bezdnu odstupa nazad tělom i umom, tak i vy monahi iduči medžu ljudij.",
     "source": "Samyutta nikaya XVI. 3: Ćandūpama sutta",
     "_id": 40
   },
@@ -327,7 +326,7 @@
     "_id": 46,
     "author": "Simeon Novi Teolog",
     "sr": "Bog saopštava od svoje svetlosti onima sa kojima se sjedinjuje po meri njihovog očišćenja.",
-    "ms": "Bog soobčaje od jego světla jimi s kym se sjedinjaje po měri jih očiščenja.",
+    "ms": "Bog soobčaje od jego světla jim s kym se sjedinjaje po měri jih očiščenja.",
     "source": ""
   },
   {
@@ -1267,7 +1266,7 @@
   {
     "author": "Muhamed",
     "sr": "Uzvišeni Bog ne voli da činite razliku među svojom djecom, čak i kad ih ljubite.",
-    "ms": "Vozvyšeni bog ne ljubi da tvorite razliku medžu svojim dětam ljubeči jih.",
+    "ms": "Vozvyšeni bog ne ljubi da tvorite razliku medžu svojimi dětami ljubeči jih.",
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
     "_id": 185
   },
@@ -4273,11 +4272,11 @@
     "source": "Anguttara nikaya 3:133-145 Yodhāđīva vagga"
   },
   {
+    "_id": 619,
     "author": "Isak Sirin",
-    "sr": "Koji se muče u paklu, muče se, jer ne mogu podneti da ih neko jarko ljubi. Potpuno je netačno da su grešni u paklu lišeni božje ljubavi. Ljubav je darovana svima jednako, ali ona je mučna za grešne, a prijatnost za one, koji žive u skladu sa njom.",
-    "ms": "Ktory se mučet v peklu, mučet se jer ne mogu podnesti že jih někto jarko ljubi. Popolno netočno že grěšni v peklu lišeni božje ljubvi. Ljubov darovana vsimi jednako, ale ona mučna za grěšne a prijetnost za one, ktory živut podobno jej.",
-    "source": "Dobrotoljublje",
-    "_id": 619
+    "sr": "Mučeći se u paklu muče se jer ne mogu podneti da ih neko jarko ljubi. Grešni u paklu nisu lišeni božje ljubavi. Ljubav je darovana svima, ali je mučna grešnima a prijatna živećim u skladu sa njom.",
+    "ms": "Mučeči se v peklu mučet se ibo ne mogu podnesti da jih někto jarko ljubi. Grěšni v peklu ne sut lišeni božje ljubvi. Ljubov darovana vsim, ale ona mučna grěšnym a prijetna živučim podobno jej.",
+    "source": "Dobrotoljublje"
   },
   {
     "_id": 620,
@@ -5207,7 +5206,7 @@
     "sr": "Od Adama do Johanana krstitelja, među rođenim od žene nema većeg od Johanana. Ali ja kažem: Tko od vas postane mališan, poznaće kraljevstvo i postati veći od Johanana.",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 46",
-    "ms": "Od Adama do Johanana krestitelja, medžu rodženym od žene ne imaje boljšego od Johanana. Ale ja kažu: Kto od vas stane maly, bude poznati kraljevstvo i stati boljši od Johanana.",
+    "ms": "Od Adama do Johanana krestitelja, medžu rodženymi od žene ne imaje boljšego od Johanana. Ale ja kažu: Kto od vas stane maly, bude poznati kraljevstvo i stati boljši od Johanana.",
     "_id": 752
   },
   {
@@ -5242,7 +5241,7 @@
     "sr": "Rekoše mu učenici:\nDvadeset i četiri proroka govoriše u Izraelu i svi govoriše o tebi.\nJešua odgovori:\nVi zanemariste živoga među vama i govoriste o mrtvima.",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 52",
-    "ms": "Rěčehu mu učeniki:\nDvadeset i četyri proroka govorihu v Izraelju i vsi govorihu o tobě.\nJešua odgovori:\nVy neprigledaste živogo medžu vam i govoriste ob mrtvyh.",
+    "ms": "Rěčehu mu učeniki:\nDvadeset i četyri proroka govorihu v Izraelju i vsi govorihu o tobě.\nJešua odgovori:\nVy neprigledaste živogo medžu vami i govoriste ob mrtvyh.",
     "_id": 757
   },
   {
@@ -5306,11 +5305,11 @@
     "wiki": "https://sh.wikipedia.org/wiki/Saloma_(u%C4%8Denica)"
   },
   {
-    "sr": "Saloma upita:\nKada će to što te pitamo biti nam znano?\nJešua rěče:\nKada zgazite odeću stida, i kada dva postanu jedno, a muško i žensko ni muško ni žensko.",
+    "_id": 766,
     "author": "Isus",
-    "source": "Grčko evangelje po Egipćanima",
-    "ms": "Saloma zapyta:\nKogda to čto pytamo te bude nam znano?\nJešua rěče:\nKogda raztoptate odědži styda, i kogda dva stanut jedno, a mužsko i žensko ni mužsko ni žensko.",
-    "_id": 766
+    "sr": "Šaloma upita: Kada će to što te pitamo biti nam znano?\nJešua rěče: Kada zgazite odeću stida, i dva postanu jedno, a muško i žensko ni muško ni žensko.",
+    "ms": "Šaloma zapyta: Kogda to čto pytamo te bude nam znano?\nJešua rěče: Kogda raztoptate oděž styda, i dva stanut jedno, a mužsko i žensko ni mužsko ni žensko.",
+    "source": "Grčko evangelje po Egipćanima"
   },
   {
     "sr": "Bio jedan bogataš koji je imao veliki posjed. Rekao je: Upotrijebiću bogatstvo da sijem, žanjem, sadim i skladištim, da mi ništa ne nedostaje. Tako je mislio, i te noći umro. Ko ima uši neka čuje.",
@@ -5447,7 +5446,7 @@
     "sr": "Anđeli i proroci će doći k vama i dati vam vaše. Vi njima dajte što imate i pitajte se: Koda će doći uzeti njihovo?",
     "author": "Isus",
     "source": "Evangelje po Tomi, izreka 88",
-    "ms": "Angeli i proroki budut dojdti k vami i dati vam vaše. Vy jimi dajte čto imajete i razmyslite se: Kogda budut dojdti vzeti jihno?",
+    "ms": "Angeli i proroki budut dojdti k vami i dati vam vaše. Vy jim dajte čto imajete i razmyslite se: Kogda budut dojdti vzeti jihno?",
     "_id": 785
   },
   {
@@ -5823,11 +5822,11 @@
     "_id": 833
   },
   {
+    "_id": 835,
     "author": "Muhamed",
-    "sr": "Višnji bog govori: Sluge moje! Ne možete mi naškoditi. Ne možete mi učiniti korist. Tvorite li dobro, korist ide vama. Tvorite li zlo, škoda ide samo vama.",
-    "ms": "Vyšny bog govori: Rabi moji! Ne možete mi poškoditi. Ne možete mi učiniti korist. Tvorite li dobro, korist ide vam. Tvorite li zlo, škoda ide samo vam. ",
-    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
-    "_id": 835
+    "sr": "Višnji bog govori: Sluge moje! Ne možete mi naškoditi. Ne možete mi učiniti korist. Tvorite li dobro, korist ide vama. Tvorite li zlo, škoda ide jedino vama.",
+    "ms": "Vyšny bog govori: Rabi moji! Ne možete mi poškoditi. Ne možete mi učiniti korist. Tvorite li dobro, korist ide vam. Tvorite li zlo, škoda ide jedino vam.",
+    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991."
   },
   {
     "author": "Isus",
@@ -5848,7 +5847,7 @@
   {
     "author": "Isus",
     "sr": "Što ušima slušate, propovedajte sa krovova! Jer niko ne pali svetiljku da stavi pod posudu, no na svećnjak, da svetli svima doma.",
-    "ms": "Čto na uši slyšite, propovědajte na strěhah! Ibo nikto ne zažiga světilku da stavi pod posudu, no na svěčnik, da světli vsimi doma.",
+    "ms": "Čto na uši slyšite, propovědajte na strěhah! Ibo nikto ne zažiga světilku da stavi pod posudu, no na svěčnik, da světli vsim doma.",
     "source": "Evangelje po Tomi, izreka 33; Evangelje po Mateju, 5:15; Evangelje po Marku, 4:21-23; Evangelje po Luki, 12:3",
     "wiki": "https://sh.wikipedia.org/wiki/Ne_stavlja_se_svetiljka_pod_sud",
     "_id": 838
@@ -5960,7 +5959,7 @@
   {
     "author": "Isus",
     "sr": "Vama je dano razumeti tajne carstva božjeg, a onima vani nije dano. Zato u pričama govorim im, jer videći ne vide, i slušajući ne čuju, niti razumeju.",
-    "ms": "Vami dano razuměti tajny carstva božja, jimi vněšnjim ne dano. Zato v razkazah glagolju jim, ibo videči ne videt, i slyšeči ne slyšet, ni razumějut.",
+    "ms": "Vami dano razuměti tajny carstva božja, jim vněšnjim ne dano. Zato v razkazah glagolju jim, ibo videči ne videt, i slyšeči ne slyšet, ni razumějut.",
     "source": "Evangelje po Mateju 13:11-13: Evangelje po Marku 4:11",
     "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_seja%C4%8Du",
     "_id": 852
@@ -6752,10 +6751,9 @@
   {
     "_id": 959,
     "author": "Isus",
-    "sr": "Čudno kako delate za ovaj svet, a primate snabdevanje u njemu bez dela. I kako ne delate za sledeći svet, a primate snabdevanje u njemu jedino delima.",
-    "ms": "Čudno kak dělate za sej svět, a prijmate snabděvanje v jego bez děla. I kak ne dělate za slědujuči svět, a prijmate snabděvanje v jego jedino dělami.",
-    "source": "James Robson, Christ in Islam (A. 113.)",
-    "wiki": ""
+    "sr": "Čudno kako delate za ovaj svet, koji drži vas bez dela. I kako ne delate za sledeći svet, koji drži vas jedino delima.",
+    "ms": "Čudno kak dělate za sej svět, koji drži vas bez děla. I kak ne dělate za slědujuči svět, koji drži vas jedino dělami.",
+    "source": "James Robson, Christ in Islam (A. 113.)"
   },
   {
     "author": "Isus",
@@ -8446,7 +8444,7 @@
   {
     "author": "Evagrije Pontski",
     "sr": "Kako je vid najbolji među čulima, tako je molitva božanska među vrlinama.",
-    "ms": "Kako vid najlučši medžu čuvstvam, tako molitva božska medžu čestnostam. ",
+    "ms": "Kako vid najlučši medžu čuvstvami, tako molitva božska medžu čestnostami. ",
     "source": "Knjiga mističkih poglavlja, Zagreb, 2005.",
     "_id": 1222
   },
@@ -8474,7 +8472,7 @@
   {
     "author": "Gautama Buddha",
     "sr": "Zaista smo sretni ne mrzimo li one koji nas mrze. Među ljudima koji nas mrze, mi prebivamo slobodni od mržnje.",
-    "ms": "Zaisto jesmo ščestni ne nenavidimo li nenavideče nas. Medžu ljudam ktori nas nenavidet, mi prěbyvamo svobodny od nenavisti.",
+    "ms": "Zaisto jesmo ščestni ne nenavidimo li nenavideče nas. Medžu ljudami ktori nas nenavidet, mi prěbyvamo svobodny od nenavisti.",
     "source": "S. Jesudian, Joga i Zdravlje, Beograd 1982.",
     "_id": 1227
   },
@@ -8621,7 +8619,7 @@
   {
     "author": "Heraklit",
     "sr": "Um je svima opšti.",
-    "ms": "Um vsimi obči.",
+    "ms": "Um vsim obči.",
     "source": "Fragment 113",
     "_id": 1249
   },
@@ -8862,8 +8860,8 @@
   {
     "_id": 1290,
     "author": "Dželaludin Rumi",
-    "sr": "Čisto srce savršeno zrcalo, \nodražava beskrajnu ljepotu. \nBezmjerno se ne sadrži\nu nebu, moru, ni svemiru. \nJer sve ima granicu, \na srce je bezgranično.",
-    "ms": "Čisto srdce sovršeno zrcalo, \nodraža bezkonečnu lěpotu. \nBezměrno ne sodrža se \nv nebu, morju, ni vsemiru. \nIbo vse ograničeno, \na srdce neograničeno jest.",
+    "sr": "Čisto srce savršeno zrcalo, \nkoje odražava beskrajnu ljepotu. \nBezmjerno se ne sadrži\nu nebu, moru, ni svemiru. \nJer sve ima granicu, \na srce je bezgranično.",
+    "ms": "Čisto srdce sovršeno zrcalo, \nkoje odraža bezkonečnu lěpotu. \nBezměrno ne sodrža se \nv nebu, morju, ni vsemiru. \nIbo vse ograničeno, \na srdce neograničeno jest.",
     "source": "Rumi, Blago njegova duha"
   },
   {
@@ -8874,11 +8872,11 @@
     "source": "Rumi, Blago njegova duha"
   },
   {
+    "_id": 1292,
     "author": "Dželaludin Rumi",
-    "sr": "Svjetlo oka ishodi od svjetla srca, koje puni svjetlo božje.",
-    "ms": "Světlo oka izhodi od světla srdca, koje polni světlo božje.",
-    "source": "Rumi, Blago njegova duha",
-    "_id": 1292
+    "sr": "Svjetlo oka ishodi iz svjetla srca, koje ishodi iz svjetla božjeg.",
+    "ms": "Světlo oka izhodi iz světla srdca, koje izhodi iz světla božjego.",
+    "source": "Rumi, Blago njegova duha"
   },
   {
     "author": "Dželaludin Rumi",
@@ -10184,8 +10182,8 @@
   {
     "_id": 1492,
     "author": "Grom: Savršeni um",
-    "sr": "Ja sam ta koju zovu život \ni koju zovu smrt.",
-    "ms": "Ja jesm ta koju zovut život \ni koju zovut smrt.",
+    "sr": "Ja sam ta koju zovu život i koju zovu smrt.",
+    "ms": "Ja jesm ta juže zovut život i juže zovut smrt.",
     "source": "Grom: Savršeni um"
   },
   {
@@ -11030,7 +11028,7 @@
     "_id": 1648,
     "author": "Jiddu Krishnamurti",
     "sr": "Možete li prosto okončati misao i videti šta biva dok sledeća čeka. Pre nego sledeća ponikne, motrite. U tom međuvremenu, šta se zbiva?",
-    "ms": "Možete li prosto skončiti myslj i viděti čto byva dokolě slědujuča čeka. Prědže než slědna voznikne, smotrite. V tom medžu vrěmenu, čto byva?",
+    "ms": "Možete li prosto skončiti myslj i viděti čto byva dokolě slědujuča čeka. Prědže než slědna voznikne, smotrite. V tom medžu-vrěmenu, čto byva?",
     "source": "Đidu Krišnamurti, Zemlja bez staza, Beograd, 2003.",
     "wiki": ""
   },

@@ -4,15 +4,15 @@
 
 **Medžuslovjanski / Меджусловјански**:
 
-[Svete mysli](https://svetemysli.github.io), sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
+[Svete mysli](https://svetemisli.github.io), sbirka duhovnyh citatov. Izrěčenja osnovatelja velikyh religija, mudrca i svetca.
 
-[Свете мысли](https://svetemysli.github.io), сбирка духовных цитатов. Изрѣченьа основательа великых религија, мудрца и светца.
+[Свете мысли](https://svetemisli.github.io), сбирка духовных цитатов. Изрѣченьа основательа великых религија, мудрца и светца.
 
 **Srpski / Српски**:
 
-[Svete misli](https://svetemysli.github.io), zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
+[Svete misli](https://svetemisli.github.io), zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
 
-[Свете мисли](https://svetemysli.github.io), збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
+[Свете мисли](https://svetemisli.github.io), збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
 
 ## Razvoj
 

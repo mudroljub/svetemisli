@@ -1444,8 +1444,8 @@
   {
     "_id": 211,
     "author": "Gautama Buddha",
-    "sr": "Jest li ini svet za dobro tvoreće, posle smrti mogu preporoditi se. Ne jest li ini svet, tada živim ovde radostan, bez zla. Stižu li posledice zlo tvoreće, ne bojim se. Ne stižu li posledice zlo tvoreće, ja sam opet čist.",
-    "ms": "Jest li iny svět za dobro tvoreče, poslě smrti mogu vozroditi se. Ne jest li iny svět, togda živu sde radostny, bez zla. Stigajut li poslědice zlo tvoreče, ne boju se. Ne stigajut li poslědice zlo tvoreče, opet jesm čisty.",
+    "sr": "Jest li ini svet za dobro tvoreće, posle smrti mogu preporoditi se. Ne jest li ini svet, tada živim ovde radostan, bez zla. Stižu li posledice zlo tvoreće, ne bojim se. Ne stižu li ih, ja sam opet čist.",
+    "ms": "Jest li iny svět za dobro tvoreče, poslě smrti mogu vozroditi se. Ne jest li iny svět, togda živu sde radostny, bez zla. Stigajut li poslědice zlo tvoreče, ne boju se. Ne stigajut li jih, opet jesm čisty.",
     "source": "anguttara/an03-065"
   },
   {
@@ -2710,8 +2710,8 @@
   {
     "_id": 390,
     "author": "Gautama Buddha",
-    "sr": "Ovako sebe vežbajte: Neću se upuštati u ništa što tvori ja, moje i ine obmane, i oslobodiću um putem mudrosti.",
-    "ms": "Ovako sebe obučajte: Ne budu vključati se v ničto že tvori ja, moje i ine obmanov, i budu osvoboditi um putom mudrosti.",
+    "sr": "Ovako sebe vežbajte: Ne upuštam se u ništa što tvori ja, moje i ine obmane, i oslobodiću um putem mudrosti.",
+    "ms": "Ovako sebe obučajte: Ne vključam se v ničto že tvori ja, moje i ine obmanov, i osvobodim um putom mudrosti.",
     "source": "Anguttara nikaya 3:31-40 Devaduta vagga"
   },
   {
@@ -3291,9 +3291,8 @@
     "_id": 475,
     "author": "Isus",
     "sr": "Ko ne zna kako nasta telo, s njim propada. \nKo ne zna koren stvari, one su mu skrite. \nKo ne zna koren zla, ono mu nije strano. \nKo ne zna kako je došao, ne zna kako otići, \ni nije mu stran svet koji bude ponižen.",
-    "ms": "Kto ne zna kak nasta tělo, s jim propada. \nKto ne zna korenj stvari, one mu skryte. \nKto ne zna korenj zla, ono ne mu stranno. \nKto ne zna kak šel, ne zna kak odidti, \ni ne mu stranny svět koj bude poniženy.",
-    "source": "Dijalog Spasitelja, 134-135",
-    "wiki": ""
+    "ms": "Kto ne zna kak nasta tělo, s jim propada. \nKto ne zna korenj stvari, one jemu skryte. \nKto ne zna korenj zla, ono ne jemu stranno. \nKto ne zna kak šel, ne zna kak odidti, \ni ne jemu stranny svět iže bude poniženy.",
+    "source": "Dijalog Spasitelja, 134-135"
   },
   {
     "author": "Muhamed",
@@ -4274,8 +4273,8 @@
   {
     "_id": 619,
     "author": "Isak Sirin",
-    "sr": "Mučeći se u paklu muče se jer ne mogu podneti da ih neko jarko ljubi. Grešni u paklu nisu lišeni božje ljubavi. Ljubav je darovana svima, ali je mučna grešnima a prijatna živećim u skladu sa njom.",
-    "ms": "Mučeči se v peklu mučet se ibo ne mogu podnesti da jih někto jarko ljubi. Grěšni v peklu ne sut lišeni božje ljubvi. Ljubov darovana vsim, ale ona mučna grěšnym a prijetna živučim podobno jej.",
+    "sr": "Grešni u paklu muče se jer ne mogu podneti da ih neko jarko ljubi. Netačno je da su oni lišeni božje ljubavi. Ljubav je darovana svima jednako, ali je bolna grešnima a prijatna živećim u skladu sa njom.",
+    "ms": "Grěšni v peklu mučet se ibo ne mogu podnesti da jih někto jarko ljubi. Netočno že oni lišeni božje ljubvi. Ljubov darovana vsim jednako, ale boljna grěšnym a prijetna živučim podobno jej.",
     "source": "Dobrotoljublje"
   },
   {
@@ -6020,11 +6019,11 @@
     "_id": 859
   },
   {
+    "_id": 860,
     "author": "Isus",
-    "sr": "Ako ne verujete da ja jesam, umrećete u svojim gresima.",
-    "ms": "Ako ne věrite že ja jesm, budete umreti vo grěhah vaših.",
-    "source": "Evangelje po Jovanu, 8:24",
-    "_id": 860
+    "sr": "Ako ne verujete ja jesam, umrete u gresima vašim.",
+    "ms": "Ako ne věrite ja jesm, umrete vo grěhah vaših.",
+    "source": "Evangelje po Jovanu, 8:24"
   },
   {
     "author": "Isus",

@@ -41,6 +41,10 @@ const EditForm = ({ quote }) => {
           <input name="author" id="author" placeholder={translate('AUTHOR_TIP')} defaultValue={quote && quote.author} autoFocus />
         </p>
         <p>
+          <label htmlFor="ocs" >{translate('TEXT')} ({translate('OLDSLAVIC')})</label><br />
+          <textarea name="ocs" id="ocs" defaultValue={quote && quote.ocs} cols="60" rows="5"></textarea>
+        </p>
+        <p>
           <label htmlFor="sr" >{translate('TEXT')} ({translate('SERBOCROATIAN')})</label><br />
           <textarea name="sr" id="sr" defaultValue={quote && quote.sr} cols="60" rows="5"></textarea>
         </p>

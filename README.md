@@ -25,5 +25,7 @@ npm start
 
 # TODO
 
+- dodati staroslovenski
+- dodati o nama
 - tagovi
 - ćirilični input

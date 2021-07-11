@@ -103,12 +103,12 @@ export const getDerived = store => {
   const allAuthors = []
   const filteredAuthors = []
   const filteredQuotes = []
-  let minLength = allQuotes[0][lang].length
-  let maxLength = allQuotes[0][lang].length
+  let minLength = Infinity
+  let maxLength = 0
 
   allQuotes.forEach(q => {
     if (!allAuthors.includes(q.author)) allAuthors.push(q.author)
-    const {length} = q[lang]
+    const length = get(q, lang, 'length')
     if (!length) return
     if (length < minLength) minLength = length
     if (length > maxLength) maxLength = length

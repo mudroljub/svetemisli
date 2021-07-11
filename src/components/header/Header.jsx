@@ -35,8 +35,9 @@ const Header = () => {
       <div className="header-lang">
         <label htmlFor="jezyk">{translate('LANGUAGE')}: </label>
         <select id="jezyk" onChange={changeLang} value={lang}>
-          <option value="ms">{translate('INTERSLAVIC')}</option>
+          <option value="ocs">{translate('OLDSLAVIC')}</option>
           <option value="sr">{translate('SERBOCROATIAN')}</option>
+          <option value="ms">{translate('INTERSLAVIC')}</option>
         </select>
         <label htmlFor="pismo">{translate('SCRIPT')}: </label>
         <select id="pismo" onChange={changeScript} value={script}>

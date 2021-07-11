@@ -82,7 +82,105 @@ const toCyrillic = text => text
   .replace(/Ź/g, 'Зь')
   .replace(/Ž/g, 'Ж')
 
+const ocsTable = {
+  A: 'A',
+  a: 'a',
+  Б: 'B',
+  б: 'b',
+  В: 'V',
+  в: 'v',
+  Г: 'G',
+  г: 'g',
+  Д: 'D',
+  д: 'd',
+  Е: 'E', // je
+  е: 'e',
+  Є: 'E',
+  є: 'e',
+  Ж: 'Ž',
+  ж: 'ž',
+  Ꙃ: 'DZ',
+  ꙃ: 'dz',
+  Ѕ: 'DZ',
+  ѕ: 'dz',
+  Ꙁ: 'Z',
+  ꙁ: 'z',
+  З: 'Z',
+  з: 'z',
+  И: 'I', // J
+  и: 'i',
+  І: 'I', // J
+  і: 'i',
+  Ї: 'I', // J
+  ї: 'i',
+  К: 'K',
+  к: 'k',
+  Л: 'L', // LJ
+  л: 'l', // lj
+  М: 'M',
+  м: 'm',
+  Н: 'N', // NJ
+  н: 'n',
+  О: 'O',
+  о: 'o',
+  П: 'P',
+  п: 'p',
+  Р: 'R',
+  р: 'r',
+  С: 'S',
+  с: 's',
+  Т: 'T',
+  т: 't',
+  Ѹ: 'U',
+  ѹ: 'u',
+  // оу: 'u',
+  Ꙋ: 'U',
+  ꙋ: 'u',
+  Ф: 'F',
+  ф: 'f',
+  Х: 'H',
+  х: 'h',
+  Ѡ: 'O',
+  ѡ: 'o',
+  Ѿ: 'OT',
+  ѿ: 'ot',
+  Щ: 'ŠT',
+  щ: 'št',
+  Ц: 'C',
+  ц: 'c',
+  Ч: 'Č',
+  ч: 'č',
+  Ш: 'Š',
+  ш: 'š',
+  Ꙑ: 'Y',
+  ꙑ: 'y',
+  // Ь: 'ĭ',
+  Ѣ: 'Ě',
+  ѣ: 'ě',
+  Ю: 'JU',
+  ю: 'ju',
+  Ꙗ: 'JA',
+  ꙗ: 'ja',
+  Ѥ: 'JE',
+  ѥ: 'je',
+  Ѧ: 'Ę',
+  ѧ: 'ę',
+  Ѩ: 'JĘ',
+  ѩ: 'ję',
+  Ѫ: 'Ǫ',
+  ѫ: 'ǫ',
+  Ѭ: 'JǪ',
+  ѭ: 'jǫ',
+  Ѱ: 'PS',
+  ѱ: 'ps',
+  Ѳ:	'th',
+  ѳ:	'th',
+  // Ѵ: i, y, v
+}
+const toLatinic = text => [...text].map(x => ocsTable[x] || x).join('')
+
 export default function transliterate(text, script, lang) {
+  if (script === 'lat' && lang === 'ocs') return toLatinic(text)
   return script === 'lat'
     ? text
     : toCyrillic(lang === 'sr' ? shSpecific(text) : msSpecific(text))

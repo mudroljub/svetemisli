@@ -25,11 +25,8 @@ npm start
 
 # TODO
 
+- ćirilični latinični input za sve jezike
 - staroslovenski
-  - ꙇ -> i, j
-  - ё -> ѣ
-  - prevesti show - чьтѥниѥ
-  - izvor -> istočnnik ?
+  - prevesti interfejs (show - чьтѥниѥ, izvor -> istočnnik)
 - dodati o nama
 - tagovi
-- ćirilični input

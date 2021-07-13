@@ -132,8 +132,7 @@ const ocsTable = {
   Т: 'T',
   т: 't',
   Ѹ: 'U',
-  ѹ: 'u',
-  // оу: 'u',
+  ѹ: 'u', // оу
   Ꙋ: 'U',
   ꙋ: 'u',
   Ф: 'F',
@@ -154,7 +153,6 @@ const ocsTable = {
   ш: 'š',
   Ꙑ: 'Y',
   ꙑ: 'y',
-  // Ь: 'ĭ',
   Ѣ: 'Ě',
   ѣ: 'ě',
   Ю: 'JU',
@@ -177,6 +175,7 @@ const ocsTable = {
   ѳ:	'th',
   Ꙉ: 'Đ',
   ꙉ: 'đ',
+  // Ь: 'ĭ',
   // Ѵ: i, y, v
 }
 const toLatinic = text => [...text].map(x => ocsTable[x] || x).join('')

@@ -20,7 +20,7 @@ const EditForm = ({ quote }) => {
       .filter(el => el.name)
       .reduce((acc, el) => ({...acc, [el.name]: el.value.trim()}), {})
 
-    if (!(data.author && (data.sr || data.ms))) return setValidation(translate('REQUIRED_FIELDS'))
+    if (!(data.author && (data.ocs || data.sr || data.ms))) return setValidation(translate('REQUIRED_FIELDS'))
 
     if (data._id) data._id = Number(data._id)
     const id = dispatch(saveQuote(data))

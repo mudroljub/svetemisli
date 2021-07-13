@@ -855,10 +855,10 @@
   {
     "_id": 125,
     "author": "Isus",
+    "ocs": "Слꙑшасте ѣко речено бꙑстъ древьнимъ · не прѣлюбꙑ сътвориши · азъ же г꙯лѭ вамъ · ѣко вьсѣкъ иже възьритъ на женѫ съ похотиѭ · оуже любꙑ сътвори съ неѭ · въ сръдьци своемь ·",
     "sr": "Čuli ste kako je kazano starima: Ne čini preljube. A ja vam kažem da svaki koji pogleda na ženu sa željom, već je učinio preljubu u srcu svom.",
     "ms": "Slyšaste kak rěčeno drěvnym: Ne tvori prěljube. Ja že glagolju vam, da vsaky koj uzri ženu želajuči ju, uže ljubodějstvova s jej v srdcu svojem.",
-    "source": "Evangelje po Mateju, glava 5:27-28",
-    "wiki": ""
+    "source": "Evangelje po Mateju, glava 5:27-28"
   },
   {
     "sr": "Smatrate li gubitak novca, deteta ili inog nevoljom, znajte treba biti zadovoljan danim, i dano blagodarno vratiti.",
@@ -2372,11 +2372,12 @@
     "source": "Mađđhima nikaya 140: Dhatuvibhanga sutta"
   },
   {
+    "_id": 341,
     "author": "Isus",
+    "ocs": "аще оубо принесеши даръ свои къ олтарю · и тоу помѣнеши ѣко бръ твои иматъ нѣчто на тѧ · остави даръ твои тоу прѣдъ олтаремь · и шедъ прѣжде съмири сѧ съ бротомь твоимь · и тъгда пришьдъ принеси даръ свои ·",
     "sr": "Ako prinosiš dar k žrtveniku i setiš se da brat ima nešto protiv tebe, idi prvo pomiri se s bratom, i tada prinesi dar.",
     "ms": "Ako prinosiš dar k žrtveniku i tu pomniš že brat imaje něčto na te, pojdi prědže pomiri se s bratom, i togda prinesi dar.",
-    "source": "Evangelje po Mateju, glava 5:23-24",
-    "_id": 341
+    "source": "Evangelje po Mateju, glava 5:23-24"
   },
   {
     "_id": 342,
@@ -4089,11 +4090,12 @@
     "_id": 590
   },
   {
+    "_id": 591,
     "author": "Isus",
+    "ocs": "всѣкъ възносѧи сѧ · съмѣритъ сѧ · и съмѣрѣѩи сѧ вьзнесетъ сѧ ·",
     "sr": "Svako uzdižući sebe bude ponižen, a sebe unizivši uzvišen.",
     "ms": "Vsaky vozdvigajuči sebe bude poniženy, a sebe snizivši vozvyšeny.",
-    "source": "Evangelje po Luki, glava 18:14",
-    "_id": 591
+    "source": "Evangelje po Luki, glava 18:14"
   },
   {
     "sr": "Zamisli psa, gladog i umornog, čeka pred mesarom. I mesar mu baci krvavu kost, bez mesa. Šta misliš, hoće li se pas nasititi? Ne, pas će od toga biti umoran i razočaran. Tako je i s nasladama.",
@@ -4141,10 +4143,10 @@
   {
     "_id": 598,
     "author": "Isus",
+    "ocs": "приде бо иоанъ · ни пиѩ ни ѣдꙑ · и г꙯лѭт꙯ бѣсъ иматъ · приде с꙯нъ ч꙯скꙑ ѣдꙑ и пиѩ · и г꙯лѭтъ се ч꙯къ ѣдьца и пивьца · мъздоимьцемъ дроугъ · и грѣшьникомъ ·",
     "sr": "Dođe Johanan ni jede ni pije, oni kažu: ima besa. Dođe sin čovečji jede i pije, oni kažu: gle čoveka izelice i pijanice, druga carinika i grešnika.",
     "ms": "Prijde Johanan ni jeda ni pije, oni glagoljut: běsa imaje. Prijde syn člověčsky jeda i pije, oni glagoljut: gle člověka jadca i vinopijca, mytarem drug i grěšnikom.",
-    "source": "Evangelje po Mateju, glava 11:16-19",
-    "wiki": ""
+    "source": "Evangelje po Mateju, glava 11:16-19"
   },
   {
     "author": "Isak Sirin",
@@ -5481,12 +5483,12 @@
     "source": "Evangelje po Tomi, izreka 91"
   },
   {
-    "sr": "Ne dajte svetinje psima, da ih ne odvuku na smetlište. Ne bacajte bisere pred svinje, da ih ne izgaze.",
+    "_id": 788,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 93; Evangelje po Mateju 7:6",
+    "ocs": "Не дадите с꙯таго псомъ · ни помѣтаите бисеръ вашихъ прѣдъ свиниѣми · да не поперѫтъ ихъ ногами своими · и вращьшѧ сѧ растръгнѫтъ вꙑ ·",
+    "sr": "Ne dajte svetinje psima, da ih ne odvuku na smetlište. Ne bacajte bisere pred svinje, da ih ne izgaze.",
     "ms": "Ne dajte psom sveto, da ne odvlěkut go na smetlišče. Ne metajte biserje prěd svinje, da ne toptajut jih nogami svojimi.",
-    "wiki": "https://sh.wikipedia.org/wiki/Ne_bacajte_bisere_pred_svinje",
-    "_id": 788
+    "source": "Evangelje po Tomi, izreka 93; Evangelje po Mateju 7:6"
   },
   {
     "sr": "Ako imate novaca, ne zajmite ih na lihvu, no dajte onom tko vam neće vratiti.",
@@ -5751,12 +5753,12 @@
     "source": "Evangelje po Luki, glava 6:30"
   },
   {
+    "_id": 823,
     "author": "Isus",
+    "ocs": "Останѣте ихъ · вожди сѫтъ слѣпи слѣпьцемъ · слѣпъ же слѣпьца аще водитъ · оба въ ѣмѫ въпадета сѧ ·",
     "sr": "Ostavite ih, slepi su vođe slepima! A ako slepac vodi slepca, oba u jamu upadnu.",
     "ms": "Ostavite jih, vodži sut slěpi slěpcem. Slěpec že slěpca ako vodi, oba v jamu vpadut.",
-    "source": "Evangelje po Mateju, 15:14",
-    "wiki": "https://sh.wikipedia.org/wiki/Slepci_vode_slepce",
-    "_id": 823
+    "source": "Evangelje po Mateju, 15:14"
   },
   {
     "_id": 824,
@@ -5846,12 +5848,12 @@
     "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991."
   },
   {
+    "_id": 836,
     "author": "Isus",
+    "ocs": "вꙑ есте соль земи · аще же соль обоуѣетъ · чимь осолитъ сѧ ·",
     "sr": "Vi ste so zemlje. \nAko je jelo neslano, može osoliti se. \nNo, ako sol postane neslana, ne može osoliti se ničim.",
     "ms": "Vy jeste sol zemje. \nAko jedivo neslano, može osoliti se. \nNo, ako sol stane neslana, ne može osoliti se ničim.",
-    "source": "Evangelje po Mateju, glava 5:13; James Robson, Christ in Islam (A. 132.)",
-    "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta",
-    "_id": 836
+    "source": "Evangelje po Mateju, glava 5:13; James Robson, Christ in Islam (A. 132.)"
   },
   {
     "_id": 837,
@@ -5904,10 +5906,10 @@
   {
     "_id": 843,
     "author": "Isus",
+    "ocs": "ч꙯къ етеръ имѣ дьвѣ чѧдѣ · и пришедъ къ пръвоумоу рече · чѧдо иди дьнесь дѣлаи вь виноградѣ моемъ · онъ же отъвѣщавъ рече не хощѫ · послѣдь же раскаавъ сѧ иде · и пристѫпь къ дроугоумоу рече такожде · онъ же отъвѣщавъ рече азъ идѫ г꙯и и не иде · кꙑ отъ обоѭ сътвори волѭ отьчѫ ·",
     "sr": "Neki čovek imaše dva sina i reče im: Idite raditi u vinogradu. Prvi odgovori: neću, a posle se pokaja i otide. Drugi odgovori: da gospodaru, i ne otide. Koji od njih dvojice ispuni očevu volju?",
     "ms": "Člověk někoj imaše dva syna, i rěče jim: Idite dělajte v vinograde. Prvy otvěšča: ne hoču; poslě razkaja se i odide. Drugi otvěšča: da, gospodi, i ne odide. Koj od oboju sotvori volju otca?",
-    "source": "Evangelje po Mateju, 21:28–32",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_dva_sina"
+    "source": "Evangelje po Mateju, 21:28–32"
   },
   {
     "_id": 844,
@@ -5926,12 +5928,12 @@
     "source": "Evangelje po Luki, 17:7-10"
   },
   {
+    "_id": 846,
     "author": "Isus",
+    "ocs": "Приде бо с꙯нь ч꙯лчь възискатъ и с꙯пстъ погꙑбьшиих ·",
     "sr": "Sin čovečiji je došao da spase izgubljene.",
     "ms": "Prijde bo syn člověčsky spasti izgubjene.",
-    "source": "Evangelje po Mateju, 18:11",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_izgubljenoj_ovci",
-    "_id": 846
+    "source": "Evangelje po Mateju, 18:11"
   },
   {
     "_id": 847,
@@ -5950,12 +5952,12 @@
     "source": "Evangelje po Tomi, izreka 57; Evangelje po Mateju, 13:24-30"
   },
   {
+    "_id": 849,
     "author": "Isus",
+    "ocs": "Подобьно естъ ц꙯рство н꙯бсное ч꙯лкоу иже изиде оутро наѩтъ дѣлателъ въ виноградъ по пѣнѧѕоу на день · и въ третиѭ годинѫ наиметъ инꙑ · Пакꙑ же ишедъ въ шестѫѭ и въ девѧтѫѭ годинѫ сьтвори такожде · Вечероу же бꙑвшоу · да вьсѣмь по пѣнѧѕь ·",
     "sr": "Carstvo nebesko je poput čoveka koji jutrom najmi delatelje za vinograd. Oko podne unajmi još delatelja, a koncem dana još. Uveče, isplati svima jednako.",
     "ms": "Podobno jest carstvo nebesno člověku iže utrom najmi dělateljev v vinograd. Oko poldnja najmi ješče dělatelja, i koncem dnja ješče. V večer, plati vsim jednako.",
-    "source": "Evangelje po Mateju, glava 20:1–16",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_radnicima_u_vinogradu",
-    "_id": 849
+    "source": "Evangelje po Mateju, glava 20:1–16"
   },
   {
     "_id": 850,
@@ -5992,10 +5994,10 @@
   {
     "_id": 854,
     "author": "Isus",
+    "ocs": "подобьно естъ ц꙯рствие н꙯ебское · съкровищю съкръвеноу на селѣ еже обрѣтъ ч꙯къ съкрꙑ · и отъ радости его идетъ · и все елико иматъ продаетъ · и коупоуетъ село то ·",
     "sr": "Podobno je carstvo nebesko blagu skrivenom u njivi. Našavši ga, čovek od radosti prodade sve što ima, i kupi njivu tu.",
     "ms": "Podobno carstvo nebesno blagu ukrytu na nivy. Naševši go, člověk od radosti proda vse že iměše, i kupi nivu tu.",
-    "source": "Evangelje po Mateju, 13:44",
-    "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_skrivenom_blagu"
+    "source": "Evangelje po Mateju, 13:44"
   },
   {
     "_id": 855,
@@ -6312,12 +6314,12 @@
     "_id": 895
   },
   {
+    "_id": 896,
     "author": "Isus",
+    "ocs": "Горе вамъ кьнижьници и фарисѣи ѵ҅покрити · ѣко подобите сѧ гробомъ повапьненомъ · иже вьнѣѭдѫ оубо сѫтъ красьни · вънѫтрьѫдѫ же плъни сѫтъ костии мрътвꙑихъ ·",
     "sr": "Licemeri su nalik grobovima spolja cvetajućim, a unutra punim kostiju mrtvaca.",
     "ms": "Liceměri podobajut se grobom izvně cvětajučem, vnutri že polnym kostij mrtvecev.",
-    "source": "Evangelje po Mateju 23:27-28; James Robson, Christ in Islam (A. 5, M. 10.)",
-    "wiki": "https://sh.wikipedia.org/wiki/Te%C5%A1ko_vama_licemeri",
-    "_id": 896
+    "source": "Evangelje po Mateju 23:27-28; James Robson, Christ in Islam (A. 5, M. 10.)"
   },
   {
     "_id": 897,
@@ -9812,10 +9814,10 @@
   {
     "_id": 1432,
     "author": "Isus",
+    "ocs": "аще миръ васъ ненавидитъ · вѣдите ѣко мене прѣжде вьзненавидѣ ·",
     "sr": "Ako vas svijet omrzne, znajte i mene omrznuše prije vas.",
     "ms": "Ako vas svět omrzi, znajte i mene omrziše prědže vas.",
-    "source": "Evangelje po Jovanu, 16:18",
-    "wiki": ""
+    "source": "Evangelje po Jovanu, 15:18"
   },
   {
     "author": "Al-Dakak",

@@ -3,11 +3,19 @@ import {useSelector} from 'react-redux'
 
 import {useTranslate} from '../store/actions'
 import Quotes from '../components/main/Quotes'
+import {isInSource} from '../utils/helpers'
 
 const Untranslated = () => {
-  const {allQuotes, lang} = useSelector(state => state)
+  const {allQuotes, lang, sourcePhrase, selectedAuthors} = useSelector(state => state)
   const translate = useTranslate()
-  const untranslated = allQuotes.filter(q => !q[lang])
+
+  // const untranslated = allQuotes.filter(q => !q[lang])
+
+  const filterQuotes = q => !q[lang]
+      && isInSource(q.source, sourcePhrase)
+      && (selectedAuthors && selectedAuthors.length ? selectedAuthors.includes(q.author) : true)
+
+  const untranslated = allQuotes.filter(filterQuotes)
 
   return (
     <main>

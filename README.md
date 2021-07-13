@@ -24,9 +24,11 @@ npm start
 ```
 
 # TODO
-
+ 
 - ćirilični latinični input za sve jezike
-- staroslovenski
-  - prevesti interfejs (show - чьтѥниѥ, izvor -> istočnnik)
+- staroslovenski 
+  - само велика слова
+  - prevesti interfejs (show - чьтѥниѥ, izvor -> istočnnik, priloži mudrost)
+  - srediti prevode: лихоимиѣ, Вьнемлѣте, соломѵнъ 
 - dodati o nama
 - tagovi

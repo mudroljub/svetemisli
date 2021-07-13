@@ -175,11 +175,13 @@ const ocsTable = {
   ѱ: 'ps',
   Ѳ:	'th',
   ѳ:	'th',
+  Ꙉ: 'Đ',
+  ꙉ: 'đ',
   // Ѵ: i, y, v
 }
 const toLatinic = text => [...text].map(x => ocsTable[x] || x).join('')
 
-export default function transliterate(text, script, lang) {
+export default function transliterate(text = '', script, lang) {
   if (script === 'lat' && lang === 'ocs') return toLatinic(text)
   return script === 'lat'
     ? text

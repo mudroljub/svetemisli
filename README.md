@@ -25,9 +25,11 @@ npm start
 
 # TODO
 
-- dodati staroslovenski
-  - transliteracija
+- staroslovenski
+  - ꙇ -> i, j
+  - ё -> ѣ
   - prevesti show - чьтѥниѥ
+  - izvor -> istočnnik ?
 - dodati o nama
 - tagovi
 - ćirilični input

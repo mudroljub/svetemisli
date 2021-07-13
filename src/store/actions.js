@@ -1,7 +1,7 @@
 import { useSelector } from 'react-redux'
 
 import translations from '../data/translations'
-import {getName, createId} from '../utils/helpers'
+import {get, getName, createId} from '../utils/helpers'
 import transliterate from '../utils/transliterate'
 
 export const init = () => ({type: 'INIT'})
@@ -55,7 +55,7 @@ export const removeFavorite = _id => ({type: 'REMOVE_FAVORITE', _id})
 
 export const useTranslate = () => {
   const {lang, script} = useSelector(state => state)
-  return key => (translations[lang][key])
+  return key => get(translations, lang, key)
     ? transliterate(translations[lang][key], script, lang)
     : key
 }

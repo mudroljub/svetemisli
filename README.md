@@ -30,7 +30,7 @@ npm start
       text-transform: uppercase;
       font-size: .9em;
       letter-spacing: 1px;
-  - prevesti interfejs (show - чьтѥниѥ)
+  - prevesti interfejs (show - чьтѥниѥ, речениѥ)
   - srediti prevode: лихоимиѣ, Вьнемлѣте, соломѵнъ 
 - dodati o nama
 - tagovi

@@ -26,7 +26,8 @@ npm start
 # TODO
  
 - ćirilični latinični input za sve jezike
-- staroslovenski 
+- staroslovenski
+  828 licemeri umesto književnici 
   - само велика слова
   - prevesti interfejs (show - чьтѥниѥ, izvor -> istočnnik, priloži mudrost)
   - srediti prevode: лихоимиѣ, Вьнемлѣте, соломѵнъ 

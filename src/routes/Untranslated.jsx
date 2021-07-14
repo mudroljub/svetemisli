@@ -9,8 +9,6 @@ const Untranslated = () => {
   const {allQuotes, lang, sourcePhrase, selectedAuthors} = useSelector(state => state)
   const translate = useTranslate()
 
-  // const untranslated = allQuotes.filter(q => !q[lang])
-
   const filterQuotes = q => !q[lang]
       && isInSource(q.source, sourcePhrase)
       && (selectedAuthors && selectedAuthors.length ? selectedAuthors.includes(q.author) : true)

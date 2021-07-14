@@ -2690,7 +2690,7 @@
   {
     "_id": 386,
     "author": "Isus",
-    "ocs": "Въи есте свѣтъ въсемꙋ мірꙋ ·",
+    "ocs": "Въи есте свѣтъ мірꙋ ·",
     "sr": "Vi ste svetlost sveta.",
     "ms": "Vy jeste světlo světa.",
     "source": "Evangelje po Mateju, glava 5:14 Tumačenje znanja"
@@ -5039,7 +5039,7 @@
   {
     "_id": 727,
     "author": "Isus",
-    "ocs": "Горе вамъ законьникомъ · ѣко вьзѧсте ключь разѹмѣнью · сами вьнидосте · и въходѧщиимъ възбранисте ·",
+    "ocs": "Горе вамъ законьникомъ · ѣко вьзѧсте ключь разѹмѣнью · сами не вьнидосте · и въходѧщиимъ възбранисте ·",
     "sr": "Fariseji i pisari uzeše ključeve znanja. \nSami ne ulaze, a hotećima ući zabraniše.",
     "ms": "Fariseji i knižniki vzehu ključev vědy. \nSami ne vhodet, a vhodečim vozbranihu.",
     "source": "Evangelje po Tomi, izreka 39; Evangelje po Mateju 23:13; Evangelje po Luki 11:52"
@@ -5851,8 +5851,8 @@
     "_id": 836,
     "author": "Isus",
     "ocs": "Вꙑ есте соль земли · \nаще брашьно обѹѣетъ · осолитъ сѧ ·\nаще же соль обѹѣетъ · чимь осолитъ сѧ ·",
-    "sr": "Vi ste so zemlje. \nAko je jelo neslano, može osoliti se. \nNo, ako sol postane neslana, ne može osoliti se ničim.",
-    "ms": "Vy jeste sol zemje. \nAko jedivo neslano, može osoliti se. \nNo, ako sol stane neslana, ne može osoliti se ničim.",
+    "sr": "Vi ste so zemlje. \nAko je jelo neslano, osoli se. \nАko je sol neslana, čime osoli se?",
+    "ms": "Vy jeste sol zemje. \nJestli jedivo neslano, osoli se. \nJestli sol neslana, čim osoli se?",
     "source": "Evangelje po Mateju, glava 5:13; James Robson, Christ in Islam (A. 132.)"
   },
   {
@@ -6143,9 +6143,9 @@
   {
     "_id": 873,
     "author": "Isus",
-    "ocs": "Вьсѣкъ пиѩи отъ водꙑ сеѩ вьждѩждетъ сѧ пакꙑ · а иже пиетъ отъ водꙑ ѭже азъ дамь емѹ · не иматъ въждѧдати сѧ въ вѣкъ · нъ вода ѭже азъ дамь емѹ · бѫдетъ вь немь источьникъ водꙑ · въслѣплѭщѧѩ въ животъ вѣчьнꙑ ·",
+    "ocs": "Вьсѣкъ пиѩи отъ водꙑ сеѩ вьждѩждетъ сѧ пакꙑ · а иже пиетъ отъ водꙑ ѭже азъ дамь · не иматъ въждѧдати сѧ въ вѣкъ · нъ вода вь немь бѫдетъ источьникъ водꙑ въслѣплѭщѧѩ въ животъ вѣчьнꙑ ·",
     "sr": "Svak pivši ovu vodu ožedni opet. A ko pije vodu ja dam, ne ožedni doveka, no voda u njemu bude izvor vode tekuće u život večni.",
-    "ms": "Vsaky pivši vodu su požeda opet. A iže pije vodu ja dam, ne požeda vo věky, no voda v jego bude iztočnik vody tekuče v život věčny.",
+    "ms": "Vsaky pivši vodu sej požeda opet. A iže pije vodu ja dam, ne požeda vo věky, no voda v jego bude iztočnik vody tekuče v život věčny.",
     "source": "Evangelje po Jovanu 4:13-14"
   },
   {

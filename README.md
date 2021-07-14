@@ -27,6 +27,9 @@ npm start
  
 - ćirilični latinični input za sve jezike
 - staroslovenski
+      text-transform: uppercase;
+      font-size: .9em;
+      letter-spacing: 1px;
   - prevesti interfejs (show - чьтѥниѥ)
   - srediti prevode: лихоимиѣ, Вьнемлѣте, соломѵнъ 
 - dodati o nama

@@ -27,9 +27,7 @@ npm start
  
 - ćirilični latinični input za sve jezike
 - staroslovenski
-  828 licemeri umesto književnici 
-  - само велика слова
-  - prevesti interfejs (show - чьтѥниѥ, izvor -> istočnnik, priloži mudrost)
+  - prevesti interfejs (show - чьтѥниѥ)
   - srediti prevode: лихоимиѣ, Вьнемлѣте, соломѵнъ 
 - dodati o nama
 - tagovi

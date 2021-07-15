@@ -24,7 +24,7 @@ npm start
 ```
 
 # TODO
- 
+
 - ćirilični latinični input za sve jezike
 - staroslovenski
       text-transform: uppercase;

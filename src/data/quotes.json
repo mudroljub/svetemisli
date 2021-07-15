@@ -276,7 +276,7 @@
   {
     "_id": 39,
     "author": "Isus",
-    "ocs": "Азъ на се родихъ сѧ и на се придъ въ вьсь миръ · да съвѣдѣтельствѹѭ о истинѣ · вьсѣкъ иже естъ отъ истинꙑ · послѹшаетъ гласа моего ·",
+    "ocs": "Азъ на се родихъ сѧ и на се придъ въ миръ · да повеѣдаѭ истинѫ · вьсѣкъ иже естъ отъ истинꙑ · послѹшаетъ гласа моего ·",
     "sr": "Ja sam za to rođen, i zato dođoh na svet, da svedočim istinu. I svaki koji je od istine sluša glas moj.",
     "ms": "Ja za to rodih se, i za to dojdeh v svět, da svědoču istinu. I vsaky iže od istiny slušaje glasa mojego.",
     "source": "Evangelje po Jovanu, glava 18:37"
@@ -1262,7 +1262,7 @@
   {
     "_id": 183,
     "author": "Isus",
-    "ocs": "Рече же къ немѹ единъ · се мати твоѣ и братрьѣ твоѣ вьнѣ стоѩтъ хотѧще глаголати къ тебѣ ·\nонъ же отъвѣщавъ рече къ глаголѭщюмѹ · къто естъ мати моѣ и кто сѫтъ братриѣ моѣ ·\nи простеръ рѫкѫ на ѹченикꙑ своѩ рече · се мати моѣ и братрьѣ моѣ · иже бо аще творитъ волѭ отьца моего иже естъ на небесьхъ ·",
+    "ocs": "Рѣшѧ же емоу · се мати твоѣ и братриѣ твоѣ и сестрꙑ твоѩ вьнѣ ищѫтъ тебе ·\nотъвѣща їисъ · кто естъ мати моѣ ли братрьѣ моѣ · и съглѧдавъ стоѩщѧѩ окрьстъ его рече · се мати моѣ и братриѣ моѣ · иже бо аще творитъ волѭ отьца моего · сь братръ мои и сестра и мати естъ ·",
     "sr": "Učenici mu rekoše: Tvoja mati i braća stoje vani, ištu te. \nJešua reče: Ovi ovdje, koji tvore volju moga oca, moji su braća i sestre i mati. Oni će ući u carstvo mojega oca.",
     "ms": "Učeniki rěčehu jemu: Tvoja bratja i mati stojet vně, iščut te. \nJešua rěče: Se, tvoreči volju otca mojego, ti brat moj i sestra i mati. Oni budut vojdti vo carstvo mojego otca.",
     "source": "Evangelje po Mateju, glava 12:46-50; Evangelje po Marku, glava 3:31-35; Evangelje po Luki, 8:19-21; Evangelje po Tomi, izreka 99; Tumačenje znanja 9-11"
@@ -2282,10 +2282,10 @@
   {
     "_id": 328,
     "author": "Isus",
-    "ocs": "Рече же ѥдинъ · идѫ по тебѣ господи · древле же повели отъврѣщи ми сѧ иже сѫтъ въ домѹ моемъ ·\nРече же Иисъ · Никто же възложь рѫкꙑ своеѩ на орало · и зьрѧ вьспѧть · ѹправленъ естъ въ цѣсарьство божие ⁘",
+    "ocs": "Рече же ѥдинъ · идѫ по тебѣ господи · древле же повели отъврѣщи ми сѧ иже сѫтъ въ домѹ моемъ ·\nРече же Иисъ · никто же възложь рѫкꙑ своеѩ на орало · и зьрѧ вьспѧть · ѹправленъ естъ въ цѣсарьство божие ⁘",
     "sr": "Reče mu jedan: \nJa idem s tobom gospode; dozvoli mi napre oprostiti se sa mojima doma. \nJešua reče: \nKo stavi ruku na ralo i gleda nazad, nije za carstvo božije.",
     "ms": "Rěče mu jedin: \nJa idu so toboju, gospodi; prědže že dozvoli mi proščati se so mojimi doma. \nRěče že jemu Ješua: \nKto vozloži ruku na ralo i zri nazad, ne jest upravjeny v carstvo božje.",
-    "source": "Evangelje po Luki, glava 9:62"
+    "source": "Evangelje po Luki, glava 9:61"
   },
   {
     "author": "Muhamed",
@@ -3070,9 +3070,9 @@
   {
     "_id": 441,
     "author": "Isus",
-    "ocs": "Дѣлаите не брашно гꙑбнѫщее · \nнъ брашно прѣбꙑваѭщее въ животѣ вѣчьнѣам ·",
-    "sr": "Delajte ne za jelo prolazno, \nno za jelo koje ostaje za život večni.",
-    "ms": "Dělajte ne za jelo minujuče, \nno za jelo ostavajuče za život věčny.",
+    "ocs": "Дѣлаите не брашно гꙑбнѫщее ·  нъ брашно прѣбꙑваѭщее въ животѣ вѣчьнѣам ·",
+    "sr": "Delajte ne jelo ginuće, no jelo prebivajuće u životu večnom.",
+    "ms": "Dělajte ne jelo gynuče, no jelo prěbyvajuče v životu věčnom.",
     "source": "Evangelje po Jovanu, glava 6:27"
   },
   {
@@ -3092,7 +3092,7 @@
   {
     "_id": 444,
     "author": "Isus",
-    "ocs": "Не мьните · ꙗко придъ положити мира на земи · не придъ положити мира · нъ мечь · придъ бо разлѫчитъ чловѣка на отьца своего · и дъщерь на матерь своѭ · и невѣстѫ на свекръве своѭ ·",
+    "ocs": "Не мьните ꙗко придъ положити мира на земи · не придъ положити мира · нъ мечь · придъ бо разлѫчитъ чловѣка на отьца своего · и дъщерь на матерь своѭ · и невѣстѫ на свекръве своѭ · бѫдетъ бо отъселѣ пѧть въ единомь домоу раздѣленъ · трие на два · и два на три ·",
     "sr": "Ne mnite da dođoh svetu doneti mir. Ne dođoh doneti mir nego razdor, vatru, mač. Dođoh rastaviti sina od oca i kćer od majke i snahu od svekrve. Od petoro u kući, troje će biti protiv dvoje i dvoje protiv troje. I svako će tu biti sam.",
     "ms": "Ne mnite da prijdeh donesti mir na zemju. Ne prijdeh donesti mir, no razděl, ogonj, meč. Prijdeh razlučiti syna od otca i dočeru od matere i nevěstu od svekrov. Budut pet vo jednom domu razděleni, tri na dva, i dva na tri. I vsaky tu bude sam.",
     "source": "Evangelje po Mateju 10:34-35; Evangelje po Luki 12:51-53; Evangelje po Tomi, izreka 16"
@@ -3855,7 +3855,7 @@
   {
     "_id": 557,
     "author": "Isus",
-    "ocs": "Свѣтильникь тѣлѹ естъ око · аще ѹбо бѫдетъ око твое просто · все тѣло твое свѣтъло бѫдетъ · аще ли око твое лѫкаво бѫдетъ · вьсе тѣло твое темно бѫдетъ · аще ѹбо свѣтъ иже въ тебѣ тъма естъ · то тьма кольми ·",
+    "ocs": "Свѣтильникь тѣлѹ естъ око · аще ѹбо бѫдетъ око твое просто · все тѣло твое свѣтъло бѫдетъ · аще ли око твое лѫкаво бѫдетъ · вьсе тѣло твое темно бѫдетъ · блюди оубо еда свѣтъ иже естъ вь тебѣ тъма естъ ·",
     "sr": "Svetilnik tela je oko. Ako je oko tvoje čisto, sve telo biće svetlo. Ako je oko tvoje lakomo, sve telo biće tamno. Pazi da svjetlost u tebi ne bude tama.",
     "ms": "Světilnik tělu jest oko. Jestli oko tvoje čisto, vse tělo světlo bude. Jestli oko tvoje lakomo, vse tělo temno bude. Opekaj da světlo v tobě ne bude tma.",
     "source": "Evangelje po Mateju, glava 6:22-23; Evangelje po Luki, 11:34-36"
@@ -3948,7 +3948,7 @@
   {
     "_id": 571,
     "author": "Isus",
-    "ocs": "Вънемлѣте милостꙑнѧ вашѧ · не творіте прѣд чловѣкꙑ да відімі бѫдете имі · аште лі же ні мьздꙑ не имате ѡтъ отьца вашего иже естъ на небесьхъ · егда ꙋбо творите мілостꙑнѭ · не въстрѫбіте прѣдъ собоѭ · ꙗкоже и лицемѣри творѩтъ · въ сьньміщиихъ · да прославѧтъ сѧ ѡтъ чловѣкь · аминъ глаголѭ вам · въспріимѫтъ мъздѫ своѭ ·",
+    "ocs": "Вънемлѣте милостꙑнѧ вашѧ · не творіте прѣд чловѣкꙑ да відімі бѫдете имі · аште лі же ні мьздꙑ не имате ѡтъ отьца вашего иже естъ на небесьхъ · егда творите мілостꙑнѭ · не въстрѫбіте прѣдъ собоѭ · ꙗкоже и лицемѣри творѩтъ · въ сьньміщиихъ · да прославѧтъ сѧ ѡтъ чловѣкь · аминъ глаголѭ вам · въспріимѫтъ мъздѫ своѭ ·",
     "sr": "Pazite da milostinju ne činite da vas ljudi vide, inače nemate nagrade kod oca nebeskog. Kada činiš milostinju, ne trubi pred sobom, kao licemeri po hramovima i ulicama, da ih ljudi slave. Istinu vam kažem, primili su nagradu svoju.",
     "ms": "Vnimajte milostynje ne tvoriti prěd ljudam, da viděny budete, inače mzde ne imajete od otca nebesnogo. Tvoreči milostynju, ne vostrubi prěd soboju kak liceměri po ulicah i hramah, da proslavet se od ljudi. Istina glagolju vam, prijmeli sut mzdu svoju.",
     "source": "Evangelje po Mateju, glava 6:1-4"
@@ -4013,7 +4013,7 @@
   {
     "_id": 580,
     "author": "Isus",
-    "ocs": "Слꙑшасте ꙗко речено естъ · Възлюби искрьнѣго своего · и възненавиди врага своего · азь же глаголѭ вамь · любите врагꙑ вашѧ · благословите клънѫщѧѩ вꙑ · добро творите ненавидѧщиимъ вась · и молите за творѧщѧ вамъ напасть · да бѫдете сꙑнове отьца вашего иже естъ на небесехъ · ꙗкоже и слънце свое сиѣетъ на зьлꙑѩ и на благꙑѩ · и дьждитъ на праведънꙑѩ и на неправедънꙑѩ ·",
+    "ocs": "Слꙑшасте ꙗко речено естъ · възлюби искрьнѣго своего · и възненавиди врага своего · азь же глаголѭ вамь · любите врагꙑ вашѧ · благословите клънѫщѧѩ вꙑ · добро творите ненавидѧщиимъ вась · и молите за творѧщѧ вамъ обидѫ · да бѫдете сꙑнове отьца небесьскааго · ꙗко слънце свое сиѣетъ на зьлꙑѩ и на благꙑѩ · и дьждитъ на праведънꙑѩ и неправедънꙑѩ ·",
     "sr": "Slušaste rečeno: Ljubi bližnjeg svog i mrzi neprijatelja svoga. A ja vam kažem: Ljubite neprijatelje vaše, činite dobro onima koji vas mrze, blagoslovite koji vas kunu i molite se za one koji vas vređaju. Da budete deca oca nebeskog, koji sunce sja na zle i dobre i daždi na pravedne i nepravedne.",
     "ms": "Slyšaste rěčeno: ljubi iskrenogo tvojego i nenavidi vraga tvojego. Ja že glagolju vam: ljubite vragi vaši, dobro tvorite nenavidečim vas, blagoslovite klnuči vy i molite se za tvorečih vam obidu. Da budete děti otca nebesnogo, iže solnce sja na zle i blage i doždi pravednym i nepravednym.",
     "source": "Evangelje po Mateju, glava 5:43-45; Evangelje po Luki, glava 6:27"
@@ -5449,8 +5449,8 @@
   {
     "_id": 783,
     "author": "Isus",
-    "ocs": "ꙋчітелю идѫ по тебѣ ѣмо꙯же коліждо идеши · \nглагола емꙋ Їисъ · лисі ꙗзвинꙑ имѫтъ · и пьтицѧ небесьнъиѩ гнѣзда · а сꙑнъ чловѣчьскъ не иматъ кьде главъи подъклоніті ·",
-    "sr": "Lisice imaju jame i ptice nebeske gnijezda, no sin čovječji nema gdje zakloniti glavu i odmoriti se.",
+    "ocs": "Единъ кънижьникъ рече емꙋ · ꙋчітелю идѫ по тебѣ ꙗможе коліждо идеши · \nГлагола емꙋ Їисъ · лисі ꙗзвинꙑ имѫтъ · и пьтицѧ небесьнъиѩ гнѣзда · а сꙑнъ чловѣчьскъ не иматъ къде главъи подъклоніті ·",
+    "sr": "Jedan pisar mu reče: Učitelju, sledim te kamo god ideš. \nReče im Ješua: Lisice imaju jame i ptice nebeske gnijezda, no sin čovječji nema gdje zakloniti glavu i odmoriti se.",
     "ms": "Lisice jazviny imajut, i ptice nebesne gnězda, no syn člověčji ne imaje kde glavu podkloniti i odpočeti.",
     "source": "Evangelje po Tomi, izreka 86; Evangelje po Mateju, glava 8:20; Evangelje po Luki, 9:57-62"
   },
@@ -5779,7 +5779,7 @@
   {
     "_id": 826,
     "author": "Isus",
-    "ocs": "На мосеовѣ сѣдаліщи сѣдошѧ · кьнижьници и фарисеи · Всѣ ꙋбо елико рекѫтъ вам блюсті · съблюдаите и творіте · По дѣлом же ихъ не творіте ·",
+    "ocs": "На мосеовѣ сѣдаліщи сѣдошѧ · кьнижьници и фарисеи · Всѣ ꙋбо елико рекѫтъ вам блюсті · съблюдаите и творіте · по дѣлом же ихъ не творіте ·",
     "sr": "Na Mojsijevo prestolje sedoše pisari i licemeri. Sve što vam kažu, držite i tvorite, ali što oni čine, ne činite.",
     "ms": "Na Mošeovo sědališče sědnuhu knižniki i liceměri. Vse ubo, čto rěkut, držite i tvorite; po dělom že jih ne tvorite.",
     "source": "Evangelje po Mateju 23:2-3"
@@ -5858,17 +5858,17 @@
   {
     "_id": 837,
     "author": "Isus",
-    "ocs": "Ли кто естъ отъ васъ чловѣкъ · егоже аще проситъ сꙑнъ свои хлѣба · еда камень подастъ емѹ · ли аще рꙑбꙑ проситъ · еда змьѭ҅ подастъ емѹ · аще ѹбо вꙑ лѫкавьни сѫще · ѹмѣете дааниѣ блага даѣти чѧдомъ вашимъ · кольми паче отьць вашъ иже естъ небесехъ · дастъ благаа̑ просѧщиимъ его ·",
-    "sr": "Ko od vas čovek, zaprosi li dete hleba, kamen da njemu? Ili prosi li ribu, zmiju da njemu? Ako vi, lukavi jeste, umete davanja blaga davati deci vašoj, koliko više otac nebeski da prosećima.",
-    "ms": "Kto od vas člověk, poprosi li čedo hlěba, kamenj poda jemu? Ili prosi li rybu, zmiju poda jemu? Ako vy, lukavi jeste, umějete davanja blaga davati čadom vašim, koliko vyše otec nebesny da prosečim.",
+    "ocs": "Ли кто естъ отъ васъ чловѣкъ · егоже аще проситъ сꙑнъ хлѣба · еда камень подастъ емѹ · ли аще рꙑбꙑ проситъ · еда змьѭ подастъ емѹ · аще ѹбо вꙑ лѫкавьни сѫще ѹмѣете даꙗниꙗ блага даꙗти чѧдомъ вашимъ · кольми паче отьць вашъ небесьскъ дастъ просѧщиимъ ·",
+    "sr": "Ko li je od vas čovek, ako mu prosi dete hleba, da kamen poda njemu? Prosi li ribu, da zmiju poda njemu? Ako vi, lukavi jeste, umete davanja blaga davati deci vašoj, koliko više otac nebeski da prosećima.",
+    "ms": "Kto li jest od vas člověk, komu prosi čedo hlěba, da kamenj poda jemu? Li prosi rybu, da zmiju poda jemu? Ako vy, lukavi suče, umějete davanja blaga davati čadom vašim, koliko vyše otec nebesny da prosečim.",
     "source": "Evangelje po Mateju, glava 7:9-11"
   },
   {
     "_id": 838,
     "author": "Isus",
-    "ocs": "Зане елико въ тьмѣ рѣсте въ свѣтѣ ѹслꙑшитъ сѧ · и еже въ ѹхо глаголасте въ таилищихъ · проповѣ сѧ на кровѣхъ · никътоже не въжагаѭтъ свѣтильника · и поставлѣѭтъ его подъ спѫдомь · нъ на свѣщьницѣ · и свѣтитъ вьсѣмъ · иже въ храминѣ сѫтъ ·",
-    "sr": "Što ušima slušate, propovedajte sa krovova! Jer niko ne pali svetiljku da stavi pod posudu, no na svećnjak, da svetli svima doma.",
-    "ms": "Čto na uši slyšite, propovědajte na strěhah! Ibo nikto ne zažiga světilku da stavi pod posudu, no na svěčnik, da světli vsim doma.",
+    "ocs": "Елико въ тьмѣ рѣсте въ свѣтѣ ѹслꙑшитъ сѧ · и еже въ ѹхо глаголасте въ таилищихъ проповѣ сѧ на кровѣхъ ·",
+    "sr": "Što u tami rekoste, na svetlu čuje se. I što na uho govoriste unutra, propoveda se sa krovova.",
+    "ms": "To čto v tmě rěčeste, v světlu uslyši se. I čto v uho govoriste vnutri, propově se na strěhah!",
     "source": "Evangelje po Tomi, izreka 33; Evangelje po Mateju, 5:15; Evangelje po Marku, 4:21-23; Evangelje po Luki, 12:3"
   },
   {
@@ -5890,7 +5890,7 @@
   {
     "_id": 841,
     "author": "Isus",
-    "ocs": "Бьдите ꙋбо ꙗко не вѣсте дьне ни часа въ ньже сꙑнъ чловѣчьскъ придетъ ⁘",
+    "ocs": "Бьдите ꙗко не вѣсте дьне ни часа въ ньже сꙑнъ чловѣчьскъ придетъ ⁘",
     "sr": "Bdite, jer ne znate dana ni časa kada će gospodar doći.",
     "ms": "Bdite, ubo ne věte dnja ni časa kogda gospod prijde.",
     "source": "Evangelje po Mateju, 25:13;"
@@ -5898,9 +5898,9 @@
   {
     "_id": 842,
     "author": "Isus",
-    "ocs": "Отъ избꙑтъка бо срдцю ѹста глаголѭтъ · Добрꙑи чловѣкъ отъ добрааго съкровища износитъ добраа · а зьлꙑи чловѣкь · отъ зълааго съкровища износитъ зьлаа ·",
-    "sr": "Od obilja srca usta govore. \nDobar čovek iz dobrog skrovišta iznosi dobro, \nzao čovek iz zlog skrovišta iznosi zlo.",
-    "ms": "Od izbytka srdca usta glagolju. \nBlagy člověk od blagago sokrovišča iznosi blago, \nzly člověk od zlogo sokrovišča iznosi zlo.",
+    "ocs": "Отъ избꙑтъка срдцю ѹста глаголѭтъ · добрꙑи чловѣкъ отъ добрааго съкровища износитъ добраа · а зьлꙑи чловѣкь отъ зълааго съкровища износитъ зьлаа ·",
+    "sr": "Od obilja srca usta govore. Dobar čovek iz dobrog skrovišta iznosi dobra, zao čovek iz zlog skrovišta iznosi zla.",
+    "ms": "Od izbytka srdca usta govoret. Dobry člověk od dobrogo sokrovišča iznosi dobra, zly člověk od zlogo sokrovišča iznosi zla.",
     "source": "Evangelje po Mateju, 12:34-35; Evangelje po Luki, 6:45; Evangelje po Tomi, izreka 45"
   },
   {
@@ -5962,8 +5962,8 @@
   {
     "_id": 850,
     "author": "Isus",
-    "ocs": "Тако бѫдѫтъ послѣдъніи пръвіи · и пръвіи послѣдьніи ·",
-    "sr": "Poslednji će biti prvi i prvi poslednji.",
+    "ocs": "Бѫдѫтъ послѣдъніи пръвіи · и пръвіи послѣдьніи ·",
+    "sr": "Budu poslednji prvi i prvi poslednji.",
     "ms": "Budut poslědnji prvi i prvi poslědnji.",
     "source": "Evangelje po Mateju, glava 20:16"
   },
@@ -6002,7 +6002,7 @@
   {
     "_id": 855,
     "author": "Isus",
-    "ocs": "Ѣко аще би вѣдѣлъ господднъ храма въ кѫѭ стражѭ тать придетъ · бьдѣлъ ѹбо би и не би далъ подърꙑти храминꙑ своеѩ · Сего ради и вꙑ бѫдѣте готови · Бѫдѫ чрѣсла ваша прѣпоѣсана · и свѣтильници горѫще ·",
+    "ocs": "Аще би вѣдѣлъ господинъ храма въ кѫѭ стражѭ тать придетъ · бьдѣлъ би и не би далъ подърꙑти храминꙑ своеѩ · Сего ради и вꙑ бѫдѣте готови · Бѫдѫ чрѣсла ваша прѣпоѣсана и свѣтильници горѫще · да татие не придѫтъ вамъ ·",
     "sr": "Ako bi domaćin znao da će lopov doći, ostao bi budan da zaštiti dom. Tako i vi budite budni. Opašite se velikom silom i upalite svetla, da vam kradljivci ne priđu.",
     "ms": "Ako by věděl domu vladyka da kradec hoče prijdti, bděl by i ne by dal doma svojego. I vy ubo budite gotovi. Da budu čresla vaša prěpojasana velikom silom, i světilniky goreči, da kradci ne prijdut vam.",
     "source": "Evangelje po Tomi, izreka 21; Evangelje po Mateju, 24:43; Evangelje po Luki, 12:35-48"
@@ -6167,9 +6167,9 @@
   {
     "_id": 876,
     "author": "Isus",
-    "ocs": "Иисъ рече · аще къто не родитъ сѧ съвꙑше · не можетъ видѣти цѣсарьствиѣ божиѣ ·\nглагола къ немѹ никодимъ · како можетъ чловѣкъ родити сѧ старъ сꙑ · еда можетъ въторицеѭ въ ѫтробѫ вьлѣсти матере своеѩ и родити сѧ ·\nотъвѣща Иисъ · аще къто не родитъ сѧ водоѭ и дѹхомь · не можетъ вьнити вь цѣсарьствие божие · рожденъ отъ плъти плъть естъ · и рождено отъ дѹха дѹхъ естъ · не чюди сѧ ꙗко рѣхъ ти · подобаетъ вамъ родити сѧ съвꙑше ·",
-    "sr": "Ješua reče: Ko iznova ne rodi se, ne može videti carstvo božje. \nNikodim reče: Kako može čovek star roditi se? Može li iznova ući u utrobu matere i roditi se? \nJešua reče: Ko ne rodi se vodom i duhom, ne može ući u carstvo. Rođeno od tela, telo je, a rođeno od duha, duh. Ne čudi se što kažem, valja vam se nanovo roditi.",
-    "ms": "Ješua rěče: Kto iznova ne rodi se, ne može viděti carstvo božje. \nNikodim rěče: Kak može člověk stary roditi se? Može li snova vniti vo utrobu matere i roditi se? \nJešua rěče: Kto ne rodi se vodoju i duhom, ne može vniti vo carstvo. Rodženo od ploti plot jest, i rodženo od duha duh. Ne divi se ibo glagolju, podobaje vam roditi se snova.",
+    "ocs": "Иисъ рече · аще къто не родитъ сѧ съвꙑше · не можетъ видѣти цѣсарьствиѣ божиѣ ·\nНикодимъ рече · како можетъ чловѣкъ родити сѧ старъ сꙑ · еда можетъ въторицеѭ въ ѫтробѫ вьлѣсти матере своеѩ и родити сѧ ·\nОтъвѣща Иисъ · аще къто не родитъ сѧ водоѭ и дѹхомь не можетъ вьнити вь цѣсарьствие · рождено отъ плъти плъть естъ · и рождено отъ дѹха дѹхъ · не диви сѧ ꙗко рѣхъ · подобаетъ вамъ родити сѧ съвꙑше ·",
+    "sr": "Ješua reče: Ko iznova ne rodi se, ne može videti carstvo božje. \nNikodim reče: Kako može čovek star roditi se? Može li iznova ući u utrobu matere i roditi se? \nJešua reče: Ko ne rodi se vodom i duhom ne može ući u carstvo. Rođeno od tela telo je, a rođeno od duha duh. Ne čudi se kako kažem, treba roditi se iznova.",
+    "ms": "Ješua rěče: Kto iznova ne rodi se, ne može viděti carstvo božje. \nNikodim rěče: Kak može člověk stary roditi se? Može li snova vniti vo utrobu matere i roditi se? \nJešua rěče: Kto ne rodi se vodoju i duhom ne može vniti vo carstvo. Rodženo od ploti plot jest, i rodženo od duha duh. Ne divi se kako rěčeh, podobaje vam roditi se snova.",
     "source": "Evangelje po Jovanu, glava 3:3-7"
   },
   {
@@ -6198,9 +6198,9 @@
   {
     "_id": 880,
     "author": "Isus",
-    "ocs": "Юдеи рѣшѧ емѹ · \nкое знамение авлѣеши намъ ꙗко си твориши ·\nотъвѣща имъ Їисъ · \nразорите црькъвь сиѭ и трьми дьнꙑ вьздвигнѫ ѭ ·",
-    "sr": "Judeji mu rekoše: \nOdakle ti pravo činiti to, pokaži nam neki znak! \nJešua odgovori: \nRazorite ovu crkvu i za tri dana ću je podići.",
-    "ms": "Judeji rěčehu jemu: \nKoje znamenje javjaš nam, da sej tvoriš. \nJešua odgovori: \nRazorite crkov ta, i za tri dni vozdvignu ju.",
+    "ocs": "Юдеи рѣшѧ емѹ · \nКое знамение авлѣеши намъ ꙗко си твориши ·\nОтъвѣща имъ Їисъ · \nРазорите црькъвь сиѭ и трьми дьнꙑ вьздвигнѫ ѭ ·",
+    "sr": "Judeji mu rekoše: \nKoje znamenje javljaš nam da ovo tvoriš?\nOdgovori im Ješua: \nRazorite crkvu ovu i za tri dana podignem ju.",
+    "ms": "Judeji rěčehu jemu: \nKoje znamenje javjaš nam že sej tvoriš? \nOdpově jim Ješua: \nRazorite crkov sej i trěmi dnjami vozdvignu ju.",
     "source": "Evangelje po Jovanu, 2:18-19"
   },
   {
@@ -11370,5 +11370,21 @@
     "sr": "Čuvajte se, bdite i molite se, jer ne znate kada vreme bude.",
     "ms": "",
     "source": "Evangelje po Marku, 13:33"
+  },
+  {
+    "_id": 1693,
+    "author": "Isus",
+    "ocs": "аще любите любѧщѧѩ вꙑ · кѫѭ мъздѫ имате · не и мьздоимьци ли тожде творѧтъ · и аще цѣлѹете дрѹгꙑ вашѧ тькмо · что лихо творите · не и мьздоимьци ли тожде творѧтъ ·",
+    "sr": "",
+    "ms": "",
+    "source": "Evangelje po Mateju, 5:46-47;"
+  },
+  {
+    "_id": 1694,
+    "author": "Isus",
+    "ocs": "Никътоже не въжагаѭтъ свѣтильника и поставлѣѭтъ его подъ спѫдомь · нъ на свѣщьницѣ · и свѣтитъ вьсѣмъ иже въ храминѣ сѫтъ ·",
+    "sr": "Niko ne pali svetiljku da stavi pod posudu, no na svećnjak, da svetli svima doma.",
+    "ms": "Nikto ne zažiga světilku da stavi pod posudu, no na svěčnik, da světli vsim doma.",
+    "source": "Evangelje po Tomi, izreka 33; Evangelje po Mateju, 5:15; Evangelje po Marku, 4:21-23; Evangelje po Luki, 12:3"
   }
 ]

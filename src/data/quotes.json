@@ -1170,8 +1170,8 @@
     "_id": 169,
     "author": "Isus",
     "ocs": "Невъзможьно естъ да не придѫтъ съблазни · обаче горе томѹ имьже придѫтъ ·",
-    "sr": "Nije moguće da zla ne dođu, ali teško onome preko koga dolaze.",
-    "ms": "Ne možno zlam ne prihoditi, ale težko tomu posrědstvom kogo prihodet.",
+    "sr": "Nemoguće da zla ne dođu, ali teško tome preko koga dođu.",
+    "ms": "Nemožno zlam ne prijdti, ale težko tomu posrědstvom kogo prijdut.",
     "source": "Evangelje po Luki, glava 17:1"
   },
   {
@@ -2283,8 +2283,8 @@
     "_id": 328,
     "author": "Isus",
     "ocs": "Рече же ѥдинъ · идѫ по тебѣ господи · древле же повели отъврѣщи ми сѧ иже сѫтъ въ домѹ моемъ ·\nРече же Їисъ · никто же възложь рѫкꙑ своеѩ на орало · и зьрѧ вьспѧть · ѹправленъ естъ въ цѣсарьство божие ⁘",
-    "sr": "Reče mu jedan: \nJa idem s tobom gospode; dozvoli mi napre oprostiti se sa mojima doma. \nJešua reče: \nKo stavi ruku na ralo i gleda nazad, nije za carstvo božije.",
-    "ms": "Rěče mu jedin: \nJa idu so toboju, gospodi; prědže že dozvoli mi proščati se so mojimi doma. \nRěče že jemu Ješua: \nKto vozloži ruku na ralo i zri nazad, ne jest upravjeny v carstvo božje.",
+    "sr": "Reče mu jedan:  Ja idem s tobom gospode; dozvoli mi napre oprostiti se sa mojima doma. \nJešua reče: Ko stavi ruku na ralo i gleda nazad, nije za carstvo božije.",
+    "ms": "Rěče mu jedin: Ja idu so toboju, gospodi; prědže že dozvoli mi proščati se so mojimi doma. \nRěče že jemu Ješua: Kto vozloži ruku na ralo i zri nazad, ne jest upravjeny v carstvo božje.",
     "source": "Evangelje po Luki, glava 9:61"
   },
   {
@@ -2410,7 +2410,7 @@
   {
     "_id": 347,
     "author": "Isus",
-    "ocs": "Не осѫждаіте да не осѫдите сѧ · о немьже сѫдѣ сѫдите сѫдѧтъ сѧ вамъ · и вь нѫже мѣрѫ мѣрите · мѣритъ сѧ вамъ · и приложитъ сѧ вамъ\nслꙑшѧщеимъ ·",
+    "ocs": "Не осѫждаіте да не осѫдите сѧ · о немьже сѫдѣ сѫдите сѫдѧтъ сѧ вамъ · и вь нѫже мѣрѫ мѣрите · мѣритъ сѧ вамъ · и приложитъ сѧ вамъ слꙑшѧщеимъ ·",
     "sr": "Ne sudite da ne budete suđeni. \nJer, kakvim sudom sudite, sudiće vam. \nI kojom mjerom mjerite mjerit će vam se. \nI priložiće se vama koji slušate.",
     "ms": "Ne sudite, da ne sudimy budete. \nIbo, kakym sudom sudite, sudet vam. \nI v koju měru měrite, vozměri se vam. \nI priloži se vam slyšečim.",
     "source": "Evangelje po Mateju, glava 7:1-2; Evangelje po Marku, glava 4:24; Evangelje po Luki, glava 6:37"
@@ -3466,9 +3466,9 @@
   {
     "_id": 502,
     "author": "Isus",
-    "ocs": "Имѫщюмѹ бо весьде дано бѫдетъ и избѫдетъ ·\nа отъ не имѫщааго и еже аще мьнитъ сѧ имꙑ вьзѧто\nбѫдетъ отъ него ⁘",
-    "sr": "Ko ima, daće mu se. Ko nema, uzeće mu se i to što ima.",
-    "ms": "Kto imaje, bude mu dano. Kto ne imaje, bude mu vzeno i to čto imaje.",
+    "ocs": "Имѫщюмѹ дано бѫдетъ · а отъ не имѫщааго и еже мьнитъ сѧ имꙑ · вьзѧто бѫдетъ ⁘",
+    "sr": "Ko ima, daće mu se. Ko nema, uzeće mu se i to što misli da ima.",
+    "ms": "Imajučemu bude dano. A od ne imajučego i že mni že imaje vzeno bude.",
     "source": "Matej 13:12, Matej 25:29, Marko 4:25, Luka 8:18, Luka 19:26, Toma 41"
   },
   {
@@ -6026,7 +6026,7 @@
   {
     "_id": 858,
     "author": "Isus",
-    "ocs": "Вьнемлѣте же себѣ · еда когда отѧгъчаѭтъ сръдьца ваша · обѣданьемь и пьѣньствомь · печальми житиискꙑми · и наидетъ на вꙑ вьнезаапѫ дьнь тъ ·",
+    "ocs": "Вьнемлѣте же себѣ · еда когда отѧгъчаѭтъ сръдьца ваша · обѣданьемь и пьѣньствомь · и печальми житиискꙑми · и наидетъ на вꙑ вьнезаапѫ дьнь тъ ·",
     "sr": "Čuvajte se, da vam srca ne otežaju žderanjem, pijanstvom i životnim brigama, i dođe vam iznenada dan taj.",
     "ms": "Čuvajte sebe, da ne otežajut srdca vaša objedanjem i pijanstvom i opekami životnymi, i najde na vy iznenada denj toj.",
     "source": "Evangelje po Luki, 21:34"
@@ -6206,7 +6206,7 @@
   {
     "_id": 881,
     "author": "Isus",
-    "ocs": "Единѣмъ глаголѭщемь о црькъви · ꙗко камениемь добромь и съсѫдꙑ ѹкрашена естъ · \nИисъ рече · си ѣже видите · придѫтъ дьнье вь нѧже не останетъ · камень на камене · иже не разоритъ сѧ ·",
+    "ocs": "Единѣмъ глаголѭщемь о црькъви · ꙗко камениемь добромь и съсѫдꙑ ѹкрашена естъ · Иисъ рече · си ѣже видите · придѫтъ дьнье вь нѧже не останетъ камень на камене · иже не разоритъ сѧ ·",
     "sr": "Učenici mu pokazaše zdanje hrama i rekoše: Gle, kako je divnim kamenjem i darovima ukrašeno!\nJešua odgovori: Istinu vam kažem, neće ovde ostati kamen na kamenu, koji ne razori se.",
     "ms": "Učeniki pokazahu jemu zdanja crkovna i rěčehu: Gle, kako kamenjem dobrym i darami ukrašena.\nJešua rěče: Amin glagolju vam, ne imaje ostati sde kamenj na kamenji, iže ne razori se.",
     "source": "Evangelje po Mateju 24:1-2; Evangelje po Luki 21:5-6; James Robson, Christ in Islam (A. 62.)"
@@ -6332,9 +6332,9 @@
   {
     "_id": 898,
     "author": "Isus",
-    "ocs": "Егда же постите сѧ · не бѫдѣте ꙗко и лицемѣри жалѹѭще · просмраждаѭще бо лица своꙗ · да бꙑшѧ сѧ ꙗвили чловѣкомъ постѧще · амин꙯ глаголѫ вамъ · ꙗко въсприімѫтъ мьздѫ своѭ · тꙑ же постѧ сѧ помажи главѫ своѭ · и лице свое ѹмꙑ · да не ꙗвите сѧ чловѣкомъ постѧще сѧ · нъ отьцю твоемѹ иже естъ въ таінѣ · и твое видитъ въ таінѣ · и въздастъ ти ꙗвѣ ·",
-    "sr": "Kada postite, ne budite kao licemeri: pomračuju lica svoja, da jave se ljudima posteći. Kažem vam, primiše nagradu svoju. Ti kada postiš namaži glavu i lice umij, da ne javiš se ljudima no ocu tvojemu. I otac tvoj, videći tajno, daće tebi javno.",
-    "ms": "Kogda postite, ne budite kak liceměri: pomračet lica svoja, da javet se člověkom posteči. Glagolju vam, prijehu mzdu svoju. Ty kogda postiš pomaži glavu i lice umyj, da ne javiš se člověkom no otcu tvojemu. I otec tvoj, viděvši v tajne, vozda tebe javě.",
+    "ocs": "Егда постите сѧ · не бѫдѣте ꙗко лицемѣри · просмраждаѭще бо лица своꙗ · да бꙑшѧ сѧ ꙗвили чловѣкомъ постѧще · аминъ глаголѫ вамъ · ꙗко въсприімѫтъ мьздѫ своѭ · тꙑ же постѧ сѧ помажи главѫ своѭ и лице свое ѹмꙑ · да не авиши сѧ чловѣкомъ постѧ сѧ · нъ отьцю твоемѹ · и отьцъ видѧи въ таинѣ · въздастъ тебѣ ѣвѣ ·",
+    "sr": "Kada postite, ne budite kao licemeri: pomračuju lica svoja, da jave se ljudima posteći. Kažem vam, primiše nagradu svoju. Ti kada postiš namaži glavu i lice umij, da ne javiš se ljudima no ocu tvojemu. I otac, videći tajno, daće tebi javno.",
+    "ms": "Kogda postite, ne budite kak liceměri: pomračet lica svoja, da javet se člověkom posteči. Glagolju vam, prijehu mzdu svoju. Ty kogda postiš pomaži glavu i lice umyj, da ne javiš se člověkom no otcu tvojemu. I otec, viděvši v tajne, vozda tebe javě.",
     "source": "Evangelje po Mateju 6:16-18"
   },
   {

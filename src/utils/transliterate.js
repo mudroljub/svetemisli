@@ -1,4 +1,4 @@
-const shSpecific = text => text
+const replaceSrDoubles = text => text
   .replace(/lj/g, 'љ')
   .replace(/Lj/g, 'Љ')
   .replace(/LJ/g, 'Љ')
@@ -9,13 +9,18 @@ const shSpecific = text => text
   .replace(/Dž/g, 'Џ')
   .replace(/DŽ/g, 'Џ')
 
-const msSpecific = text => text
+const replaceMsDoubles = text => text
   .replace(/lj/g, 'ль')
   .replace(/Lj/g, 'Ль')
   .replace(/LJ/g, 'Ль')
   .replace(/nj/g, 'нь')
   .replace(/Nj/g, 'Нь')
   .replace(/NJ/g, 'Нь')
+
+const replaceOcsDoubles = text => text
+  .replace(/оу/g, 'u')
+  .replace(/Оу/g, 'u')
+  .replace(/ОУ/g, 'u')
 
 const latinicDict = {
   A: 'А', a: 'а',
@@ -103,8 +108,8 @@ const toLatinic = text => [...text].map(x => cyrillicDict[x] || x).join('')
 const toCyrillic = text => [...text].map(x => latinicDict[x] || x).join('')
 
 export default function transliterate(text = '', script, lang) {
-  if (script === 'lat' && lang === 'ocs') return toLatinic(text)
+  if (script === 'lat' && lang === 'ocs') return toLatinic(replaceOcsDoubles(text))
   return script === 'lat'
     ? text
-    : toCyrillic(lang === 'sr' ? shSpecific(text) : msSpecific(text))
+    : toCyrillic(lang === 'sr' ? replaceSrDoubles(text) : replaceMsDoubles(text))
 }

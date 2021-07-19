@@ -4,14 +4,14 @@ import { useSelector, useDispatch } from 'react-redux'
 import Filters from './Filters'
 import AuthorThumb from './AuthorThumb'
 import {getThumbnails, getImg} from '../../utils/helpers'
-import { setShowSidebar } from '../../store/actions'
-
+import { setShowSidebar, useTranslate } from '../../store/actions'
 import './sidebar.css'
 
 const Sidebar = () => {
   const {allAuthors, filteredAuthors, showSidebar} = useSelector(state => state)
   const [thumbnails, setThumbnails] = useState(new Map())
   const dispatch = useDispatch()
+  const translate = useTranslate()
 
   const getAuthorThumbs = allAuthors => {
     const withImg = [...allAuthors].filter(x => !getImg(x))
@@ -43,7 +43,7 @@ const Sidebar = () => {
 
   return (
     <aside className="sidebar">
-      <button onClick={toggle} className="no-button toggle-button">
+      <button onClick={toggle} title={translate('SEARCH')} className="no-button toggle-button">
         <span role="img" aria-label="search" className="search-icon">&#x1F50D;</span>
       </button>
       {showSidebar &&

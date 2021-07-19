@@ -25,7 +25,7 @@ npm start
 
 # TODO
 
-- ažurirati ms: 107, 259
+- ažurirati ms: 259
 - 881 показа емꙋ зьданиѣ ц꙯рквьнаа (зъданиѣ ц꙯рквънаѣ)
 - ćirilični latinični input za sve jezike
 - staroslovenski

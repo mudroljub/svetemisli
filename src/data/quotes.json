@@ -239,7 +239,7 @@
   {
     "_id": 34,
     "author": "Isus",
-    "ocs": "Единъ отъ оученикъ рече емоу · господи повели ми прѣжде ити и погрети отьца моего ·\nРече же емоу Їисъ · остави мрътвꙑмъ погрети своѩ мрътвьцѧ · тꙑ же шьдъ възвѣщаи цѣсарьствиѥ божье ·",
+    "ocs": "Единъ отъ оученикъ рече емоу · господи повели ми прѣжде ити и погрети отьца моего ·\nРече же емоу Їисъ · грѧди по мнѣ · и остави мрътвꙑѩ погрети своѩ мрътвьцѧ ·",
     "sr": "Jedаn učenik reče mu: Dozvoli mi najpre ići i pokopati oca. \nJešua odgovori: Pođi sa mnom i ostavi neka mrtvi pokopaju svoje mrtve.",
     "ms": "Jedin učenik rěče mu: Pozvoli mi prědže idti i pogrebsti otca mojego. \nJešua že rěče jemu: Pojdi so mnoju i ostavi mrtvym pogrebsti svoje mrtve.",
     "source": "Evangelje po Mateju, glava 8:22;  Evangelje po Luki, 9:59-62"
@@ -734,8 +734,8 @@
     "_id": 107,
     "author": "Isus",
     "ocs": "Слꙑшасте ꙗко речено бꙑстъ · око за око и зѫбъ за зѫбъ · азъ же глаголѭ вамъ · не противити сѧ зълоу · биѭщюмоу тѧ въ ланитѫ · обрати и дроугѫѭ · отемлѭщюмоу тебѣ ризѫ · и срачицѧ не възбрани · и аще къто поиметъ тѧ по силѣ попьрище едино · иди съ нимь дьвѣ ⁘",
-    "sr": "Čuli ste kako je rečeno: oko za oko, zub za zub. A ja vam kažem ne protivite se zlu. Bijućem te po obrazu, okreni i drugi. Otimućem od tebe odeću, daj i ogrtač. I ko te silom povede jednu milju, idi sa njim dve.",
-    "ms": "Slyšaste rěčeno: oko za oko, zub za zub. Ja že glagolju vam: ne protivite se zlu. Udari li te kto v desnu lanitu, obrati jemu i drugu. I hočučemu suditi se s toboju oděž tvoj vzeti, odpusti jemu i plašč. I kto te potěra siloju poprišče jedno, idi s jim dva.",
+    "sr": "Čuli ste kako rečeno beše: oko za oko, zub za zub. A ja vam kažem: ne protivite se zlu. Bijućem te po obrazu, okreni i drugi. Otimućem od tebe odeću, daj i ogrtač. I ako ko povede te silom jednu milju, idi sa njim dve.",
+    "ms": "Slyšaste kako rěčeno běše: oko za oko, zub za zub. Ja že kažu vam: ne protivite se zlu. Bijučemu te po desnomu ličesi, obrati i drugo. Grabečemu tebě oděž, i plašč ne vozbrani. I kto potěra te siloju milju jednu, idi s njim dvě.",
     "source": "Evangelje po Mateju 5:38-41; Evangelje po Luki 6:29"
   },
   {
@@ -1171,7 +1171,7 @@
     "author": "Isus",
     "ocs": "Невъзможьно естъ да не придѫтъ съблазни · обаче горе томоу имьже придѫтъ ·",
     "sr": "Nemoguće da zla ne dođu, ali teško tome preko koga dođu.",
-    "ms": "Nemožno zlam ne prijdti, ale težko tomu posrědstvom kogo prijdut.",
+    "ms": "Nemožno da zla ne prijdut, ale težko tomu posrědstvom kogo prijdut.",
     "source": "Evangelje po Luki, glava 17:1"
   },
   {
@@ -1797,9 +1797,9 @@
   {
     "_id": 259,
     "author": "Isus",
-    "ocs": "Глаголаахѫ ꙋченикомъ его · по чьто съ грѣшьницами ѣстъ ꙋчітель вашь ·\nЇисъ же рече имъ · не трѣбꙋѭтъ съдравіи врача нъ болѧщиі ·",
-    "sr": "Videše ga da izlazi iz doma razvratnice i neko reče:\nO Ješua, šta radiš sa tom ženom?\nOn odgovori:\nNe trebaju zdravi lekara no bolesni.",
-    "ms": "Viděhu go že izhodi iz doma razvratnice i někoj rěče:\nO Ješua, čto dělaš so tom ženoju?\nOn odgovori:\nNe trěbujut zdravy vrača, no boljny.",
+    "ocs": "Етери глаголаахѫ ꙋченикомъ его · по чьто съ блѫдьницами ѥстъ ꙋчітель вашь ·\nЇисъ же рече имъ · не трѣбꙋѭтъ съдравіи врача нъ болѧщиі ·",
+    "sr": "Videše ga da izlazi iz doma bludnice i neko reče:\nO Ješua, šta radiš sa tom ženom?\nOn odgovori:\nNe trebaju zdravi lekara no bolesni.",
+    "ms": "Viděhu go že izhodi iz doma bludnice i někoj rěče:\nO Ješua, čto dělaš so tom ženoju?\nOn odgovori:\nNe trěbujut zdravy vrača, no boljny.",
     "source": "James Robson, Christ in Islam (A. 104.); Evangelje po Mateju, 9:9-13; Evangelje po Marku, 2:14-17; Evangelje po Luki, 5:29-32"
   },
   {
@@ -3789,9 +3789,9 @@
   {
     "_id": 548,
     "author": "Isus",
-    "ocs": "Иегда моліші сѧ · не бѫді ѣко и ліцемѣрі · ѣко ті любѧтъ на сьньмиштиихъ и въ стьгнахъ · и на распѫтіих стоѩште молиті сѧ · да ѣвѧтъ сѧ чловѣкомъ · аминъ глаголѭ вам · въсприимѫт мъздѫ своѭ · Тꙑ же егда моліші сѧ · въниді въ клѣть твоѭ · и затворі двьрі твоѩ · и помолі сѧ отьцю твоемꙋ въ таинѣ · и отьць твои видѧи тѧ въ таинѣ · въздастъ тебѣ ѣвѣ ·",
-    "sr": "Kada se moliš ne budi kao licemeri, koji vole u hramovima i ulicama moliti se, da se pokažu ljudima. Zaista vam kažem, primili su nagradu svoju. Ti kada se moliš, uđi u svoju sobu, zatvori vrata i pomoli se ocu. I otac koji vidi tajno, daće tebi javno.",
-    "ms": "Kogda moliš se ne budi kak liceměri, koji ljubet v hramah i ulicah moliti se, da javet se člověkom. Istina glagolju vam, prijmili sut mzdu svoju. Ty kogda moliš se, vnidi v klět tvoju, zatvori dveri i pomoli se otcu. I otec videči v tajne, vozda tebe javě.",
+    "ocs": "Егда моліші сѧ не бѫді ꙗко ліцемѣрі · иже любѧтъ на сьньмиштиихъ и распѫтіих молиті сѧ да ꙗвѧтъ сѧ чловѣкомъ · аминъ глаголѭ вам · въсприимѫт мъздѫ своѭ · Тꙑ же егда моліші сѧ · въниді въ клѣть твоѭ · затворі двьрі · и помолі сѧ отьцоу · и отьць видѧи въ таинѣ · въздастъ тебѣ ꙗвѣ ·",
+    "sr": "Kada moliš se ne budi kao licemeri, koji ljube na zborištima i ulicama moliti se, da jave se ljudima. Zaista kažem vam, primiše nagradu svoju. Ti kada moliš se, uniđi u kuću tvoju, zatvori vrata i pomoli se ocu. I otac videći tajno, daće tebi javno.",
+    "ms": "Kogda moliš se ne budi kako liceměri, iže ljubet v sboriščah i ulicah moliti se, da javet se ljudam. Istina kažu vam, prijehu nagradu svoju. Ty kogda moliš se, vojdi v klět tvoju, zatvori dveri i pomoli se otcu. I otec videči v tajně, vozda tebe v javě.",
     "source": "Evangelje po Mateju, glava 6:5-6; Evangelje po Filipu"
   },
   {
@@ -6207,9 +6207,9 @@
   {
     "_id": 881,
     "author": "Isus",
-    "ocs": "Етеръ глаголааше о црькъви · ꙗко камениемь добромь и съсѫдꙑ оукрашена естъ · \nЇисъ рече · си ѣже видите · не иматъ съде остати камень на камени · иже не разоритъ сѧ ⁘",
-    "sr": "Neko pokaza zdanje hrama i reče: Gle, kako je divnim kamenjem i darovima ukrašeno!\nJešua odgovori: Sve to što vidite, neće ostati kamen na kamenu, koji ne razori se.",
-    "ms": "Někoj pokaže zdanja crkovna i rěče: Gle, kako kamenjem dobrym i darami ukrašeno.\nJešua rěče: Se že vidite, ne imaje ostati kamenj na kamenji, iže ne razori se.",
+    "ocs": "Етеръ показа емꙋ зьданиꙗ црькъвьнаꙗ · ꙗко камениемь добромь и съсѫдꙑ оукрашена сѫтъ · \nЇисъ рече · си ꙗже видите · не иматъ съде остати камень на камени · иже не разоритъ сѧ ⁘",
+    "sr": "Neko pokaza njemu zdanja crkvena, kako dragim kamenjem i darovima ukrašena su.\nJešu reče: Sve to što vidite, neće ostati kamen na kamenu, koji ne razori se.",
+    "ms": "Někoj pokaže jemu zdanja crkovna, kako kamenjem dobrym i darami ukrašena sut.\nJešu rěče: Se že vidite, ne imaje sde ostati kamenj na kamenji, iže ne razori se.",
     "source": "Evangelje po Mateju 24:1-2; Evangelje po Luki 21:5-6; James Robson, Christ in Islam (A. 62.)"
   },
   {
@@ -9817,8 +9817,8 @@
     "_id": 1432,
     "author": "Isus",
     "ocs": "Аще миръ васъ ненавидитъ · вѣдите ꙗко мене прѣжде вьзненавидѣ ·",
-    "sr": "Ako vas svijet omrzne, znajte i mene omrznuše prije vas.",
-    "ms": "Ako vas svět omrzi, znajte i mene omrziše prědže vas.",
+    "sr": "Ako svijet vas mrzi, znajte kako mene prije omrznu.",
+    "ms": "Ako svět vas nenavidi, vědte kako mene prědže voznenavidě.",
     "source": "Evangelje po Jovanu, 15:18"
   },
   {

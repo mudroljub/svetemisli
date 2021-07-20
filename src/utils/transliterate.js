@@ -22,7 +22,7 @@ const replaceOcsDoubles = text => text
   .replace(/Оу/g, 'u')
   .replace(/ОУ/g, 'u')
 
-const latToCyrDict = {
+const latCyrDict = {
   А: 'А', а: 'а',
   B: 'Б', b: 'б',
   C: 'Ц', c: 'ц',
@@ -56,7 +56,7 @@ const latToCyrDict = {
   Ž: 'Ж', ž: 'ж',
 }
 
-const cyrToLatDict = {
+const cyrLatDict = {
   A: 'A', а: 'a',
   Б: 'B', б: 'b',
   В: 'V', в: 'v',
@@ -108,9 +108,9 @@ const cyrToLatDict = {
   // ѵ: i, y, v
 }
 
-export const toLatinic = text => [...text].map(x => cyrToLatDict[x] || x).join('')
+export const toLatinic = text => [...text].map(x => cyrLatDict[x] || x).join('')
 
-const toCyrillic = text => [...text].map(x => latToCyrDict[x] || x).join('')
+const toCyrillic = text => [...text].map(x => latCyrDict[x] || x).join('')
 
 export default function transliterate(text = '', script, lang) {
   if (script === 'lat' && lang === 'ocs') return toLatinic(replaceOcsDoubles(text))

@@ -11,7 +11,7 @@ export function findValue(object, searchKey) {
 }
 
 // TODO: srediti da se crveni normalizovana fraza
-const normalizeLat = text => text
+const normalize = text => text
   .replace(/y/g, 'i')
   .replace(/ě/g, 'e')
   .replace(/ę/g, 'e')
@@ -24,7 +24,7 @@ export const includes = (text, phrase = '') => {
   if (!text) return false
   const t = toLatinic(text.toLowerCase())
   const f = toLatinic(phrase.toLowerCase())
-  return t.includes(f) || normalizeLat(t).includes(f) // можда нормализовати и фразу
+  return t.includes(f) || normalize(t).includes(normalize(f)) // можда нормализовати и фразу
 }
 
 export const isInText = (text, phrase) => phrase ? includes(text, phrase) : true

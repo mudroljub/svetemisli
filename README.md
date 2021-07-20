@@ -25,6 +25,7 @@ npm start
 
 # TODO
 
+- srediti da se crveni normalizovana fraza?
 - ažurirati ms: 259
 - ćirilični latinični input za sve jezike
 - staroslovenski

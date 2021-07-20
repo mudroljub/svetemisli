@@ -10,13 +10,13 @@ export function findValue(object, searchKey) {
   return value
 }
 
-// TODO: srediti da se crveni normalizovana fraza
 const normalize = text => text
   .replace(/y/g, 'i')
   .replace(/ě/g, 'e')
   .replace(/ę/g, 'e')
   .replace(/ǫ/g, 'u')
   .replace(/ǵ/g, 'g')
+  .replace(/j/g, '')
   .replace(/ъ/g, '')
   .replace(/ь/g, '')
 

@@ -1,4 +1,5 @@
 import authors from '../data/authors.json'
+import { toLatinic } from './transliterate'
 
 export function findValue(object, searchKey) {
   let value
@@ -9,10 +10,21 @@ export function findValue(object, searchKey) {
   return value
 }
 
+// TODO: srediti da se crveni normalizovana fraza
+const normalizeLat = text => text
+  .replace(/y/g, 'i')
+  .replace(/ě/g, 'e')
+  .replace(/ę/g, 'e')
+  .replace(/ǫ/g, 'u')
+  .replace(/ǵ/g, 'g')
+  .replace(/ъ/g, '')
+  .replace(/ь/g, '')
+
 export const includes = (text, phrase = '') => {
   if (!text) return false
-  const t = text.toLowerCase(), p = phrase.toLowerCase()
-  return t.includes(p) || t.replace(/ě/g, 'e').replace(/y/g, 'i').includes(p)
+  const t = toLatinic(text.toLowerCase())
+  const f = toLatinic(phrase.toLowerCase())
+  return t.includes(f) || normalizeLat(t).includes(f) // можда нормализовати и фразу
 }
 
 export const isInText = (text, phrase) => phrase ? includes(text, phrase) : true

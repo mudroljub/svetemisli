@@ -40,7 +40,7 @@ const Filters = () => {
   return (
     <div className="filters">
       <h3><label htmlFor="izreke">{translate('SEARCH_QUOTES')}</label></h3>
-      <input id="izreke" value={phrase} placeholder="latin input" onChange={changePhrase} />
+      <input id="izreke" value={phrase} onChange={changePhrase} />
 
       <h3><label htmlFor="avtori">{translate('SEARCH_AUTHORS')}</label></h3>
       <input id="avtori" value={authorPhrase} onChange={changeAuthorPhrase} />

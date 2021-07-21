@@ -1,4 +1,4 @@
-const replaceSrDoubles = text => text
+const replacLatDoublesSr = text => text
   .replace(/lj/g, 'љ')
   .replace(/Lj/g, 'Љ')
   .replace(/LJ/g, 'Љ')
@@ -9,7 +9,7 @@ const replaceSrDoubles = text => text
   .replace(/Dž/g, 'Џ')
   .replace(/DŽ/g, 'Џ')
 
-const replaceMsDoubles = text => text
+const replacLatDoublesMs = text => text
   .replace(/lj/g, 'ль')
   .replace(/Lj/g, 'Ль')
   .replace(/LJ/g, 'Ль')
@@ -17,7 +17,7 @@ const replaceMsDoubles = text => text
   .replace(/Nj/g, 'Нь')
   .replace(/NJ/g, 'Нь')
 
-const replaceOcsDoubles = text => text
+const replacCyrDoubles = text => text
   .replace(/оу/g, 'u')
   .replace(/Оу/g, 'u')
   .replace(/ОУ/g, 'u')
@@ -113,8 +113,7 @@ export const toLatinic = text => [...text].map(x => cyrLatDict[x] || x).join('')
 const toCyrillic = text => [...text].map(x => latCyrDict[x] || x).join('')
 
 export default function transliterate(text = '', script, lang) {
-  if (script === 'lat' && lang === 'ocs') return toLatinic(replaceOcsDoubles(text))
   return script === 'lat'
-    ? toLatinic(text)
-    : toCyrillic(lang === 'sr' ? replaceSrDoubles(text) : replaceMsDoubles(text))
+    ? toLatinic(replacCyrDoubles(text))
+    : toCyrillic(lang === 'sr' ? replacLatDoublesSr(text) : replacLatDoublesMs(text))
 }

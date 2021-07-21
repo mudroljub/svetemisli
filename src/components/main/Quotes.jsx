@@ -40,7 +40,7 @@ export default function Quotes({quotes, hideImage}) {
   }
 
   const jsxQuotes = quotes
-    .filter((q, i) => i >= startPosition && i < startPosition + quotesPerPage) // eslint-disable-line no-unused-vars
+    .filter((q, i) => i >= startPosition && i < startPosition + quotesPerPage)
     .map(q => <Quote key={q._id} quote={q} />)
 
   if (!hideImage) addImgTo(jsxQuotes)

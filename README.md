@@ -32,4 +32,5 @@ npm start
   - prevesti interfejs (show - чьтѥниѥ)
   - srediti prevode: лихоимиѣ, соломѵнъ 
 - dodati o nama
+  - Duhovna baština čovečanstva.
 - tagovi

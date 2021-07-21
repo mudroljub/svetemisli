@@ -115,6 +115,6 @@ const toCyrillic = text => [...text].map(x => latCyrDict[x] || x).join('')
 export default function transliterate(text = '', script, lang) {
   if (script === 'lat' && lang === 'ocs') return toLatinic(replaceOcsDoubles(text))
   return script === 'lat'
-    ? text
+    ? toLatinic(text)
     : toCyrillic(lang === 'sr' ? replaceSrDoubles(text) : replaceMsDoubles(text))
 }

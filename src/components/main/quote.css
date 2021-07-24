@@ -71,6 +71,10 @@
   padding: 20px;
 }
 
+.big-quote {
+  width: 100%;
+}
+
 .big-quote .quote-text {
   font-size: 1.2em;
   font-weight: bold;

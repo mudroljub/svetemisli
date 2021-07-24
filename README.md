@@ -25,12 +25,8 @@ npm start
 
 # TODO
 
-- srediti da se crveni normalizovana fraza?
-- ažurirati ms: 259
-- ćirilični latinični input za sve jezike
-- staroslovenski
-  - prevesti interfejs (show - чьтѥниѥ)
-  - srediti prevode: лихоимиѣ, соломѵнъ 
+- prevesti ѵ 
 - dodati o nama
   - Duhovna baština čovečanstva.
 - tagovi
+- ažurirati ms: 259

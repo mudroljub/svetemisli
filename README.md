@@ -11,7 +11,3 @@
 [Svete misli](https://svetemisli.github.io), zbirka duhovnih citata. Izreke osnivača velikih religija, mudraca i svetaca.
 
 [Свете мисли](https://svetemisli.github.io), збирка духовних цитата. Изреке оснивача великих религија, мудраца и светаца.
-
-## New address
-
-The repository has been moved to https://github.com/svetemysli/svetemysli.github.io

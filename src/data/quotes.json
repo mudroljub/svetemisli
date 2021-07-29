@@ -5049,20 +5049,20 @@
     "source": "Evangelje po Tomi, izreka 39; Evangelje po Mateju 23:13; Evangelje po Luki 11:52"
   },
   {
-    "sr": "Traži i ne prestaj tražiti dok ne nađeš. \nNašavši, uznemićeš se. \nUznemiren, divićeš se. \nI tada ćeš vladati nad svim.",
+    "_id": 728,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 2",
+    "ocs": "",
+    "sr": "Traži i ne prestaj tražiti dok ne nađeš. \nNašavši, uznemirićeš se. \nUznemiren, divićeš se. \nI tada ćeš vladati nad svim.",
     "ms": "Išči i ne prěstaj iskati dokolě ne najdeš. \nNaševši, budeš obezpokojiti se. \nBezpokojny, udiviš se. \nI togda budeš vladajuči nad vsim.",
-    "wiki": "https://sh.wikipedia.org/wiki/Tra%C5%BEi_i_kucaj",
-    "_id": 728
+    "source": "Evangelje po Tomi, izreka 2"
   },
   {
     "_id": 729,
     "author": "Isus",
+    "ocs": "Старьць без сѫмьнѣниꙗ буде въпрашати чѧдо отъ седмь дьни объ мѣстѣ живота, и тъ буде жити.",
     "sr": "Starac će bez kolebanja pitati čedo od sedam dana o mjestu života, i on će živjeti.",
     "ms": "Starec bez kolěbanja bude pytati čedo od sedm dni ob městu života, i on bude žiti.",
-    "source": "Evangelje po Tomi, izreka 4",
-    "wiki": ""
+    "source": "Evangelje po Tomi, izreka 4"
   },
   {
     "sr": "Poznaj što ti je pred licem, i ono skriveno biće ti otkriveno.",
@@ -5087,18 +5087,20 @@
     "_id": 732
   },
   {
-    "sr": "Bacih požar na svijet, \ni gle, posmatram ga dok gori.",
+    "_id": 733,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 10",
-    "ms": "Metnuh požar na svět, \ni gle, smotrim go dokolě gori.",
-    "_id": 733
+    "ocs": "Въврьгохъ огнꙗ въ землѭ · и се съмощрѭ ꙗко горитъ ·",
+    "sr": "Bacih požar na svijet, i gle, posmatram ga dok gori.",
+    "ms": "Metnuh požar na svět, i gle, smotrim go dokolě gori.",
+    "source": "Evangelje po Tomi, izreka 10"
   },
   {
-    "sr": "Mrtvi ne žive, a živi neće umrijeti.",
+    "_id": 734,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 11",
+    "ocs": "Мрьтви не живѫтъ, а живи не бѫдѫтъ оумьрѣли.",
+    "sr": "Mrtvi ne žive, a živi neće umrijeti.",
     "ms": "Mrtvi ne živut, a živi ne budut umreti.",
-    "_id": 734
+    "source": "Evangelje po Tomi, izreka 11"
   },
   {
     "sr": "U danima, kada bejaste jedno, postaste dvoje. \nAli sada, postavši dvoje, što ćete raditi?",
@@ -5124,10 +5126,10 @@
   {
     "_id": 738,
     "author": "Isus",
-    "sr": "Ja dam vam što oko ne vidjelo, \nuho ne slušalo, ruka ne taknula, \ni što nije niklo u srcu čovečjem.",
-    "ms": "Ja dam vam čto oko ne vidělo, \nuho ne slyšalo, ruka ne tknula, \ni čto ne vozniknulo v srdcu člověčjem.",
-    "source": "Evangelje po Tomi, izreka 17",
-    "wiki": ""
+    "ocs": "Азъ дамь вамъ еже ꙩко не видѣ, оухо не слꙑша, рѫка не тъкнѫ, и еже не никнѫ въ срьдьцоу чловѣка.",
+    "sr": "Ja dam vam što oko ne vide, uho ne ču, ruka ne taknu, i što ne niknu u srcu čoveka.",
+    "ms": "Ja dam vam iže oko ne vidě, uho ne slyša, ruka ne tknu, i že ne vozniknu v srdcu člověka.",
+    "source": "Evangelje po Tomi, izreka 17"
   },
   {
     "sr": "Učenici rekoše Ješui: Reci nam, kakav će biti naš kraj?\nJešua odgovori: Otkriste li već početak, da sada tražite kraj? Jer gde je početak, tu će biti kraj. Blaženi koji stojite na početku. Vi ćete poznati kraj i nećete okusiti smrt.",
@@ -5137,11 +5139,12 @@
     "_id": 739
   },
   {
-    "sr": "Blažen ko beše prije nego postade. \nAko postanete moji učenici \ni uslišite moje riječi, \novo će vas kamenje služiti.",
+    "_id": 740,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 19",
+    "ocs": "Блаженъ къто бѣ прѣжде даже ста. \nАште станете моимъ оученикомъ\nи оуслꙑшите глаголꙑ моѩ\nсе каменьѥ слоужитъ вамъ.",
+    "sr": "Blažen ko beše prije nego postade. \nAko postanete moji učenici \ni uslišite moje riječi, \novo će vas kamenje služiti.",
     "ms": "Blaženy koj běše prědže no stavaše. \nAko stanete moji učeniki \ni uslyšite moja slova, \novi kamenji budut služiti vas.",
-    "_id": 740
+    "source": "Evangelje po Tomi, izreka 19"
   },
   {
     "sr": "Njegovi učenici pitaše: \nKada ćeš nam se objaviti i kada ćemo te vidjeti?\nJešua odgovori: \nKada obnažite se bez srama, bacite odeću pod noge i izgazite je kao mala deca, tada ćete videti dete živoga i nećete se plašiti.",
@@ -5181,12 +5184,12 @@
     "_id": 745
   },
   {
-    "sr": "Ljubi brata kao svoju dušu. Čuvaj ga kao oko u glavi.",
+    "_id": 746,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 25",
+    "ocs": "Възлюбите брата ꙗко же и доушѫ своѭ. Храните го ꙗко и око въ главѣ.",
+    "sr": "Ljubi brata kao svoju dušu. Čuvaj ga kao oko u glavi.",
     "ms": "Ljubi brata kak svoju dušu. Čuvaj go kak oko v glavy.",
-    "wiki": "https://sh.wikipedia.org/wiki/Ljubi_bli%C5%BEnjeg_svog",
-    "_id": 746
+    "source": "Evangelje po Tomi, izreka 25"
   },
   {
     "_id": 747,
@@ -5197,11 +5200,12 @@
     "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta"
   },
   {
-    "sr": "Ja ću vas izabrati, jednoga od tisuću i dvoje od deset tisuća. I bićete kao jedan jedini.",
+    "_id": 748,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 23",
-    "ms": "Ja budu izbrati vas, jednogo od tyseč i dvoje od deset tyseč. I budete kak jedin jediny.",
-    "_id": 748
+    "ocs": "Азъ изберѫ вꙑ, единого отъ тꙑсѫщъ и дъвое отъ десѧть тꙑсѫщь. И бѫдете единъ единꙑи.",
+    "sr": "Ja ću vas izabrati, jednoga od tisuću i dvoje od deset tisuća. I bićete jedan jedini.",
+    "ms": "Ja izberu vas, jednogo od tyseč i dvoje od deset tyseč. I budete jedin jediny.",
+    "source": "Evangelje po Tomi, izreka 23"
   },
   {
     "sr": "Budite prolaznici.",
@@ -5219,11 +5223,12 @@
     "_id": 750
   },
   {
-    "sr": "Tko huli oca, biće oprošten. \nI tko huli sina, biće oprošten. \nNo, tko huli duh, neće biti oprošten, \nni na zemlji ni na nebu.",
+    "_id": 751,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 44",
+    "ocs": "Аще къто хоулитъ отьца, бѫдетъ отъпоущенъ.\nИ аще къто хоулитъ сꙑна, бѫдетъ отъпоущенъ.\nНъ аще къто хоулитъ доухъ, не бѫдетъ отъпоущенъ, \nни на земли ни на небеси.",
+    "sr": "Tko huli oca, biće oprošten. \nI tko huli sina, biće oprošten. \nNo, tko huli duh, neće biti oprošten, \nni na zemlji ni na nebu.",
     "ms": "Kto huli otca, bude praščany. \nI kto huli syna, bude praščany. \nNo, kto huli duh, ne bude praščany, \nni na zemji ni na nebu.",
-    "_id": 751
+    "source": "Evangelje po Tomi, izreka 44"
   },
   {
     "sr": "Od Adama do Johanana krstitelja, među rođenim od žene nema većeg od Johanana. Ali ja kažem: Tko od vas postane mališan, poznaće kraljevstvo i postati veći od Johanana.",
@@ -5254,11 +5259,12 @@
     "_id": 755
   },
   {
-    "sr": "Pitaše ga učenici:\nKada će mrtvi odpočinuti? Kada će doći novi svet?\nJešua odgovori:\nTo što ištete došlo je ali vi ne vidite.",
+    "_id": 756,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 51",
+    "ocs": "Въпрашахѫ и оученици его:\nКъгда мрьтви почиѭтъ? Къгда новꙑи миръ придетъ?\nОтъвѣща имъ Їисъ: \nЕже ищете пришъло нъ въи не видите.",
+    "sr": "Pitaše ga učenici:\nKada će mrtvi odpočinuti? Kada će doći novi svet?\nJešua odgovori:\nTo što ištete došlo je ali vi ne vidite.",
     "ms": "Pytaše go učeniki:\nKogda mrtvi odpočnut? Kogda novy svět dojde?\nJešua odgovori:\nTo čto iščete došlo ale vy ne věte.",
-    "_id": 756
+    "source": "Evangelje po Tomi, izreka 51"
   },
   {
     "sr": "Rekoše mu učenici:\nDvadeset i četiri proroka govoriše u Izraelu i svi govoriše o tebi.\nJešua odgovori:\nVi zanemariste živoga među vama i govoriste o mrtvima.",
@@ -5276,26 +5282,28 @@
     "wiki": ""
   },
   {
+    "_id": 759,
+    "author": "Isus",
+    "ocs": "Иже не ненавидитъ отьца лі матерь, не можетъ бꙑти моимь оученикомь. И иже не ненавидитъ братриꙗ своꙗ и сестрꙑ своѩ, и не възьметъ крьстъ свои ꙗко азъ есмь, нѣстъ мене достоинъ.",
     "sr": "Tko ne mrzi svoga oca i svoju majku, ne može biti mojim učenikom. A tko ne mrzi svoju braću i sestre, i ne uzme na sebe križ kao ja, nije mene dostojan.",
-    "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 55",
     "ms": "Kto ne nenavidi jego otca i matere, ne može byti mojim učenikom. I kto ne nenavidi jego brati i sestry, i ne vozme na sebe križ kako ja, nest mene dostojny.",
-    "wiki": "https://sh.wikipedia.org/wiki/Isusovi_istinski_srodnici",
-    "_id": 759
+    "source": "Evangelje po Tomi, izreka 55"
   },
   {
+    "_id": 760,
+    "author": "Isus",
+    "ocs": "Къто позна миръ отъкрꙑ троупъ. Иже отъкрꙑ троупъ, миръ нѣстъ его достоинъ.",
     "sr": "Tko pozna svijet, otkriva leš. A tko otkrije leš, svijet ga nije dostojan.",
-    "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 56",
     "ms": "Kto pozna svět, odkryva trup. A kto odkryje trup, svět go nest dostojny.",
-    "_id": 760
+    "source": "Evangelje po Tomi, izreka 56"
   },
   {
-    "sr": "Blaženi stradajući, oni su našli život.",
+    "_id": 761,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 58",
-    "ms": "Blaženi stradajuči, ibo ti život najdut.",
-    "_id": 761
+    "ocs": "Блажени страдаѭщии ꙗко ти живот обрѣташѧ.",
+    "sr": "Blaženi stradajući, oni nađoše život.",
+    "ms": "Blaženi stradajuči, oni najdehu život.",
+    "source": "Evangelje po Tomi, izreka 58"
   },
   {
     "_id": 762,
@@ -5343,22 +5351,25 @@
     "_id": 767
   },
   {
-    "sr": "Tko poznaje sve, ali sebe ne spozna, taj sve promaši.",
+    "_id": 768,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 67",
+    "ocs": "Аще къто позна вьсѣ, нъ себе не познаетъ, тъ вьсѣ погрѣши.",
+    "sr": "Tko poznaje sve, ali sebe ne spozna, taj sve promaši.",
     "ms": "Kto poznaje vse, ale sebe ne spozna, toj vse utrati.",
-    "_id": 768
+    "source": "Evangelje po Tomi, izreka 67"
   },
   {
-    "sr": "Blaženi gonjeni u svome srcu, \njer oni uistinu poznaju oca.",
+    "_id": 769,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 69",
+    "ocs": "Блажени гонѥни въ своѥмь срьдьцоу, \nꙗко ти въ истинѣ отьца познаѭтъ.",
+    "sr": "Blaženi gonjeni u svome srcu, \njer oni uistinu poznaju oca.",
     "ms": "Blaženi goneni v svojem srdcu, \nibo ti voistinu otca poznajut.",
-    "_id": 769
+    "source": "Evangelje po Tomi, izreka 69"
   },
   {
     "_id": 770,
     "author": "Isus",
+    "ocs": "Аще ли авиши еже вънѫтрьѫдоу тебѣ, то съпасетъ те. Аще ли не авиши еже вънѫтрьѫдоу тебѣ, то погоубитъ те.",
     "sr": "Ako ispoljiš to što je u tebi, spašće te to što ispoljiš. Ako ne ispoljiš to što je u tebi, uništiće te to što ostane neispoljeno.",
     "ms": "Projaviš li to čto vnutri tobě, to bude spasti te. Ne projaviš li to čto vnutri tobě, to bude usmrtiti te.",
     "source": "Evangelje po Tomi, izreka 70"
@@ -5373,10 +5384,10 @@
   {
     "_id": 772,
     "author": "Isus",
-    "sr": "Mnogi su okolo studenca, ali niko u studencu.",
-    "ms": "Mnogy okolo studenca, ale nikto v studencu.",
-    "source": "Evangelje po Tomi, izreka 74",
-    "wiki": ""
+    "ocs": "Мнози сѫтъ окрьстъ кладѧѕа нъ никъто въ кладѧѕоу.",
+    "sr": "Mnogi su okolo kladenca, ali niko u kladencu.",
+    "ms": "Mnogy okolo kladca, ale nikto v kladcu.",
+    "source": "Evangelje po Tomi, izreka 74"
   },
   {
     "sr": "Žetva je velika, no malo žetelaca. Molite gospoda da pošalje delatelje za žetvu.",
@@ -5416,11 +5427,12 @@
     "_id": 777
   },
   {
-    "sr": "Tražite blago nepropadno i trajno, \ngde moljac ne dolazi jesti ni crv ništiti.",
+    "_id": 778,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 76",
-    "ms": "Slědujte blago nepropadno i trajno, \nkde molj ne dojde jesti ni črv niščiti.",
-    "_id": 778
+    "ocs": "Ищѣте благa нетьлѣньнаꙗ и прѣбꙑвающа идеже моль не придетъ ѣсти ни чрьвь тьлити ·",
+    "sr": "Ištite blago nepropadno i trajno, gde moljac ne dolazi jesti ni crv ništiti.",
+    "ms": "Iščite blago nepropadno i trajno, kde molj ne dojde jesti ni črv niščiti.",
+    "source": "Evangelje po Tomi, izreka 76"
   },
   {
     "sr": "Ko je bogat neka vlada, \na ko ima moć neka je se odrekne.",
@@ -5430,18 +5442,20 @@
     "_id": 779
   },
   {
-    "sr": "Tko je blizu mene, blizu je vatre. \nA tko je daleko od mene, daleko je od carstva.",
+    "_id": 780,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 82",
+    "ocs": "Вьсѣкъ близъ мене близъ естъ огни,\nа иже далече отъ мене далече естъ отъ ц꙯рствиа.",
+    "sr": "Tko je blizu mene, blizu je vatre. \nA tko je daleko od mene, daleko je od carstva.",
     "ms": "Kto blizko mene, blizko ognju. \nA kto daleko od mene, daleko od kraljevstva.",
-    "_id": 780
+    "source": "Evangelje po Tomi, izreka 82"
   },
   {
-    "sr": "Slike su vidljive čovjeku, \nali svjetlo u njima je sakriveno.",
+    "_id": 781,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 83",
+    "ocs": "Образи сѫтъ видоми чловѣкоу, \nобаче свѣтъ вънѫтрь таинъ ест.",
+    "sr": "Slike su vidljive čovjeku, \nali svjetlo u njima je sakriveno.",
     "ms": "Obrazy sut vidimy člověku, \nale světlo vnutri skryto jest.",
-    "_id": 781
+    "source": "Evangelje po Tomi, izreka 83"
   },
   {
     "sr": "Kada vidite svoj izgled radujete se. No, kada vidite vaš obraz postojeći pre vas, koji ne umire ni javlja se, kako ćete to podneti?",
@@ -5473,11 +5487,12 @@
     "_id": 785
   },
   {
-    "sr": "Priđite k meni, \njer je moj jaram lagan \ni moja vlast blaga \ni vi ćete naći mir.",
+    "_id": 786,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 90",
+    "ocs": "Прідѣте кь мнѣ \nибо иго мое льгъко\nи моꙗ власть блага\nи обрѧщете покои.",
+    "sr": "Priđite k meni, \njer je moj jaram lagan \ni moja vlast blaga \ni vi ćete naći mir.",
     "ms": "Prijdite k mně, \nibo igo moje legko \ni moja vlast blaga \ni vy najdete mir.",
-    "_id": 786
+    "source": "Evangelje po Tomi, izreka 90"
   },
   {
     "_id": 787,
@@ -5558,11 +5573,12 @@
     "wiki": ""
   },
   {
-    "sr": "Kada dvoje učinite jednim, \nbićete deca ljudska. \nI kada kažete gori pomeri se, \nona će se pomeriti.",
+    "_id": 797,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 106",
+    "ocs": "Къгда од дъва сътворите едино\nбѫдете дѣти чловѣчьски. \nИ речете горѣ сеи прѣиді отъ сьде тамо \nи прѣидетъ ·",
+    "sr": "Kada dvoje učinite jednim, \nbićete deca ljudska. \nI kada kažete gori pomeri se, \nona će se pomeriti.",
     "ms": "Kogda od dva stvorite jedno \nbudete děti ljudski. \nI kogda kažete gory prěměsti se, \ngora bude prěměstiti se.",
-    "_id": 797
+    "source": "Evangelje po Tomi, izreka 106"
   },
   {
     "sr": "Tko pije sa mojih usana, postaće kao ja, ja ću postati kao on i skriveno će biti otkriveno.",
@@ -5580,11 +5596,12 @@
     "wiki": "https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_skrivenom_blagu"
   },
   {
-    "sr": "Tko nađe sebe, svijet ga nije dostojan.",
+    "_id": 800,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 111",
+    "ocs": "Аще кьто обрѧщетъ себе миръ нѣстъ его достоинъ.",
+    "sr": "Tko nađe sebe, svijet ga nije dostojan.",
     "ms": "Kto najde sebe, svět go ne dostojny.",
-    "_id": 800
+    "source": "Evangelje po Tomi, izreka 111"
   },
   {
     "sr": "Jao tijelu, koje ovisi o duši. Jao duši, koja ovisi o tijelu.",
@@ -5838,12 +5855,12 @@
     "source": "Evangelje po Mateju 23:5-7; Evangelje po Marku 12:38-40; Evangelje po Luki 20:46-47"
   },
   {
+    "_id": 833,
     "author": "Isus",
+    "ocs": "Познаете ли себе, бѫдете познани\nи разоумѣте же есте чѧда живого отьца. \nНъ не познате ли себе, \nживете в бѣдѣ и вы есте бѣда.",
     "sr": "Poznate li sebe, bićete prepoznati \ni pojmićete da ste deca živoga oca. \nNo, ne poznate li sebe, \nživite u bedi i vi jeste beda.",
-    "ms": "Poznate li sebe, budete poznany \ni pojmite že jeste děti živogo otca. \nNo, ne poznate li sebe, \nživete v bědě i vy jeste běda.",
-    "source": "Evangelje po Tomi, izreka 3",
-    "wiki": "https://sh.wikipedia.org/wiki/Carstvo_Bo%C5%BEje_je_u_vama",
-    "_id": 833
+    "ms": "Poznate li sebe, budete poznani \ni pojmite že jeste děti živogo otca. \nNo, ne poznate li sebe, \nživete v bědě i vy jeste běda.",
+    "source": "Evangelje po Tomi, izreka 3"
   },
   {
     "_id": 835,
@@ -6211,7 +6228,7 @@
   {
     "_id": 881,
     "author": "Isus",
-    "ocs": "Етеръ показа емꙋ зьданиꙗ црькъвьнаꙗ · ꙗко камениемь добромь и съсѫдꙑ оукрашена сѫтъ · \nЇисъ рече · си ꙗже видите · не иматъ съде остати камень на камени иже не разоритъ сѧ ⁘",
+    "ocs": "Етеръ показа емꙋ зьданиꙗ црькъвьнаꙗ · ꙗко камениемь добромь и съсѫдꙑ оукрашена сѫтъ · \nЇисъ рече · си ꙗже видите · не иматъ сьде остати камень на камени иже не разоритъ сѧ ⁘",
     "sr": "Neko pokaza njemu zdanja crkvena, kako dragim kamenjem i darovima ukrašena su.\nJešu reče: Sve to što vidite, neće ostati kamen na kamenu, koji ne razori se.",
     "ms": "Někoj pokaže jemu zdanja crkovna, kako kamenjem dobrym i darami ukrašena sut.\nJešu rěče: Se že vidite, ne imaje sde ostati kamenj na kamenji, iže ne razori se.",
     "source": "Evangelje po Mateju 24:1-2; Evangelje po Luki 21:5-6; James Robson, Christ in Islam (A. 62.)"
@@ -6313,11 +6330,12 @@
     "_id": 894
   },
   {
+    "_id": 895,
     "author": "Isus",
+    "ocs": "Аще къто отъкрꙑетъ съмꙑслъ словеса си · съмръти не въкоуситъ ·",
     "sr": "Ko otkrije značenje ovih reči, neće okusiti smrt.",
     "ms": "Kto odkryje značenje sej slova, ne bude vkusiti smrt.",
-    "source": "Evangelje po Tomi, izreka 1",
-    "_id": 895
+    "source": "Evangelje po Tomi, izreka 1"
   },
   {
     "_id": 896,

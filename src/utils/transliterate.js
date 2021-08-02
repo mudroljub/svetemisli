@@ -23,7 +23,7 @@ const replacCyrDoubles = text => text
   .replace(/ОУ/g, 'u')
 
 const latCyrDict = {
-  А: 'А', а: 'а',
+  А: 'A', a: 'а',
   B: 'Б', b: 'б',
   C: 'Ц', c: 'ц',
   Č: 'Ч', č: 'ч',
@@ -57,7 +57,7 @@ const latCyrDict = {
 }
 
 const cyrLatDict = {
-  A: 'A', а: 'a',
+  A: 'А', а: 'a',
   Б: 'B', б: 'b',
   В: 'V', в: 'v',
   Г: 'G', г: 'g',

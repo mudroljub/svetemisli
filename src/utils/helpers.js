@@ -10,11 +10,12 @@ export function findValue(object, searchKey) {
   return value
 }
 
-const normalize = text => text
-  .replace(/y/g, 'i')
+const normalizeLat = text => text
+  .replace(/ou/g, 'u')
+  .replace(/ǫ/g, 'u')
   .replace(/ě/g, 'e')
   .replace(/ę/g, 'e')
-  .replace(/ǫ/g, 'u')
+  .replace(/y/g, 'i')
   .replace(/ǵ/g, 'g')
   .replace(/j/g, '')
   .replace(/ъ/g, '')
@@ -24,7 +25,7 @@ export const includes = (text, phrase = '') => {
   if (!text) return false
   const t = toLatinic(text.toLowerCase())
   const f = toLatinic(phrase.toLowerCase())
-  return t.includes(f) || normalize(t).includes(normalize(f))
+  return t.includes(f) || normalizeLat(t).includes(normalizeLat(f))
 }
 
 export const isInText = (text, phrase) => phrase ? includes(text, phrase) : true

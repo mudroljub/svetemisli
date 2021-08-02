@@ -28,7 +28,6 @@ npm start
 https://github.com/jonnymwalker/Staroslavjanskij-Slovar
 https://github.com/martinsvoboda/nouns
 
-- буг: не ради отпу, мора отпоу за отъпоусти (дупло оу не конта као у)
 - стсл називи мудраца 
 - зацрвенети фразу претраге
 - prevesti ѵ 

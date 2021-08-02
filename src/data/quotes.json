@@ -5025,12 +5025,12 @@
     "source": "Evangelje po Luki, glava 17:20-21"
   },
   {
-    "sr": "Ako vam vaše vođe kažu: \ngle, carstvo je na nebu, \nptice će vas preteći. \nAko vam kažu: u moru je, \nribe će vas preteći. \nNo, carstvo je u vama i oko vas.",
+    "_id": 725,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 3",
-    "ms": "Ako vam vaši vodži kažut: \ngle, carstvo jest na nebu, \nptice budut prědhoditi vas. \nAko vam kažut: v morju jest, \nryby budut prědhoditi vas. \nNo, carstvo v vami i okolo vas.",
-    "wiki": "https://sh.wikipedia.org/wiki/Carstvo_Bo%C5%BEje_je_u_vama",
-    "_id": 725
+    "ocs": "Аще вꙑ ваши вожди рекѫтъ: \nсе, цѣсарьство естъ на небеси, \nпътицѧ прѣдътекѫтъ вꙑ. \nАще ли вꙑ рекѫтъ: въ мори естъ, \nрꙑбꙑ прѣдътекѫтъ вꙑ. \nИбо цѣсарьствие въ васъ и окрьстъ васъ естъ.",
+    "sr": "Ako vam vaše vođe kažu: \ngle, carstvo je na nebu, \nptice će vas preteći. \nAko vam kažu: u moru je, \nribe će vas preteći. \nJer carstvo je u vama i oko vas.",
+    "ms": "Ako vam vaši vodži kažut: \ngle, carstvo jest na nebu, \nptice budut prědhoditi vas. \nAko vam kažut: v morju jest, \nryby budut prědhoditi vas. \nIbo carstvo v vami i okolo vas jest.",
+    "source": "Evangelje po Tomi, izreka 3"
   },
   {
     "_id": 726,
@@ -5065,11 +5065,12 @@
     "source": "Evangelje po Tomi, izreka 4"
   },
   {
-    "sr": "Poznaj što ti je pred licem, i ono skriveno biće ti otkriveno.",
+    "_id": 730,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 5",
+    "ocs": "Познаи еже прѣдъ личесьмь твоимь и таино авитъ сѧ.",
+    "sr": "Poznaj što ti je pred licem, i ono skriveno biće ti otkriveno.",
     "ms": "Poznaj čto ti prěd licem, i ono skryto bude ti odkryto.",
-    "_id": 730
+    "source": "Evangelje po Tomi, izreka 5"
   },
   {
     "sr": "Učenici pitaše Ješuu: Želiš li da postimo? Kako treba moliti se? Treba li davati milostinju? Koje jelo jesti? \nJešua reče: Ne lažite i ne tvorite što mrzite.",
@@ -5177,11 +5178,12 @@
     "wiki": ""
   },
   {
-    "sr": "Ne suzdržite li se od svijeta, nećete naći kraljevstvo.",
+    "_id": 745,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 27",
-    "ms": "Ne udržate li se od světa, ne budete najdti kraljevstvo.",
-    "_id": 745
+    "ocs": "",
+    "sr": "Ne uzdržite li se od svijeta, nećete naći carstvo.",
+    "ms": "Ne udržate li se od světa, ne budete najdti carstvo.",
+    "source": "Evangelje po Tomi, izreka 27"
   },
   {
     "_id": 746,
@@ -5208,11 +5210,12 @@
     "source": "Evangelje po Tomi, izreka 23"
   },
   {
-    "sr": "Budite prolaznici.",
+    "_id": 749,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 42",
+    "ocs": "Бѫдѣте минѫщи.",
+    "sr": "Budite prolaznici.",
     "ms": "Budite minujuči.",
-    "_id": 749
+    "source": "Evangelje po Tomi, izreka 42"
   },
   {
     "sr": "Učenici ga pitaše:\nKo si ti da govoriš nam takva slova?\nJešua rěče:\nNe razumete li ko sam iz toga što vam govorim? Vi postaste podobni Judejcima. Oni ljube drvo, a mrze plod ili ljube plod a mrze drvo.",
@@ -5247,8 +5250,9 @@
   {
     "_id": 754,
     "author": "Isus",
-    "sr": "Blaženi vi osamljeni i izabrani, jer ćete naći carstvo. Vi ishodite iz njega i idete iznova tamo.",
-    "ms": "Blaženi vy samotni i izbrany, ibo carstvo najdete. Vy izhodite iz jego i idete iznova tam.",
+    "ocs": "Блажени единии и избьрании ꙗко вꙑ обрѧщете цѣсарьство.",
+    "sr": "Blaženi samotni i izabrani, jer vi ćete naći carstvo. Vi ishodite iz njega i idete iznova tamo.",
+    "ms": "Blaženi samotni i izbrani, ibo vy carstvo najdete. Vy izhodite iz jego i idete iznova tam.",
     "source": "Evangelje po Tomi, izreka 49"
   },
   {
@@ -5315,6 +5319,7 @@
   {
     "_id": 763,
     "author": "Isus",
+    "ocs": "Дъвое на единои постели лежите, единое же оумьретъ, дроугое живетъ.",
     "sr": "Dvoje na jednoj postelji leže, jedno će umrijeti, drugo živjeti.",
     "ms": "Dvoje na jednoj postelji ležet, jedno bude umreti, drugo žiti.",
     "source": "Evangelje po Tomi, izreka 61"
@@ -5322,10 +5327,10 @@
   {
     "_id": 764,
     "author": "Isus",
+    "ocs": "Азъ прихождѫ отъ него иже цѣлꙑи. \nМнѣ данꙑ вещи моего отьца. \nИ глаголѭ, \nиже цѣлꙑи бѫдетъ испльненъ свѣтомь, \nиже раздѣлѣны бѫдетъ пльнъ тьмѧ.",
     "sr": "Ja dolazim iz njega koji je celi. \nDane su mi stvari moga oca. \nI kažem, \nko je celi, biće ispunjen svetlom, \nko je podeljen, biće pun tame.",
     "ms": "Ja prihodžu iz jego iže cěly. \nMně dane věči mojego otca. \nI kažu, \nkto cěly, bude izpolneny světlom, \nkto razděljany, bude polny tmě.",
-    "source": "Evangelje po Tomi, izreka 61",
-    "wiki": ""
+    "source": "Evangelje po Tomi, izreka 61"
   },
   {
     "_id": 765,
@@ -5375,11 +5380,12 @@
     "source": "Evangelje po Tomi, izreka 70"
   },
   {
-    "sr": "Ja ću ovu kuću razoriti, i nitko je neće moći opet izgraditi.",
+    "_id": 771,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 71",
+    "ocs": "Азь сиѭ храминѫ разорѭ, и никъто не можетъ изнова съзьдати ѭ.",
+    "sr": "Ja ću ovu kuću razoriti, i nitko je neće moći opet izgraditi.",
     "ms": "Ja budu ovoj dom razoriti, da nikto ne može sozdati go opet.",
-    "_id": 771
+    "source": "Evangelje po Tomi, izreka 71"
   },
   {
     "_id": 772,
@@ -5414,10 +5420,10 @@
   {
     "_id": 776,
     "author": "Isus",
-    "sr": "Jesam svjetlost nad svim. Jesam sve. \nIz mene sve poteklo, i meni sve vraća se. \nRascijepite drvo, jesam tu. \nPodignite kamen, i nađete me tam.",
-    "ms": "Jesm světlost nad vsim. Jesm vse. \nIz mene vse potěkalo, i mně vse vrača se. \nRazščepite drěvo, jesm tu. \nVozdvignite kamenj, i najdete mene tam.",
-    "source": "Evangelje po Tomi, izreka 77",
-    "wiki": "https://sh.wikipedia.org/wiki/Svetlost_sveta"
+    "ocs": "Азъ есмь свѣтъ надъ вьсѣмь. Азь есмь вьсе.\nИзъ мене вьсе потече и мьнѣ вьсе възвратитъ сѧ.\nРасцѣпите дрѣво, азъ есмь ту.\nДвигните камꙑ, и наидете мѧ тамо.",
+    "sr": "Jesam svjetlost nad svim. Jesam sve. \nIz mene sve poteče, i meni sve vraća se. \nRascijepite drvo, jesam tu. \nPodignite kamen, i nađete me tam.",
+    "ms": "Jesm světlost nad vsim. Jesm vse. \nIz mene vse poteče, i mně vse vrača se. \nRazščepite drěvo, jesm tu. \nVozdvignite kamenj, i najdete mene tam.",
+    "source": "Evangelje po Tomi, izreka 77"
   },
   {
     "sr": "Vaši kraljevi i velikaši imaju meku odeću, ali ne mogu spoznati istinu.",
@@ -5551,10 +5557,10 @@
   {
     "_id": 794,
     "author": "Isus",
+    "ocs": "Иже не ненавидитъ отьца лі матерь ꙗко азъ, \nне можетъ бꙑти моимь оученикомь. \nИ иже не възлюбитъ отьца лі матерь ꙗко азъ,  \nне можетъ бꙑти моимь оученикомь. \nИбо моꙗ истиньна мати ми даде животъ.",
     "sr": "Tko ne mrzi oca i mati kao ja, \nne može biti moj učenik. \nI tko ne ljubi oca i mati kao ja, \nne može biti moj učenik. \nJer moja istinska mati dade mi život.",
     "ms": "Kto ne nenavidi otca i mati kak ja, \nne može biti moj učenik. \nI kto ne ljubi otca i mati kak ja, \nne može biti moj učenik. \nIbo moja istinna mati daše mi život.",
-    "source": "Evangelje po Tomi, izreka 101",
-    "wiki": "https://sh.wikipedia.org/wiki/Isusovi_istinski_srodnici"
+    "source": "Evangelje po Tomi, izreka 101"
   },
   {
     "sr": "Teško farisejima! \nOni su poput psa koji leži na jaslama. \nNiti sam jede, niti pušta goveda jesti.",
@@ -5613,10 +5619,10 @@
   {
     "_id": 802,
     "author": "Isus",
+    "ocs": "Въпрашахѫ и оученици его:\nКъгда настѫпитъ цѣсарьство?\nОтъвѣща имъ Їисъ: \nНе настѫпи ибо ожидаете. Никъто же не обꙗви, оузри ту естъ, ли оузри тамо естъ. Ибо цѣсарьство отьца распространꙗѥтъ сѧ по земли нъ людие не видѧтъ то.",
     "sr": "Učenici ga pitaše: \nKada će nastupiti carstvo?\nJešua odgovori: \nNeće nastupiti jer ga čekate. Niko neće obznaniti: Gle, tu je, ili gle, tamo je. Jer, carstvo oca rasprostire se po zemlji ali ljudi ga ne vide.",
     "ms": "Učeniki go pytahu:\nKogda bude nastupiti carstvo?\nJešua odgovori:\nNe bude nastupiti ibo čekajete go. Nikto ne bude oznaniti: Uzri, tu jest, ili uzri, tam jest. Ibo, carstvo otca razprostranja se po zemji ale ljudi ne videt go.",
-    "source": "Evangelje po Tomi, izreka 113",
-    "wiki": ""
+    "source": "Evangelje po Tomi, izreka 113"
   },
   {
     "_id": 803,

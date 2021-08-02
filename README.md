@@ -28,11 +28,10 @@ npm start
 https://github.com/jonnymwalker/Staroslavjanskij-Slovar
 https://github.com/martinsvoboda/nouns
 
-- нормализовати въи у вꙑ, дьва у дъва, цѣсарьствиѣ, цѣсарьствье у цѣсарьствие, азь у азъ, есмъ u есмь u prvom licu
-- стсл називи мудраца 
-- зацрвенети фразу претраге
 - буг: кејс сенситивна претрага, посебно третира А и а
   - не ради отпу, мора отпоу за отъпоусти (дупло оу не конта као у)
+- стсл називи мудраца 
+- зацрвенети фразу претраге
 - prevesti ѵ 
 - dodati o nama
   - Duhovna baština čovečanstva.

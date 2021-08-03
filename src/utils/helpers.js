@@ -72,7 +72,7 @@ export const createId = arr => {
 // get value from nested object
 export const get = (obj, lev1, lev2) => ((obj || {})[lev1] || {})[lev2]
 
-export const getName = (name, lang) => get(authors, name, 'common') || get(authors, name, lang) || name
+export const getName = (name, lang) => get(authors, name, lang) || get(authors, name, 'common') || name
 
 export const getSize = (src = '', size) => src.replace(/\d+px/, `${size}px`)
 

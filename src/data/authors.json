@@ -3,7 +3,7 @@
     "common": "Gandi"
   },
   "Pseudo-Dionisije Areopagit": {
-    "common": "Pseudo-Dionisij",
+    "common": "Psevdo-Dionisij",
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hosios_Loukas_%28diakonikon%2C_arch%29_-_Dionysius_Areopagite.jpg"
   },
   "Toma Akvinski": {
@@ -48,7 +48,7 @@
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Alan_Watts_painted_on_mural.jpg"
   },
   "Evanđelje po Filipu": {
-    "common": "Pseudo-Filip",
+    "common": "Psevdo-Filip",
     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Icon_of_Apostle_Philip_%2810th_c%2C_St._Catherine_monastery%2C_Sinai%29.jpg"
   },
   "Silvanovo učenje": {
@@ -154,7 +154,8 @@
   },
   "Isus": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Christus_Ravenna_Mosaic.jpg/40px-Christus_Ravenna_Mosaic.jpg",
-    "common": "Ješua"
+    "common": "Ješua",
+    "ocs": "Їисъ"
   },
   "Jiddu Krishnamurti": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jiddu_Krishnamurti_01.jpg/38px-Jiddu_Krishnamurti_01.jpg",

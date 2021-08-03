@@ -27,9 +27,7 @@ npm start
 
 https://github.com/jonnymwalker/Staroslavjanskij-Slovar
 https://github.com/martinsvoboda/nouns
-
-- стсл називи мудраца 
-- зацрвенети фразу претраге
+ 
 - prevesti ѵ 
 - dodati o nama
   - Duhovna baština čovečanstva.

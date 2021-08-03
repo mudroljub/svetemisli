@@ -6,10 +6,17 @@ import Router from './Router'
 import Footer from './header/Footer'
 import './app.css'
 
+const onEscape = e => {
+  if (e.key === 'Escape') window.history.back()
+}
+
 const App = () => {
   useEffect(() => {
     if ('serviceWorker' in navigator)
       navigator.serviceWorker.register('service-worker.js')
+
+    window.addEventListener('keyup', onEscape)
+    return () => window.removeEventListener('keyup', onEscape)
   }, [])
 
   return (

@@ -28,8 +28,6 @@ npm start
 https://github.com/jonnymwalker/Staroslavjanskij-Slovar
 https://github.com/martinsvoboda/nouns
  
-- prevesti ѵ 
-- dodati o nama
-  - Duhovna baština čovečanstva.
-- tagovi
 - ažurirati ms: 259
+- tagovi
+- prevesti ѵ -> ü? (као на вики)

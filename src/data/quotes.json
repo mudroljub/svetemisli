@@ -5441,11 +5441,12 @@
     "source": "Evangelje po Tomi, izreka 76"
   },
   {
-    "sr": "Ko je bogat neka vlada, \na ko ima moć neka je se odrekne.",
+    "_id": 779,
     "author": "Isus",
-    "source": "Evangelje po Tomi, izreka 81",
+    "ocs": "Аще къто богатъ естъ, да владеетъ.\nАще къто емлѥтъ власть, да отъречетъ сѧ.",
+    "sr": "Ko je bogat neka vlada, \na ko ima moć neka je se odrekne.",
     "ms": "Kto bogaty nehaj vlada, \na kto imaje moč nehaj odrěče se.",
-    "_id": 779
+    "source": "Evangelje po Tomi, izreka 81"
   },
   {
     "_id": 780,

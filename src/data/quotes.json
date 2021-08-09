@@ -1675,11 +1675,12 @@
     "_id": 241
   },
   {
+    "_id": 242,
     "author": "Muhamed",
+    "ocs": "Бог съмилитъ сѧ милостивꙑимъ.",
     "sr": "Bog se smiluje milostivima.",
     "ms": "Bog se smiluje milostivym.",
-    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
-    "_id": 242
+    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991."
   },
   {
     "author": "Muhamed",
@@ -1864,11 +1865,12 @@
     "_id": 268
   },
   {
+    "_id": 269,
     "author": "Muhamed",
+    "ocs": "Стꙑдъ едино добро донесетъ.",
     "sr": "Stid samo dobro donosi.",
     "ms": "Styd samo dobro donosi.",
-    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
-    "_id": 269
+    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991."
   },
   {
     "sr": "Ko ima četiri osobine, ne može nazadovati i na pragu je oslobođenja. To su: savršenost u vrlini, stražarenje na vratima čula, umerenost u jelu i predanost sabranosti.",
@@ -2018,7 +2020,8 @@
   {
     "_id": 291,
     "author": "Gautama Buddha",
-    "sr": "Ja sam među tima koji uvek dobro spavaju.",
+    "ocs": "",
+    "sr": "Ja sam među onima koji uvek dobro spavaju.",
     "ms": "Ja jesm medžu tymi ktori vsegda dobro spet.",
     "source": "anguttara/an03-035"
   },
@@ -2357,11 +2360,12 @@
     "_id": 338
   },
   {
+    "_id": 339,
     "author": "Muhamed",
-    "sr": "Ne zabranjujte sluškinjama Božijim hramove Božije!",
+    "ocs": "",
+    "sr": "Ne zabranjujte sluškinjama božjim hramove božje!",
     "ms": "Ne zabranjajte rabynjam božjim hramov božje!",
-    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991.",
-    "_id": 339
+    "source": "Ahmed Mehmedović, Tako je govorio Muhammed, Tuzla, 1991."
   },
   {
     "_id": 340,
@@ -3264,11 +3268,12 @@
     "_id": 467
   },
   {
-    "sr": "Ko na velikom putu života ne nađe boljeg ili sebi ravnog, neka bezbrižno putuje sam.",
+    "_id": 470,
     "author": "Gautama Buddha",
-    "ms": "Kto na velikom putu života ne najde lučšego ili sobě ravnogo, nehaj spokojno putuje sam.",
-    "source": "",
-    "_id": 470
+    "ocs": "Аще ли къто на пѫти живота не обрѧщетъ лоучьшего ли равьного себе, да покоино идетъ самъ.",
+    "sr": "Ko na putu života ne nađe boljeg ili sebi ravnog, neka bezbrižno putuje sam.",
+    "ms": "Kto na putu života ne najde lučšego ili sobě ravnogo, nehaj spokojno putuje sam.",
+    "source": ""
   },
   {
     "author": "Gautama Buddha",
@@ -4275,11 +4280,12 @@
     "source": "Evangelje po Marku, glava 13:31"
   },
   {
-    "sr": "Kada požude nestane, dolazi radost.",
+    "_id": 617,
     "author": "Gautama Buddha",
+    "ocs": "Къгда похоть ищезнeтъ, придетъ радость.",
+    "sr": "Kada požude nestane, dolazi radost.",
     "ms": "Kogda pohota prěstane, nastupa radost.",
-    "source": null,
-    "_id": 617
+    "source": ""
   },
   {
     "_id": 618,
@@ -4536,6 +4542,7 @@
   {
     "_id": 654,
     "author": "Gautama Buddha",
+    "ocs": "Къгда чловѣкъ оузритъ свои умъ праздьнъ отъ лакомости, ненависти и невѣдьства, авитъ сѧ велии доуховьнъ миръ.",
     "sr": "Kada čovek pogleda svoj um, oslobođen pohlepe, mržnje i neznanja, javlja se najveći duhovni mir.",
     "ms": "Kogda člověk posmotri svoj um, osvobodženy lakomstva, nenavisti i nevěděnja, javja se največši duhovny mir.",
     "source": "Samyutta nikaya XXXVI.31: Niramisa sutta"
@@ -4910,11 +4917,12 @@
     "source": "anguttara/an04-077"
   },
   {
-    "sr": "Koren svih pojava jeste želja.",
+    "_id": 709,
     "author": "Gautama Buddha",
-    "source": "anguttara/an10-058",
+    "ocs": "Корень вьсѣхъ авлѥниꙗ желание естъ.",
+    "sr": "Koren svih pojava jeste želja.",
     "ms": "Korenj vsih javjenja želanje.",
-    "_id": 709
+    "source": "anguttara/an10-058"
   },
   {
     "sr": "Za dostignuće istine osobito je važan podvig. Ne izvršiš li podvig, nećeš dostići istinu. Kako se trudiš, tako dostižeš istinu.",
@@ -9030,11 +9038,12 @@
     "_id": 1306
   },
   {
+    "_id": 1307,
     "author": "Muhamed",
+    "ocs": "Аще къто познаетъ себе, познаетъ и господа ·",
     "sr": "Ko poznaje sebe, poznaje i svojeg gospoda.",
     "ms": "Kto poznaje sebe, poznaje i svojego gospoda.",
-    "source": "Ibn Arabi, Ko samog sebe poznaje, Beograd 2005.",
-    "_id": 1307
+    "source": "Ibn Arabi, Ko samog sebe poznaje, Beograd 2005."
   },
   {
     "_id": 1308,
